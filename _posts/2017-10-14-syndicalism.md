@@ -2,6 +2,8 @@
 title: Introduction to Syndicalism
 ---
 
+# Introduction to Syndicalism
+
 *This post was published in [All That Is Left](https://atil.xyz)
 [Issue 001](https://atil.xyz/issue/001) as
 ["Syndicalism."](https://atil.xyz/issue/001/syndicalism)*
