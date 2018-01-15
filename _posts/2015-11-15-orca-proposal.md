@@ -9,6 +9,8 @@ Undergraduate Research, Scholarly and Creative Activity (URSCA) department as
 part of applying for an Undergraduate Stipends and Expenses (USE) Grant. The
 grant was rewarded.*
 
+![ORCA](https://trew.moe/assets/img/orca/olf.png)
+
 ## Introduction
 
 The goal of this project is to compete in the NASA Midwest High Powered Rocket
