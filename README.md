@@ -27,6 +27,7 @@ cetera.
 
 2016:
 - [The feasibility of spontaneously morphing into an octopus](2016/02/05/octopodes)
+- [UWRF ACM Student Chapter Bylaws](2016/02/24/acm-bylaws)
 - [Calculating Heat Efficiency on Campus Using Infrared Imaging](2016/03/12/cheocuii)
 - [Playing an FPS on a Drawing Tablet](2016/11/19/fps-drawing-tablet)
 
