@@ -19,6 +19,7 @@ cetera.
 - [UWRF SPS Visits 3M Super Science Saturday](2015/10/08/sps-at-3m)
 - [Office chair provides fun, convenience, comfort](2015/10/29/chair)
 - [ORCA National High Power Rocketry Competition Project Proposal](2015/11/15/orca-proposal)
+- [Calculating Heat Efficiency on Campus Using Infrared Imaging Project Proposal](2015/11/16/cheocuii-proposal)
 - [General Relativity's Astronomical Effects](2015/11/18/einstein)
 - [A student’s guide to pencils](2015/12/02/pencils)
 
