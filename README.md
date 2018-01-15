@@ -17,6 +17,14 @@ While a sentiment of anti-authoritarianism born of a distaste for corporatism
 and other modern manifestations of centralized capitalist governments lends
 itself quite cleanly to the ideas of anarchism, what is not immediately clear...
 
+## [Opposite Jurassic Park (Scene 7)](https://anarchy.website/2017/02/05/opj-scene-7)
+
+**Feb. 05, 2017, [Opposite Jurassic
+Park](https://www.docdroid.net/tm2dnu4/opposite-jurassic-park.pdf)**
+`INT: SOME BUNKER, This is a very dimly lit bunker, something like you see in
+movies with war rooms and stuff, there is a flashing red light in the
+background. Aside from the light and a telephone sitting on a desk in the...`
+
 ## [Playing an FPS on a Drawing Tablet](https://anarchy.website/2016/11/19/fps-drawing-tablet)
 
 **Nov. 19, 2016**
