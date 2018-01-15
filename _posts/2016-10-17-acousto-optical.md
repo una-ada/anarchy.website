@@ -66,6 +66,7 @@ To ensure that the deflector follows this condition, the Klein-Cook Parameter
 can be substituted into the condition for the Bragg Regime:
 
 $$\frac{2\pi\lambda_0L}{n_0\Lambda^2}\gg1,\tag{5a}$$
+
 $$2\pi\lambda_0L\gg n_0\Lambda^2,\tag{5b}$$
 
 which can be further simplified based on a few assumptions: using a common red
@@ -119,7 +120,9 @@ produce the desired acousto-optic effect. As such a
 requirements, updating the Klein-Cook parameter in Eq. 6 to:
 
 $$\frac{0.005\cdot2\pi}{3.570\cdot10^6}m^2\gg\Lambda^2,\tag{10a}$$
+
 $$\Lambda^2\ll8.800\cdot10^{-9}m^2,\tag{10b}$$
+
 $$\Lambda\ll9.380\cdot10^{-5}m,\tag{10c}$$
 
 which can then be used to find a range of frequencies for the acoustic waves
@@ -127,7 +130,9 @@ needed to properly produce this effect. Given that the velocity of sound in
 paratellurium is $4260m/s$:
 
 $$f=\frac{v}\Lambda,\tag{11a}$$
+
 $$f\gg\frac{4260m/s}{9.380\cdot10^{-5}m},\tag{11b}$$
+
 $$f\gg 4.542\cdot10^7Hz,\tag{11c}$$
 
 as such a piezeo-electric transducer capable of producing acoustic waves with a
@@ -149,6 +154,8 @@ tendency to burn when heated, while the laser in this case may not have as much
 of a problem with this, it is best to avoid this situation as much as possible;
 metal is often very reflective, which could easily cause an incident with a
 laser, though sufficient coating may prevent this, again it is best to avoid.
+
+---
 
 <sup><a name="1">1</a></sup> H. Tanping, Y. Xiuying, Y. Dongmei, X. Hongji, 2010
 Int’l Conf. Comp., Mechatronics, Electrical Engineering, 156 (2010).
