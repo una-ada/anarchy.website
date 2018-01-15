@@ -65,8 +65,8 @@ $-\theta_B$ and the 1st order maximum at $\theta_B$ from the horizontal.
 To ensure that the deflector follows this condition, the Klein-Cook Parameter
 can be substituted into the condition for the Bragg Regime:
 
-$$\frac{2\pi\lambda_0L}{n_0\Lambda^2}\gg1,\tag5a$$
-$$2\pi\lambda_0L\gg n_0\Lambda^2,\tag5b$$
+$$\frac{2\pi\lambda_0L}{n_0\Lambda^2}\gg1,\tag{5a}$$
+$$2\pi\lambda_0L\gg n_0\Lambda^2,\tag{5b}$$
 
 which can be further simplified based on a few assumptions: using a common red
 HeNe laser<sup><a href="#4">4</a></sup> as the light source such that
