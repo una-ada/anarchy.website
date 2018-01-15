@@ -11,22 +11,26 @@ submit them to both the University of Wisconsin-River Falls Student Involvement
 department and the national Association for Computing Machinery for review were
 never undergone.*
 
-## ARTICLE I NAME AND DESCRIPTION
 
-### §1.1 NAME
+* toc
+{:toc}
+
+## ARTICLE I Name and Description
+
+### §1.1 Name
 
 The name of this organization shall be “The University of Wisconsin – River
 Falls Student Chapter of the Association for Computing Machinery,” abbreviated
 as “UWRF ACM.”
 
-### §1.2 MISSION STATEMENT
+### §1.2 Mission Statement
 
 The River Falls Student Chapter of the Association for Computing Machinery
 strives to enhance the educational and professional development of the students
 and community of the University of Wisconsin – River Falls, specifically in the
 area of computer information technology and related fields.
 
-### §1.3 ABOUT THE UWRF ACM
+### §1.3 About the UWRF ACM
 
 The UWRF ACM is a student-run organization. Involvement in the chapter is open
 to all River Falls community members and others with common interests in
@@ -34,14 +38,14 @@ computing topics. This chapter continues to be a source of extra-curricular
 enrichment for individuals interested in computing topics, so that they can
 share knowledge and experiences with one another.
 
-## ARTICLE II DUES
+## ARTICLE II Dues
 
-### §2.1 UWRF ACM DUES
+### §2.1 UWRF ACM Dues
 
 There are no dues associated with the UWRF ACM. Any person can join the UWRF ACM
 at no cost.
 
-### §2.2 NATIONAL ACM DUES
+### §2.2 National ACM Dues
 
 All members of the UWRF ACM are recognized as members of a Student Chapter of
 ACM. In order for any person to be recognized as a member of ACM proper, they
@@ -50,9 +54,9 @@ must pay the dues outlined by the ACM itself (see http://www.acm.org).
 The ACM requires that all officers of student chapter, such as the UWRF ACM, be
 members of ACM proper and pay the appropriate dues.
 
-## ARTICLE III OFFICERS
+## ARTICLE III Officers
 
-### §3.1 GENERAL INFORMATION
+### §3.1 General Information
 
 The officers of the UWRF ACM are responsible for the overall cohesiveness and
 operation of the organization. They are the official representatives of the UWRF
@@ -62,7 +66,7 @@ with the UWRF ACM’s faculty advisor, a Computer Science Department faculty
 member. All UWRF ACM officers are chosen by an annual election and serve in
 terms of one year.
 
-### §3.2 THE CHAIR POSITION AND RESPONSIBILITIES
+### §3.2 The Chair Position and Responsibilities
 
 The Chair (fka President) of the UWRF ACM leads the UWRF ACM on campus. The
 Chair must exercise leadership and serve as liaison between students, faculty,
@@ -83,7 +87,7 @@ The responsibilities of the UWRF ACM Chair include:
 7.	Revising the bylaws of the UWRF ACM with the members of the UWRF ACM a
     minimum of once per year.
 
-### §3.3 THE VICE CHAIR POSITION AND RESPONSIBILITIES
+### §3.3 The Vice Chair Position and Responsibilities
 
 The Vice Chair (fka Vice President) of the UWRF ACM works closely with the Chair
 to aid in leading the organization. The Vice Chair may assume the
@@ -92,7 +96,7 @@ responsibilities of the Chair when the Chair is absent.
 The responsibilities of the UWRF ACM Vice Chair include:
 1.	Presiding over weekly meetings in the absence of the Chair.
 
-### §3.4 THE SECRETARY POSITION AND RESPONSIBILITIES
+### §3.4 The Secretary Position and Responsibilities
 
 The Secretary of the UWRF ACM is responsible for all the records of the
 organization. The Secretary must be organized and able to plan ahead.
@@ -107,7 +111,7 @@ The responsibilities of the UWRF ACM Secretary include:
 5.	Distributing the minutes of each UWRF ACM meeting to all members of the UWRF
     ACM.
 
-### §3.5 THE TREASURER POSITION AND RESPONSIBILITIES
+### §3.5 The Treasurer Position and Responsibilities
 
 The Treasurer of the UWRF ACM is responsible for maintaining all financial
 records for the organization.
@@ -120,7 +124,8 @@ The responsibilities of the UWRF ACM treasurer include:
 3.	Paying all bills owed by the UWRF ACM promptly.
 4.	Communicating with the department secretary concerning financial matters.
 
-### §3.6 THE MEMBERSHIP OFFICER POSITION AND RESPONSIBILITIES
+### §3.6 The Membership Officer Position and Responsibilities
+
 The Membership Officer of the UWRF ACM is responsible for maintaining a database
 of all members’ and officers’ contact information and meeting attendance.
 
@@ -129,9 +134,9 @@ The responsibilities of the UWRF ACM Membership Officer include:
 2.	Communicating with the ACM proper about the membership of the UWRF ACM, as
     well as about the current officers of the UWRF ACM.
 
-## ARTICLE IV COMMITTEES
+## ARTICLE IV Committees
 
-### §4.1 GENERAL INFORMATION
+### §4.1 General Information
 
 Within the UWRF ACM there are several committees to aid in the operation of the
 chapter. Each committee is headed by a chair. The chair of each committee is
@@ -139,7 +144,7 @@ elected at the annual elections and serves in terms of one year. The chair of
 each committee is required to attend the regularly scheduled UWRF ACM officer
 meetings to update the officers about their respective committee.
 
-### §4.2 THE UWRF ACM LAB MANAGEMENT COMMITTEE
+### §4.2 The UWRF ACM Lab Management Committee
 
 The UWRF ACM Lab Management Committee is charged with maintaining the UWRF ACM’s
 lab in South Hall. This committee is headed by the Lab Manager; if nobody is
@@ -156,7 +161,8 @@ The responsibilities of this committee include:
 4.	Maintaining the cleanliness and organization of the lab.
 5.	Organizing the lab’s hours and tutoring services.
 
-### §4.3 THE UWRF ACM EVENTS COMMITTEE
+### §4.3 The UWRF ACM Events Committee
+
 The UWRF ACM Events Committee is charged with organizing and running any events
 to be sponsored by, or participated in by, the members of the UWRF ACM. This
 committee is headed by the Events Committee Chair; if nobody is elected to serve
@@ -177,7 +183,7 @@ The responsibilities of this committee include:
     2.	Coordinating the payment of any fees required by the event for the
         participation of UWRF ACM members.
 
-### §4.4 THE UWRF ACM COMMUNICATIONS COMMITTEE
+### §4.4 The UWRF ACM Communications Committee
 
 The UWRF ACM Communication Committee is charged with keeping all members of the
 UWRF ACM up to date on the activities of the chapter, as well as mediating
@@ -209,9 +215,9 @@ The responsibilities of the Webmaster include:
     OrgSync account updated to properly represent the current state of the
     chapter.
 
-## ARTICLE V OPERATING PROCEDURES
+## ARTICLE V Operating Procedures
 
-### §5.1 MEETINGS
+### §5.1 Meetings
 
 General member meetings for the UWRF ACM shall be held at an agreed time and
 interval that shall be voted upon during the first available week of the new
@@ -244,7 +250,7 @@ individual committee rather than the chapter. This is not required as each
 committees duties may be discussed and directed during the general member
 meetings.
 
-### §5.2 AGENDA
+### §5.2 Agenda
 
 The UWRF ACM officers are to communicate with each other to decide upon the
 topics of each officer meeting and general member meeting. Any officer or
@@ -255,7 +261,7 @@ before the meetings so that those attending may think ahead as to what they
 would like to say about the topics on the agenda, therefore leading to more
 effective use of the meeting time.
 
-### §5.3 EVENT PLANNING
+### §5.3 Event Planning
 
 Ultimately, the coordination of any event is left up to the discretion of the
 UWRF ACM officers. However, it is recommended that the following procedure be
@@ -285,7 +291,7 @@ available resources are able to be utilized.
     another sponsor.
 6.	After acquiring the funding for the event,
 
-### §5.4 EVENT OR MEETING CANCELATION
+### §5.4 Event or Meeting Cancelation
 
 In the situation that an event or meeting must be canceled, there must be
 notification sent to the officers by the sponsor of the event no later than
@@ -301,7 +307,7 @@ likely result in a significant drop in attendance (e.g. national emergencies or
 severe weather) or one that would lead to putting the attendees in danger (e.g.
 threats to the venue).
 
-### §5.5 MEMBER ETIQUETTE
+### §5.5 Member Etiquette
 
 All members represent the UWRF ACM and should act with appropriate behavior and
 respect on and off campus. All officers must demonstrate leadership and
@@ -309,9 +315,9 @@ willingness to better the chapter with reasonable means and judgement. The
 purpose of this organization is to engage students to expand their knowledge
 their knowledge of computer science and technology.
 
-## ARTICLE VI ELECTIONS
+## ARTICLE VI Elections
 
-### §6.1 GENERAL ELECTION INFORMATION
+### §6.1 General Election Information
 
 Elections for UWRF ACM officer and committee chair positions are to be held
 annually in April. Any UWRF student involved in the UWRF ACM is eligible to run
@@ -348,7 +354,7 @@ of the experienced officers for new, inexperienced ones. As such, it is not
 recommended that there be any term limits so long as the officer remains
 qualified and reelected for the position.
 
-### §6.2 ELECTION PROCEDURES
+### §6.2 Election Procedures
 
 Throughout the March preceding each April election (the beginning of the
 election process) ACM members shall nominate candidates for officer or committee
@@ -387,7 +393,7 @@ given their speeches for that position.
 All officers and committee chairs begin their official term at the beginning of
 the academic year following the election.
 
-### §6.3 RESIGNATION OF AN OFFICER OR COMMITTEE CHAIR
+### §6.3 Resignation of an Officer or Committee Chair
 
 Any UWRF ACM officer or Committee Chair may resign from their position should
 they deem it necessary. In the case that an officer or committee chair decides
@@ -410,7 +416,7 @@ Self-nominations are acceptable.
 A special election shall then be held at the following general member meeting to
 elect a replacement officer or committee chair.
 
-### §6.4 REMOVAL OF AN OFFICER OR COMMITTEE CHAIR
+### §6.4 Removal of an Officer of Committee Chair
 
 Any UWRF ACM officer or committee chair may be removed from their position if it
 is deemed necessary by the majority of the UWRF ACM members. In the case that a
@@ -441,7 +447,7 @@ the ballot must meet the following format: “Do you believe [officer or committ
 chair’s name] is unfit to serve in the position ([position held]), and should
 therefore be removed?” and the available answers must be “yes” and “no.”
 
-### §6.5 SPECIAL ELECTIONS
+### §6.5 Special Elections
 
 The procedure during the meeting at which a special election is to take place is
 the exact same as that during the regular annual elections. All officers and
@@ -449,9 +455,9 @@ committee chairs elected during a special election begin their term immediately
 and end their term at the beginning of the academic year following the special
 election.
 
-## ARTICLE VII AMENDMENTS
+## ARTICLE VII Amendments
 
-### §7.1 AMENDMENT PROPOSAL
+### §7.1 Amendment Proposal
 
 Any current member of the UWRF ACM may propose an amendment to these bylaws. The
 proposal must be submitted in writing to all of the UWRF ACM officers. The UWRF
@@ -461,7 +467,7 @@ that the amendment should be voted on, the vote shall be added to the agenda of
 the next officer meeting and the written amendment shall be made publicly
 available for all members to review.
 
-### §7.2 VOTING ON AMENDMENTS
+### §7.2 Voting on Amendments
 
 If the UWRF ACM officers decide to vote on a proposed amendment, a vote may take
 place at a regularly scheduled officer meeting. Only officers may vote on
