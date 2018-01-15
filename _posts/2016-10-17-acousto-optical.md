@@ -104,3 +104,70 @@ This would suggest that a function for $\theta_B$ with respect to $\Lambda$
 would be a more beneficial form:
 
 $$\theta_B=\arcsin\left(-\frac{1}{2b\Lambda}\right).\tag9$$
+
+## Methodology
+
+To build the deflector for a wavelength of $632.8nm$, a laser of said frequency
+is necessary in order to assure proper construction and tuning.
+
+The deflector itself requires a tellurium dioxide crystal, as that is material
+around which the calculations were done in the previous section; the size of the
+crystal should be small enough to make the entire device wieldy but not too
+small as to require extremely high frequency (low wavelength) acoustic waves to
+produce the desired acousto-optic effect. As such a
+10x9x5mm<sup><a href="#7">7</a></sup> crystal should sufficiently meet these
+requirements, updating the Klein-Cook parameter in Eq. 6 to:
+
+$$\frac{0.005\cdot2\pi}{3.570\cdot10^6}m^2\gg\Lambda^2,\tag{10a}$$
+$$\Lambda^2\ll8.800\cdot10^{-9}m^2,\tag{10b}$$
+$$\Lambda\ll9.380\cdot10^{-5}m,\tag{10c}$$
+
+which can then be used to find a range of frequencies for the acoustic waves
+needed to properly produce this effect. Given that the velocity of sound in
+paratellurium is $4260m/s$:
+
+$$f=\frac{v}\Lambda,\tag{11a}$$
+$$f\gg\frac{4260m/s}{9.380\cdot10^{-5}m},\tag{11b}$$
+$$f\gg 4.542\cdot10^7Hz,\tag{11c}$$
+
+as such a piezeo-electric transducer capable of producing acoustic waves with a
+frequency on the order of 10 MHz would be necessary. The dimensions of this
+transducer should also match the dimensions of the crystal, such that the
+transducer covers an area of at least 5x5mm on the bottom of the paratellurite.
+To prevent the acoustic waves within the crystal from reflecting of causing
+interference that may cause diffraction that deviates from the desired effect,
+some acoustic absorbing material of at least the same size as the transducer
+(5x5mm) needs to be placed on the opposing side of the crystal.
+
+Housing for the deflector could easily be made a variety of ways, given that the
+casing would be relatively simple yet small. Perhaps one of the more precise
+methods would be to 3D print the casing. If such a printer is available for use
+on this project, then the only further requirement to pursue this method would
+be to obtain the ABS plastic for the construction. Other methods, such as
+woodworking or cutting metal sheeting, present their own problems: wood has a
+tendency to burn when heated, while the laser in this case may not have as much
+of a problem with this, it is best to avoid this situation as much as possible;
+metal is often very reflective, which could easily cause an incident with a
+laser, though sufficient coating may prevent this, again it is best to avoid.
+
+<sup><a name="1">1</a></sup> H. Tanping, Y. Xiuying, Y. Dongmei, X. Hongji, 2010
+Int’l Conf. Comp., Mechatronics, Electrical Engineering, 156 (2010).
+
+<sup><a name="2">2</a></sup> Wwwf.Imperial.Ac.Uk (2013).
+
+<sup><a name="3">3</a></sup> Mt-Berlin.Com (Unpublished).
+
+<sup><a name="4">4</a></sup> Using a HeNe laser as the light source since it is
+the only laser with which I have experience. It is also worth noting that having
+a source with a predetermined polarization allows for a more complete
+understanding of the acousto-optic effect via experimentation, and the HeNe
+lasers kept in the UW-River Falls Phys. Dept. exhibit such properties.
+
+<sup><a name="5">5</a></sup> J. Appl. Phys. 43, 4489 (1972)
+
+<sup><a name="6">6</a></sup> Calculated using
+http://acoustooptics.phys.msu.su/dispersion.asp for paratellerium with an optic
+wavelength of 0.6328mkm.
+
+<sup><a name="7">7</a></sup> This size is based on the crystals available at
+http://www.unitedcrystals.com/TeO2.html .
