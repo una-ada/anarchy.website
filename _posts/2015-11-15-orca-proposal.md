@@ -4,12 +4,12 @@ title: ORCA National High Power Rocketry Competition Project Proposal
 
 # ORCA National High Power Rocketry Competition Project Proposal
 
+![ORCA](https://trew.moe/assets/img/orca/olfp.png)
+
 *This post was submitted to the University of Wisconsin-River Falls (UWRF)
 Undergraduate Research, Scholarly and Creative Activity (URSCA) department as
 part of applying for an Undergraduate Stipends and Expenses (USE) Grant. The
 grant was rewarded.*
-
-![ORCA](https://trew.moe/assets/img/orca/olf.png)
 
 ## Introduction
 
