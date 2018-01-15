@@ -34,8 +34,7 @@ and less risky to transport.
 heat efficiency.
 4. Write detailed documentation on file manipulation for the thermal imaging
 camera.
-5. Examine the quality difference between the ~$20,000 IR camera already owned
-and the $2200 camera.
+5. Examine the quality difference between the ~\$20,000 IR camera already owned and the \$2200 camera.
 
 ## Methods
 
