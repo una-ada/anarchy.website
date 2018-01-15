@@ -19,6 +19,7 @@ cetera.
 - [The Road](2015/10/06/the-road)
 - [UWRF SPS Visits 3M Super Science Saturday](2015/10/08/sps-at-3m)
 - [Office chair provides fun, convenience, comfort](2015/10/29/chair)
+- [SPS, Chem Demons Host Annual Haunted Lab](2015/11/01/haunted-lab)
 - [ORCA National High Power Rocketry Competition Project Proposal](2015/11/15/orca-proposal)
 - [Calculating Heat Efficiency on Campus Using Infrared Imaging Project Proposal](2015/11/16/cheocuii-proposal)
 - [General Relativity's Astronomical Effects](2015/11/18/einstein)
