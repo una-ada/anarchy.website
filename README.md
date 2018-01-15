@@ -26,4 +26,6 @@ cetera.
 2017:
 - [Opposite Jurassic Park (Scene 7)](https://anarchy.website/2017/02/05/opj-scene-7)
 - [The Muppets Yakuza (Scene 9)](https://anarchy.website/2017/03/05/my-scene-9)
+- [Sonic's Last Adventure (Scene 10)](https://anarchy.website/2017/04/02/sla-scene-10)
+- Thelma & Louise 2: Army of Darkness (Scene 10)
 - [Introduction to Syndicalism](https://anarchy.website/2017/10/14/syndicalism)
