@@ -17,6 +17,13 @@ While a sentiment of anti-authoritarianism born of a distaste for corporatism
 and other modern manifestations of centralized capitalist governments lends
 itself quite cleanly to the ideas of anarchism, what is not immediately clear...
 
+## [Playing an FPS on a Drawing Tablet](https://anarchy.website/2016/11/19/fps-drawing-tablet)
+
+**Nov. 19, 2016**
+Let’s say you have a drawing tablet for your computer, like, one with no screen
+and a pen. I don’t really care why or how you do, but let’s say you do. You can
+use it as a mouse, move the cursor around, click on things, takes a bit to...
+
 
 ## [The feasibility of spontaneously morphing into an octopus](https://anarchy.website/2016/02/05/octopodes)
 
