@@ -25,4 +25,5 @@ cetera.
 
 2017:
 - [Opposite Jurassic Park (Scene 7)](https://anarchy.website/2017/02/05/opj-scene-7)
+- [The Muppets Yakuza (Scene 9)](https://anarchy.website/2017/03/05/my-scene-9)
 - [Introduction to Syndicalism](https://anarchy.website/2017/10/14/syndicalism)
