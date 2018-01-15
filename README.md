@@ -14,6 +14,7 @@ cetera.
 2015:
 - [Demethylation](2015/03/02/demethylation)
 - [Sunny Day](2015/09/04/sunny-day)
+- [Nihilism on Aisle 7](2015/09/14/aisle-7)
 - [The Road](2015/10/06/the-road)
 - [UWRF SPS Visits 3M Super Science Saturday](2015/10/08/sps-at-3m)
 - [Office chair provides fun, convenience, comfort](2015/10/29/chair)
