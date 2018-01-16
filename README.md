@@ -20,17 +20,22 @@ cetera.
 - [UWRF SPS Visits 3M Super Science Saturday](2015/10/08/sps-at-3m)
 - [Office chair provides fun, convenience, comfort](2015/10/29/chair)
 - [SPS, Chem Demons Host Annual Haunted Lab](2015/11/01/haunted-lab)
-- [ORCA National High Power Rocketry Competition Project Proposal](2015/11/15/orca-proposal)
-- [Calculating Heat Efficiency on Campus Using Infrared Imaging Project Proposal](2015/11/16/cheocuii-proposal)
+- [ORCA National High Power Rocketry Competition Project
+    Proposal](2015/11/15/orca-proposal)
+- [Calculating Heat Efficiency on Campus Using Infrared Imaging Project
+    Proposal](2015/11/16/cheocuii-proposal)
 - [General Relativity's Astronomical Effects](2015/11/18/einstein)
 - [A student’s guide to pencils](2015/12/02/pencils)
 
 2016:
-- [The feasibility of spontaneously morphing into an octopus](2016/02/05/octopodes)
+- [The feasibility of spontaneously morphing into an
+    octopus](2016/02/05/octopodes)
 - [UWRF ACM Student Chapter Bylaws](2016/02/24/acm-bylaws)
-- [Calculating Heat Efficiency on Campus Using Infrared Imaging](2016/03/12/cheocuii)
+- [Calculating Heat Efficiency on Campus Using Infrared
+    Imaging](2016/03/12/cheocuii)
 - [Building an Acousto-Optical Deflector](2016/10/17/acousto-optical)
 - [Playing an FPS on a Drawing Tablet](2016/11/19/fps-drawing-tablet)
+- [phene.co CSS Styleguide](2016/12/20/css)
 
 2017:
 - [Opposite Jurassic Park (Scene 7)](2017/02/05/opj-scene-7)
