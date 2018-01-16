@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-<h1>Tag: {{ page.tag }}</h1>
-{% for post in site.tags[page.tag] %}
+<h1>Tag: </h1>
+{% for post in site.posts %}
     {% include preview.html post=post %}
 {% endfor %}
 
