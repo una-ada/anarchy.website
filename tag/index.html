@@ -1,0 +1,12 @@
+<!doctype html>
+<html>
+{% inclue head.html %}
+<body>
+    {% for post in site.posts %}
+        {% include preview.html post=post %}
+    {% endfor %}
+
+    <hr>
+    {% include archive.html %}
+</body>
+</html>
