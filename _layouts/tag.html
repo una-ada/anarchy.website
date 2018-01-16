@@ -11,10 +11,9 @@ layout: default
 {% include archive.html %}
 
 <script>
-document.addEventListener('load',function(){
+function handleTag(){
     document.getElementsByTagName('h1')[0].innerText = "Tag: " + location.hash;
-},false);
-document.addEventListener('hashchange',function(){
-
-},false);
+}
+window.addEventListener('load',handleTag,false);
+document.addEventListener('hashchange',handleTag,false);
 </script>
