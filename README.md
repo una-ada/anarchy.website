@@ -1,7 +1,7 @@
 # anarchy.website
 
 Welcome to anarchy.website, an archive of works written by Una J. Ada, a.k.a.
-Trewbot, f.k.a. Trevor J. Hoglund. Some topics of previous or upcoming works
+Trewbot. Some topics of previous or upcoming works
 include absurdism, accelerationism, anarchism, antifascism, blockchain,
 cryptography, decentralization, discrete mathematics, feminism, gender nihilism,
 machine learning, metaphysics, prefigurative politics, prison abolition, quantum
@@ -34,6 +34,7 @@ cetera.
 - [Calculating Heat Efficiency on Campus Using Infrared
     Imaging](2016/03/12/cheocuii)
 - [Building an Acousto-Optical Deflector](2016/10/17/acousto-optical)
+- [UWRF ACM Promo Video](2016/10/26/acm-promo)
 - [Playing an FPS on a Drawing Tablet](2016/11/19/fps-drawing-tablet)
 - [phene.co CSS Styleguide](2016/12/20/css)
 
