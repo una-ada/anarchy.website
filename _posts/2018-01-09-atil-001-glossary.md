@@ -1,8 +1,8 @@
 ---
+layout: post
 title: ATIL Issue 001 Glossary
+tags: atil glossary
 ---
-
-# ATIL Issue 001 Glossary
 
 *This post was published in [All That Is Left](https://atil.xyz)
 [Issue 001](https://atil.xyz/issue/001) as

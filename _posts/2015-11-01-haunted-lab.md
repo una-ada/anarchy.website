@@ -1,8 +1,8 @@
 ---
+layout: post
 title: SPS and Chem Demons Host Annual Haunted Lab
+tags: article journalism student-voice
 ---
-
-# SPS, Chem Demons Host Annual Haunted Lab
 
 *This post was published in [Student Voice](https://uwrfvoice.com) [Volume 102
 Issue 8](http://uwrfvoice.com/pdf/151106studentvoice.pdf) as "Physics lab gets

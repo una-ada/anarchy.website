@@ -1,8 +1,8 @@
 ---
+layout: post
 title: Introduction to Syndicalism
+tags: atil leftism syndicalism anarchism article
 ---
-
-# Introduction to Syndicalism
 
 *This post was published in [All That Is Left](https://atil.xyz)
 [Issue 001](https://atil.xyz/issue/001) as

@@ -1,8 +1,8 @@
 ---
+layout: post
 title: The feasibility of spontaneously morphing into an octopus
+tags: column student-voice
 ---
-
-# The feasibility of spontaneously morphing into an octopus
 
 *This post was published in [Student Voice](http://uwrfvoice.com) [Volume 102,
 Issue 13](http://uwrfvoice.com/pdf/160205studentvoice.pdf) as ["The process of

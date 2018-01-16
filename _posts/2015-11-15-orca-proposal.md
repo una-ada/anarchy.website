@@ -1,8 +1,8 @@
 ---
+layout: post
 title: ORCA National High Power Rocketry Competition Project Proposal
+tags: proposal research rocketry
 ---
-
-# ORCA National High Power Rocketry Competition Project Proposal
 
 ![ORCA](https://trew.moe/assets/img/orca/olfp.png)
 

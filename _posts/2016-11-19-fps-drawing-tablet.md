@@ -1,8 +1,8 @@
 ---
+layout: post
 title: Playing an FPS on a Drawing Tablet
+tags: column
 ---
-
-# Paying an FPS on a Drawing Tablet
 
 *This post was submitted to [Student Voice](https://uwrfvoice.com) but not
 published, for some reason.*

@@ -1,0 +1,15 @@
+<!doctype html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+{% include head.html %}
+<body>
+    <h1>{{ page.title }}</h1>
+    {{ content }}
+    <p>tags:
+        {% for tag in page.tags %}
+            {% capture tag_name %}{{ tag }}{% endcapture %}
+            <a href="/tag/{{ tag_name }}">{{ tag_name }}&nbsp;</a>
+        {% endfor %}
+    </p>
+    <script>twemoji.parse(document.body)</script>
+</body>
+</html>

@@ -1,8 +1,8 @@
 ---
+layout: post
 title: UWRF ACM Student Chapter Bylaws
+tags: bylaws acm organization
 ---
-
-# UWRF ACM Student Chapter Bylaws
 
 *This post was passed as a complete overhaul of the previous UWRF ACM Student
 Chapter Bylaws to fix numerous issues with the operation of the organization.

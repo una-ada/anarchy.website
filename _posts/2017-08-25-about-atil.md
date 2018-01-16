@@ -1,8 +1,8 @@
 ---
+layout: post
 title: About All That Is Left
+tags: organization atil
 ---
-
-# About All That Is Left
 
 *This post is published on the [All That Is Left website](https://atil.xyz) and
 is subject to further review by the editorial team.*

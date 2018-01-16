@@ -1,8 +1,8 @@
 ---
+layout: post
 title: Demethylation
+tags: short-story fiction school
 ---
-
-# Demethylation
 
 *This post was written for a creative writing course, originally titled "I'm
 Just a Lawyer."*

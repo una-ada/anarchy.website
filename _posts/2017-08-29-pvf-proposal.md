@@ -1,8 +1,8 @@
 ---
+layout: post
 title: PVF Design Proposal
+tags: design proposal organization
 ---
-
-# PVF Design Proposal
 
 After much consideration of different manners of creating a design for the
 People's Virtual Front that would represent the intent of the project as a

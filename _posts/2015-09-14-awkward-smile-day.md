@@ -1,8 +1,8 @@
 ---
+layout: post
 title: Awkward Smile Day
+tags: short-story fiction
 ---
-
-# Awkward Smile Day
 
 I open the door and the bell rings. That familiar electronic bell that is really
 more of a beep but tradition says it’s a bell and there’s no arguing with
@@ -117,6 +117,6 @@ this is the end of my life as a free man.
 
 The sentences for such things can easily be several lives long, and the bails
 are unreasonable. I suppose I could make an appeal, but nobody would take my
-side. It’s all for the sake of community, even if she was only a damn cat. 
+side. It’s all for the sake of community, even if she was only a damn cat.
 
 Friday is awkward smile day.
