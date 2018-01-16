@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 <h1>Tag: </h1>
 {% for post in site.posts %}
     {% include preview.html post=post %}
@@ -8,3 +9,12 @@ layout: default
 
 <hr>
 {% include archive.html %}
+
+<script>
+document.addEventListener('load',function(){
+    document.getElementsByTagName('h1')[0].innerText = "Tag: " + location.hash;
+},false);
+document.addEventListener('hashchange',function(){
+
+},false);
+</script>
