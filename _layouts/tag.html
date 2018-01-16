@@ -12,7 +12,13 @@ layout: default
 
 <script>
 function handleTag(){
-    document.getElementsByTagName('h1')[0].innerText = "Tag: " + location.hash;
+    var tag = location.hash.split('#')[1],
+        pvs = document.getElementsByClassName('preview');
+    document.getElementsByTagName('h1')[0].innerText = "Tag: " + tag;
+    for(let i of pvs)
+        i.style.display = ~i.getAttribute('data-tags').indexOf(tag)
+                        ? ''
+                        : 'none';
 }
 window.addEventListener('load',handleTag,false);
 document.addEventListener('hashchange',handleTag,false);
