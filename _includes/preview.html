@@ -1,6 +1,12 @@
-<div class="summary">
+<div class="preview">
     <a href="{{ include.post.url }}"><h2>{{ post.title }}</h2></a>
     <p><a href="{{ include.post.url }}">
         {{ include.post.content | strip_html | truncatewords:75}}
     </a></p>
+    <p>tags:
+        {% for tag in post.tags %}
+            {% capture tag_name %}{{ tag }}{% endcapture %}
+            <a href="/tag/{{ tag_name }}">{{ tag_name }}&nbsp;</a>
+        {% endfor %}
+    </p>
 </div>
