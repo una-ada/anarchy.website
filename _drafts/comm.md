@@ -1,5 +1,7 @@
 ---
+layout: post
 title: Countering Commodification
+tags: article atil capital commodification markets
 ---
 
 # Countering Commodification
@@ -12,7 +14,36 @@ and even sociology as a whole. If we were to simply trade one item for another,
 it is arguable that the two parties doing said trading are agreeing on some
 value for each item in the trade. The value doesn't have to necessarily be given
 a number, just Person A views Item 1 to have the same value as Person B views
-Item 2 to have<sup>[1](#1)</sup>.
+Item 2 to have<sup>[1](#1)</sup>. Nonetheless, any person raised in a world that
+values mathematics as a necessary interpretation of all of reality will almost
+certainly attempt in some regard to define some mediating value in the
+aforementioned exchange. This may not necessarily be a negative trait, however,
+it is severely flawed in the assumption that it is the item itself that is given
+value by the two parties and not the exchange from the reference from of each
+individual party. In a market, it is the item being exchanged that is given some
+value, as it is not being exchanged for property of another party (thus making
+the exchange reliant on the value said party attributes to the party), but
+currency whose value is defined by some greater collective and infrastructure.
+This is, at its core, a compromise of the value the seller attributes to the
+item and the social institution of value that the market upholds; whereas, in a
+trade of property between two parties, each party is working to find a palatable
+medium of the value they attribute to their property and that which the other
+party attributes by way of exchanging it for property of the party that both
+parties hold equal value to from their respective perspectives. The buyer in a
+market is not putting up their property to be traded with your property, at
+least not in the immediate sense, and so there is no matching of attributed
+value. Primarily, the value for which an item is sold in a market is based on
+prediction, or "speculation," in this specific instance<sup>[2](#2)</sup>
+the seller must predict what price the sellers of items for which they would be
+otherwise willing to trade for the item offered by this seller would sell their
+items for in this same market. Of course, historically one could easily make the
+argument that this is all mere pragmatism, must the dairy farmer go each to the
+general store owner, the cobbler, the blacksmith, et cetera and bargain with
+each, offering up milk that could otherwise be sold for a shared currency that
+could then be used to buy items from each of the aforementioned sellers? No,
+especially not in the modern system of international markets, but still this
+system of commodification has many undesirable side effects that must be
+explored and countered.
 
 ...
 
@@ -27,7 +58,7 @@ treatment. More simply put, the rich may say themselves while everyone else is
 forced to do so. Certainly, most reading this have never been sold in a slave
 trade and so the previous example may be a bit out of their scope, but
 nonetheless the idea remains true in the day to day life of the average person
-today. 
+today.
 
 ---
 
@@ -47,3 +78,7 @@ attributes higher value to it. If the circumstances are changed slightly such
 that it is Person C who is attempting to trade Item 1 back to Person A for Item
 2, in such a case the argument could be made that Person A, having been willing
 to trade away Item 1 to begin with, has no interest in once again having Item 1.
+
+<sup><a name="2">2</a></sup> Speculation is also the source of value in other
+instances within a market system, such as stocks being bought and sold based on
+the assumed or predicted value of the company backing them.
