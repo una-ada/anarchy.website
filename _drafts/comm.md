@@ -4,8 +4,6 @@ title: Countering Commodification
 tags: article atil capital commodification markets
 ---
 
-# Countering Commodification
-
 Commodification, the alteration of any resources, products, ideas, et cetera so
 as to be sold in a market, is fundamentally anchored to the idea of attribution
 of value. In modern society, we have come to view mathematics as the basis for
@@ -19,10 +17,10 @@ values mathematics as a necessary interpretation of all of reality will almost
 certainly attempt in some regard to define some mediating value in the
 aforementioned exchange. This may not necessarily be a negative trait, however,
 it is severely flawed in the assumption that it is the item itself that is given
-value by the two parties and not the exchange from the reference from of each
+value by the two parties and not the exchange from the reference frame of each
 individual party. In a market, it is the item being exchanged that is given some
 value, as it is not being exchanged for property of another party (thus making
-the exchange reliant on the value said party attributes to the party), but
+the exchange reliant on the value said party attributes to the property), but
 currency whose value is defined by some greater collective and infrastructure.
 This is, at its core, a compromise of the value the seller attributes to the
 item and the social institution of value that the market upholds; whereas, in a
@@ -45,7 +43,10 @@ especially not in the modern system of international markets, but still this
 system of commodification has many undesirable side effects that must be
 explored and countered.
 
-...
+The extent of the problem with commodification cannot be grasped with the
+examples put forth above, such examples are built on the assumption of property,
+autonomy, control, access, ownership, and to an extent the universality of
+people's ability to compromise on value<sup>[3](#3)</sup>.
 
 In a system wherein a capitalist class, the "bourgeoisie" as they are often
 called, exists, this class may choose whether or not to themselves be
@@ -60,7 +61,7 @@ trade and so the previous example may be a bit out of their scope, but
 nonetheless the idea remains true in the day to day life of the average person
 today.
 
----
+## Footnotes
 
 <sup><a name="1">1</a></sup> Theoretically, if trades were made in such a system
 between three parties (Persons A, B, and C), where Person A trades Item 1 for
@@ -82,3 +83,5 @@ to trade away Item 1 to begin with, has no interest in once again having Item 1.
 <sup><a name="2">2</a></sup> Speculation is also the source of value in other
 instances within a market system, such as stocks being bought and sold based on
 the assumed or predicted value of the company backing them.
+
+<sup><a name="3">3</a></sup> ...
