@@ -8,4 +8,4 @@ machine learning, metaphysics, prefigurative politics, prison abolition, quantum
 electrodynamics, science fiction, self-theory, transhumanism, technogaianism, et
 cetera.
 
-[https://anarchy.website/archive](Click here for a list of works.)
+[Click here for a list of works.](https://anarchy.website/archive)
