@@ -6,7 +6,8 @@
     {{ content }}
     <br><br>
     <p>tags:
-        {% for tag in page.tags %}
+        {% assign sorttags = page.tags | sort %}
+        {% for tag in sorttags %}
             {% capture tag_name %}{{ tag }}{% endcapture %}
             <a href="/tag/#{{ tag_name }}">{{ tag_name }}</a>
         {% endfor %}
