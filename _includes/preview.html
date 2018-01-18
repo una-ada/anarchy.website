@@ -4,7 +4,7 @@
         {{ include.post.content | strip_html | truncatewords:75}}
     </p>
     <p>tags:
-        {% assign sorttags = site.tags | sort: 'title' %}
+        {% assign sorttags = site.tags | sort %}
         {% for tag in sorttags %}
             {% capture tag_name %}{{ tag }}{% endcapture %}
             <a href="/tag/#{{ tag_name }}">{{ tag_name }}</a>
