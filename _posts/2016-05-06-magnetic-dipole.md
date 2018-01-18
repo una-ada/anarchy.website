@@ -104,7 +104,7 @@ Coils:
 $$B=\left(\frac 45\right)^{3/2}\frac{\mu_0Ni}{R},\tag{10}$$
 
 where $x$ is the distance between the coils. Given the measurements taken for
-our system, this simplifies to $B=1.36\cdot i mT/A$.
+our system, this simplifies to $B=1.36\cdot i \cdot mT/A$.
 
 <br>
 

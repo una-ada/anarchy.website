@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Calculating Heat Efficiency on Campus Using Infrared Imaging Project Proposal
-tags: proposal research infrared-imaging
+tags: proposal research infrared-imaging physics
 ---
 
 *This post was submitted to the University of Wisconsin-River Falls (UWRF)

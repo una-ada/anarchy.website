@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Building an Acousto-Optical Deflector
-tags: research school proposal acoustics optics
+tags: research school proposal acoustics optics physics
 ---
 
 *This post was written as a project proposal but never submitted for funding.*
