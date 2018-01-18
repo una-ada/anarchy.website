@@ -1,0 +1,9 @@
+---
+layout: default
+---
+
+<h1>Archive</h1>
+
+{% for post in site.posts %}
+    {% include preview.html post=post %}
+{% endfor %}
