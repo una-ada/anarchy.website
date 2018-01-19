@@ -84,4 +84,4 @@ to trade away Item 1 to begin with, has no interest in once again having Item 1.
 instances within a market system, such as stocks being bought and sold based on
 the assumed or predicted value of the company backing them.
 
-<sup><a name="3">3</a></sup> ...
+<sup><a name="3">3</a></sup> ADD A NOTE OR SOMETHING HERE!!!
