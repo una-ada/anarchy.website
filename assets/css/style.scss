@@ -5,11 +5,12 @@
 
 /* Elements */
 a				{text-decoration:underline;color:#444;}
-body			{font-family:'Lora',serif;margin:1.5rem 1.5rem 50vh 1.5rem;width:610px;}
+body			{font-family:'Lora',serif;margin:1.5rem 1.5rem 0 1.5rem;padding-bottom:50vh;width:610px;}
 blockquote		{padding-left:10px;border-left:2px solid #444;margin:0;}
 blockquote p	{margin:0.5rem 0;}
 code        	{font-family:monospace;}
 div:target		{background:#eee;}
+footer			{background:#444;color:white;margin:4rem 0 -50vh 0;min-height:100vh;}
 h1,h2,h3,h4		{font-family:'Playfair Display','Lora',sans-serif;font-style:italic;text-transform:capitalize;}
 h1 a,h2 a,h3 a,h4 a{text-decoration:none;}
 h2          	{margin-top:3em;}
