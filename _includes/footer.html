@@ -9,14 +9,8 @@
             <a href="/tag/#{{ tag_name }}">{{ tag_name }}</a>
         {% endfor %}
     </p>
-    {% unless page.license %}
-        {% assign page.license = "BY-SA" %}
-    {% endunless %}
     {% if page.license == "ZERO"
-       or page.license contains "BY"
-       or page.license contains "NC"
-       or page.license contains "ND"
-       or page.license contains "SA" %}
+       or page.license contains "BY" %}
         <img src="/assets/img/cc.svg"
             style="margin-right:0.5rem;width:2.5rem;"/>
     {% endif %}
