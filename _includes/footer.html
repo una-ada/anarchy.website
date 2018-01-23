@@ -2,94 +2,132 @@
   -     https://help.github.com/articles/repository-metadata-on-github-pages/
   -->
 <footer>
-    {% if page.tags %}
-        <p>This post is tagged as:
-            {% assign sorttags = page.tags | sort %}
-            {% for tag in sorttags %}
-                {% capture tag_name %}{{ tag }}{% endcapture %}
-                <a href="/tag/#{{ tag_name }}">{{ tag_name }}</a>
-            {% endfor %}
-        </p>
-    {% endif %}
-    <center>
-    {% if page.license == "ZERO"
-       or page.license contains "BY" %}
-        <img src="/assets/img/cc.svg"
-            style="margin:0 0.25rem;width:2.5rem;"/>
-    {% endif %}
-    {% if page.license == "ZERO" %}
-        <img src="/assets/img/zero.svg"
-            style="margin:0 0.25rem;width:2.5rem;"/>
-    {% endif %}
-    {% if page.license contains "BY" %}
-        <img src="/assets/img/by.svg"
-            style="margin:0 0.25rem;width:2.5rem;"/>
-    {% endif %}
-    {% if page.license contains "NC" %}
-        <img src="/assets/img/nc.svg"
-            style="margin:0 0.25rem;width:2.5rem;"/>
-    {% endif %}
-    {% if page.license contains "ND" %}
-        <img src="/assets/img/nd.svg"
-            style="margin:0 0.25rem;width:2.5rem;"/>
-    {% endif %}
-    {% if page.license contains "SA" %}
-        <img src="/assets/img/sa.svg"
-            style="margin:0 0.25rem;width:2.5rem;"/>
-    {% endif %}
-    {% unless page.license %}
-        <img src="/assets/img/cc.svg"
-            style="margin:0 0.25rem;width:2.5rem;"/>
-        <img src="/assets/img/by.svg"
-            style="margin:0 0.25rem;width:2.5rem;"/>
-        <img src="/assets/img/sa.svg"
-            style="margin:0 0.25rem;width:2.5rem;"/>
-    {% endunless %}
-    </center>
-    {% unless page.license %}
-        <p>
-            Except where otherwise noted content on this site is licensed under
-            a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative
-            Commons Attribution-ShareAlike 4.0 International License</a>.
-    {% endunless %}
-    {% if page.license %}
-        <p>
-            page.title is licensed under...
-    {% endif %}
-        Permissions beyond the scope of this license may be available at
-        <a href="/permissions">{{site.url}}/permissions</a>.
+{% if page.tags %}
+    <p>This post is tagged as:
+        {% assign sorttags = page.tags | sort %}
+        {% for tag in sorttags %}
+            {% capture tag_name %}{{ tag }}{% endcapture %}
+            <a href="/tag/#{{ tag_name }}">{{ tag_name }}</a>
+        {% endfor %}
     </p>
+{% endif %}
+<a href=""><center>
+{% if page.license == "ZERO"
+   or page.license contains "BY" %}
+    <img src="/assets/img/cc.svg"
+        style="margin:0 0.25rem;width:2.5rem;"/>
+{% endif %}
+{% if page.license == "ZERO" %}
+    <img src="/assets/img/zero.svg"
+        style="margin:0 0.25rem;width:2.5rem;"/>
+{% endif %}
+{% if page.license contains "BY" %}
+    <img src="/assets/img/by.svg"
+        style="margin:0 0.25rem;width:2.5rem;"/>
+{% endif %}
+{% if page.license contains "NC" %}
+    <img src="/assets/img/nc.svg"
+        style="margin:0 0.25rem;width:2.5rem;"/>
+{% endif %}
+{% if page.license contains "ND" %}
+    <img src="/assets/img/nd.svg"
+        style="margin:0 0.25rem;width:2.5rem;"/>
+{% endif %}
+{% if page.license contains "SA" %}
+    <img src="/assets/img/sa.svg"
+        style="margin:0 0.25rem;width:2.5rem;"/>
+{% endif %}
+{% unless page.license %}
+    <img src="/assets/img/cc.svg"
+        style="margin:0 0.25rem;width:2.5rem;"/>
+    <img src="/assets/img/by.svg"
+        style="margin:0 0.25rem;width:2.5rem;"/>
+    <img src="/assets/img/sa.svg"
+        style="margin:0 0.25rem;width:2.5rem;"/>
+{% endunless %}
+</a></center>
+{% unless page.license %}
     <p>
-        CREATIVE COMMONS&reg;, CC, the CC logo, CC0, and all of the Creative
-        Commons license and public domain buttons and icons are
-        <a href="https://creativecommons.org/policies">trademarks</a> of
-        Creative Commons.
-    </p>
-    <p>
-        The code for this site is open source, licensed under the
-        <a href="{{ site.github.repository_url }}/blob/master/LICENSE">MIT
-        License</a> and available on <a href="https://github.com">GitHub</a> as
-        <a href="{{ site.github.repository_url }}">
-        {{ site.github.repository_nwo}}</a>. It is available "as is" without
-        warranty of any kind and with no liability held for the author. The MIT
-        License is a permissive free software license that allows for unlimited
-        rights to use, copy, modify, publish, distribute, or sell any works
-        licensed under it*.
-    </p>
-    <a href="https://github.com"><img src="/assets/img/github.svg"
-        style="float:left;margin:1rem 1rem 1rem 0;width:2.5rem;"/></a>
-    <p>
-        This site is hosted by <a href="https://github.io">GitHub Pages</a>, a
-        static site hosting service ran by
-        <a href="https://github.com">GitHub</a>. Themes, templates, and posts
-        are possible through <a href="https://jekyllrb.com/">Jekyll</a> a static
-        site generator built in <a href="https://www.ruby-lang.org/">Ruby</a>.
-    </p>
-    <p>
-        GITHUB&reg; and the GITHUB&reg; logo design are exclusive trademarks
-        registered in the United States by GitHub, Inc.
-    </p>
-    <p>
-        * This is not legal advice.
-    </p>
+        Except where otherwise noted content on this site is licensed under
+        a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative
+        Commons Attribution-ShareAlike 4.0 International License</a>. You may
+        share and/or modify this work so long as your usage meets the following
+        conditions: proper credit must be given to the original author in a way
+        that does not imply endorsement from the licensor, any modified version
+        of the work is distributed under the same license as the original, and a
+        link to the license must be provided.
+{% endunless %}
+{% if page.license %}
+    <p>&ldquo;{{page.title}}&rdquo;
+        {% if page.license == "ZERO" or page.license contains "BY" %}
+        is licensed under a
+        <a href="https://creativecommons.org/licenses/{{page.license}}/4.0/">
+            Creative Commons
+            {% if page.license contains "BY" %}Attribution{% endif %}
+            {% if page.license contains "NC" %}-NonCommercial{% endif %}
+            {% if page.license contains "ND" %}-NoDerivatives{% endif %}
+            {% if page.license contains "SA" %}-ShareAlike{% endif %}
+            4.0 International License
+        </a>.
+        You may share {% unless page.license constains "ND" %}and/or
+        modify{% endunless %} this work
+        {% if page.license == "ZERO" %} unconditionally.
+        {% else %}
+            so long as your usage meets the following conditions: proper credit
+            must be given to the original author in a way that does not imply
+            endorsement from the licensor,
+            {% if page.license constains "NC" %}
+                the work is not used for any commercial purposes,
+            {% endif}
+            {% if page.license contains "ND" %}
+                no modifications are done to the work,
+            {% else %}
+                there must be some indication if changes were made,
+            {% endif %}
+            {% if page.license contains "SA" %}
+                any modified version of the work is distributed under the same
+                license as the original,
+            {% endif %}
+            and a link to the license must be provided.
+        {% endif %}
+        {% endif %}
+{% endif %}
+    Permissions beyond the scope of this license may be available at
+    <a href="/permissions">{{site.url}}/permissions</a>.
+</p>
+<p>
+    CREATIVE COMMONS&reg;, CC, the CC logo, CC0, and all of the Creative
+    Commons license and public domain buttons and icons are
+    <a href="https://creativecommons.org/policies">trademarks</a> of
+    Creative Commons. License descriptions are based on those provided by
+    Creative Commons on their
+    <a href="https://creativecommons.org/licenses/">website</a>.
+</p>
+<p>
+    The code for this site is open source, licensed under the
+    <a href="{{ site.github.repository_url }}/blob/master/LICENSE">MIT
+    License</a> and available on <a href="https://github.com">GitHub</a> as
+    <a href="{{ site.github.repository_url }}">
+    {{ site.github.repository_nwo}}</a>. It is available "as is" without
+    warranty of any kind and with no liability held for the author. The MIT
+    License is a permissive free software license that allows for unlimited
+    rights to use, copy, modify, publish, distribute, or sell any works
+    licensed under it*.
+</p>
+<a href="https://github.com"><img src="/assets/img/github.svg"
+    style="float:left;margin:1rem 1rem 1rem 0;width:2.5rem;"/></a>
+<p>
+    This site is hosted by <a href="https://github.io">GitHub Pages</a>, a
+    static site hosting service ran by
+    <a href="https://github.com">GitHub</a>. Themes, templates, and posts
+    are possible through <a href="https://jekyllrb.com/">Jekyll</a> a static
+    site generator built in <a href="https://www.ruby-lang.org/">Ruby</a>.
+</p>
+<p>
+    GITHUB&reg; and the GITHUB&reg; logo design are exclusive trademarks
+    registered in the United States by GitHub, Inc.
+</p>
+<p>
+    * This is not legal advice.
+</p>
 </footer>
