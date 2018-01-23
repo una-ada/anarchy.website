@@ -1,5 +1,16 @@
+lang: en_US
+logo: /assets/img/aw.png
+plugins:
+  - jekyll-seo-tag
 repository: trewbot/anarchy.website
-title: anarchy.website
-url: https://anarchy.website/
-
+social:
+  name: Una J. Ada
+  links:
+    - https://github.com/trewbot
+    - https://twitter.com/unajada
+    - https://www.youtube.com/channel/UC4HsBGB0z0g77wVdrCssgIQ
 theme: jekyll-theme-minimal
+title: anarchy.website
+twitter:
+  username: unajada
+url: https://anarchy.website/
