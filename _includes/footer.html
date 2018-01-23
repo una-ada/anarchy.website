@@ -51,8 +51,14 @@
             Except where otherwise noted content on this site is licensed under
             a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative
             Commons Attribution-ShareAlike 4.0 International License</a>.
-        </p>
     {% endunless %}
+    {% if page.license %}
+        <p>
+            page.title is licensed under...
+    {% endif %}
+        Permissions beyond the scope of this license may be available at
+        <a href="/permissions">{{site.url}}/permissions</a>.
+    </p>
     <p>
         CREATIVE COMMONS&reg;, CC, the CC logo, CC0, and all of the Creative
         Commons license and public domain buttons and icons are
@@ -68,7 +74,7 @@
         warranty of any kind and with no liability held for the author. The MIT
         License is a permissive free software license that allows for unlimited
         rights to use, copy, modify, publish, distribute, or sell any works
-        licensed under it*. 
+        licensed under it*.
     </p>
     <a href="https://github.com"><img src="/assets/img/github.svg"
         style="float:left;margin:1rem 1rem 1rem 0;width:2.5rem;"/></a>
