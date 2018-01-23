@@ -4,14 +4,6 @@
 <body>
     <h1>{{ page.title }}</h1>
     {{ content }}
-    <br><br>
-    <p>tags:
-        {% assign sorttags = page.tags | sort %}
-        {% for tag in sorttags %}
-            {% capture tag_name %}{{ tag }}{% endcapture %}
-            <a href="/tag/#{{ tag_name }}">{{ tag_name }}</a>
-        {% endfor %}
-    </p>
     <script>twemoji.parse(document.body)</script>
     {% include footer.html %}
 </body>
