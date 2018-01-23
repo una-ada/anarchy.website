@@ -55,12 +55,10 @@
             license as the original, and a link to the license must be provided.
     {% endunless %}
     {% if page.license %}
-        <p>&ldquo;{{page.title}}&rdquo;
+        <p>&ldquo;{{page.title | default: site.github.repository_name}}&rdquo;
             {% if page.license == "ZERO" or page.license contains "BY" %}
                 is licensed under a
-                <a href="https://creativecommons.org/licenses/{{
-                    page.license
-                }}/4.0/">
+        <a href="https://creativecommons.org/licenses/{{page.license}}/4.0/">
                     Creative Commons
                     {% if page.license contains "BY" %}Attribution{% endif %}
                     {% if page.license contains "NC" %}-NonCommercial{% endif %}
