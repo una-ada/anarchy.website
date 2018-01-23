@@ -10,7 +10,8 @@ blockquote		{padding-left:10px;border-left:2px solid #444;margin:0;}
 blockquote p	{margin:0.5rem 0;}
 code        	{font-family:monospace;}
 div:target		{background:#eee;}
-footer			{background:#444;color:white;margin:4rem 0 -50vh 0;min-height:50vh;}
+footer			{background:#444;color:white;margin:4rem 0 -50vh 0;min-height:50vh;padding:1rem;}
+footer a		{color:white;}
 h1,h2,h3,h4		{font-family:'Playfair Display','Lora',sans-serif;font-style:italic;text-transform:capitalize;}
 h1 a,h2 a,h3 a,h4 a{text-decoration:none;}
 h2          	{margin-top:3em;}
