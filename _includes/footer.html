@@ -34,8 +34,7 @@
         <img src="/assets/img/sa.svg"
             style="margin-right:0.5rem;width:2.5rem;"/>
     {% endif %}
-    {% unless page.license == "ZERO"
-       or page.license contains "BY" %}
+    {% unless page.license %}
         <img src="/assets/img/cc.svg"
             style="margin-right:0.5rem;width:2.5rem;"/>
         <img src="/assets/img/by.svg"
