@@ -1,17 +1,49 @@
+<!--
+  -     https://help.github.com/articles/repository-metadata-on-github-pages/
+  -->
 <footer>
-
+    {% unless page.license %}
+        {% assign page.license = "BY-SA" %}
+    {% endunless %}
+    {% if page.license == "ZERO"
+       or page.license contains "BY"
+       or page.license contains "NC"
+       or page.license contains "ND"
+       or page.license contains "SA" %}
+        <img src="/assets/img/cc.svg" style="margin-right:1rem;width:2.5rem;"/>
+    {% endif %}
+    {% if page.license == "ZERO" %}
+        <img src="/assets/img/zero.svg" style="margin-right:1rem;width:2.5rem;"/>
+    {% endif %}
+    {% if page.license contains "BY" %}
+        <img src="/assets/img/by.svg" style="margin-right:1rem;width:2.5rem;"/>
+    {% endif %}
+    {% if page.license contains "NC" %}
+        <img src="/assets/img/nc.svg" style="margin-right:1rem;width:2.5rem;"/>
+    {% endif %}
+    {% if page.license contains "ND" %}
+        <img src="/assets/img/nd.svg" style="margin-right:1rem;width:2.5rem;"/>
+    {% endif %}
+    {% if page.license contains "SA" %}
+        <img src="/assets/img/sa.svg" style="margin-right:1rem;width:2.5rem;"/>
+    {% endif %}
     <p>
         The code for this site is open source, licensed under the
         <a href="{{ site.github.repository_url}}/LICENSE">
         {{ site.github.license.name }}</a> and available on
         <a href="https://github.com">GitHub</a> as
         <a href="{{ site.github.repository_url }}">
-        {{ site.github.repository_nwo}}</a>.
+        {{ site.github.repository_nwo}}</a>. The MIT License is a permissive
+        free software license that allows for usage, copies, modifications,
+        distribution, et cetera\*.
     </p>
     <img src="/assets/img/github.svg"
-        style="float:left;margin-right:1rem;width:32px;"/>
+        style="float:left;margin-right:1rem;width:2.5rem;"/>
     <p>
         GITHUB&reg; and the GITHUB&reg; logo design are exclusive trademarks
         registered in the United States by GitHub, Inc.
+    </p>
+    <p>
+        * This is not legal advice.
     </p>
 </footer>
