@@ -9,8 +9,7 @@
         </p>
     {% endif %}
     <a href=""><center>
-    {% if page.license == "ZERO"
-       or page.license contains "BY" %}
+    {% if page.license == "ZERO" or page.license contains "BY" %}
         <img src="/assets/img/cc.svg"
             style="margin:0 0.25rem;width:2.5rem;"/>
     {% endif %}
@@ -66,8 +65,11 @@
                     {% if page.license contains "SA" %}-ShareAlike{% endif %}
                     4.0 International License
                 </a>.
-                You may share {% unless page.license constains "ND" %}and/or
-                modify{% endunless %} this work
+                You may share
+                {% unless page.license constains "ND" %}
+                    and/or modify
+                {% endunless %}
+                this work
                 {% if page.license == "ZERO" %} unconditionally*.
                 {% else %}
                     so long as your usage meets the following conditions: proper
