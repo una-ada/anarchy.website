@@ -3,13 +3,14 @@
 
 @import 'vs.css';
 
-/* Elements */
+// Elements
 a				{text-decoration:underline;color:#444;}
 body			{font-family:'Lora',serif;margin:1.5rem 1.5rem 0 10rem;padding-bottom:50vh;width:610px;}
 blockquote		{padding-left:10px;border-left:2px solid #444;margin:0;}
 blockquote p	{margin:0.5rem 0;}
 code        	{font-family:monospace;}
 div:target		{background:#eee;}
+.emoji			{height:1rem;} // fore twemoji
 footer			{background:#444;color:white;margin:4rem 0 -50vh 0;min-height:50vh;padding:1rem;}
 footer a		{color:white;}
 h1,h2,h3,h4		{font-family:'Playfair Display','Lora',sans-serif;font-style:italic;text-transform:capitalize;}
@@ -31,27 +32,7 @@ thead			{font-family:'Playfair Display','Lora',sans-serif;font-weight:bold;}
 thead td		{padding-bottom:1rem;}
 tr:nth-child(even){background:#f0f0f0;}
 
-.emoji			{height:1rem;}
-.preview a		{text-decoration:none !important;}
-
-/* Button */
-.me				{bottom:1rem;max-width:150px;position:fixed;right:1rem;z-index:1000;}
-
-hist			{color:#4d8;}
-kw				{color:#36d;}
-proof			{color:#e44;}
-
-/* Prism */
-.token.comment,.token.prolog,.token.doctype,.token.cdata,.token.punctuation{color:#9E9E9E}
-.namespace{opacity:.7}
-.token.property,.token.tag,.token.boolean,.token.number,.token.constant,.token.symbol{color:#FFC107}
-.token.attr-name,.token.attr-value,.token.string,.token.char,.token.entity,.token.url,.language-css .token.string,.style .token.string,.token.variable,.token.inserted{color:#FF5722}
-.token.atrule,.token.attr-value,.token.keyword{color:#8BC34A}
-.token.regex,.token.important{color:#A1887F}
-.token.important{font-weight:bold}
-.token.entity{cursor:help}
-.language-markup .token.tag,.language-markup .token.attr-name,.language-markup .token.punctuation{color:#607D8B}
-
+// Mobile and print
 @media print, screen and (max-width: 750px) {
 	body.notes	{margin:0 1rem !important;padding:0 !important;position:static;width:auto !important;}
 	table		{max-width:100%;}
