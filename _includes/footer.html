@@ -95,14 +95,24 @@
         Permissions beyond the scope of this license may be available at
         <a href="/permissions">{{site.url}}/permissions</a>.
     </p>
-    <p>
-        CREATIVE COMMONS&reg;, CC, the CC logo, CC0, and all of the Creative
-        Commons license and public domain buttons and icons are
-        <a href="https://creativecommons.org/policies">trademarks</a> of
-        Creative Commons. License descriptions are based on those provided by
-        Creative Commons on their
-        <a href="https://creativecommons.org/licenses/">website</a>.
-    </p>
+    <center>
+        {% if site.social.links %}
+            {% for link in site.social.links %}
+                {% if link contains "github.com" %}
+                    <a href="{{link}}"><img src="/assets/img/github.svg"
+                        style="margin:0 0.25rem;width:2.5rem;"></a>
+                {% endif %}
+                {% if link contains "twitter.com" %}
+                    <a href="{{link}}"><img src="/assets/img/twitter.svg"
+                        style="margin:0 0.25rem;width:2.5rem;"></a>
+                {% endif %}
+                {% if link contains "youtube.com" %}
+                    <a href="{{link}}"><img src="/assets/img/youtube.svg"
+                        style="margin:0 0.25rem;width:2.5rem;"></a>
+                {% endif %}
+            {% endfor %}
+        {% endif %}
+    </center>
     <p>
         The code for this site is open source, licensed under the
         <a href="{{ site.github.repository_url }}/blob/master/LICENSE">MIT
@@ -124,8 +134,20 @@
         site generator built in <a href="https://www.ruby-lang.org/">Ruby</a>.
     </p>
     <p>
+        CREATIVE COMMONS&reg;, CC, the CC logo, CC0, and all of the Creative
+        Commons license and public domain buttons and icons are
+        <a href="https://creativecommons.org/policies">trademarks</a> of
+        Creative Commons. License descriptions are based on those provided by
+        Creative Commons on their
+        <a href="https://creativecommons.org/licenses/">website</a>.
+    </p>
+    <p>
         GITHUB&reg; and the GITHUB&reg; logo design are exclusive trademarks
         registered in the United States by GitHub, Inc.
+    </p>
+    <p>
+        TWITTER, TWEET, RETWEET and the Twitter logo are trademarks of Twitter,
+        Inc. or its affiliates
     </p>
     <p>
         * This is not legal advice.
