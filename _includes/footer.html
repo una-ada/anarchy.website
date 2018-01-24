@@ -66,7 +66,7 @@
                     4.0 International License
                 </a>.
                 You may share
-                {% unless page.license constains "ND" %}
+                {% unless page.license contains "ND" %}
                     and/or modify
                 {% endunless %}
                 this work
@@ -75,7 +75,7 @@
                     so long as your usage meets the following conditions: proper
                     credit must be given to the original author in a way that
                     does not imply endorsement from the licensor,
-                    {% if page.license constains "NC" %}
+                    {% if page.license contains "NC" %}
                         the work is not used for any commercial purposes,
                     {% endif %}
                     {% if page.license contains "ND" %}
