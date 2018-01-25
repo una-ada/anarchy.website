@@ -1,5 +1,5 @@
 ---
-author: tjh
+author: tjh mich
 layout: post
 title: Calculating Heat Efficiency on Campus Using Infrared Imaging Project Proposal
 tags: proposal research infrared-imaging physics
