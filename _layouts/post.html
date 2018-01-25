@@ -8,10 +8,11 @@
         {% if page.author %}
             By
             {% for author in page.author %}
+                {% assign auth = site.data.people[author] %}
                 {% if forloop.last and forloop.length > 1 %}and{%endif%}
-                {% if site.data.people[author].url %}<a href="{{site.data.people[author].url}}">{%endif%}
-                    {{site.data.people[author].name}}
-                {% if site.data.people[author].url %}</a>{%endif%}
+                {% if auth.url %}<a href="{{auth.url}}">{%endif%}
+                    {{auth.name}}
+                {% if auth.url %}</a>{%endif%}
                 {% if forloop.length > 2 and forloop.rindex > 0 %},{%endif%}
             {% endfor %}
         {% endif %}
