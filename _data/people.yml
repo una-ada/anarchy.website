@@ -1,0 +1,36 @@
+th:
+    bio: >
+        I am a graphic artist, writer, photographer and programmer currently
+        studying physics and mathematics at UW-River Falls.
+    name: Trevor Hoglund
+    email: trewbot@gmail.com
+    url: https://trew.moe
+tjh:
+    add: 410 S. 3rd St., River Falls, WI 54016
+    bio: >
+        Trevor J Hoglund is a Physics Option I and Mathematics major with a
+        minor in Computer Science, secretary of the UWRF Chapters of the Society
+        of Physics Students and the Association for Computing Machinery, and
+        treasurer of the Society for Undergraduate Research, Scholarly, and
+        Creative Activity.
+    dept: Physics Department, University of Wisconsin - River Falls
+    name: Trevor J. Hoglund
+    email: trevor.hoglund@my.uwrf.edu
+    url: https://trew.moe
+trew:
+    dept: Phene Co.
+    name: Trewbot
+    email: trewbot@phene.co
+    url: https://phene.co
+mich:
+    add: 410 S. 3rd St., River Falls, WI 54016
+    dept: Physics Department, University of Wisconsin - River Falls
+    name: Benjamin Michaud
+    email: benjamin.michaud@my.uwrf.edu
+uja:
+    bio: >
+        Writer, developer, and editor. Self-theory anarchist from the Midwest,
+        USA.
+    name: Una J. Ada
+    email: una@anarchy.website
+    url: https://anarchy.website
