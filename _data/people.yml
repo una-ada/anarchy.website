@@ -4,6 +4,7 @@ th:
         studying physics and mathematics at UW-River Falls.
     name: Trevor Hoglund
     email: trewbot@gmail.com
+    img: /assets/img/th.jpg
     url: https://trew.moe
 tjh:
     add: 410 S. 3rd St., River Falls, WI 54016
@@ -16,11 +17,13 @@ tjh:
     dept: Physics Department, University of Wisconsin - River Falls
     name: Trevor J. Hoglund
     email: trevor.hoglund@my.uwrf.edu
+    img: /assets/img/tjh.jpg
     url: https://trew.moe
 trew:
     dept: Phene Co.
     name: Trewbot
     email: trewbot@phene.co
+    img: /assets/img/trew.jpg
     url: https://phene.co
 mich:
     add: 410 S. 3rd St., River Falls, WI 54016
