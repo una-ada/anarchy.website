@@ -1,4 +1,5 @@
 ---
+author: tjh
 layout: post
 title: SPS and Chem Demons Host Annual Haunted Lab
 tags: article journalism student-voice

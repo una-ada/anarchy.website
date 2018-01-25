@@ -1,4 +1,5 @@
 ---
+author: tjh
 layout: post
 title: ORCA National High Power Rocketry Competition Project Proposal
 tags: proposal research rocketry physics

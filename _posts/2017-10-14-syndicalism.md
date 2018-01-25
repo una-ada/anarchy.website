@@ -1,4 +1,5 @@
 ---
+author: uja
 layout: post
 title: Introduction to Syndicalism
 tags: atil leftism syndicalism anarchism article

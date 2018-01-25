@@ -1,4 +1,5 @@
 ---
+author: th
 layout: post
 title: Awkward Smile Day
 tags: short-story fiction

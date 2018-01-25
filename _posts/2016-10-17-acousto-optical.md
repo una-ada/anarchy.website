@@ -1,4 +1,5 @@
 ---
+author: tjh
 layout: post
 title: Building an Acousto-Optical Deflector
 tags: research school proposal acoustics optics physics
