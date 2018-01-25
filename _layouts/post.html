@@ -4,6 +4,16 @@
 <body>
     {% include header.html %}
     <h1>{{ page.title }}</h1>
+    {% if page.author %}
+        By
+        {% for author in page.author %}
+            {% assign auth = site.data.people[author] %}
+            {% if forloop.last and forloop.length > 1 %}and{%endif%}
+            <a href="{{auth.url}}">{{auth.name}}</a>
+            {% if forloop.length > 2 and forloop.rindex > 0 %},{%endif%}
+        {% endfor %}
+        .
+    {% endif %}
     {{ content }}
     <script>twemoji.parse(document.body)</script>
     {% include footer.html %}
