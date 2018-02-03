@@ -20,8 +20,8 @@ Copenhagen (while still holding some fairly classical views) is the Many-Worlds
 Interpretation of Quantum Mechanics (MWI).
 
 While often treated as a multiverse theory, the MWI does not assert the
-existence of parallel universe, but of other worlds that exist within out own
-universe.
+existence of parallel universes but of other worlds that exist within our own
+singular universe.
 
 ## Footnotes:
 
@@ -40,6 +40,9 @@ Retrieved from: [https://io9.gizmodo.com/if-this-the...](https://goo.gl/NymUHU).
 1. Dvorsky, G. (2015). *The 9 Weirdest Implications of the Many Worlds
 Interpretation*.
 Retrieved from: [https://io9.gizmodo.com/the-9-weird...](https://goo.gl/k9CmHJ).
+
+1. Everett III, H. [THE THEORY OF THE UNIVERSAL WAVE
+FUNCTION](https://www-tc.pbs.org/wgbh/nova/manyworlds/pdf/dissertation.pdf).
 
 1. Lehner, C. (1997) [WHAT IT FEELS LIKE TO BE IN A SUPERPOSITION. AND
 WHY.](https://doi.org/10.1023/A:1004981126055) *Synthese, 110*(2), 191-
@@ -67,17 +70,3 @@ Retrieved from: [https://plato.stanford.edu/entries/...](https://goo.gl/23n1ZN).
 
 1. Yudkowsky, E. (2008). *If Many-Worlds Had Come First*.
 Retrieved from: [http://lesswrong.com/lw/q7/if_manyw...](https://goo.gl/QY3KMb).
-
-1. Some shit from http://people.bss.phy.cam.ac.uk/~mjd1014/ probably.
-
-https://www.reddit.com/r/askphilosophy/comments/5mz8na/hard_determinism_and_multiverse_theory/
-
-https://www.youtube.com/watch?v=lFLR5vNKiSw
-
-http://lesswrong.com/lw/q7/if_manyworlds_had_come_first/
-
-https://www-tc.pbs.org/wgbh/nova/manyworlds/pdf/dissertation.pdf !!!
-
-**Just multiverse shit:**
-
-https://www.youtube.com/watch?v=Rx7erWZ8TjA
