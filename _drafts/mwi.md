@@ -21,11 +21,76 @@ Interpretation of Quantum Mechanics (MWI).
 
 While often treated as a multiverse theory, the MWI does not assert the
 existence of parallel universes but of other worlds that exist within our own
-singular universe.
+singular universe. This distinction may not be all that significant, but it may
+be helpful to keep this in mind when exploring the ideas of the interpretation
+nonetheless. One such idea is the scope of a world, which in the MWI does not
+necessarily encompass all objects in the universe. While all objects must be in
+some world, if the objects within one world do not affect any objects that are
+not in that world then these other objects can be said to be in a separate
+world. This idea is more a philosophy of a hypothetical than it is an
+interpretation of our current understanding of the laws of physics since they
+describe forces that have an infinite, though with greatly diminished strength,
+range.
 
-## Footnotes:
+The perception of worlds as contents of rather than equivalent to the universe
+may also aid in the understanding of what an object experiences as time
+progresses according to the MWI.
 
+<br>
 
+![Your timeline](/assets/img/mwi-fig1.jpg)
+
+**FIGURE 1.** The observer we here define as you has a singular past and a
+singular present. As time goes on and worlds split, this you will go on to
+become a new you in each of the newly formed worlds, each of which will have a
+singular past you which is the current present you. You will not become any
+single one of these future yous; because each shares the present you as their
+past you, the present you will simultaneously become all of these future yous.
+
+<br>
+
+The universe as described by the MWI is deterministic, which can be interpreted
+as an indication that free will is not real in such a universe, but perhaps this
+is not such a simple leap. While it is true that, based on the existence of a
+world for any given possible outcome of every single quantum system within the
+containing universe, the state of the universe at any time in the future can be
+described mathematically based on its current state, this does not necessarily
+mean that a conscious observer within a singular world will experience a
+predetermined life. This point can be further clarified by examining the
+method by which a description of the universe would be created in this case. As
+with several other parts of the MWI, this description is based on classical
+perception (though not technically reliant on a distinct definition of
+this<sup>1</sup>). A world is first described as the product of the states of
+all objects within the world, |Ψ<sub>object</sub>⟩, and particles or other
+such factors that do not fit into any object definitions, |Φ⟩, such that
+
+<center><p>|Ψ<sub>World</sub>⟩ = |Ψ<sub>Object 1</sub>⟩ |Ψ<sub>Object 2</sub>⟩
+|Ψ<sub>Object 3</sub>⟩ ... |Ψ<sub>Object N</sub>⟩ |Φ⟩.</p></center>
+
+Based on this depiction and the idea that the universe is a container for all
+worlds branching from its conception, the state of the universe is the described
+as<sup>2</sup>
+
+<center><p>|Ψ<sub>Universe</sub>⟩ = |Ψ<sub>World 1</sub>⟩ |Ψ<sub>World 2</sub>⟩
+|Ψ<sub>World 3</sub>⟩ ... |Ψ<sub>World N</sub>⟩.</p></center>
+
+## Endnotes:
+
+<sup>1</sup> While this definition uses classically defined "objects" in its
+representation of a world, the distinction of what is an is not an object is
+handled by the extra factor that exists to handle the existence of factors that
+contribute to the state of the world that would not be described as members of
+any object.
+
+<sup>2</sup> It is often stated that there are infinitely many worlds and thus
+the last term in this description (|Ψ<sub>World N</sub>⟩) would be unnecessary;
+however, given that the current understanding of quantum mechanics is that many
+systems have a discrete set of outcomes and values such as time, distance, and
+energy are described as integer values of some minimum, the amount of worlds
+splitting from any given system will merely be large and not infinite. The
+constant splitting of many worlds into many more worlds may approach infinity
+but under the assumption that the universe itself is not infinitely large nor
+eternally old, this amount is not truly be infinite.
 
 ## Bibliography:
 
