@@ -40,7 +40,7 @@ progresses according to the MWI.
 
 ![Your timeline](/assets/img/mwi-fig1.jpg)
 
-**FIGURE 1.** The observer we here define as you has a singular past and a
+**FIGURE 1.** The observer defined here as you has a singular past and a
 singular present. As time goes on and worlds split, this you will go on to
 become a new you in each of the newly formed worlds, each of which will have a
 singular past you which is the current present you. You will not become any
