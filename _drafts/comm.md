@@ -45,8 +45,8 @@ explored and countered.
 
 The extent of the problem with commodification cannot be grasped with the
 examples put forth above, such examples are built on the assumption of property,
-autonomy, control, access, ownership, and to an extent the universality of
-people's ability to compromise on value<sup>[3](#3)</sup>.
+autonomy, control, access, ownership, and, to an extent, the universality of
+people's ability to compromise on value<sup>[3](#3)</sup>. 
 
 In a system wherein a capitalist class, the "bourgeoisie" as they are often
 called, exists, this class may choose whether or not to themselves be
@@ -55,7 +55,7 @@ the economy are simply commodified by default. One particularly stark
 manifestation of this idea can be found in a slave trade: those in the slave
 class are a literal commodity, they are bought and they are sold; however, the
 slave traders, the class controlling the trade, is not subject to the same
-treatment. More simply put, the rich may say themselves while everyone else is
+treatment. More simply put, the rich may sell themselves while everyone else is
 forced to do so. Certainly, most reading this have never been sold in a slave
 trade and so the previous example may be a bit out of their scope, but
 nonetheless the idea remains true in the day to day life of the average person
