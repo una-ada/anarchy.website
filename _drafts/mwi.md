@@ -1,7 +1,9 @@
 ---
+author: uja
 layout: post
 title: An Introduction to the Many-Worlds Interpretation of Quantum Mechanics
 tags: philosophy metaphysics quantum-mechanics article
+license: BY-SA
 ---
 
 Today, the Copenhagen Interpretation of Quantum Mechanics reigns supreme amongst
@@ -50,7 +52,8 @@ past you, the present you will simultaneously become all of these future yous.
 <br>
 
 The universe as described by the MWI is deterministic, which can be interpreted
-as an indication that free will is not real in such a universe, but perhaps this
+as an indication that free will is not real in such a universe<sup>2</sup>, but
+perhaps this
 is not such a simple leap. While it is true that, based on the existence of a
 world for any given possible outcome of every single quantum system within the
 containing universe, the state of the universe at any time in the future can be
@@ -69,20 +72,23 @@ such factors that do not fit into any object definitions, |Φ⟩, such that
 
 Based on this depiction and the idea that the universe is a container for all
 worlds branching from its conception, the state of the universe is the described
-as<sup>2</sup>
+as<sup>3</sup>
 
 <center><p>|Ψ<sub>Universe</sub>⟩ = |Ψ<sub>World 1</sub>⟩ |Ψ<sub>World 2</sub>⟩
 |Ψ<sub>World 3</sub>⟩ ... |Ψ<sub>World N</sub>⟩.</p></center>
 
 ## Endnotes:
 
-<sup>1</sup> While this definition uses classically defined "objects" in its
+<sup>1</sup>While this definition uses classically defined "objects" in its
 representation of a world, the distinction of what is an is not an object is
 handled by the extra factor that exists to handle the existence of factors that
 contribute to the state of the world that would not be described as members of
 any object.
 
-<sup>2</sup> It is often stated that there are infinitely many worlds and thus
+<sup>2</sup>PBS Space Time. (2016). *The Many Worlds of the Quantum Multiverse*.
+Retrieved from: [youtube.com](https://youtu.be/dzKWfw68M5U).
+
+<sup>3</sup>It is often stated that there are infinitely many worlds and thus
 the last term in this description (|Ψ<sub>World N</sub>⟩) would be unnecessary;
 however, given that the current understanding of quantum mechanics is that many
 systems have a discrete set of outcomes and values such as time, distance, and
@@ -96,15 +102,15 @@ eternally old, this amount is not truly be infinite.
 
 1. Carroll, S. (2014). *Why the Many-Worlds Formulation of Quantum Mechanics Is
 Probably Correct*.
-Retrieved from: [http://www.preposterousuniverse.com...](https://goo.gl/YWBPES).
+Retrieved from: [preposterousuniverse.com](https://goo.gl/YWBPES).
 
 1. Dvorsky, G. (2013). *If this theory is correct, we may live in a web of
 alternate timelines*.
-Retrieved from: [https://io9.gizmodo.com/if-this-the...](https://goo.gl/NymUHU).
+Retrieved from: [io9.gizmodo.com](https://goo.gl/NymUHU).
 
 1. Dvorsky, G. (2015). *The 9 Weirdest Implications of the Many Worlds
 Interpretation*.
-Retrieved from: [https://io9.gizmodo.com/the-9-weird...](https://goo.gl/k9CmHJ).
+Retrieved from: [io9.gizmodo.com](https://goo.gl/k9CmHJ).
 
 1. Everett III, H. [THE THEORY OF THE UNIVERSAL WAVE
 FUNCTION](https://www-tc.pbs.org/wgbh/nova/manyworlds/pdf/dissertation.pdf).
@@ -114,24 +120,24 @@ WHY.](https://doi.org/10.1023/A:1004981126055) *Synthese, 110*(2), 191-
 
 1. Lim, E. (2015). *The theory of parallel universes is not just maths – it is
 science that can be tested*.
-Retrieved from: [https://phys.org/news/2015-09-theor...](https://goo.gl/iYKG67).
+Retrieved from: [phys.org](https://goo.gl/iYKG67).
 
 1. Lockwood, M. (1996) ‘Many Minds’ Interpretations of Quantum Mechanics.
 *The British Journal for the Philosophy of Science, 47*(2) 159–188.
 
 1. Portes, J. *Will Advances in Quantum Computing Shed Light on Foundational
 Issues in Quantum Mechanics?*.
-Retrieved from: [http://www.columbia.edu/~jpp2139/Is...](https://goo.gl/zLrrzf).
+Retrieved from: [www.columbia.edu/~jpp2139](https://goo.gl/zLrrzf).
 
 1. Quantum Optics Lab. *Quantum Word Splitter* Retrieved from:
-[http://qol.tau.ac.il/](http://qol.tau.ac.il/)
+[qol.tau.ac.il](http://qol.tau.ac.il/)
 
 1. Rovelli, C. (2013). *FREE WILL, DETERMINISM, QUANTUM THEORY AND STATISTICAL
 FLUCTUATIONS: A PHYSICIST'S TAKE*.
-Retrieved from: [https://www.edge.org/conversation/c...](https://goo.gl/wWVf8U).
+Retrieved from: [www.edge.org](https://goo.gl/wWVf8U).
 
 1. Vaidman, L. (2014). *Many-Worlds Interpretation of Quantum Mechanics*.
-Retrieved from: [https://plato.stanford.edu/entries/...](https://goo.gl/23n1ZN).
+Retrieved from: [plato.stanford.edu](https://goo.gl/23n1ZN).
 
 1. Yudkowsky, E. (2008). *If Many-Worlds Had Come First*.
-Retrieved from: [http://lesswrong.com/lw/q7/if_manyw...](https://goo.gl/QY3KMb).
+Retrieved from: [lesswrong.com](https://goo.gl/QY3KMb).

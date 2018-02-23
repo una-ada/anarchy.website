@@ -1,7 +1,9 @@
 ---
+author: uja
 layout: post
 title: Countering Commodification
 tags: article atil capital commodification markets
+license: BY-SA
 ---
 
 Commodification, the alteration of any resources, products, ideas, et cetera so
@@ -46,7 +48,7 @@ explored and countered.
 The extent of the problem with commodification cannot be grasped with the
 examples put forth above, such examples are built on the assumption of property,
 autonomy, control, access, ownership, and, to an extent, the universality of
-people's ability to compromise on value<sup>[3](#3)</sup>. 
+people's ability to compromise on value<sup>[3](#3)</sup>.
 
 In a system wherein a capitalist class, the "bourgeoisie" as they are often
 called, exists, this class may choose whether or not to themselves be
