@@ -1,5 +1,12 @@
 ---
 author: uja
+description: >
+    Capitalism perpetuates itself through institutions of government and
+    economy, but faults in these systems could lead to its collapse. However, it
+    is not without countermeasures to such failures: capitalism creates a
+    cultural backing for its own existence, primarily via commodification. How
+    exactly does this work and how can we act to counter this when abolishing
+    capitalism?
 layout: post
 title: Countering Commodification
 tags: article atil capital commodification markets

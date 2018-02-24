@@ -1,7 +1,11 @@
 <div class="preview" data-tags="{{ post.tags }}">
     <a href="{{ include.post.url }}"><h2>{{ post.title }}</h2></a>
     <p>
-        {{ include.post.content | strip_html | truncatewords:75}}
+        {% if include.post.description %}
+            {{ include.post.description }}
+        {% else %}
+            {{ include.post.content | strip_html | truncatewords:75}}
+        {% endif %}
     </p>
     <p>tags:
         {% assign sorttags = post.tags | sort %}

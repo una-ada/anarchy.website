@@ -79,16 +79,16 @@ as<sup>3</sup>
 
 ## Endnotes:
 
-<sup>1</sup>While this definition uses classically defined "objects" in its
+1. While this definition uses classically defined "objects" in its
 representation of a world, the distinction of what is an is not an object is
 handled by the extra factor that exists to handle the existence of factors that
 contribute to the state of the world that would not be described as members of
 any object.
 
-<sup>2</sup>PBS Space Time. (2016). *The Many Worlds of the Quantum Multiverse*.
+2. PBS Space Time. (2016). *The Many Worlds of the Quantum Multiverse*.
 Retrieved from: [youtube.com](https://youtu.be/dzKWfw68M5U).
 
-<sup>3</sup>It is often stated that there are infinitely many worlds and thus
+3. It is often stated that there are infinitely many worlds and thus
 the last term in this description (|Ψ<sub>World N</sub>⟩) would be unnecessary;
 however, given that the current understanding of quantum mechanics is that many
 systems have a discrete set of outcomes and values such as time, distance, and
