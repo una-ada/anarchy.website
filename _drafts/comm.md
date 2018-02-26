@@ -9,7 +9,7 @@ description: >
     capitalism?
 layout: post
 title: Countering Commodification
-tags: article atil capital commodification markets
+tags: article atil capital commodification markets leftism
 license: BY-SA
 ---
 
