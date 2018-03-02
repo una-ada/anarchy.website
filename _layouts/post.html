@@ -1,27 +1,24 @@
 <!doctype html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-{% include head.html %}
+{%include head.html%}
 <body>
-    {% include header.html %}
-    <p>
-        <a href="{{site.url}}">anarchy.website</a>
-    </p>
-    <h1>{{ page.title }}</h1>
-    <p>
-        {% if page.author %}
+    {%include header.html%}
+    <h1>{{page.title}}</h1>
+    <div class="byline">
+        {%if page.author%}
             By
-            {% for author in page.author %}
-                {% assign auth = site.data.people[author] %}
-                {% if forloop.last and forloop.length > 1 %}and{%endif%}
-                {% if auth.url %}<a href="{{auth.url}}">{%endif%}
-                    {{auth.name}}
-                {% if auth.url %}</a>{%endif%}
-                {% if forloop.length > 2 and forloop.rindex > 0 %},{%endif%}
-            {% endfor %}
-        {% endif %}
-    </p>
-    {{ content }}
+            {%for author in page.author%}
+                {%assign auth = site.data.people[author]%}
+                {%if forloop.last == true and forloop.length > 1%}and{%endif%}
+                {%if auth.url%}<a href="{{auth.url}}">{%endif%}{{auth.name}}{%if auth.url%}</a>{%endif%}{%unless forloop.length == 2 and forloop.index == 1%},{%endunless%}
+            {%endfor%}
+        {%endif%}
+        {{page.date|date:'%B %d, %Y'}}
+    </div>
+    <div class="content">
+        {{content}}
+    </div>
     <script>twemoji.parse(document.body)</script>
-    {% include footer.html %}
+    {%include footer.html%}
 </body>
 </html>
