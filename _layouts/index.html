@@ -25,7 +25,7 @@ layout: default
 
 <h2 style="margin-top:2rem;">Recent posts:</h2>
 
-{% for post in site.posts limit:3%}
+{% for post in site.posts limit:5%}
     {% include preview.html post=post %}
 {% endfor %}
 

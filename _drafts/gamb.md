@@ -1,3 +1,10 @@
+---
+author: th
+layout: post
+title: Gambling in a Post-Capitalist Society
+tags: capitalism leftism
+---
+
 Under the assumption of a pure capitalist system, that is one in which the
 interaction between one human and another is always defined as a monetary
 interaction, the idea of gambling does not carry any objective qualms. The

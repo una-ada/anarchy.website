@@ -1,7 +1,9 @@
 ---
 author: uja
 description: >
-    This is something that simply needs to exist.
+    An exploration of how humanoids derive physical pleasure from each other
+    through mathematical and mystical lenses as well as how these ideas can be
+    expanded into higher spacial dimensions and what that would mean. 
 layout: post
 title: >
     Theoretical Sex Positions for N-Dimensional Polyamorous Humanoids and

@@ -1,5 +1,12 @@
 ---
 author: uja
+description: >
+    There is a reasonably prevalent question in philosophy about whether or not
+    a universal truth can exist. This can be expanded further to ask whether or
+    not we as humans could ever know a universal truth. To examine this question
+    we must also examine the concept of objectivity that is so often conflated
+    with this, as well as the idea of logic and its application to already
+    perceived truths.
 layout: post
 title: On Objectivity
 tags: philosophy objectivity
