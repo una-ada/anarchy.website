@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+<div class="bio">
+    <h1 style="margin-top:0;">Anarchy.Website</h1>
+    <p>
+        Welcome to <a href="/">anarchy.website</a>, a collection of written
+        works by Una J. Ada, a.k.a. Trewbot or Trevor J. Hoglund. Areas of
+        interest and thus common topics on this site include but are not limited
+        to: absurdism, anarchism, comedy, consciousness, direct action, discrete
+        mathematics, functional programming, futurism, linguistics, machine
+        learning, magic, prefigurative politics, sociology, symbology,
+        technogaianism, transhumanism, quantum physics. All works are available
+        under a
+        <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative
+        Commons Attribution Share-Alike 4.0 International License</a> except
+        where otherwise noted.
+    </p>
+    <p>
+        For works in other media, including videos, photography, and programming
+        by Una, refer to <a href="https://trew.moe">trew.moe</a>.
+    </p>
+</div>
+
+<h2 style="margin-top:2rem;">Recent posts:</h2>
+
+{% for post in site.posts limit:3%}
+    {% include preview.html post=post %}
+{% endfor %}
+
+<p><strong><a href="/archive">More posts &rarr;</a></strong></p>
