@@ -13,6 +13,11 @@ tags: article atil capital commodification markets leftism
 license: BY-SA
 ---
 
+* toc
+{:toc}
+
+## Introduction to Commodification
+
 Commodification, the alteration of any resources, products, ideas, et cetera so
 as to be sold in a market, is fundamentally anchored to the idea of attribution
 of value. In modern society, we have come to view mathematics as the basis for
@@ -24,7 +29,9 @@ a number, just Person A views Item 1 to have the same value as Person B views
 Item 2 to have<sup>[1](#1)</sup>. Nonetheless, any person raised in a world that
 values mathematics as a necessary interpretation of all of reality will almost
 certainly attempt in some regard to define some mediating value in the
-aforementioned exchange. This may not necessarily be a negative trait, however,
+aforementioned exchange.
+
+This may not necessarily be a negative trait, however,
 it is severely flawed in the assumption that it is the item itself that is given
 value by the two parties and not the exchange from the reference frame of each
 individual party. In a market, it is the item being exchanged that is given some
@@ -36,7 +43,9 @@ item and the social institution of value that the market upholds; whereas, in a
 trade of property between two parties, each party is working to find a palatable
 medium of the value they attribute to their property and that which the other
 party attributes by way of exchanging it for property of the party that both
-parties hold equal value to from their respective perspectives. The buyer in a
+parties hold equal value to from their respective perspectives.
+
+The buyer in a
 market is not putting up their property to be traded with your property, at
 least not in the immediate sense, and so there is no matching of attributed
 value. Primarily, the value for which an item is sold in a market is based on
@@ -51,6 +60,8 @@ could then be used to buy items from each of the aforementioned sellers? No,
 especially not in the modern system of international markets, but still this
 system of commodification has many undesirable side effects that must be
 explored and countered.
+
+## Extent in Modern Markets
 
 The extent of the problem with commodification cannot be grasped with the
 examples put forth above, such examples are built on the assumption of property,
@@ -69,6 +80,22 @@ forced to do so. Certainly, most reading this have never been sold in a slave
 trade and so the previous example may be a bit out of their scope, but
 nonetheless the idea remains true in the day to day life of the average person
 today.
+
+## Philosophical Implications
+
+## Necessity of Countering Commodification
+
+## Essence of Avoidance
+
+Where in work one's livelihood is withheld at the expense of their labor,
+commodification makes that livelihood into a form of labor; while it may be
+difficult to become completely apart of the system of commodification, a
+reasonable step in such a direction would be to ensure that all commodification
+of the self is deliberate rather than enforced upon the self.
+
+## Practical Applications
+
+---
 
 ## Footnotes
 
@@ -94,3 +121,15 @@ instances within a market system, such as stocks being bought and sold based on
 the assumed or predicted value of the company backing them.
 
 <sup><a name="3">3</a></sup> ADD A NOTE OR SOMETHING HERE!!!
+
+## Bibliography
+
+1. Black, B. (2009). *The Abolition of Work*. Retrieved from:
+[primitivism.com](http://www.primitivism.com/abolition.htm)
+([mirror](https://goo.gl/3MvB1n))
+
+1. Gillis, W. (2010). *Stress, Labor & Play.* Retrieved from:
+[humaniterations.net](https://humaniterations.net/2010/05/14/stress-labor-play/)
+
+1. Ross, C. (2017). *Different Types of Activity*. Retrieved from:
+[never-work.com](https://never-work.com/2017/09/07/different-types-of-activity/)

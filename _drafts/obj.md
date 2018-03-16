@@ -42,5 +42,8 @@ declaring an axiom of popular belief not defining objective truth. So, through
 these axioms, a definition of objectivity is slowly cultivated by declaring a
 list of things which it is not.
 
+Objectivity is something to strive for, it may never be real, but by intending
+it as a goal... fuck it who cares.
+
 > "Wow that's so deep. Grow up."
 &mdash;@jxckhy
