@@ -1,12 +1,12 @@
 ---
 author: uja
 layout: post
-title: On the Abolition of the Rhotic
+title: Against the Rhotic
 tags: linguistics
 license: BY-SA
 ---
 
-
+OwO, what's this?
 
 ## Footnotes
 

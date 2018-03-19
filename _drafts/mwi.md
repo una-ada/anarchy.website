@@ -2,7 +2,7 @@
 author: uja
 layout: post
 title: An Introduction to the Many-Worlds Interpretation of Quantum Mechanics
-tags: philosophy metaphysics quantum-mechanics article
+tags: philosophy metaphysics quantum-mechanics article manyworlds
 license: BY-SA
 ---
 
