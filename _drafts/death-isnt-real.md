@@ -41,3 +41,12 @@ said consciousness. It should also be made clear, for completeness, that memory
 is stored in the brain, a physical entity that may exist in superposition across
 multiple words but which can only act in a given world as a being in a singular
 state.
+
+A context is necessary to fully discuss the concept of death within, so a system
+of timelines and superpositions will be defined. Any given state that can be
+observed by a consciousness (i.e. a world) will be denoted
+$\Psi_{\psi_1,\psi_2,\psi_3...}$, where $\psi_n$ is an index of the outcome of
+the probabilistic decision $n$. This would mean that after some initial decision
+our universe's state will be a superposition of $\Psi_1$, $\Psi_2$, $\Psi_3$,
+etc. After the next decision along the timeline defined by $\Psi_1$, $\Psi_1$
+will become a superposition of $\Psi_{1,1}$, $\Psi_{1,2}$, $\Psi_{1,3}$, etc.
