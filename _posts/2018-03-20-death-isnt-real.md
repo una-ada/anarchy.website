@@ -18,7 +18,7 @@ of that description. Here this means that all outcomes of a probabilistic system
 exist in a superposition, that is to say that for every outcome of a situation
 there exists a branching world wherein this is the outcome realized. For the
 purposes of this discussion we will be talking about large, discrete steps in
-time and very limited numbers of outcomes. Consciousness will be assumes to be
+time and very limited numbers of outcomes. Consciousness will be assumed to be
 inherent in your existence and to span across these branching worlds as an
 observer of each world. Observation will be the way in which we will define the
 branching of worlds, such that worlds only exist if they can be observed by a
