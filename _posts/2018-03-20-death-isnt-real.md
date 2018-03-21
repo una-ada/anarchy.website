@@ -39,7 +39,7 @@ can be accessed by the consciousness, in this case we will be assuming that any
 experience which cannot be remembered will not exist in the reality defined by
 said consciousness. It should also be made clear, for completeness, that memory
 is stored in the brain, a physical entity that may exist in superposition across
-multiple words but which can only act in a given world as a being in a singular
+multiple worlds but which can only act in a given world as a being in a singular
 state.
 
 A context is necessary to fully discuss the concept of death within, so a system
