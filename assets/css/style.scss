@@ -35,7 +35,8 @@ sub				{vertical-align:bottom;position:relative;bottom:-0.3em;}
 sup				{vertical-align:top;position:relative;top:-0.3em;}
 table			{border-collapse:collapse;margin:1em 0;}
 thead			{font-family:'Playfair Display','Lora',sans-serif;font-weight:bold;}
-thead td		{padding-bottom:1rem;}
+thead td,
+thead th		{padding-bottom:0.5rem !important;}
 tr:nth-child(even){background:#f0f0f0;}
 
 // Mobile and print

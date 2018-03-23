@@ -11,7 +11,8 @@ tags: linguistics
 license: BY-SA
 ---
 
-OwO, what's this?
+OwO, what's this? That's right, this entire essay is going to be a roundabout
+justification for "owo"ing and "uwu"ing all over the place.
 
 ## Footnotes
 
