@@ -3,7 +3,7 @@ author: trew
 description: >
     A mod pack for building gay communes in the forest with your friends.
 license: BY-NC-SA
-title: Gay Minecraft Commune 0.1.0
+title: Gay Minecraft Commune 0.1.1
 layout: post
 tags: minecraft modpack
 ---
@@ -30,27 +30,36 @@ I don't know.
 | Bibliocraft-Biomes O'Plenty | [curseforge.com](https://goo.gl/EKkaFh)             | [v1.9](https://goo.gl/bD9Bk3)                                           | Allowed<sup>[2](#2)</sup>                           |
 | Botania                     | [botaniamod.net](https://botaniamod.net)            | [R1.8 249](https://goo.gl/e2aMxW) ([changes](https://goo.gl/YSbBhB))    | [Allowed](https://goo.gl/uLb24K)                    |
 | bspkrsCore                  | [curseforge.com](https://goo.gl/RSk6xX)             | [6.16](https://goo.gl/FKQ4JV)                                           | [MC Forge PL 1.0](https://goo.gl/RSk6xX)            |
-| iChunUtil                   | [ichun.me](https://goo.gl/qMW6a5)                   | [4.2.3](https://goo.gl/LbtjGo) ([changes](https://goo.gl/VqQmRx))       | [Allowed](https://goo.gl/6LXPQP)                    |
+| CodeChickenCore             | [chickenbones.net](https://goo.gl/CkMcVS)           | [1.0.7.47](https://goo.gl/Aszdr2)                                       | [Allowed](https://goo.gl/LK5ZqA)                    |
+| Forbidden Magic             | [curseforge.com](https://goo.gl/Pg9J3p)             | [0.575](https://goo.gl/TtRMKw)                                          | [Allowed](https://goo.gl/Pg9J3p)                    |
 | Forestry                    | [forestryforminecraft.info](https://goo.gl/ckLZqb)  | [4.2.16](https://goo.gl/ioszVn)                                         | [Allowed](https://goo.gl/BGxB4W)                    |
-| ~~Lucky Block~~             | ~~[minecraftascending.com](https://goo.gl/pE3o5Q)~~ | ~~[5.1.0](https://goo.gl/4mmnyD)~~                                      | ~~[Blocked](https://goo.gl/rGM56w)~~<sup>[3](#3)</sup> |
+| Hats                        | [ichun.me](https://goo.gl/zVuXPw)                   | [4.0.1](https://goo.gl/khJUU8)                                          | [Allowed](https://goo.gl/9v5ac6)                    |
+| iChunUtil                   | [ichun.me](https://goo.gl/qMW6a5)                   | [4.2.3](https://goo.gl/LbtjGo) ([changes](https://goo.gl/VqQmRx))       | [Allowed](https://goo.gl/6LXPQP)                    |
+| Inventory Tweaks            | [readthedocs.io](https://goo.gl/pYj4qG)             | [1.59](https://goo.gl/Ax2RS7)                                           | [MIT](https://goo.gl/v7oWhr)                        |
+| JourneyMap                  | [journeymap.info](https://goo.gl/mgYk5Y)            | [5.1.4p2](https://goo.gl/spBfzw)                                        | ~~[Blocked](https://goo.gl/jPZg52)~~<sup>[6](#6)</sup> |
+| Lucky Block                 | [minecraftascending.com](https://goo.gl/pE3o5Q)     | [5.1.0](https://goo.gl/4mmnyD)                                          | ~~[Blocked](https://goo.gl/rGM56w)~~<sup>[3](#3),[6](#6)</sup> |
+| Magic Bees                  | [curseforge.com](https://goo.gl/aAEdFs)             | [2.4.3](https://goo.gl/LwQ4Y1)                                          | [WTFPL](https://goo.gl/aAEdFs)                      |
 | Mantle                      | [curseforge.com](https://goo.gl/DJmuF3)             | [0.3.2b](https://goo.gl/E6Z4oF)                                         | [MIT](https://goo.gl/DJmuF3)                        |
 | Morph                       | [ichun.me](https://goo.gl/rbJyMa)                   | [0.9.3](https://goo.gl/9dni4a) ([changes](https://goo.gl/VqQmRx))       | [Allowed](https://goo.gl/6LXPQP)                    |
 | MrCrayfish's Furniture Mod  | [mrcrayfish.com](https://goo.gl/PCbTfV)             | [3.4.8](https://goo.gl/Pi6zc8)                                          | [GNU GPL](https://goo.gl/t9jVoG)                    |
 | Natura                      | [curseforge.com](https://goo.gl/iKQKJu)             | [2.2.1a2](https://goo.gl/MT28GB)                                        | [CC BY 3.0](https://goo.gl/iKQKJu)                  |
-| ~~Optifine~~                | ~~[optifine.net](https://goo.gl/AuxC3o)~~           | ~~[1.7.10 HD U E3](https://goo.gl/G6nGWW) ([changes](https://goo.gl/71V7F2))~~ | ~~[Blocked](https://goo.gl/F9kVdG)~~<sup>[4](#4)</sup> |
+| NotEnoughItems              | [chickenbones.net](https://goo.gl/CkMcVS)           | [1.0.5.120](https://goo.gl/H4q3Qt)                                      | [Allowed](https://goo.gl/LK5ZqA)                    |
+| Optifine                    | [optifine.net](https://goo.gl/AuxC3o)               | [1.7.10 HD U E3](https://goo.gl/G6nGWW) ([changes](https://goo.gl/71V7F2)) | ~~[Blocked](https://goo.gl/F9kVdG)~~<sup>[4](#4),[6](#6)</sup> |
 | Pam's Harvestcraft          | [curseforge.com](https://goo.gl/XGQ1qT)             | [1.7.10Lb](https://goo.gl/tdRDbX)                                       | [Allowed](https://goo.gl/XGQ1qT)                    |
 | Portal Gun                  | [ichun.me](https://goo.gl/rGe62z)                   | [4.0.0-beta6](https://goo.gl/Xmg3Yh) ([changes](https://goo.gl/jPQdi5)) | [Allowed](https://goo.gl/6LXPQP)                    |
 | Sync                        | [ichun.me](https://goo.gl/8vPNvH)                   | [4.0.1](https://goo.gl/JyaSan) ([changes](https://goo.gl/VqQmRx))       | [Allowed](https://goo.gl/6LXPQP)                    |
+| Tainted Magic               | [curseforge.com](https://goo.gl/V287iS)             | [r7.82](https://goo.gl/nNNVgi)                                          | [Allowed](https://goo.gl/V287iS)                    |
 | Thaumcraft                  | [curseforge.com](https://goo.gl/9v5ac6)             | [4.2.3.5](https://goo.gl/y1u15i)                                        | [Allowed](https://goo.gl/9v5ac6)                    |
+| Thaumic Exploration         | [vazkii.us](https://vazkii.us/mod/TX/)              | [link](https://goo.gl/KjvB6H)                                           | [Allowed](https://goo.gl/QBTMQL)                    |
 | Tinker's Construct          | [curseforge.com](https://goo.gl/nz2UqT)             | [1.8.8](https://goo.gl/L3tS8T)                                          | [MIT](https://goo.gl/nz2UqT)                        |
 | Treecapitator               | [curseforge.com](https://goo.gl/f7jcP1)             | [2.0.4](https://goo.gl/KpYQqx)                                          | [Allowed](https://goo.gl/f7jcP1)                    |
 | Twilight Forest             | [curseforge.com](https://goo.gl/iBw9fa)             | [2.3.7](https://goo.gl/5v44yv)                                          | [LGPL v2.1](https://goo.gl/iBw9fa)                  |
-| ~~Witchery~~                | ~~[curseforge.com](https://goo.gl/bd6ywz)~~         | ~~[0.24.1](https://goo.gl/JmbFBf)~~                                     | ~~[Blocked](https://goo.gl/bd6ywz)~~<sup>[5](#5)</sup> |
+| Witchery                    | [curseforge.com](https://goo.gl/bd6ywz)             | [0.24.1](https://goo.gl/JmbFBf)                                         | ~~[Blocked](https://goo.gl/bd6ywz)~~<sup>[5](#5),[6](#6)</sup> |
 
 ## Download
 
-The modpack is currently hosted on this site and can be downloaded using this
-link: [gaycomcraft-0.1.0](/assets/dl/gaycomcraft-0.1.0.zip).
+The modpack is currently hosted in a private Google Drive Folder, please ask for
+it in the `#sandbox-games` channel.
 
 ## Installation
 
@@ -136,15 +145,41 @@ configuration is still selected).
 
 ### Mod Authors
 
-Alexbegt, progwml6 (Mantle, Natura); Arkan, fuj1n (Mantle); azanor (Baubles,
-Thaumcraft); Benimatic, AtomicBlom, Drullkus, Killer_Demon, Tamaized,
-williewillus (Twilight Forest); boni (Mantle, Tinker's Construct); bskrs
-(bspkrsCore, Treecapitator); Glitchfiend, Adubbz, Forstride (Biomes O'Plenty);
-iChun (iChunUtil, Morph, Portal Gun, Sync); jadedcat, KnightMiner (Tinker's
-Construct); Lunatrius (Treecapitator); MatrexsVigil (Pam's Harvestcraft); mDiyo
-(Mantle, Natura, Tinker's Construct); MrCrayfish (MrCrayfish's Furniture Mod);
-Nuchaz (Bibliocraft, BiblioWoods Biomes O'Plenty edition); SirSengir (Forestry);
-Vazkii (Botania);
+Alexbegt, progwml6 (Mantle, Natura);
+Arkan, fuj1n (Mantle);
+azanor (Baubles, Thaumcraft);
+Benimatic, AtomicBlom, Drullkus, Killer_Demon, Tamaized, williewillus (Twilight
+Forest);
+boni (Mantle, Tinker's Construct);
+bskrs (bspkrsCore, Treecapitator);
+Glitchfiend, Adubbz, Forstride (Biomes O'Plenty);
+iChun (Hats, iChunUtil, Morph, Portal Gun, Sync);
+jadedcat, KnightMiner (Tinker's Construct);
+Kobata (Inventory Tweaks);
+Lunatrius (Treecapitator);
+MatrexsVigil (Pam's Harvestcraft);
+mDiyo (Mantle, Natura, Tinker's Construct);
+MrCrayfish (MrCrayfish's Furniture Mod);
+MysteriousAges, Elec332, mezz (Magic Bees);
+nekosune (Thaumic Exloration);/
+Nuchaz (Bibliocraft, BiblioWoods Biomes O'Plenty edition);
+SirSengir (Forestry);
+Vazkii (Botania, Thaumic Exploration);
+
+## Changelog
+
+### 0.1.1
+
+- Made pack private to allow more mods
+- Added Hats 4.0.1
+- Added Inventory Tweaks 1.59
+- Added Magic Bees 2.4.3
+- Added NotEnoughItems 1.0.5.120
+- Added CodeChickenCore 1.0.7.47
+- Added JourneyMap 5.1.4p2
+- Added Thaumic Exploration
+- Added Forbidden Magic 0.575
+- Added Tainted Magic r7.82
 
 ## Footnotes
 
@@ -170,6 +205,10 @@ and does not affect servers.
 send them a private message on Minecraft Forum, but I'd have to find some way to
 reactivate my account or just register a new one to do that because I haven't
 touched it in like 6 years.
+
+6. <a name="6"></a>Since we would still like to use these mods, but cannot do so
+in a public modpack, the modpack is only available via our private Google Drive
+links.
 
 <style>
     table:nth-of-type(1) {
