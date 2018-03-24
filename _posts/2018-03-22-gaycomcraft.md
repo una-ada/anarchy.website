@@ -71,7 +71,8 @@ buttons and options are not very intuitive.
 
 2. Run the launcher.
 
-3. Select the "Launch options" tab from the top menu.
+3. If you already have Minecraft 1.7.10 installed, skip to step 12. Select the
+"Launch options" tab from the top menu.
 
 4. Click "(+) Add new."
 
@@ -89,8 +90,8 @@ buttons and options are not very intuitive.
 
 11. When the game finishes downloading and the main menu opens, close the game.
 
-12. Download the Forge installer from
-[minecraftforge.net](https://goo.gl/7nMG7R).
+12. If you already have Forge for 1.7.10 installed, skip to step 25. Download
+the Forge installer from [minecraftforge.net](https://goo.gl/7nMG7R).
 
 13. Run the installer.
 
@@ -140,6 +141,34 @@ this folder as well.
 
 31. Return to the launcher and click "Play." (assuming the previous
 configuration is still selected).
+
+## Resource Pack Support
+
+| Mod                           | Isabella II | PureBDCraft 32x|
+|:------------------------------|:-----------:|:--------------:|
+| Baubles                       | ✔️         | ✔️             |
+| Bibliocraft                   | ✔️         | ✔️             |
+| BiblioWoods-Biomes O'Plenty   | ❓          | ✔️             |
+| Biomes O'Plenty               | ✔️         | ✔️             |
+| Botania                       | ✔️         | ✔️             |
+| Forbidden Magic               | ✔️         | ✔️             |
+| Forestry                      | ✔️         | ✔️             |
+| Hats                          | ✔️         | ❌             |
+| Lucky Block                   | ❌         | ✔️             |
+| Mantle                        | ✔️         | ✔️             |
+| Magic Bees                    | ✔️         | ❌             |
+| McCrayfish's Furniture Mod    | ✔️         | ✔️             |
+| Morph                         | ✔️         | ❌             |
+| Natura                        | ✔️         | ✔️             |
+| NotEnoughItems                | ✔️         | ✔️             |
+| Pam's Harvestcraft            | ✔️         | ✔️             |
+| Portal Gun                    | ❌         | ❌<sup>[7](#7)</sup> |
+| Tainted Magic                 | ❌         | ❌             |
+| Thaumcraft                    | ✔️         | ✔️             |
+| Thaumic Exploration           | ✔️         |❌<sup>[8](#8)</sup> |
+| Tinker's Construct            | ✔️         | ✔️             |
+| Twilight Forest               | ✔️         | ✔️             |
+| Witchery                      | ✔️         | ❌<sup>[9](#9)</sup> |
 
 ## Acknowledgements
 
@@ -210,8 +239,17 @@ touched it in like 6 years.
 in a public modpack, the modpack is only available via our private Google Drive
 links.
 
+7. <a name="7"></a>The Portal Gun patch for PureBDCraft is only availabe in 128x
+and 64x: [here](http://bdcraft.net/community/pbdc-patches-rel/portal-gun-t298.html).
+
+8. <a name="8"></a>The WIP Thaumic Exploration patch for PureBDCraft is only
+available in 512x: [here](http://bdcraft.net/community/pbdc-patches-wip/thaumic-exploration-t3755.html).
+
+9. <a name="9"></a>The WIP Witchery patch for PureBDCraft is only available in
+12x: [here](http://bdcraft.net/community/pbdc-patches-wip/witchery-t1718.html).
+
 <style>
-    table:nth-of-type(1) {
+    table {
         display:table;
         width:100%;
     }
