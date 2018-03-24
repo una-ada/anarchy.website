@@ -3,7 +3,7 @@ author: trew
 description: >
     A mod pack for building gay communes in the forest with your friends.
 license: BY-NC-SA
-title: Gay Minecraft Commune 0.1.1
+title: Gay Minecraft Commune 0.1.2
 layout: post
 tags: minecraft modpack
 ---
@@ -40,7 +40,6 @@ I don't know.
 | Lucky Block                 | [minecraftascending.com](https://goo.gl/pE3o5Q)     | [5.1.0](https://goo.gl/4mmnyD)                                          | ~~[Blocked](https://goo.gl/rGM56w)~~<sup>[3](#3),[6](#6)</sup> |
 | Magic Bees                  | [curseforge.com](https://goo.gl/aAEdFs)             | [2.4.3](https://goo.gl/LwQ4Y1)                                          | [WTFPL](https://goo.gl/aAEdFs)                      |
 | Mantle                      | [curseforge.com](https://goo.gl/DJmuF3)             | [0.3.2b](https://goo.gl/E6Z4oF)                                         | [MIT](https://goo.gl/DJmuF3)                        |
-| Morph                       | [ichun.me](https://goo.gl/rbJyMa)                   | [0.9.3](https://goo.gl/9dni4a) ([changes](https://goo.gl/VqQmRx))       | [Allowed](https://goo.gl/6LXPQP)                    |
 | MrCrayfish's Furniture Mod  | [mrcrayfish.com](https://goo.gl/PCbTfV)             | [3.4.8](https://goo.gl/Pi6zc8)                                          | [GNU GPL](https://goo.gl/t9jVoG)                    |
 | Natura                      | [curseforge.com](https://goo.gl/iKQKJu)             | [2.2.1a2](https://goo.gl/MT28GB)                                        | [CC BY 3.0](https://goo.gl/iKQKJu)                  |
 | NotEnoughItems              | [chickenbones.net](https://goo.gl/CkMcVS)           | [1.0.5.120](https://goo.gl/H4q3Qt)                                      | [Allowed](https://goo.gl/LK5ZqA)                    |
@@ -158,7 +157,6 @@ configuration is still selected).
 | Mantle                        | ✔️         | ✔️             |
 | Magic Bees                    | ✔️         | ❌             |
 | McCrayfish's Furniture Mod    | ✔️         | ✔️             |
-| Morph                         | ✔️         | ❌             |
 | Natura                        | ✔️         | ✔️             |
 | NotEnoughItems                | ✔️         | ✔️             |
 | Pam's Harvestcraft            | ✔️         | ✔️             |
@@ -182,7 +180,7 @@ Forest);
 boni (Mantle, Tinker's Construct);
 bskrs (bspkrsCore, Treecapitator);
 Glitchfiend, Adubbz, Forstride (Biomes O'Plenty);
-iChun (Hats, iChunUtil, Morph, Portal Gun, Sync);
+iChun (Hats, iChunUtil, Portal Gun, Sync);
 jadedcat, KnightMiner (Tinker's Construct);
 Kobata (Inventory Tweaks);
 Lunatrius (Treecapitator);
@@ -209,6 +207,10 @@ Vazkii (Botania, Thaumic Exploration);
 - Added Thaumic Exploration
 - Added Forbidden Magic 0.575
 - Added Tainted Magic r7.82
+
+### 0.1.2
+
+- Removed Morph due to crashing
 
 ## Footnotes
 
