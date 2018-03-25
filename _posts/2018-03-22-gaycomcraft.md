@@ -90,7 +90,8 @@ buttons and options are not very intuitive.
 11. When the game finishes downloading and the main menu opens, close the game.
 
 12. If you already have Forge for 1.7.10 installed, skip to step 25. Download
-the Forge installer from [minecraftforge.net](https://goo.gl/7nMG7R).
+the Forge installer from [minecraftforge.net](https://goo.gl/7nMG7R). Select the
+latest version (1.7.10 - 10.13.4.1614).
 
 13. Run the installer.
 
