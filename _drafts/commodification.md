@@ -31,7 +31,7 @@ values mathematics as a necessary interpretation of all of reality will almost
 certainly attempt in some regard to define some mediating value in the
 aforementioned exchange.
 
-This may not necessarily be a negative trait, however,
+This may not necessarily be a negative trait; however,
 it is severely flawed in the assumption that it is the item itself that is given
 value by the two parties and not the exchange from the reference frame of each
 individual party. In a market, it is the item being exchanged that is given some

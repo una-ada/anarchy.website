@@ -52,8 +52,8 @@ past you, the present you will simultaneously become all of these future yous.
 <br>
 
 The universe as described by the MWI is deterministic, which can be interpreted
-as an indication that free will is not real in such a universe<sup>2</sup>, but
-perhaps this
+as an indication that free will is not real in such a
+universe<sup>[2](#2)</sup>, but perhaps this
 is not such a simple leap. While it is true that, based on the existence of a
 world for any given possible outcome of every single quantum system within the
 containing universe, the state of the universe at any time in the future can be
@@ -63,40 +63,47 @@ predetermined life. This point can be further clarified by examining the
 method by which a description of the universe would be created in this case. As
 with several other parts of the MWI, this description is based on classical
 perception (though not technically reliant on a distinct definition of
-this<sup>1</sup>). A world is first described as the product of the states of
-all objects within the world, |Ψ<sub>object</sub>⟩, and particles or other
-such factors that do not fit into any object definitions, |Φ⟩, such that
+this<sup>[1](#1)</sup>). A world is first described as the product of the states
+of all objects within the world, $\rvert\Psi_{\mathrm{Object}}\rangle$, and
+particles or other such factors that do not fit into any object definitions,
+$\rvert\Phi\rangle$, such that
 
-<center><p>|Ψ<sub>World</sub>⟩ = |Ψ<sub>Object 1</sub>⟩ |Ψ<sub>Object 2</sub>⟩
-|Ψ<sub>Object 3</sub>⟩ ... |Ψ<sub>Object N</sub>⟩ |Φ⟩.</p></center>
+$$
+\rvert\Psi_{\mathrm{World}}\rangle=\rvert\Psi_{\mathrm{Object}_1}\rangle\rvert
+\Psi_{\mathrm{Object}_2}\rangle\rvert\Psi_{\mathrm{Object}_3}\rangle\ldots\rvert
+\Psi_{\mathrm{Object}_n}\rangle\rvert\Phi\rangle.
+$$
 
 Based on this depiction and the idea that the universe is a container for all
 worlds branching from its conception, the state of the universe is the described
-as<sup>3</sup>
+as<sup>[3](#3)</sup>
 
-<center><p>|Ψ<sub>Universe</sub>⟩ = |Ψ<sub>World 1</sub>⟩ |Ψ<sub>World 2</sub>⟩
-|Ψ<sub>World 3</sub>⟩ ... |Ψ<sub>World N</sub>⟩.</p></center>
+$$
+\rvert\Psi_{\mathrm{Universe}}\rangle=\rvert\Psi_{\mathrm{World}_1}\rangle\rvert
+\Psi_{\mathrm{World}_2}\rangle\rvert\Psi_{\mathrm{World}_3}\rangle\ldots\rvert
+\Psi_{\mathrm{World}_n}.
+$$
 
 ## Endnotes:
 
-1. While this definition uses classically defined "objects" in its
-representation of a world, the distinction of what is an is not an object is
+1. <a name="1"></a>While this definition uses classically defined "objects" in
+its representation of a world, the distinction of what is an is not an object is
 handled by the extra factor that exists to handle the existence of factors that
 contribute to the state of the world that would not be described as members of
 any object.
 
-2. PBS Space Time. (2016). *The Many Worlds of the Quantum Multiverse*.
-Retrieved from: [youtube.com](https://youtu.be/dzKWfw68M5U).
+2. <a name="2"></a>PBS Space Time. (2016). *The Many Worlds of the Quantum
+Multiverse*. Retrieved from [youtube.com](https://youtu.be/dzKWfw68M5U).
 
-3. It is often stated that there are infinitely many worlds and thus
-the last term in this description (|Ψ<sub>World N</sub>⟩) would be unnecessary;
-however, given that the current understanding of quantum mechanics is that many
-systems have a discrete set of outcomes and values such as time, distance, and
-energy are described as integer values of some minimum, the amount of worlds
-splitting from any given system will merely be large and not infinite. The
-constant splitting of many worlds into many more worlds may approach infinity
-but under the assumption that the universe itself is not infinitely large nor
-eternally old, this amount is not truly be infinite.
+3. <a name="3"></a>It is often stated that there are infinitely many worlds and
+thus the last term in this description (|Ψ<sub>World N</sub>⟩) would be
+unnecessary; however, given that the current understanding of quantum mechanics
+is that many systems have a discrete set of outcomes and values such as time,
+distance, and energy are described as integer values of some minimum, the amount
+of worlds splitting from any given system will merely be large and not infinite.
+The constant splitting of many worlds into many more worlds may approach
+infinity but under the assumption that the universe itself is not infinitely
+large nor eternally old, this amount is not truly be infinite.
 
 ## Bibliography:
 
