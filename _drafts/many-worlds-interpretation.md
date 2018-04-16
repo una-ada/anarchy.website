@@ -1,10 +1,19 @@
 ---
 author: uja
+description: >
+    The Many-Worlds Interpretation (MWI) provides and explanation for the
+    uncertainty we find in quantum mechanics. This may have plenty of
+    philosophical ramifications in both science and metaphysics, but it may also
+    be incomplete or erroneous. Here, we will explore these ideas and some of
+    their criticisms.
 layout: post
+license: BY-SA
 title: An Introduction to the Many-Worlds Interpretation of Quantum Mechanics
 tags: philosophy metaphysics quantum-mechanics article manyworlds
-license: BY-SA
 ---
+
+- toc
+{:toc}
 
 Today, the Copenhagen Interpretation of Quantum Mechanics reigns supreme amongst
 educators and physicists of all breeds. It is mathematically proven and requires
@@ -20,6 +29,8 @@ of pilot waves guiding the particles to their ultimate locations. An
 interpretation that moves farther away from classical mechanics than the
 Copenhagen (while still holding some fairly classical views) is the Many-Worlds
 Interpretation of Quantum Mechanics (MWI).
+
+## Worlds
 
 While often treated as a multiverse theory, the MWI does not assert the
 existence of parallel universes but of other worlds that exist within our own
@@ -81,7 +92,7 @@ as<sup>[3](#3)</sup>
 $$
 \rvert\Psi_{\mathrm{Universe}}\rangle=\rvert\Psi_{\mathrm{World}_1}\rangle\rvert
 \Psi_{\mathrm{World}_2}\rangle\rvert\Psi_{\mathrm{World}_3}\rangle\ldots\rvert
-\Psi_{\mathrm{World}_n}.
+\Psi_{\mathrm{World}_n}\rangle.
 $$
 
 ## Endnotes:
@@ -96,14 +107,14 @@ any object.
 Multiverse*. Retrieved from [youtube.com](https://youtu.be/dzKWfw68M5U).
 
 3. <a name="3"></a>It is often stated that there are infinitely many worlds and
-thus the last term in this description (|Ψ<sub>World N</sub>⟩) would be
-unnecessary; however, given that the current understanding of quantum mechanics
-is that many systems have a discrete set of outcomes and values such as time,
-distance, and energy are described as integer values of some minimum, the amount
-of worlds splitting from any given system will merely be large and not infinite.
-The constant splitting of many worlds into many more worlds may approach
-infinity but under the assumption that the universe itself is not infinitely
-large nor eternally old, this amount is not truly be infinite.
+thus the last term in this description ($\rvert\Psi_{\mathrm{World}_n}\rangle$)
+would be unnecessary; however, given that the current understanding of quantum
+mechanics is that many systems have a discrete set of outcomes and values such
+as time, distance, and energy are described as integer values of some minimum,
+the amount of worlds splitting from any given system will merely be large and
+not infinite. The constant splitting of many worlds into many more worlds may
+approach infinity but under the assumption that the universe itself is not
+infinitely large nor eternally old, this amount is not truly be infinite.
 
 ## Bibliography:
 
@@ -119,11 +130,11 @@ Retrieved from: [io9.gizmodo.com](https://goo.gl/NymUHU).
 Interpretation*.
 Retrieved from: [io9.gizmodo.com](https://goo.gl/k9CmHJ).
 
-1. Everett III, H. [THE THEORY OF THE UNIVERSAL WAVE
-FUNCTION](https://www-tc.pbs.org/wgbh/nova/manyworlds/pdf/dissertation.pdf).
+1. Everett III, H. [The Theory of the Universal
+Wavefunction](https://www-tc.pbs.org/wgbh/nova/manyworlds/pdf/dissertation.pdf).
 
-1. Lehner, C. (1997) [WHAT IT FEELS LIKE TO BE IN A SUPERPOSITION. AND
-WHY.](https://doi.org/10.1023/A:1004981126055) *Synthese, 110*(2), 191-
+1. Lehner, C. (1997) [What It Feels Like to be In a Superposition. And
+Why.](https://doi.org/10.1023/A:1004981126055) *Synthese, 110*(2), 191-216
 
 1. Lim, E. (2015). *The theory of parallel universes is not just maths – it is
 science that can be tested*.
