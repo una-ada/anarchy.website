@@ -31,9 +31,6 @@ The value doesn't have to necessarily be given a number, just Person A views
 Item 1 to have the same value as Person B views Item 2 to
 have<sup>[D1](#D1)</sup>.
 
-<p class="pullquote">This is a styling test for possibly implement pull-quotes,
-since people seem to like that.</p>
-
 Nonetheless, any person raised in a world that values mathematics as a necessary
 interpretation of all of reality will almost certainly attempt in some regard to
 define some mediating value in the aforementioned exchange.
@@ -76,9 +73,6 @@ examples put forth above, such examples are built on the assumption of property,
 autonomy, control, access, ownership, and, to an extent, the universality of
 people's ability to compromise on value<sup>[D3](#D3)</sup>.
 
-<p class="pullquote left">This is a styling test for possibly implement
-pull-quotes, since people seem to like that.</p>
-
 In a system wherein a capitalist class, the "bourgeoisie" as they are often
 called, exists, this class may choose whether or not to themselves be
 commodified, while those of any other class that does not bear any control over
@@ -102,25 +96,56 @@ Ross<sup>[D5](#D5)</sup> is used: work is forced labor.
 **Discuss how vague this is and how that is meant to be able to include domestic
 and emotional labor as work.**
 
-Not working is incompatible with our current reality<sup>[D4](#D4)</sup>.
-Work is ingrained in society<sup>[D4](#D4)</sup>.
+Not working is incompatible with our current situation: a society built upon
+labor<sup>[D4](#D4)</sup>.
+This idea was more harshly stated by Wilde<sup>[D10](#D10):
 
+><a name="wilde"></a>The fact is, that civilisation requires slaves. The Greeks
+were quite right there. Unless there are slaves to do the ugly, horrible,
+uninteresting work, culture and contemplation become almost impossible. Human
+slavery is wrong, insecure, and demoralising. On mechanical slavery, on the
+slavery of the machine, the future of the world depends.
+
+**Mention this being about automation, transition to how work persists even now
+when we have automation.**
+
+Even within [Wilde's statement](#wilde) there exists an indication that
+automation will not necessarily end work.
+He claims that civilization requires it, that is to say that civilization is
+built upon it, and so replacing work done by people with work done by machines
+does not imply at all that work will be completely overhauled by the
+introduction of the machine; rather, it asserts that automation is the direction
+in which we must push so as to eventually abolish work.
+
+
+**About what not working is like:**
 Consequence must still exist without work, simply replacing it with play would
 not suffice<sup>[D6](#D6)</sup>.
 Play is not necessarily non-productive and so the dichotomy of work and play is
 not completely polarized<sup>[D5](#D5)</sup>.
 
-## Aesthetics as a Solution
+## Æsthetics as a Solution
 
+To simply assert æsthetics as the means by which to counter commodification
+would be an essentially meaningless statement.
+As æsthetics is that which has no bearing on anything other than itself, the
+aforementioned statement would mean nothing more than "just stop being
+commodified."
+**Give reference to Shaviro's essay**<sup>[D11](#D11)</sup>.
 
+**How do we move from our current state to one of pure aesthetic indulgence?**
 
----
+**Something about prefigurativism.**
+
+**Some other shit probably about full automation.**
 
 ## Footnotes
 
-7. <a name="D7"></a>https://www.merriam-webster.com/dictionary/commodify
+7. <a name="D7"></a>Merriam-Webster, *Commodify*.
+[merriam-webster.com](https://www.merriam-webster.com/dictionary/commodify)
 
-8. <a name="D8"></a>https://www.merriam-webster.com/dictionary/commodity
+8. <a name="D8"></a>Merriam-Webster, *Commodity*.
+[merriam-webster.com](https://www.merriam-webster.com/dictionary/commodity)
 
 1. <a name="D1"></a>Theoretically, if trades were made in such a system
 between three parties (Persons A, B, and C), where Person A trades Item 1 for
@@ -143,17 +168,24 @@ to trade away Item 1 to begin with, has no interest in once again having Item 1.
 instances within a market system, such as stocks being bought and sold based on
 the assumed or predicted value of the company backing them.
 
-3. <a name="D3"></a>ADD A NOTE OR SOMETHING HERE!!!
+3. <a name="D3"></a>**Give references/discussion about how humans may not always
+agree on value.**
 
 9. <a name="D9"></a>Pun not intended, but duly acknowledged.
 
-4. <a name="D4"></a>Black, B. (2009). *The Abolition of Work*. Retrieved from:
+4. <a name="D4"></a>Bob Black, *The Abolition of Work*, 2009.
 [primitivism.com](http://www.primitivism.com/abolition.htm)
 ([mirror](https://goo.gl/3MvB1n))
 
-5. <a name="D5"></a>Ross, C. (2017). *Different Types of Activity*.
-Retrieved from:
+5. <a name="D5"></a>Chris Ross, *Different Types of Activity*, 2017.
 [never-work.com](https://never-work.com/2017/09/07/different-types-of-activity/)
 
-6. <a name="D6"><a/>Gillis, W. (2010). *Stress, Labor & Play.* Retrieved from:
+10. <a name="D10"></a>Oscar Wilde, *The Soul of Man Under Socialism*, 1891.
+[libcom.org](https://libcom.org/library/soul-of-man-under-socialism-oscar-wilde)
+
+6. <a name="D6"><a/>William Gillis, *Stress, Labor & Play*, 2010.
 [humaniterations.net](https://humaniterations.net/2010/05/14/stress-labor-play/)
+
+11. <a name="D11"></a>Steven Shaviro, *Accelerationist Aesthetics: Necessary
+Inefficiency in Time of Real Subsumption*, 2013.
+[e-flux.com](https://goo.gl/F3Nt6T)
