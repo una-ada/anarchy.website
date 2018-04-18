@@ -187,7 +187,7 @@ agree on value.**
 [humaniterations.net](https://humaniterations.net/2010/05/14/stress-labor-play/)
 
 11. <a name="D11"></a>Steven Shaviro, *Accelerationist Aesthetics: Necessary
-Inefficiency in Time of Real Subsumption*, 2013.
+Inefficiency in Times of Real Subsumption*, 2013.
 [e-flux.com](https://goo.gl/F3Nt6T)
 
 ---
@@ -195,47 +195,40 @@ Inefficiency in Time of Real Subsumption*, 2013.
 **Commodification:**
 1. Marxists, *Commodification*.
 [marxists.org](https://www.marxists.org/glossary/terms/c/o.htm#commodification)
-
 2. Thomas Hahn, et. al., *Purposes and degrees of commodification: Economic
 instruments for biodiversity and ecosystem services need not rely on markets or
 monetary valuation*, 2015. [sciencedirect.com](https://goo.gl/C85EK7)
-
 3. Edward Song, *Commodification and Consumer Society: A Bibliographic
 Review*, 2003. [iasc-culture.org](https://goo.gl/XAFV82)
-
 4. Anthony Bonen, Jose Coronado, *Delineating the Process of Fictive
 Commodiﬁcation in Advanced Capitalism*, 2014.
-
 5. Natascha Pröschel, *Commodification and Culture*, 2012.
 [modul.ac.at](https://goo.gl/sbXsA2)
-
 6. Harrison C. White, *Where Do Markets Come From?* 1981.
 [wordpress.com](https://innocon.files.wordpress.com/2010/05/white.pdf)
-
 7. Robert Fitter, Raphael Kaplinsky, *Who Gains When Commodities are
 De-Commodified?* 2001.
 [ids.ac.uk](https://www.ids.ac.uk/ids/global/pdfs/kaplinskyfitteroct01.pdf)
-
 8. Stefano B. Longo, Rebecca Clausen and Brett Clark, *Capitalism and the
 Commodification of Salmon*, 2014. [monthlyreview.org](https://goo.gl/gtrhw1)
-
 9. David Harvey, *The Art of Rent: Globalization, Monopoly and the
 Commodification of Culture*, 2002.
 
 **Mathematical Thought:**
 1. University of Alaska - Fairbanks, *Mathematics in a Cultural Context*, 2014.
 [uaf.edu/mcc](https://www.uaf.edu/mcc/research/articles/)
-
 2. Morris Kline, *Mathematical Thought From Ancient To Modern Times*, 1972.
 [archive.org](https://goo.gl/sLqz8w)
 
 **Attribution of Value:**
 1. Nuray Sakalli, *Application of the Attribution–Value Model of Prejudice to
 Homosexuality*, 2002. [terpconnect.umd.edu/~mnm06c](https://goo.gl/ngyki6)
-
 2. Christian S. Crandall, et. al., *An Attribution-Value Model of Prejudice:
 Anti-Fat Attitudes in Six Nations*, 2001.
 [sagepub.com](http://journals.sagepub.com/doi/abs/10.1177/0146167201271003)
-
-2. Wikipedia, *Game Theory*.
+3. Wikipedia, *Game Theory*.
 [en.wikipedia.org](https://en.wikipedia.org/wiki/Game_theory)
+
+**Work:**
+1. Guy Debord, *Never Work*, 1953. [marxists.org](https://goo.gl/fNr8Zo)
+2. Zo d'Axa, *The Honest Worker*, 1898. [marxists.org](https://goo.gl/mzq2MH)

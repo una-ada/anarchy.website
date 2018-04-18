@@ -25,7 +25,7 @@ hr				{background:#444;border:0;height:1px;}
 hr + h2			{margin-top:0;}
 html			{color:#444;font-size:10pt;}
 img,video		{max-width:calc(100% - 1rem);}
-p				{line-height:1.5rem;text-align:justify;}
+li, p			{line-height:1.5rem;text-align:justify;}
 p>span.MathJax_SVG{margin-bottom: -1em !important;}
 pre        		{background:#fff;border:1px solid #555;overflow:visible !important;padding:10px !important;tab-size:4;}
 .preview		{margin:2rem 0;}
