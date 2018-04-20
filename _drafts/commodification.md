@@ -18,12 +18,14 @@ license: BY-SA
 
 ## Introduction to Commodification
 
-Commodification, the alteration of any resources, products, ideas, et cetera so
-as to be sold in a market<sup>[D7](#D7),[D8](#D8)</sup>, is fundamentally
-anchored to the idea of attribution of value.
+Commodification, the shift in social perception and treatment of any resources,
+products, people, ideas, et cetera so as to be sold in a
+market<sup>[D7](#D7),[D8](#D8),[D14](#D14)</sup>, is fundamentally anchored to
+the idea of attribution of value.
 In modern society, we have come to view mathematics as the basis for our
 understanding of the world.
-This is true in not only physics, but economics and even sociology as a whole.
+This is true in not only physics, but economics and even sociology as a
+whole<sup>[D12](#D12),[D13](#D13)</sup>.
 If we were to simply trade one item for another, it is arguable that the two
 parties doing said trading are agreeing on some value for each item in the
 trade.
@@ -73,19 +75,14 @@ examples put forth above, such examples are built on the assumption of property,
 autonomy, control, access, ownership, and, to an extent, the universality of
 people's ability to compromise on value<sup>[D3](#D3)</sup>.
 
-In a system wherein a capitalist class, the "bourgeoisie" as they are often
-called, exists, this class may choose whether or not to themselves be
-commodified, while those of any other class that does not bear any control over
-the economy are simply commodified by default.
-One particularly stark manifestation of this idea can be found in a slave trade:
-those in the slave class are a literal commodity, they are bought and they are
-sold; however, the slave traders, the class controlling the trade, is not
-subject to the same treatment.
-More simply put, the rich may sell themselves while everyone else is forced to
-do so.
-Certainly, most reading this have never been sold in a slave trade and so the
-previous example may be a bit out of their scope, but nonetheless the idea
-remains true in the day to day life of the average person today.
+While commodification is in part derived from the perception of all things based
+on some numerical value, this is still an abstract idea which is only reified
+when a legal structure enforces property rights such that these values may be
+held by individuals or other entities.
+
+**Explain each step of commodification, each level or whatevs.**
+
+**Give examples at each phase.**
 
 ## The Special Case of Work
 
@@ -131,7 +128,8 @@ would be an essentially meaningless statement.
 As æsthetics is that which has no bearing on anything other than itself, the
 aforementioned statement would mean nothing more than "just stop being
 commodified."
-**Give reference to Shaviro's essay**<sup>[D11](#D11)</sup>.
+Shaviro more precisely describes æsthetics as "the one thing that cannot be
+reduced to political economy"<sup>[D11](#D11)</sup>.
 
 **How do we move from our current state to one of pure aesthetic indulgence?**
 
@@ -139,13 +137,18 @@ commodified."
 
 **Some other shit probably about full automation.**
 
-## Footnotes
+## Notes
 
-7. <a name="D7"></a>Merriam-Webster, *Commodify*.
-[merriam-webster.com](https://www.merriam-webster.com/dictionary/commodify)
+7. <a name="D7"></a>*Commodify*, Merriam-Webster.
 
-8. <a name="D8"></a>Merriam-Webster, *Commodity*.
-[merriam-webster.com](https://www.merriam-webster.com/dictionary/commodity)
+8. <a name="D8"></a>*Commodity*, Merriam-Webster.
+
+14. <a name="D14"></a>Marxists, *Commodification*.
+
+12. <a name="D12"></a>*Game Theory*, Wikipedia.
+
+13. <a name="D13"></a>Don Ross, *Game Theory*, Stanford Encyclopedia of
+Philosophy, 2016.
 
 1. <a name="D1"></a>Theoretically, if trades were made in such a system
 between three parties (Persons A, B, and C), where Person A trades Item 1 for
@@ -174,61 +177,101 @@ agree on value.**
 9. <a name="D9"></a>Pun not intended, but duly acknowledged.
 
 4. <a name="D4"></a>Bob Black, *The Abolition of Work*, 2009.
-[primitivism.com](http://www.primitivism.com/abolition.htm)
-([mirror](https://goo.gl/3MvB1n))
 
 5. <a name="D5"></a>Chris Ross, *Different Types of Activity*, 2017.
-[never-work.com](https://never-work.com/2017/09/07/different-types-of-activity/)
 
 10. <a name="D10"></a>Oscar Wilde, *The Soul of Man Under Socialism*, 1891.
-[libcom.org](https://libcom.org/library/soul-of-man-under-socialism-oscar-wilde)
 
 6. <a name="D6"><a/>William Gillis, *Stress, Labor & Play*, 2010.
-[humaniterations.net](https://humaniterations.net/2010/05/14/stress-labor-play/)
 
 11. <a name="D11"></a>Steven Shaviro, *Accelerationist Aesthetics: Necessary
-Inefficiency in Times of Real Subsumption*, 2013.
-[e-flux.com](https://goo.gl/F3Nt6T)
+Inefficiency in Times of Real Subsumption*, e-flux Journal, 2013.
 
----
+## Bibliography
 
-**Commodification:**
-1. Marxists, *Commodification*.
-[marxists.org](https://www.marxists.org/glossary/terms/c/o.htm#commodification)
-2. Thomas Hahn, et. al., *Purposes and degrees of commodification: Economic
-instruments for biodiversity and ecosystem services need not rely on markets or
-monetary valuation*, 2015. [sciencedirect.com](https://goo.gl/C85EK7)
-3. Edward Song, *Commodification and Consumer Society: A Bibliographic
-Review*, 2003. [iasc-culture.org](https://goo.gl/XAFV82)
-4. Anthony Bonen, Jose Coronado, *Delineating the Process of Fictive
-Commodiﬁcation in Advanced Capitalism*, 2014.
-5. Natascha Pröschel, *Commodification and Culture*, 2012.
-[modul.ac.at](https://goo.gl/sbXsA2)
-6. Harrison C. White, *Where Do Markets Come From?* 1981.
-[wordpress.com](https://innocon.files.wordpress.com/2010/05/white.pdf)
-7. Robert Fitter, Raphael Kaplinsky, *Who Gains When Commodities are
+1. d'Axa, Zo. "The Honest Worker." Translated by Mitch Abidor. *La Feuille*,
+No. 24 (February 1898).
+[marxists.org](https://www.marxists.org/reference/archive/zo-daxa/1898/honest-worker.htm)
+
+1. Black, Bob. "The Abolition of Work." Accessed February 12, 2009.
+[primitivism.com](http://www.primitivism.com/abolition.htm),
+[theanarchistlibrary.org](https://theanarchistlibrary.org/library/bob-black-the-abolition-of-work)
+
+1. Bonen, Anthony and Jose Coronado, "Delineating the Process of Fictive
+Commodiﬁcation in Advanced Capitalism", 2015.
+
+1. Crandall, Christian S., Silvana D’Anello, Nuray Sakalli, Eleana Lazarus,
+Grazyna Wieczorkowska Nejtardt, and N. T. Feather. "An Attribution-Value Model
+of Prejudice: Anti-Fat Attitudes in Six Nations", *Personality and Social
+Psychology Bulletin* Vol 27, Issue 1 (January 2001): 30-37.
+[sagepub.com](http://journals.sagepub.com/doi/abs/10.1177/0146167201271003)
+
+1. Fitter, Robert and Raphael Kaplinsky, *Who Gains When Commodities are
 De-Commodified?* 2001.
 [ids.ac.uk](https://www.ids.ac.uk/ids/global/pdfs/kaplinskyfitteroct01.pdf)
-8. Stefano B. Longo, Rebecca Clausen and Brett Clark, *Capitalism and the
-Commodification of Salmon*, 2014. [monthlyreview.org](https://goo.gl/gtrhw1)
-9. David Harvey, *The Art of Rent: Globalization, Monopoly and the
+
+1. Gillis, William, *Stress, Labor & Play*, 2010.
+[humaniterations.net](https://humaniterations.net/2010/05/14/stress-labor-play/)
+
+1. Hahn, Thomas, et. al., *Purposes and degrees of commodification: Economic
+instruments for biodiversity and ecosystem services need not rely on markets or
+monetary valuation*, 2015.
+
+1. Harvey, David, *The Art of Rent: Globalization, Monopoly and the
 Commodification of Culture*, 2002.
 
-**Mathematical Thought:**
+1. Kline, Morris, *Mathematical Thought From Ancient To Modern Times*, 1972.
+[archive.org](https://archive.org/details/MathematicalThoughtFromAncientToModernTimes)
+
+1. Longo, Stefano B., Rebecca Clausen and Brett Clark, *Capitalism and the
+Commodification of Salmon*, 2014.
+[monthlyreview.org](https://monthlyreview.org/2014/12/01/capitalism-and-the-commodification-of-salmon/)
+
+1. Marxists, *Commodification*.
+[marxists.org](https://www.marxists.org/glossary/terms/c/o.htm#commodification)
+
+1. Merriam-Webster, *Commodify*.
+[merriam-webster.com](https://www.merriam-webster.com/dictionary/commodify)
+
+1. Merriam-Webster, *Commodity*.
+[merriam-webster.com](https://www.merriam-webster.com/dictionary/commodity)
+
+1. Pröschel, Natascha, *Commodification and Culture*, 2012.
+[modul.ac.at](https://www.modul.ac.at/uploads/files/Theses/Bachelor/Thesis-2012-Proeschel-Natascha.pdf)
+[sciencedirect.com](https://www.sciencedirect.com/science/article/pii/S2212041615300395)
+
+1. Ross, Chris, *Different Types of Activity*, 2017.
+[never-work.com](https://never-work.com/2017/09/07/different-types-of-activity/)
+
+1. Ross, Don, *Game Theory*, Stanford Encyclopedia of Philosophy, 2016.
+[plato.stanford.edu](https://plato.stanford.edu/archives/win2016/entries/game-theory/)
+
+1. Sakalli, Nuray, *Application of the Attribution–Value Model of Prejudice to
+Homosexuality*, 2002.
+[terpconnect.umd.edu/~mnm06c](https://terpconnect.umd.edu/~mnm06c/Documents/SYP%20Revisited/Application%20of%20the%20Attribution_Value%20Model%20of%20Prejudice%20to%20Homosexuality.pdf)
+
+1. Shaviro, Steven, *Accelerationist Aesthetics: Necessary
+Inefficiency in Times of Real Subsumption*, e-flux Journal, 2013.
+[e-flux.com](http://www.e-flux.com/journal/46/60070/accelerationist-aesthetics-necessary-inefficiency-in-times-of-real-subsumption/)
+
+1. Smith, Vernon L., *Rationality in Economics*, 2008.
+[langtoninfo.co.uk](http://www.langtoninfo.co.uk/web_content/9780521871358_frontmatter.pdf)
+
+1. Song, Edward, *Commodification and Consumer Society: A Bibliographic
+Review*, 2003.
+[iasc-culture.org](http://iasc-culture.org/THR/archives/Commodification/5.2KSong.pdf)
+
+1. Sraffa, Pierro, *Production of Commodities by Means of Commodities*, 1963.
+[laprimaradice.myblog.it](https://laprimaradice.myblog.it/media/02/02/2829581832.pdf)
+
 1. University of Alaska - Fairbanks, *Mathematics in a Cultural Context*, 2014.
 [uaf.edu/mcc](https://www.uaf.edu/mcc/research/articles/)
-2. Morris Kline, *Mathematical Thought From Ancient To Modern Times*, 1972.
-[archive.org](https://goo.gl/sLqz8w)
 
-**Attribution of Value:**
-1. Nuray Sakalli, *Application of the Attribution–Value Model of Prejudice to
-Homosexuality*, 2002. [terpconnect.umd.edu/~mnm06c](https://goo.gl/ngyki6)
-2. Christian S. Crandall, et. al., *An Attribution-Value Model of Prejudice:
-Anti-Fat Attitudes in Six Nations*, 2001.
-[sagepub.com](http://journals.sagepub.com/doi/abs/10.1177/0146167201271003)
-3. Wikipedia, *Game Theory*.
+1. White, Harrison C., *Where Do Markets Come From?* 1981.
+[wordpress.com](https://innocon.files.wordpress.com/2010/05/white.pdf)
+
+1. Wikipedia, *Game Theory*.
 [en.wikipedia.org](https://en.wikipedia.org/wiki/Game_theory)
 
-**Work:**
-1. Guy Debord, *Never Work*, 1953. [marxists.org](https://goo.gl/fNr8Zo)
-2. Zo d'Axa, *The Honest Worker*, 1898. [marxists.org](https://goo.gl/mzq2MH)
+1. Wilde, Oscar, *The Soul of Man Under Socialism*, 1891.
+[libcom.org](https://libcom.org/library/soul-of-man-under-socialism-oscar-wilde)
