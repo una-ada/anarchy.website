@@ -189,8 +189,8 @@ Inefficiency in Times of Real Subsumption*, e-flux Journal, 2013.
 
 ## Bibliography
 
-1. d'Axa, Zo. "The Honest Worker." Translated by Mitch Abidor. *La Feuille*,
-No. 24 (February 1898).
+1. d'Axa, Zo. "The Honest Worker." Translated by Mitch Abidor. *La Feuille* No.
+24 (February 1898).
 [marxists.org](https://www.marxists.org/reference/archive/zo-daxa/1898/honest-worker.htm)
 
 1. Black, Bob. "The Abolition of Work." Accessed February 12, 2009.
@@ -202,76 +202,99 @@ Commodiﬁcation in Advanced Capitalism", 2015.
 
 1. Crandall, Christian S., Silvana D’Anello, Nuray Sakalli, Eleana Lazarus,
 Grazyna Wieczorkowska Nejtardt, and N. T. Feather. "An Attribution-Value Model
-of Prejudice: Anti-Fat Attitudes in Six Nations", *Personality and Social
-Psychology Bulletin* Vol 27, Issue 1 (January 2001): 30-37.
+of Prejudice: Anti-Fat Attitudes in Six Nations," *Personality and Social
+Psychology Bulletin* 27, Issue 1 (January 2001): 30-37.
 [sagepub.com](http://journals.sagepub.com/doi/abs/10.1177/0146167201271003)
 
-1. Fitter, Robert and Raphael Kaplinsky, *Who Gains When Commodities are
-De-Commodified?* 2001.
+1. Fitter, Robert and Raphael Kaplinsky. "Who Gains When Commodities are
+De-Commodified?" (September 2001).
 [ids.ac.uk](https://www.ids.ac.uk/ids/global/pdfs/kaplinskyfitteroct01.pdf)
 
-1. Gillis, William, *Stress, Labor & Play*, 2010.
+1. Gillis, William. "Stress, Labor & Play" (May 2010).
 [humaniterations.net](https://humaniterations.net/2010/05/14/stress-labor-play/)
 
-1. Hahn, Thomas, et. al., *Purposes and degrees of commodification: Economic
+1. Hahn, Thomas, Constance McDermott, Claudia Ituarte-Lima, Maria Schultz, Tom
+Green, Magnus Tuvendal. "Purposes and degrees of commodification: Economic
 instruments for biodiversity and ecosystem services need not rely on markets or
-monetary valuation*, 2015.
-
-1. Harvey, David, *The Art of Rent: Globalization, Monopoly and the
-Commodification of Culture*, 2002.
-
-1. Kline, Morris, *Mathematical Thought From Ancient To Modern Times*, 1972.
-[archive.org](https://archive.org/details/MathematicalThoughtFromAncientToModernTimes)
-
-1. Longo, Stefano B., Rebecca Clausen and Brett Clark, *Capitalism and the
-Commodification of Salmon*, 2014.
-[monthlyreview.org](https://monthlyreview.org/2014/12/01/capitalism-and-the-commodification-of-salmon/)
-
-1. Marxists, *Commodification*.
-[marxists.org](https://www.marxists.org/glossary/terms/c/o.htm#commodification)
-
-1. Merriam-Webster, *Commodify*.
-[merriam-webster.com](https://www.merriam-webster.com/dictionary/commodify)
-
-1. Merriam-Webster, *Commodity*.
-[merriam-webster.com](https://www.merriam-webster.com/dictionary/commodity)
-
-1. Pröschel, Natascha, *Commodification and Culture*, 2012.
-[modul.ac.at](https://www.modul.ac.at/uploads/files/Theses/Bachelor/Thesis-2012-Proeschel-Natascha.pdf)
+monetary valuation," *Ecosystem Services* 16 (2015): 74-82.
 [sciencedirect.com](https://www.sciencedirect.com/science/article/pii/S2212041615300395)
 
-1. Ross, Chris, *Different Types of Activity*, 2017.
+1. Harvey, David. "The Art of Rent: Globalization, Monopoly and the
+Commodification of Culture," *Socialist Register* 38 (2002): 93-110.
+
+1. Hilbert, David. *The Foundation of Geometry*. Translated by E.J. Townsend.
+Illinois: The Open Court Publishing Company, 1950.
+[gutenberg.org](http://www.gutenberg.org/ebooks/17384)
+
+1. Kline, Morris. *Mathematical Thought From Ancient To Modern Times*. New York:
+Oxford University Press, 1972.
+[archive.org](https://archive.org/details/MathematicalThoughtFromAncientToModernTimes)
+
+1. Longo, Stefano B., Rebecca Clausen and Brett Clark. "Capitalism and the
+Commodification of Salmon," *Monthyl Review* 66, Issue 07 (December 2014).
+[monthlyreview.org](https://monthlyreview.org/2014/12/01/capitalism-and-the-commodification-of-salmon/)
+
+1. Martin, Edward, Jr. "The Psychological Unreality of Quantificational
+Semantics," *Minnesota Studies in the Philosophy of Science* IX (1978): 165-181.
+[mcps.umn.edu](http://mcps.umn.edu/philosophy/9_8Martin.pdf)
+
+1. Marxists. "Commodification." Accessed April 20, 2018.
+[marxists.org](https://www.marxists.org/glossary/terms/c/o.htm#commodification)
+
+1. Merriam-Webster. "Commodify." Accessed April 20, 2018.
+[merriam-webster.com](https://www.merriam-webster.com/dictionary/commodify)
+
+1. Merriam-Webster, "Commodity." Accessed April 20, 2018.
+[merriam-webster.com](https://www.merriam-webster.com/dictionary/commodity)
+
+1. Pröschel, Natascha. "Commodification and Culture." Bachelor Thesis, Modul
+University, Vienna, 2012.
+[modul.ac.at](https://www.modul.ac.at/uploads/files/Theses/Bachelor/Thesis-2012-Proeschel-Natascha.pdf)
+
+1. Richardson, Alan W. "Origins of Logical Empiricism," *Minnesota Studies in
+the Philosophy of Science* XVI (1996): 1-13.
+[mcps.umn.edu](http://mcps.umn.edu/assets/pdf/16Intro_OriginsofLogicalEmpiricism.pdf)
+
+1. Ross, Chris. "Different Types of Activity" (September 2017).
 [never-work.com](https://never-work.com/2017/09/07/different-types-of-activity/)
 
-1. Ross, Don, *Game Theory*, Stanford Encyclopedia of Philosophy, 2016.
+1. Ross, Don. "Game Theory," *Stanford Encyclopedia of Philosophy* (Winter 2016
+Edition), edited by Edward N. Zalta.
 [plato.stanford.edu](https://plato.stanford.edu/archives/win2016/entries/game-theory/)
 
-1. Sakalli, Nuray, *Application of the Attribution–Value Model of Prejudice to
-Homosexuality*, 2002.
+1. Sakalli, Nuray. "Application of the Attribution–Value Model of Prejudice to
+Homosexuality," *The Journal of Social Psychology* 142, No. 2 (2002): 264-271.
 [terpconnect.umd.edu/~mnm06c](https://terpconnect.umd.edu/~mnm06c/Documents/SYP%20Revisited/Application%20of%20the%20Attribution_Value%20Model%20of%20Prejudice%20to%20Homosexuality.pdf)
 
-1. Shaviro, Steven, *Accelerationist Aesthetics: Necessary
-Inefficiency in Times of Real Subsumption*, e-flux Journal, 2013.
+1. Shaviro, Steven, "Accelerationist Aesthetics: Necessary
+Inefficiency in Times of Real Subsumption," *e-flux Journal* 46 (June 2013).
 [e-flux.com](http://www.e-flux.com/journal/46/60070/accelerationist-aesthetics-necessary-inefficiency-in-times-of-real-subsumption/)
 
-1. Smith, Vernon L., *Rationality in Economics*, 2008.
+1. Smith, Vernon L. *Rationality in Economics: Constructivist and Ecological
+Forms*. New York: Cambridge University Press, 2008.
 [langtoninfo.co.uk](http://www.langtoninfo.co.uk/web_content/9780521871358_frontmatter.pdf)
 
-1. Song, Edward, *Commodification and Consumer Society: A Bibliographic
-Review*, 2003.
+1. Song, Edward. "Commodification and Consumer Society: A Bibliographic
+Review," *The Hedgehog Review* 5, No. 2 (Summer 2003): 109-121.
 [iasc-culture.org](http://iasc-culture.org/THR/archives/Commodification/5.2KSong.pdf)
 
-1. Sraffa, Pierro, *Production of Commodities by Means of Commodities*, 1963.
+1. Sraffa, Pierro. *Production of Commodities by Means of Commodities*. Bombay:
+Vora & Co. Publishers, 1963.
 [laprimaradice.myblog.it](https://laprimaradice.myblog.it/media/02/02/2829581832.pdf)
 
-1. University of Alaska - Fairbanks, *Mathematics in a Cultural Context*, 2014.
+1. University of Alaska - Fairbanks. *Mathematics in a Cultural Context*.
+Accessed April 20, 2018.
 [uaf.edu/mcc](https://www.uaf.edu/mcc/research/articles/)
 
-1. White, Harrison C., *Where Do Markets Come From?* 1981.
+1. White, Harrison C. "Where Do Markets Come From?," *The American Journal of
+Sociology* 87, No. 3 (November 1981): 517-547.
 [wordpress.com](https://innocon.files.wordpress.com/2010/05/white.pdf)
 
-1. Wikipedia, *Game Theory*.
+1. Wikipedia. "Game Theory".
 [en.wikipedia.org](https://en.wikipedia.org/wiki/Game_theory)
 
-1. Wilde, Oscar, *The Soul of Man Under Socialism*, 1891.
+1. Wilde, Oscar. "The Soul of Man Under Socialism," *The Fortnightly Review* 49,
+No. 290 (February 1891): 292-319.
 [libcom.org](https://libcom.org/library/soul-of-man-under-socialism-oscar-wilde)
+[marxists.org](https://www.marxists.org/reference/archive/wilde-oscar/soul-man/)
+[wikisource.org](https://en.wikisource.org/wiki/The_Soul_of_Man_Under_Socialism)
