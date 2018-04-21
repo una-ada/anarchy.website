@@ -41,6 +41,10 @@ thead td,
 thead th		{padding-bottom:0.5rem !important;}
 tr:nth-child(even){background:#f0f0f0;}
 
+hist			{color:#4d8;}
+kw				{color:#36d;}
+proof			{color:#e44;}
+
 // Mobile and print
 @media print, screen and (max-width: 750px) {
 	body.notes	{margin:0 1rem !important;padding:0 !important;position:static;width:auto !important;}
