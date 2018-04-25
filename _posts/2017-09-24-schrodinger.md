@@ -120,5 +120,3 @@ some small time step $\Delta t$ in the $x$- and $k$-space respectively:
 
 $$\Psi(x, t + \Delta t) = \Psi(x, t) e^{-i V(x) \Delta t / \hbar},\tag5$$
 $$A(k, t + \Delta t) = A(k, t) e^{-i \hbar k^2 \Delta t / 2m}.\tag6$$
-
-## Fast Fourier Transforms
