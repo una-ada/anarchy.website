@@ -18,7 +18,7 @@ div:target		{background:#eee;}
 footer			{background:#444;color:white;margin:4rem 0 -50vh 0;min-height:50vh;padding:1rem;}
 footer a		{color:white;}
 h1				{text-align:center;}
-h1,h2,h3,h4		{font-family:'Playfair Display','Noto Serif',sans-serif;font-style:italic;text-transform:capitalize;}
+h1,h2,h3,h4		{font-family:'Playfair Display','Noto Serif',sans-serif;text-transform:capitalize;}
 h1 a,h2 a,h3 a,h4 a{text-decoration:none;}
 h2          	{margin-top:3em;}
 hr				{background:#444;border:0;height:1px;}
@@ -36,7 +36,7 @@ small       	{font-size:0.8rem;text-align:justify;}
 sub				{vertical-align:bottom;position:relative;bottom:-0.3em;}
 sup				{vertical-align:top;position:relative;top:-0.3em;}
 table			{border-collapse:collapse;margin:1em 0;}
-thead			{font-family:'Playfair Display','Noto Serif',sans-serif;font-weight:bold;}
+thead			{font-family:'Noto Serif',serif;font-weight:bold;}
 thead td,
 thead th		{padding-bottom:0.5rem !important;}
 tr:nth-child(even){background:#f0f0f0;}
