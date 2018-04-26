@@ -1,9 +1,9 @@
 ---
 author: uja
 description: >
-    These notes just cover a few basic ideas in Quantum Mechanics and are
-    derived from my full notes on Quantum Mechanics from a few (jesus, really?)
-    years ago.
+    These notes just cover a few basic ideas in Quantum Mechanics, giving an
+    introduction to wave function, the Schrödinger Equation (both time dependent
+    and independent), and velocity of a particle.
 layout: post
 tags: notes quantum-mechanics school
 title: Abridged Notes on <i>Quantum Mechanics</i> I
