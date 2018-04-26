@@ -10,7 +10,7 @@ description: >
 layout: post
 permalink: notes/aparthist
 tags: notes arthistory history school
-title: Notes on AP Art History (WIP)
+title: Notes on <i>AP Art History</i>
 license: BY-NC-SA
 ---
 

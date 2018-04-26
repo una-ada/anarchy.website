@@ -11,7 +11,7 @@ description: >
 layout: post
 permalink: "notes/ap chemistry"
 tags: notes chemistry school
-title: Notes on AP Chemistry (WIP)
+title: Notes on <i>AP Chemistry</i>
 license: BY-NC-SA
 ---
 
