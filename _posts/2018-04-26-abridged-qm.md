@@ -5,7 +5,7 @@ description: >
     introduction to wave function, the Schrödinger Equation (both time dependent
     and independent), and velocity of a particle.
 layout: post
-tags: notes quantum-mechanics school
+tags: notes physics quantum-mechanics school
 title: Abridged Notes on <i>Quantum Mechanics</i> I
 ---
 
