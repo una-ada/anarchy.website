@@ -85,7 +85,7 @@ people's ability to compromise on value<sup>[D3](#D3)</sup>.
 While commodification is in part derived from the perception of all things based
 on some numerical value, this is still an abstract idea which is only reified
 when a legal structure enforces property rights such that these values may be
-held by individuals or other entities.
+held by individuals or other entities<sup>[D15](#D15)</sup>.
 
 **Explain each step of commodification, each level or whatevs.**
 
@@ -113,6 +113,11 @@ slavery of the machine, the future of the world depends.
 **Mention this being about automation, transition to how work persists even now
 when we have automation.**
 
+Not only does Wilde imply here that civilization as it stands is built on
+oppression and exploitation, but he also asserts that a solution to this
+predicament would be automation. At risk of being totally tangential, the idea
+of automation is worthy of further discussion.
+
 Even within [Wilde's statement](#wilde) there exists an indication that
 automation will not necessarily end work.
 He claims that civilization requires it, that is to say that civilization is
@@ -130,8 +135,8 @@ not completely polarized<sup>[D5](#D5)</sup>.
 
 ## Æsthetics as a Solution
 
-To simply assert æsthetics as the means by which to counter commodification
-would be an essentially meaningless statement.
+To simply assert æsthetics<sup>[D14](#D14)</sup> as the means by which to
+counter commodification would be an essentially meaningless statement.
 As æsthetics is that which has no bearing on anything other than itself, the
 aforementioned statement would mean nothing more than "just stop being
 commodified."
@@ -181,6 +186,9 @@ the assumed or predicted value of the company backing them.
 3. <a name="D3"></a>**Give references/discussion about how humans may not always
 agree on value.**
 
+15. <a name="15"></a>Anthony Bonen and Jose Coronado, "Delineating the Process
+of Fictive Commodiﬁcation in Advanced Capitalism", 2015.
+
 9. <a name="D9"></a>Pun not intended, but duly acknowledged.
 
 4. <a name="D4"></a>Bob Black, *The Abolition of Work*, 2009.
@@ -189,7 +197,15 @@ agree on value.**
 
 10. <a name="D10"></a>Oscar Wilde, *The Soul of Man Under Socialism*, 1891.
 
-6. <a name="D6"><a/>William Gillis, *Stress, Labor & Play*, 2010.
+6. <a name="D6"></a>William Gillis, *Stress, Labor & Play*, 2010.
+
+14. <a name="D14"></a>This is an archaic spelling of "aesthetics" using the now
+defunct English letter æsh. I may be shooting myself in the foot here by using
+this as some text-to-speech programs may not be fully equipped to handle this
+as well as some crawlers and text searches, but this was always meant to be the
+extremely convoluted and esoteric version of this essay that will eventually be
+cut down and polished into a more condensed form so I'll let myself have this
+one.
 
 11. <a name="D11"></a>Steven Shaviro, *Accelerationist Aesthetics: Necessary
 Inefficiency in Times of Real Subsumption*, e-flux Journal, 2013.
