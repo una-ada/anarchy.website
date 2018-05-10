@@ -5,6 +5,7 @@ lang: en_US
 logo: /assets/img/aw.png
 plugins:
   - jekyll-seo-tag
+  - jekyll-feed
 repository: trewbot/anarchy.website
 social:
   name: Una J. Ada
