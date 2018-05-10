@@ -2,7 +2,8 @@
 author: uja
 description: >
     Following up from the first section, these notes will cover finding
-    solutions to the Schrödinger Equation given different boundary conditions.
+    solutions to the Time Independent Schrödinger Equation in what is referred
+    to as the "Particle in a Box" example.
 layout: post
 tags: notes physics quantum-mechanics school
 title: Abridged Notes on <i>Quantum Mechanics</i> II
