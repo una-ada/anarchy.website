@@ -133,14 +133,14 @@ not suffice<sup>[D6](#D6)</sup>.
 Play is not necessarily non-productive and so the dichotomy of work and play is
 not completely polarized<sup>[D5](#D5)</sup>.
 
-## Æsthetics as a Solution
+## Aesthetics as a Solution
 
 To simply assert æsthetics<sup>[D14](#D14)</sup> as the means by which to
 counter commodification would be an essentially meaningless statement.
-As æsthetics is that which has no bearing on anything other than itself, the
+As aesthetics is that which has no bearing on anything other than itself, the
 aforementioned statement would mean nothing more than "just stop being
 commodified."
-Shaviro more precisely describes æsthetics as "the one thing that cannot be
+Shaviro more precisely describes aesthetics as "the one thing that cannot be
 reduced to political economy"<sup>[D11](#D11)</sup>.
 
 **How do we move from our current state to one of pure aesthetic indulgence?**
