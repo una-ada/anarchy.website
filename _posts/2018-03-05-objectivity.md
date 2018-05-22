@@ -9,7 +9,7 @@ description: >
     perceived truths.
 layout: post
 title: On Objectivity
-tags: philosophy objectivity
+tags: philosophy objectivity incomplete rant
 ---
 
 >"I'm not going to rant about objectivity, nobody actually believes themselves
