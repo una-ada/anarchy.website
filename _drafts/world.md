@@ -1,11 +1,9 @@
 ---
 author: uja
 layout: post
-title: Generating a Fictional World
+title: Creation of <i>ma</i> (Pt. I)
 tags: blog fiction worldbuilding alekala
 ---
-
-## Terrain Generation
 
 I'm slowly working my way towards a new project in
 [Cities: Skylines][1] with a bit of an alternate history vibe, and nothing
@@ -52,6 +50,10 @@ looks cooler) was this:
 Planet Generator.
 
 <br>
+
+I should probably mention that I'm calling this world "ma," the toki pona word
+for "earth" or "world." This whole project I'm planning is going to be in toki
+pona for the most part, especially the names.
 
 Now, _this_ is certainly something worth importing into Wilbur and fiddling
 about with all night. So I imported it into Wilbur then set the height scale
@@ -169,7 +171,7 @@ much it.
 once a really neat looking archipelago but is now just some islands that exist
 to make the map look like it has islands.
 
-## Climate
+<br>
 
 Now, continuing to not sleep, I can go on to determine other aspects of this
 world based off of the terrain. Most of the heavy lifting here is done by
@@ -197,7 +199,7 @@ like, just apply generic textures of those biomes to the areas they would be and
 overlay the light map from Wilbur (Texture>Gray Maps>Light Map). What could go
 wrong?
 
-Now That's What I Call Good Enough!
+_To be continued... I guess._
 
 [1]: https://store.steampowered.com/app/255710/Cities_Skylines/
 [2]: https://steamcommunity.com/sharedfiles/filedetails/?id=482232215
