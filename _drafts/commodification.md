@@ -8,9 +8,10 @@ description: >
     exactly does this work and how can we act to counter this when abolishing
     capitalism?
 layout: post
+license: BY-SA
+permalink: commodification
 title: Countering Commodification
 tags: article atil capital commodification markets leftism
-license: BY-SA
 ---
 
 Capitalism perpetuates itself through institutions of government and
@@ -25,6 +26,8 @@ capitalism?
 
 ## Introduction to Commodification
 
+**This section can basically just be a brief overview of neoclassical economics
+and its ideas on commodification.**
 Commodification, the shift in social perception and treatment of any resources,
 products, people, ideas, et cetera so as to be sold in a
 market<sup>[D7](#D7),[D8](#D8),[D14](#D14)</sup>, is fundamentally anchored to
@@ -40,6 +43,7 @@ The value doesn't have to necessarily be given a number, just Person A views
 Item 1 to have the same value as Person B views Item 2 to
 have<sup>[D1](#D1)</sup>.
 
+**Maybe not make this about math culture?**
 Nonetheless, any person raised in a world that values mathematics as a necessary
 interpretation of all of reality will almost certainly attempt in some regard to
 define some mediating value in the aforementioned exchange.
@@ -97,8 +101,9 @@ To discuss work, one must be certain of that which is being discussed, giving a
 working definition<sup>[D9](#D9)</sup> so as to avoid any confusion.
 Here, Black's definition<sup>[D4](#D4)</sup> as clarified by
 Ross<sup>[D5](#D5)</sup> is used: work is forced labor.
-**Discuss how vague this is and how that is meant to be able to include domestic
-and emotional labor as work.**
+This is clearly a very vague definition, but it must be so out of necessity as
+many definitions that aim to be more specific inevitably cut out major sectors
+of what should be considered work, e.g. domestic labor.
 
 Not working is incompatible with our current situation: a society built upon
 labor<sup>[D4](#D4)</sup>.
@@ -110,13 +115,13 @@ uninteresting work, culture and contemplation become almost impossible. Human
 slavery is wrong, insecure, and demoralising. On mechanical slavery, on the
 slavery of the machine, the future of the world depends.
 
-**Mention this being about automation, transition to how work persists even now
-when we have automation.**
-
 Not only does Wilde imply here that civilization as it stands is built on
 oppression and exploitation, but he also asserts that a solution to this
-predicament would be automation. At risk of being totally tangential, the idea
-of automation is worthy of further discussion.
+predicament would be automation.
+At risk of being totally tangential, the idea of automation is worthy of further
+discussion.
+
+
 
 Even within [Wilde's statement](#wilde) there exists an indication that
 automation will not necessarily end work.
@@ -269,6 +274,8 @@ Semantics," *Minnesota Studies in the Philosophy of Science* IX (1978): 165-181.
 
 1. Merriam-Webster, "Commodity." Accessed April 20, 2018.
 [merriam-webster.com](https://www.merriam-webster.com/dictionary/commodity)
+
+1. **Polanyi,**
 
 1. Pröschel, Natascha. "Commodification and Culture." Bachelor Thesis, Modul
 University, Vienna, 2012.

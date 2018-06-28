@@ -8,7 +8,9 @@ description: >
     their criticisms.
 layout: post
 license: BY-SA
-title: An Introduction to the Many-Worlds Interpretation of Quantum Mechanics
+title: >
+    An Introduction to the <i>Many-Worlds Interpretation</i> of Quantum
+    Mechanics
 tags: philosophy metaphysics quantum-mechanics article manyworlds
 ---
 

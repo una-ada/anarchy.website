@@ -18,13 +18,13 @@ div:target		{background:#eee;}
 footer			{background:#444;color:white;margin:4rem 0 -50vh 0;min-height:50vh;padding:1rem;}
 footer a		{color:white;}
 h1				{text-align:center;}
-h1,h2,h3,h4		{font-family:'Playfair Display','Noto Serif',sans-serif;text-transform:capitalize;}
+h1,h2,h3,h4		{font-family:'Playfair Display','Noto Serif',sans-serif;}
 h1 a,h2 a,h3 a,h4 a{text-decoration:none;}
 h2          	{margin-top:3em;}
 hr				{background:#444;border:0;height:1px;}
 hr + h2			{margin-top:0;}
 html			{color:#444;font-size:10pt;}
-img,video		{max-width:calc(100% - 1rem);}
+img,video		{max-width:100%;}
 li, p			{line-height:1.5rem;text-align:justify;}
 p>span.MathJax_SVG{margin-bottom: -1em !important;}
 pre        		{background:#fff;border:1px solid #555;overflow:visible !important;padding:10px !important;tab-size:4;}
@@ -44,6 +44,8 @@ tr:nth-child(even){background:#f0f0f0;}
 hist			{color:#4d8;}
 kw				{color:#36d;}
 proof			{color:#e44;}
+
+twitterwidget	{margin-left:55px;}
 
 // Mobile and print
 @media print, screen and (max-width: 750px) {
