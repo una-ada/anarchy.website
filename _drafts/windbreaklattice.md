@@ -30,7 +30,6 @@ on Hokkaido (北海道).
 
 My immediate reaction was that this looked a bit like how the US (United States
 of America) looks on satellite. Take for example this random section of Nebraska
-I just screenshotted:
 
 <br>
 
@@ -101,6 +100,9 @@ talks more about that and some history
 
 https://www.hokkaidoisan.org/heritage_038.html
 https://www.nakashibetsu.jp/kankou/
+
+contour stripcropping:
+https://www.google.com/maps/@42.7780245,-89.5584148,5854a,35y,1.05h/data=!3m1!1e3
 
 [1]: https://www.google.com/maps
 [2]: https://en.wikipedia.org/wiki/Island_arc
