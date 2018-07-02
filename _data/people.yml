@@ -5,7 +5,7 @@ th:
     name: Trevor Hoglund
     email: trewbot@gmail.com
     img: /assets/img/th.jpg
-    url: https://trew.moe
+    url: https://trewbot.github.io
 tjh:
     add: 410 S. 3rd St., River Falls, WI 54016
     bio: >
@@ -18,13 +18,13 @@ tjh:
     name: Trevor J. Hoglund
     email: trevor.hoglund@my.uwrf.edu
     img: /assets/img/tjh.jpg
-    url: https://trew.moe
+    url: https://trewbot.github.io
 trew:
     dept: Phene Co.
     name: Trewbot
     email: trewbot@phene.co
     img: /assets/img/trew.jpg
-    url: https://phene.co
+    url: https://twitter.com/trewbot
 mich:
     add: 410 S. 3rd St., River Falls, WI 54016
     dept: Physics Department, University of Wisconsin - River Falls
@@ -36,4 +36,5 @@ uja:
         USA.
     name: Una J. Ada
     email: una@anarchy.website
+    img: /assets/img/me.jpg
     url: https://anarchy.website

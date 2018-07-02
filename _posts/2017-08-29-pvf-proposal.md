@@ -38,7 +38,7 @@ concern myself with the unoriginality of the usage of the hammer and sickle.
 
 ## Base Design
 
-<img src="https://trew.moe/assets/img/pvf/logo.svg"
+<img src="https://trewbot.github.io/assets/img/pvf/logo.svg"
     style="float:left;width:200px;">
 
 The basis of the design is the circuity hammer and sickle. This logo has a very
@@ -53,8 +53,8 @@ point and that its placement next to text may face certain issues with the
 perceived inconsistencies between the line widths in the logo itself and those
 of the font used.
 
-Download logo: [.ai](https://trew.moe/assets/img/pvf/logo.ai),
-[.svg](https://trew.moe/assets/img/pvf/logo.svg).
+Download logo: [.ai](https://trewbot.github.io/assets/img/pvf/logo.ai),
+[.svg](https://trewbot.github.io/assets/img/pvf/logo.svg).
 
 ## Usage with Text
 
@@ -62,7 +62,7 @@ To keep with the theme of electronics in the design, Courier New is the best
 font to use alongside the logo. As this is a fixed-width font, there are a
 couple issues related to the typesetting.
 
-<img src="https://trew.moe/assets/img/pvf/header.png"
+<img src="https://trewbot.github.io/assets/img/pvf/header.png"
     style="width:400px;float:right;">
 
 First, the usage of the word "the" before "People's Virtual Front" has either
@@ -80,12 +80,12 @@ singular character amongst all the text and the logo. This is worsened by the
 spacing provided from the fixed-width of the font. To fix this issue a separate
 font can be used for the apostrophe, in this case Century Schoolbook is used.
 
-Download header: [.ai](https://trew.moe/assets/img/pvf/header.ai),
-[.jpg](https://trew.moe/assets/img/pvf/header.jpg),
-[.png](https://trew.moe/assets/img/pvf/header.png),
-[.svg](https://trew.moe/assets/img/pvf/header.svg).
+Download header: [.ai](https://trewbot.github.io/assets/img/pvf/header.ai),
+[.jpg](https://trewbot.github.io/assets/img/pvf/header.jpg),
+[.png](https://trewbot.github.io/assets/img/pvf/header.png),
+[.svg](https://trewbot.github.io/assets/img/pvf/header.svg).
 
-<img src="https://trew.moe/assets/img/pvf/tile.png"
+<img src="https://trewbot.github.io/assets/img/pvf/tile.png"
     style="width:200px;float:left;">
 
 Another labeling option for the logo is to use it as a tile, with the label
@@ -96,14 +96,14 @@ being enlarged by a small amount to fill more space, this is also paired with a
 higher letter spacing to span more of the logo without raising the font size so
 much that it also creates a greater vertical weight.
 
-Download tile: [.ai](https://trew.moe/assets/img/pvf/tile.ai),
-[.jpg](https://trew.moe/assets/img/pvf/tile.jpg),
-[.png](https://trew.moe/assets/img/pvf/tile.png),
-[.svg](https://trew.moe/assets/img/pvf/tile.svg).
+Download tile: [.ai](https://trewbot.github.io/assets/img/pvf/tile.ai),
+[.jpg](https://trewbot.github.io/assets/img/pvf/tile.jpg),
+[.png](https://trewbot.github.io/assets/img/pvf/tile.png),
+[.svg](https://trewbot.github.io/assets/img/pvf/tile.svg).
 
 ## Usage in Circles
 
-<img src="https://trew.moe/assets/img/pvf/circle.png"
+<img src="https://trewbot.github.io/assets/img/pvf/circle.png"
     style="width:200px;float:left;">
 
 As many social media platform (including [Discord](https://discordapp.com) and
@@ -117,15 +117,15 @@ aforementioned sites, mainly due once again to the usage of line art. That is
 not to say that it would not be recognizable or be on brand, but it would also
 not be as aesthetically pleasing as it could be.
 
-Download circle: [.ai](https://trew.moe/assets/img/pvf/circle.ai),
-[.jpg](https://trew.moe/assets/img/pvf/circle.jpg),
-[.png](https://trew.moe/assets/img/pvf/circle.png),
-[.svg](https://trew.moe/assets/img/pvf/circle.svg);
-cropped: [.jpg](https://trew.moe/assets/img/pvf/circle-cropped.jpg),
-[.png](https://trew.moe/assets/img/pvf/circle-cropped.png),
-[.svg](https://trew.moe/assets/img/pvf/circle-cropped.svg).
+Download circle: [.ai](https://trewbot.github.io/assets/img/pvf/circle.ai),
+[.jpg](https://trewbot.github.io/assets/img/pvf/circle.jpg),
+[.png](https://trewbot.github.io/assets/img/pvf/circle.png),
+[.svg](https://trewbot.github.io/assets/img/pvf/circle.svg);
+cropped: [.jpg](https://trewbot.github.io/assets/img/pvf/circle-cropped.jpg),
+[.png](https://trewbot.github.io/assets/img/pvf/circle-cropped.png),
+[.svg](https://trewbot.github.io/assets/img/pvf/circle-cropped.svg).
 
-<img src="https://trew.moe/assets/img/pvf/circle-alt.png"
+<img src="https://trewbot.github.io/assets/img/pvf/circle-alt.png"
 style="width:200px;float:right;">
 
 One solution to the scaling problem is to scale the logo outside of the scope of
@@ -134,10 +134,10 @@ also allows for the placement of the initials "PVF" into the circle, which may
 to some extent make up for the fact that not the entire logo is contained within
 the circle itself when it comes to recognizability.
 
-Download alternate circle: [.ai](https://trew.moe/assets/img/pvf/circle-alt.ai),
-[.jpg](https://trew.moe/assets/img/pvf/circle-alt.jpg),
-[.png](https://trew.moe/assets/img/pvf/circle-alt.png),
-[.svg](https://trew.moe/assets/img/pvf/circle-alt.svg);
-cropped: [.jpg](https://trew.moe/assets/img/pvf/circle-alt-cropped.jpg),
-[.png](https://trew.moe/assets/img/pvf/circle-alt-cropped.png),
-[.svg](https://trew.moe/assets/img/pvf/circle-alt-cropped.svg).
+Download alternate circle: [.ai](https://trewbot.github.io/assets/img/pvf/circle-alt.ai),
+[.jpg](https://trewbot.github.io/assets/img/pvf/circle-alt.jpg),
+[.png](https://trewbot.github.io/assets/img/pvf/circle-alt.png),
+[.svg](https://trewbot.github.io/assets/img/pvf/circle-alt.svg);
+cropped: [.jpg](https://trewbot.github.io/assets/img/pvf/circle-alt-cropped.jpg),
+[.png](https://trewbot.github.io/assets/img/pvf/circle-alt-cropped.png),
+[.svg](https://trewbot.github.io/assets/img/pvf/circle-alt-cropped.svg).

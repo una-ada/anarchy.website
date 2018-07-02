@@ -1,6 +1,6 @@
 description: >
-  An archive of works written by Una J. Ada (Trewbot) about anarchy, philosophy,
-  physics, transhumanism, and more.
+  An archive of works about anarchy, philosophy, physics, transhumanism, and
+  more.
 lang: en_US
 logo: /assets/img/aw.png
 plugins:
@@ -10,10 +10,10 @@ social:
   name: Una J. Ada
   links:
     - https://github.com/trewbot
-    - https://twitter.com/unajada
+    - https://twitter.com/trewbot
     - https://www.youtube.com/channel/UC4HsBGB0z0g77wVdrCssgIQ
 theme: jekyll-theme-minimal
 title: anarchy.website
 twitter:
-  username: unajada
+  username: trewbot
 url: https://anarchy.website

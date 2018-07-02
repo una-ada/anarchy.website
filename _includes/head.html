@@ -1,28 +1,37 @@
 <head>
-	<title>{{ page.title | default: site.github.repository_name }}</title>
+	<title>{{ page.title | default: site.github.repository_name  | strip_html }}</title>
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,400i|Playfair+Display:700i">
-	<link rel="shortcut icon" type="image/png" href="/assets/img/favicon.png"/>
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Noto+Serif:400,400i,700,700i|Playfair+Display:700,700i&amp;subset=latin-ext">
+	<link rel="stylesheet" href="//fonts.googleapis.com/earlyaccess/notosansjapanese.css">
+	<link rel="shortcut icon" type="image/png" href="/assets/img/me.jpg"/>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="chrome=1">
 	<meta name="viewport" content="width=device-width">
+	<meta name="google-site-verification" content="CYzkfqx-QYWUlNqp8nTocoY039wxMpW7LWfFAswBbUw" />
 	<script type="text/x-mathjax-config">
 		MathJax.Ajax.config.path["mhchem"] = "https://cdnjs.cloudflare.com/ajax/libs/mathjax-mhchem/3.1.0";
 		MathJax.Hub.Config({
 			tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]},
 			TeX: {extensions: ["[mhchem]/mhchem.js"]},
-			SVG: {
+			"HTML-CSS": {
 				font: "Latin-Modern",
 				matchFontHeight: true,
-				//scale: 90,
-				blacker: 0,
+				scale: 85,
+				//blacker: 0,
 				linebreaks: {automatic: true}
 			}
 		});
-		MathJax.Hub.setRenderer("SVG");
+		MathJax.Hub.setRenderer("HTML-CSS");
 	</script>
 	<script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 	<script type="text/javascript" src="https://twemoji.maxcdn.com/2/twemoji.min.js"></script>
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-67481186-10"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		gtag('config', 'UA-67481186-10');
+	</script>
 	{% seo %}
     {% if site.tags != "" %}
         {% include collecttags.html %}
