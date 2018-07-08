@@ -15,8 +15,9 @@ title: Abridged Notes on <i>Quantum Mechanics</i> II
 
 <center>
     Parts:
-    <a href="https://anarchy.website/2018/04/26/abridged-qm.html">I</a>,
-    <b>II</b>
+    <a href="/2018/04/26/abridged-qm.html">I</a>,
+    <b>II</b>,
+    <a href="/2018/07/04/abridged-qm-3.html">III</a>
 </center>
 
 Last time we left off after defining the TISE. $\Psi_E$ is currently unbounded

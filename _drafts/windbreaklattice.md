@@ -1,8 +1,9 @@
 ---
 author: uja
 layout: post
-tags: maps blog
-title: The Windbreak Forest Lattice in Hokkaido
+license: BY-SA
+tags: maps blog history agroforestry agriculture geography
+title: The Windbreak Forest Lattice in Hokkaido <br>(北海道の格子状防風林)
 ---
 
 So, I was trawling around on [Google Maps][1] as one does, specifically to look
@@ -90,19 +91,33 @@ Clearly, these are no normal shelterbelts, the [Hokkaido site][25] referred to
 them as a heritage site even. I've seen them [mentioned][27] as a tourist spot
 as well, which is an interesting occurrence admittedly, so perhaps the site for
 the [Nakashibetsu Tourist Association (なかしべつ観光協会)][28] will have
-something.
+something. If you notice an obvious tonal break here it's because I took a few
+days off from writing this to move into my new apartment and I can't entirely
+remember where I was going with that last sentence. In fact, let's just move on.
 
-http://www.nemuro.pref.hokkaido.lg.jp/ss/srk/kanko/nmrgsdb/7history/7h-boufurin.htm
-mentions fog and snow defense
+That was a dead end, so I'm going to try to find another trail to follow. The
+site for Nemuro Subprefecture has a section for historical sites including the
+specific page "[根釧台地の格子状防風林][29]". Here there is some more information
+that sort of implies a justification for the excessively wide windbreaks: that
+there is not only wind but also snow and fog to be dealt with in Hokkaido. This
+is also mentioned on [hokkaidolikers.com][30] (aptly named blog), where the part
+about snow is also partly justified by pointing out it prevents snow from
+building up in the fields, but does not distinguish how this would be different
+from a typical windbreak stopping wind from doing just that. What's actually
+interesting about this post is that it is the first resource I've come across so
+far that includes history of the lattice beyond vague indications to the
+"pioneering era" (開拓時代).
 
-http://www.hokkaidolikers.com/articles/2836
-talks more about that and some history
+I'm not going to learn Japanese just to make a blog post... probably. With that
+in mind, take everything I say from here with a heavy dose of salt; I'm at
+worst directly reading an automated translation and at best doing that but with
+the edges smoothed by interpreting said translation in context.
 
-https://www.hokkaidoisan.org/heritage_038.html
-https://www.nakashibetsu.jp/kankou/
 
-contour stripcropping:
-https://www.google.com/maps/@42.7780245,-89.5584148,5854a,35y,1.05h/data=!3m1!1e3
+
+http://www.fuuchi.fr.a.u-tokyo.ac.jp/lfl/report/2007nakashibetsu/report.html
+
+http://www.rinya.maff.go.jp/j/kikaku/hakusyo/26hakusyo_h/all/a15.html
 
 [1]: https://www.google.com/maps
 [2]: https://en.wikipedia.org/wiki/Island_arc
@@ -132,3 +147,5 @@ https://www.google.com/maps/@42.7780245,-89.5584148,5854a,35y,1.05h/data=!3m1!1e
 [26]:https://en.wikipedia.org/wiki/Windbreak
 [27]:http://www.nihon-kankou.or.jp/detail/01692ad2252000568
 [28]:http://kaiyoudai.jp/wp/
+[29]:http://www.nemuro.pref.hokkaido.lg.jp/ss/srk/kanko/nmrgsdb/7history/7h-boufurin.htm
+[30]:http://www.hokkaidolikers.com/articles/2836

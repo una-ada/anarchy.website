@@ -7,7 +7,7 @@ description: >
     option? Is logic even real?
 layout: post
 title: Axiomata and the Subjectivity of Logic
-tags: objectivity subjectivity logic philosophy metaphysics
+tags: objectivity subjectivity logic philosophy metaphysics epistemology
 license: BY-SA
 ---
 
