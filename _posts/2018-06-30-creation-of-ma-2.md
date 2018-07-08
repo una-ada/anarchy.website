@@ -2,7 +2,7 @@
 author: uja
 layout: post
 title: Creation of <i>ma</i> (Pt. II)
-tags: worldbuilding alekala
+tags: worldbuilding alekala blog
 ---
 
 When I left off last time I was ready to double down on a map that I definitely

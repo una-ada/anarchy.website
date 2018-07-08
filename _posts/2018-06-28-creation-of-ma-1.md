@@ -2,7 +2,7 @@
 author: uja
 layout: post
 title: Creation of <i>ma</i> (Pt. I)
-tags: blog fiction worldbuilding alekala
+tags: blog worldbuilding alekala
 ---
 
 I'm slowly working my way towards a new project in
