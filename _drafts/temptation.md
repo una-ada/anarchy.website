@@ -2,7 +2,7 @@
 author: uja
 layout: post
 license: BY-SA
-tags: blog self mood perception introspection
+tags: blog self
 title: An Absurd Temptation
 ---
 
@@ -91,4 +91,18 @@ solutions there, the latter presents a massive problem. Academic suspension can
 be appealed, but if you appeal it and are then returned to it as I have there is
 a more severe roadblock in that you must wait two years before reapplying for
 attendance. Reapplying is a key point here, this is about going back to the same
-university. Which then brings me to another point...
+university. Which then brings me to another point... is it possible to transfer
+to another university while technically on academic suspension?
+
+This is the absurd temptation that taunts me, there's an admissions office to an
+R1 university within walking distance of me. But what can I do? After five years
+they'll scrub any failing grades from your transcript and I'd assume this would
+also apply to suspensions, but I don't want to wait another four and a half
+years to get back to something that I don't even really enjoy. Undergraduate
+school sucks ass, it's like High School++, though it is still a requirement to
+get to graduate school which I would be currently attending had I not went and
+failed out. What would I even have to do to get them to overlook all these
+glaring issues on my record? I don't know, but that would be something to
+discuss with an admission (or transfer?) office. And so the path forward becomes
+this: go and beg for a way in, perhaps not even a way in here but one that could
+be used elsewhere as well.
