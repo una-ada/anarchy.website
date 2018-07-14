@@ -1,6 +1,7 @@
 description: >
   An archive of works about anarchy, philosophy, physics, transhumanism, and
   more.
+highlighter: none
 lang: en_US
 logo: /assets/img/aw.png
 plugins:
