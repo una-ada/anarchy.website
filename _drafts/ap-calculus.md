@@ -62,6 +62,6 @@ this is $\sin(1/x)$:
     Graphene.graph.render(
         ctx,x=>Math.sin(1/x),
         {axisRangeX:[-Math.PI,Math.PI],tickCountX:64,extendRateX:4,labelRateX:8,
-         axisRangeY:[-1.5,1.5]}
+         axisRangeY:[-1.5,1.5],labelFont:"10pt 'Lora'"}
     );
 </script>

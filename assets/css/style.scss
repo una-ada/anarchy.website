@@ -8,9 +8,9 @@
 a				{text-decoration:underline;color:#444;}
 .bio			{background:#444;color:white;margin:1rem 0;padding:1rem;}
 .bio a			{color:#fff !important;}
-blockquote		{padding-left:10px;border-left:2px solid #444;margin:0;}
+blockquote		{padding-left:1rem;border-left:2px solid #444;margin:0;}
 blockquote p	{margin:0.5rem 0;}
-body			{font-family:'Noto Serif','Noto Sans Japanese',serif;margin:1.5rem 1.5rem 0 10rem;padding-bottom:50vh;width:610px;}
+body			{font-family:'Noto Serif','Noto Sans Japanese',serif;margin:1.5rem 1.5rem 0 10rem;padding-bottom:50vh;width:48rem;}
 code        	{font-family:monospace;}
 //.content p:first-child:first-letter{font-size:4rem;float:left;padding:0 0.5rem 0 0;line-height:4rem;}
 center *		{text-align:center !important;}
@@ -47,7 +47,7 @@ hist			{color:#4d8;}
 kw				{color:#36d;}
 proof			{color:#e44;}
 
-twitterwidget	{margin-left:55px;}
+twitterwidget	{margin-left:calc(24rem - 250px);}
 
 // Mobile and print
 @media print, screen and (max-width: 750px) {

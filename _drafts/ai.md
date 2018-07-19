@@ -1,6 +1,7 @@
 ---
 author: uja
 layout: post
+license: BY-SA
 tags: >
     philosophy science ai artificial-intelligence transhumanism technology rant
     future
@@ -119,6 +120,10 @@ his case on predictions that superhuman AI systems are imminent. He writes, “I
 is no part of the argument in this book that we are on the threshold of a big
 breakthrough in artificial intelligence, or that we can predict with any
 precision when such a development might occur.”
+
+<div class="pullquote">
+    Clearly this is a bit of a hot topic in the AI community.
+</div>
 
 Sadly that's about as far as they go with that, but it's forgivable since this
 is very definitely just a response to Etzioni and nothing else. Clearly this is
