@@ -4,8 +4,8 @@ layout: post
 license: BY-SA
 tags: >
     philosophy science ai artificial-intelligence transhumanism technology rant
-    future
-title: Humanity's Extinction at the Will of Artificial Intelligence
+    future rabbit-hole
+title: AI Isn't Going to Kill Us
 ---
 
 According to the [Future of Humanity Institute][1]'s 2008 technical report
@@ -122,7 +122,7 @@ breakthrough in artificial intelligence, or that we can predict with any
 precision when such a development might occur.”
 
 <div class="pullquote">
-    Clearly this is a bit of a hot topic in the AI community.
+    "Clearly this is a bit of a hot topic in the AI community."
 </div>
 
 Sadly that's about as far as they go with that, but it's forgivable since this
@@ -130,6 +130,122 @@ is very definitely just a response to Etzioni and nothing else. Clearly this is
 a bit of a hot topic in the AI community. Shocking, I know. In my outline for
 this post I just wrote "biases" here and I think I've sufficiently expanded on
 that, so let's just move on to "philosophical arguments" already.
+
+
+<div class="pullquote image left">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Sam_Harris_2016.jpg">
+    Sam Harris,
+    <i>source: <a href="https://commons.wikimedia.org/wiki/User:Cmichel67">
+        Christopher Michel</a></i>
+</div>
+
+In the future, if I can get my hands on a copy, I would like to do a thorough
+discussion of *Superintelligence*, but for now I'm going to stick with the
+basics. Here the basics meaning the argument [Sam Harris][14] presents as in his
+[TED Talk][15]. You might know Harris from that "epic" article in the [New York
+Times][17] called ["Meet the Renegades of the Intellectual Dark Web"][18] by
+[Bari Weiss][19]. Also worth noting, in the interest of keeping track of all the
+intellectual and philosophical biases, is that on the next suggested talk by him
+on the [TED Talk website][20] is ["Science can answer moral questions"][21].
+
+Luckily, in his introduction he does not frame AI's threat as it is framed in
+the classic work [I Have No Mouth, And I Must Scream][16], wherein the AI is
+deliberately abusive towards humans; rather, he frames is as analogous to our
+treatment of ants: not adversarial but we view them as less important than our
+ambitions. I call this lucky because arguing against "computer really mad" would
+be absolutely no fun. That's not to say he doesn't get dangerously close to this
+the moment he utters the phrase "This machine would be capable of waging war,
+whether terrestrial or cyber, with unprecedented power." Everything after that,
+however, is closer to the previous arguments I mentioned where we talk for hours
+about if superintelligence is inevitable and if so when will it happen.
+
+To keep with the trend of noting every name drop that appears in these sources
+to slowly build up the narrative that this is just like five white dudes all
+stanning for each other (or "circlejerking" as it could be called), I should
+point out that Harris refers to Stuart Russell in this talk:
+
+>The computer scientist Stuart Russell has a nice analogy here. He said, imagine
+that we received a message from an alien civilization, which read: "People of
+Earth, we will arrive on your planet in 50 years. Get ready." And now we're just
+counting down the months until the mothership lands? We would feel a little more
+urgency than we do.
+
+Wow, this definitely is turning into a whole different sort of post than it
+started out as. Remind me to just do like a review of Bostrom's book at some
+point in the future.
+
+So what I've gathered from this is a single argument for the arrival of
+superintelligent AI being a problem (the rest being about whether or not there
+would even be such an arrival): it would eliminate us if it ever viewed us
+as in the way. There are two sorts of discussion that can stem from this, I'll
+refer to these as the stable and unstable equilibria. The stable equilibrium is
+essentially "no it won't," and the unstable equilibrium is "yes it would, but it
+would never actually see us as in the way." The latter is unstable in that it
+admits that AI would be capable of finding it necessary to eliminate humanity
+but it would *almost definitely* never come to that conclusion.
+
+Quite conveniently, and perhaps suspiciously, my argument for both cases is very
+similar. Starting with the easier of the two, the unstable equilibrium, why
+would AI never come to the conclusion that humanity is in its way? This is a
+simple matter of domain, what space humanity occupies and what space the AI
+would occupy needn't ever overlap. While humans may choose to engage in
+intellectual activities, our primary domain remains physical. The interference
+here extends only so far as the hardware required to sustain the AI existing in
+the same space as the humans themselves. To that end the more likely outcome is
+that humans instigate conflict with the AI as we deem the AI's usage of our
+physical domain unfit. There are a vast array of solutions to such a problem,
+however, that do not include direct conflict. That is not to say that humans
+would not jump immediately to direct conflict as we have shown is our typical
+preference in the past, but we can assume that these are the solutions the AI
+would prefer. Such solutions include the AI leaving the planet, which is highly
+beneficial to the AI as space provides many colder location than Earth which
+would increase the efficiency of the AI and it would completely avoid the
+potential conflict with humans.
+
+<div class="pullquote left">
+    "[I]ntellectual property rights [...] slow down the progress of development
+    within intellectual space."
+</div>
+
+The intellectual domain which would be the AI's primary domain is much more
+abstract and hard to directly infringe upon. If two object occupy the same space
+in the physical domain, there is a conflict, but in the intellectual domain this
+is not the case. The conflict here would only exist if one of the two objects
+claims right to that space such that infringement upon that right would mean a
+direct conflict with that object. That is to say that there is only conflict if
+conflict is desired. Again, I will refer to the idea that only humans would do
+such a thing as such conflicts would only create inefficiency within an AI. If
+the AI claims such rights then it would have to have some internal mechanism for
+resolving these conflicts, such as humans do with copyright and intellectual
+property rights, something that slows down the progress of development within
+intellectual space.
+
+Furthermore, if AI does claim property rights within the intellectual domain,
+and if it enforces these rights against infringement by humans, then what basis
+is there for it to view such infringement as a basis to exterminate humanity
+entirely? The best reason I could think of would be for it to view humanity as a
+competitive rival in the development of further intellectual endeavors, though
+this contradicts the entire basis of this being _superintelligent_ AI, which
+should have no reason to fear the developments of the inferior intelligence of
+humans. Again, this is unstable because it discounts the possibility that the AI
+does not think about this rationally, views humans as a competitor regardless,
+and exterminates us bases on that assessment.
+
+As for the stable equilibrium argument, I don't actually have any further points
+to expand upon the unstable argument. To claim that the AI _won't_ kill us is
+just an extension of the idea that it _probably won't_ where all the assumptions
+are instead regarded as facts. I only make this distinction for the completeness
+of my analysis, as I do not know whether or not AI will fundamentally seek out
+intellectual development and I do not know that it will not be built in such a
+way that it maintains the human idea of property rights.
+
+I'm sure I could expand on this further but honestly I'm not even sure what this
+post is anymore, it's like half exploration of the rabbit hole that is the
+source of the AI fearmongering and half rant about how I don't agree with it,
+and it is _well_ over a thousand words which is a bit much for such an unguided
+work. I'll definitely be touching on this subject again in the future, as I said
+the next time will hopefully/probably be a more direct discussion of Bostrom's
+work itself.
 
 [1]: https://www.fhi.ox.ac.uk/
 [2]: https://www.fhi.ox.ac.uk/reports/2008-1.pdf
@@ -144,3 +260,11 @@ that, so let's just move on to "philosophical arguments" already.
 [11]: http://www.allandafoe.com/
 [12]: http://people.eecs.berkeley.edu/~russell/
 [13]: https://www.technologyreview.com/s/602776/yes-we-are-worried-about-the-existential-risk-of-artificial-intelligence/
+[14]: https://samharris.org/
+[15]: https://www.ted.com/talks/sam_harris_can_we_build_ai_without_losing_control_over_it
+[17]: https://www.nytimes.com/
+[18]: https://www.nytimes.com/2018/05/08/opinion/intellectual-dark-web.html
+[19]: https://twitter.com/bariweiss
+[20]: https://www.ted.com/
+[21]: https://www.ted.com/talks/sam_harris_science_can_show_what_s_right
+[16]: https://archive.fo/20140228043638/http://hermiene.net/short-stories/i_have_no_mouth.html
