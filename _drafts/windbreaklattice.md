@@ -72,7 +72,7 @@ out and went for the page on [dairy (酪農)][22], specifically the section on
 KOSHEN pilot project" (国営根釧（こんせん）パイロット事業), which vaguely indicated
 that this was a planned dairy farming project in Hokkaido, a sign of hope here.
 There was a reference to [Rojikushima (根釧台地)][24], a page that contained the
-phrase "根釧台地の<b>格子状防風林</b>は北海道遺産に認定されている," which was just
+phrase "根釧台地の格子状防風林は北海道遺産に認定されている," which was just
 about what I was looking for. The translation was basically unintelligible but
 still had significant phrases well enough that I could tell it was what I had
 been looking for: [grid-like windbreak (格子状防風林)][25].
