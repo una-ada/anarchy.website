@@ -4,62 +4,193 @@
 @import 'prism.css';
 @import url(//fonts.googleapis.com/earlyaccess/notosansjapanese.css);
 
+$primary:   #444;
+$pq-width:  18rem;
+$secondary: white;
+$width:     48rem;
+
 // Elements
-a				{text-decoration:underline;color:#444;}
-.bio			{background:#444;color:white;margin:1rem 0;padding:1rem;}
-.bio a			{color:#fff !important;}
-blockquote		{padding-left:1rem;border-left:2px solid #444;margin:0;}
-blockquote p	{margin:0.5rem 0;}
-body			{font-family:'Noto Serif','Noto Sans Japanese',serif;margin:1.5rem auto 0 auto;width:48rem;}
-code        	{font-family:monospace;}
-//.content p:first-child:first-letter{font-size:4rem;float:left;padding:0 0.5rem 0 0;line-height:4rem;}
-center *		{text-align:center !important;}
-div:target		{background:#eee;}
-.emoji			{height:1rem;} // for twemoji
-footer			{background:#444;color:white;font-size:10pt;margin:4rem 0 0 0;min-height:50vh;padding:1rem;}
-footer a		{color:white;}
-h1				{text-align:center;}
-h1,h2,h3,h4		{font-family:'Playfair Display','Noto Serif','Noto Sans Japanese',sans-serif;font-weight:normal;}
-h1 a,h2 a,h3 a,h4 a{text-decoration:none;}
-h2          	{margin-top:3em;}
-hr				{background:#444;border:0;height:1px;}
-hr + h2			{margin-top:0;}
-html			{color:#444;font-size:11pt;}
-img,video		{max-width:100%;}
-li, p			{line-height:1.5rem;text-align:justify;}
-p>span.MathJax_SVG{margin-bottom: -1em !important;}
-pre        		{background:#fff;border:1px solid #555;overflow:auto;padding:10px !important;tab-size:4;}
-.preview		{margin:3rem 0;}
-.preview p		{margin:0.5rem 0;}
-.pullquote		{float:right;font-size:1.5rem;font-weight:bold;margin:0 -9rem 0 0;padding:1rem;text-align:center;width:18rem;}
-.pullquote.left {float:left;margin:0 0 0 -9rem;}
-.pullquote.image{font-size:1rem;font-weight:normal;}
-small       	{font-size:0.8rem;text-align:justify;}
-sub				{vertical-align:bottom;position:relative;bottom:-0.3em;}
-sup				{vertical-align:top;position:relative;top:-0.3em;}
-table			{border-collapse:collapse;margin:1em 0;width:100%;}
-thead			{font-family:'Noto Serif',serif;font-weight:bold;}
+a {
+	text-decoration: underline;
+	color: $primary;
+}
+blockquote {
+	border-left: 2px solid $primary;
+	margin: 0;
+	padding-left: 1rem;
+}
+blockquote p {
+	margin:0.5rem 0;
+}
+body {
+	font-family:'Noto Serif','Noto Sans Japanese',serif;
+	margin: 1.5rem auto 0 auto;
+	width: $width;
+}
+code {
+	font-family: monospace;
+}
+center * {
+	text-align: center !important;
+}
+div:target {
+	background: #eee;
+}
+.emoji { // Twemoji style
+	height:1rem;
+}
+footer {
+	background: $primary;
+	color: $secondary;
+	font-size: 10pt;
+	margin: 4rem 0 0 0;
+	min-height: 50vh;
+	padding: 1rem;
+}
+footer a {
+	color: $secondary;
+}
+h1 {
+	text-align: center;
+}
+h1,h2,h3,h4 {
+	font-family:'Playfair Display','Noto Serif','Noto Sans Japanese',sans-serif;
+	font-weight: normal;
+}
+h1 a,h2 a,h3 a,h4 a{
+	text-decoration: none;
+}
+h2 {
+	margin-top: 3em;
+}
+hr {
+	background: $primary;
+	border: 0;
+	height: 1px;
+}
+hr + h2 {
+	margin-top: 0;
+}
+html {
+	color: $primary;
+	font-size: 11pt;
+}
+img,video {
+	max-width: 100%;
+}
+li, p {
+	line-height: 1.5rem;
+	text-align: justify;
+}
+p>span.MathJax_SVG {
+	margin-bottom: -1em !important;
+}
+pre {
+	background: $secondary;
+	border: 1px solid $primary;
+	overflow: auto;
+	padding: 1rem !important;
+	tab-size: 4;
+}
+.preview {
+	margin: 3rem 0;
+}
+.preview p {
+	margin: 0.5rem 0;
+}
+.pullquote {
+	float: right;
+	font-size: 1.5rem;
+	font-weight: bold;
+	margin: 0 -#{$pq-width / 2} 0 0;
+	padding: 1rem;
+	text-align: center;
+	width: $pq-width;
+}
+.pullquote.left {
+	float: left;
+	margin:0 0 0 -#{$pq-width / 2};
+}
+.pullquote.image {
+	font-size: 1rem;
+	font-weight: normal;
+}
+small {
+	font-size: 0.8rem;
+	text-align: justify;
+}
+sub {
+	vertical-align: bottom;
+	position: relative;
+	bottom: -0.3em;
+}
+sup {
+	vertical-align: top;
+	position: relative;
+	top: -0.3em;
+}
+table {
+	border-collapse: collapse;
+	margin: 1em 0;
+	width: 100%;
+}
+thead {
+	font-family: 'Noto Serif',serif;
+	font-weight: bold;
+}
 thead td,
-thead th		{padding-bottom:0.5rem !important;text-align:left;}
-tr:nth-child(even){background:#f0f0f0;}
+thead th {
+	padding-bottom: 0.5rem !important;
+	text-align: left;
+}
+tr:nth-child(even) {
+	background: #f0f0f0;
+}
 
-hist			{color:#4d8;}
-kw				{color:#36d;}
-proof			{color:#e44;}
+hist {
+	color: #4d8;
+}
+kw {
+	color: #36d;
+}
+proof {
+	color: #e44;
+}
 
-twitterwidget	{margin-left:calc(24rem - 250px);}
+twitterwidget {
+	margin-left: calc(#{$width / 2} - 250px);
+}
 
 // Mobile and print
-@media print, screen and (max-width: 66rem) {
-	.pullquote	{float:none !important;margin:0 auto !important;}
+@media print, screen and (max-width: $width + $pq-width) {
+	.pullquote	{
+		float: none !important;
+		margin: 0 auto !important;
+	}
 }
-@media print, screen and (max-width: 48rem) {
-	body		{margin:1.5rem 1rem !important;position:static;width:auto !important;text-align:left;}
-	.pullquote	{float:none !important;margin:0 auto !important;}
-	twitterwidget{margin-left:0;}
+@media print, screen and (max-width: $width) {
+	body {
+		margin: 1.5rem 1rem !important;
+		position: static;
+		width: auto !important;
+		text-align: left;}
+	.pullquote {
+		float: none !important;
+		margin:0 auto !important;
+	}
+	twitterwidget {
+		margin-left:0;
+	}
 }
 @media print {
-	html		{background:white;}
-	h2			{margin-top:1em;}
-	body		{color:black;font-size:11pt;padding:0.4in 0;}
+	html {
+		background: white;
+	}
+	h2 {
+		margin-top: 1em;
+	}
+	body {
+		color: black;
+		padding: 0.4in 0;
+	}
 }
