@@ -2,7 +2,7 @@
 ---
 
 @import 'prism.css';
-@import url(//fonts.googleapis.com/earlyaccess/notosansjapanese.css);
+
 
 $primary:   #444;
 $pq-width:  18rem;
@@ -23,7 +23,7 @@ blockquote p {
 	margin:0.5rem 0;
 }
 body {
-	font-family:'Noto Serif','Noto Sans Japanese',serif;
+	font-family:'Noto Serif', 'source-han-serif-japanese', serif;
 	margin: 1.5rem auto 0 auto;
 	width: $width;
 }
@@ -54,8 +54,8 @@ h1 {
 	text-align: center;
 }
 h1,h2,h3,h4 {
-	font-family:'Playfair Display','Noto Serif','Noto Sans Japanese',sans-serif;
-	font-weight: normal;
+	font-family:'Playfair Display','source-han-serif-japanese',sans-serif;
+	font-weight: 700;
 }
 h1 a,h2 a,h3 a,h4 a{
 	text-decoration: none;
