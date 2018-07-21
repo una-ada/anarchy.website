@@ -1,12 +1,17 @@
 <head>
 	<title>{{ page.title | default: site.github.repository_name  | strip_html }}</title>
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+	<!-- CSS -->
+	<link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Noto+Serif:400,400i,700,700i|Playfair+Display:700,700i&amp;subset=latin-ext">
+	<!-- Favicon -->
 	<link rel="shortcut icon" type="image/png" href="/assets/img/me.jpg"/>
+	<!-- Metadata -->
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="chrome=1">
 	<meta name="viewport" content="width=device-width">
+	<!-- Google Webmaster -->
 	<meta name="google-site-verification" content="CYzkfqx-QYWUlNqp8nTocoY039wxMpW7LWfFAswBbUw" />
+	<!-- MathJax -->
 	<script type="text/x-mathjax-config">
 		MathJax.Ajax.config.path["mhchem"] = "https://cdnjs.cloudflare.com/ajax/libs/mathjax-mhchem/3.1.0";
 		MathJax.Hub.Config({
@@ -16,17 +21,20 @@
 				font: "Latin-Modern",
 				matchFontHeight: true,
 				scale: 85,
-				//blacker: 0,
 				linebreaks: {automatic: true}
 			}
 		});
 		MathJax.Hub.setRenderer("HTML-CSS");
 	</script>
 	<script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+	<!-- Twemoji -->
 	<script type="text/javascript" src="https://twemoji.maxcdn.com/2/twemoji.min.js"></script>
+	<!-- Typekit -->
 	<script src="https://use.typekit.net/jrs7lsx.js"></script>
 	<script>try{Typekit.load({ async: true });}catch(e){}</script>
+	<!-- Prism -->
 	<script type="text/javascript" src="/assets/prism.js"></script>
+	<!-- SEO Tags -->
 	{% seo %}
     {% if site.tags != "" %}
         {% include collecttags.html %}
