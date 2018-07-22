@@ -14,6 +14,16 @@ license: BY-SA
 OwO, what's this? That's right, this entire essay is going to be a roundabout
 justification for "owo"ing and "uwu"ing all over the place.
 
+- what is the rhotic
+
+- does everyone have a rhotic? no.
+
+- why do speakers of languages without a rhotic have problems with it?
+
+- how much do these problems extend to speakers of languages with a rhotic?
+
+- what alternatives are there, uwu?
+
 ## Footnotes
 
 http://web.phonetik.uni-frankfurt.de/upsid_info.html
