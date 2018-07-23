@@ -1,5 +1,5 @@
 ---
-author: uja
+author: trewbot
 description: >
     A lonely English speaker discovers a puzzling formation while looking at a
     map and must journey into the depths of the Japanese web to discover the

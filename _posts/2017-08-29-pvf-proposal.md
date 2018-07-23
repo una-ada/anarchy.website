@@ -1,5 +1,5 @@
 ---
-author: trew
+author: trewbot
 layout: post
 title: PVF Design Proposal
 tags: design proposal organization

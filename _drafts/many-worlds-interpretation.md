@@ -1,5 +1,5 @@
 ---
-author: uja
+author: trewbot
 description: >
     The Many-Worlds Interpretation (MWI) provides and explanation for the
     uncertainty we find in quantum mechanics. This may have plenty of

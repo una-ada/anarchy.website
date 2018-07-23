@@ -1,5 +1,5 @@
 ---
-author: uja
+author: trewbot
 layout: post
 tags: science physics programming threejs javascript quantum-mechanics blog
 title: 2D Schrödinger Equation Simulation (Pt. I)

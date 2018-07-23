@@ -1,5 +1,5 @@
 ---
-author: uja
+author: trewbot
 description: >
     English has many letters that are generally acknowledges as either useless
     or redundant, be it c, x, or q. As it becomes a more globally spoken

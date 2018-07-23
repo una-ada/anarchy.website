@@ -1,5 +1,5 @@
 ---
-author: tjh
+author: tjhoglund
 description: >
     (Spring, 2015) Drugs! Explosions! Cancer due to excessive exposure to
     radiation! Chemistry has it all! I'm not just saying that to posthumously

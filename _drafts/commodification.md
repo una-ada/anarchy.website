@@ -1,5 +1,5 @@
 ---
-author: uja
+author: trewbot
 description: >
     Capitalism perpetuates itself through institutions of government and
     economy, but faults in these systems could lead to its collapse. However, it

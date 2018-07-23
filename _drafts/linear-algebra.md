@@ -1,5 +1,5 @@
 ---
-author: uja
+author: trewbot
 description: >
     (Fall 2015) Matrices. Matrices. Matrices.
 layout: post

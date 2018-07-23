@@ -1,5 +1,5 @@
 ---
-author: uja
+author: trewbot
 description: >
     These notes just cover a few basic ideas in Quantum Mechanics, giving an
     introduction to wave function, the Schrödinger Equation (both time dependent

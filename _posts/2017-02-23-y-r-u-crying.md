@@ -1,5 +1,5 @@
 ---
-author: trew
+author: trewbot
 layout: post
 tags: txt
 title: y r u crying.txt

@@ -1,5 +1,5 @@
 ---
-author: th
+author: thoglund
 layout: post
 title: Awkward Smile Day
 tags: short-story fiction

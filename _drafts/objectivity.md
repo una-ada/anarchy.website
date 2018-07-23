@@ -1,5 +1,5 @@
 ---
-author: uja
+author: trewbot
 description: >
     Debates and arguments are, for some reason, often viewed as a sport with
     clear rules of play. Wherefrom did these rules come? And why are they so

@@ -1,5 +1,5 @@
 ---
-author: tjh
+author: tjhoglund
 layout: post
 tags: blog depression self
 title: The Childhood Fear of the Void

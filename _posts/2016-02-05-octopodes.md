@@ -1,5 +1,5 @@
 ---
-author: tjh
+author: tjhoglund
 layout: post
 title: The feasibility of spontaneously morphing into an octopus
 tags: column student-voice

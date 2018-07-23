@@ -1,5 +1,5 @@
 ---
-author: uja
+author: trewbot
 layout: post
 license: BY-SA
 tags: maps blog history agroforestry agriculture geography

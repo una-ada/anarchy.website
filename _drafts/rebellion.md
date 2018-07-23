@@ -1,5 +1,5 @@
 ---
-author: uja
+author: trewbot
 layout: post
 license: BY-NC-SA
 tags: review absurdism philosophy anime

@@ -1,5 +1,5 @@
 ---
-author: tjh
+author: tjhoglund
 layout: post
 title: Building a Flight Computer
 tags: programming school proposal physics electronics

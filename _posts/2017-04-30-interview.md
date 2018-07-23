@@ -1,5 +1,5 @@
 ---
-author: trew
+author: trewbot
 layout: post
 tags: script fiction comedy
 title: Interview
