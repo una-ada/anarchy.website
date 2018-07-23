@@ -2,7 +2,7 @@
 author: trewbot
 layout: post
 tags: ...
-title: Minimalism and the Separation of Aesthetic from Capital
+title: Minimalism & Separation of Aesthetic from Capital
 ---
 
 There are a few different interpretations of what minimalism is, meaning
