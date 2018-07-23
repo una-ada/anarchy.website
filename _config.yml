@@ -3,9 +3,9 @@ description: >
   more.
 kramdown:
   syntax_highlighter_opts:
-    disable : true
+    disable: true
 lang: en_US
-logo: /assets/img/aw.png
+logo: /assets/img/me.jpg
 markdown: kramdown
 plugins:
   - jekyll-seo-tag
