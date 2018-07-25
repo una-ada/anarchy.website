@@ -165,7 +165,7 @@ of Forest Landscape Planning and Design (森林風致計画学研究室)][42] at
 Lapido, and Roni Wijaya. I would *love* to commission a full translation of this
 report (which I'm assuming was a project done by the authors during their
 graduate studies), but a) I don't have any money and b) it is marked as
-copyrighted so I'd have to contact the source to discuss that which would and
+copyrighted so I'd have to contact the source to discuss that and
 the language barrier there has likely already been made fairly clear.
 
 Proceeding without any further consideration for the obvious issues. The
@@ -173,7 +173,18 @@ majority of this report is concerned with land use as it is from an agriculture
 planning lab, the only section that I'm really interested in is [2.1 Development
 Plan from the Meiji Era (明治期の開拓計画)][44].
 
+Through careful searching of random combinations of characters around what I was
+looking for, I eventually found out that what I'd previously referred to as the
+"pioneering era" was actually a time after the [Meiji Restoration][45] when the
+Meiji government created the Colonization Office ([開拓使][46]) in Hokkaido. The
+term "pioneering" that machine translation produced here is fairly accurate as
+the government recruited *[tondenhei][47]* ([屯田兵][48]), military settler
+colonists, to settle the region. Knowing this clarifies a bit of the section I
+had mentioned.
+
 <http://www.rinya.maff.go.jp/j/kikaku/hakusyo/26hakusyo_h/all/a15.html>
+
+<https://www.town.kamifurano.hokkaido.jp/hp/saguru/1711nojiri.htm> ???
 
 [1]: https://www.google.com/maps
 [2]: https://store.steampowered.com/app/255710/Cities_Skylines/
@@ -219,3 +230,7 @@ Plan from the Meiji Era (明治期の開拓計画)][44].
 [42]:http://www.fuuchi.fr.a.u-tokyo.ac.jp/
 [43]:http://www.fuuchi.fr.a.u-tokyo.ac.jp/lfl/report/2007nakashibetsu/report.html
 [44]:http://www.fuuchi.fr.a.u-tokyo.ac.jp/lfl/report/2007nakashibetsu/report.html#p2-1
+[45]:https://en.wikipedia.org/wiki/Meiji_Restoration
+[46]:https://ja.wikipedia.org/wiki/開拓使
+[47]:https://en.wikipedia.org/wiki/Tondenhei
+[48]:https://ja.wikipedia.org/wiki/屯田兵
