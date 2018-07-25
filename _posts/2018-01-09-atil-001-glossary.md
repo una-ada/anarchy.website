@@ -1,5 +1,5 @@
 ---
-author: uja
+author: trewbot
 layout: post
 title: ATIL Issue 001 Glossary
 tags: atil glossary

@@ -1,5 +1,5 @@
 ---
-author: uja
+author: trewbot
 layout: post
 title: Creation of <i>ma</i> (Pt. II)
 tags: worldbuilding alekala blog

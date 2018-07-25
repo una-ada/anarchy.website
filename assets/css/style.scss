@@ -23,7 +23,7 @@ blockquote p {
 	margin:0.5rem 0;
 }
 body {
-	font-family:'Noto Serif', 'source-han-serif-japanese', serif;
+	font-family:'Noto Sans', 'source-han-sans-japanese', sans-serif;
 	margin: 1.5rem auto 0 auto;
 	width: $width;
 }
@@ -49,9 +49,6 @@ footer {
 }
 footer a {
 	color: $secondary;
-}
-h1 {
-	text-align: center;
 }
 h1,h2,h3,h4 {
 	font-family:'Playfair Display','source-han-serif-japanese',sans-serif;
@@ -158,7 +155,7 @@ proof {
 }
 
 twitterwidget {
-	margin-left: calc(#{$width / 2} - 250px);
+	margin-left: calc(50% - 250px);
 }
 
 // Mobile and print
@@ -178,8 +175,10 @@ twitterwidget {
 		float: none !important;
 		margin:0 auto !important;
 	}
+}
+@media print, screen and (max-width: 500px){
 	twitterwidget {
-		margin-left:0;
+		margin-left: 0;
 	}
 }
 @media print {

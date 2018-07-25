@@ -1,4 +1,4 @@
-th:
+thoglund:
     bio: >
         I am a graphic artist, writer, photographer and programmer currently
         studying physics and mathematics at UW-River Falls.
@@ -6,7 +6,7 @@ th:
     email: trewbot@gmail.com
     img: /assets/img/th.jpg
     url: https://trewbot.github.io
-tjh:
+tjhoglund:
     add: 410 S. 3rd St., River Falls, WI 54016
     bio: >
         Trevor J Hoglund is a Physics Option I and Mathematics major with a
@@ -19,21 +19,16 @@ tjh:
     email: trevor.hoglund@my.uwrf.edu
     img: /assets/img/tjh.jpg
     url: https://trewbot.github.io
-trew:
-    dept: Phene Co.
-    name: Trewbot
-    email: trewbot@phene.co
-    img: /assets/img/trew.jpg
-    url: https://twitter.com/trewbot
-mich:
+michaubr2:
     add: 410 S. 3rd St., River Falls, WI 54016
     dept: Physics Department, University of Wisconsin - River Falls
     name: Benjamin Michaud
     email: benjamin.michaud@my.uwrf.edu
-uja:
+trewbot:
     bio: >
-        Writer, developer, and editor. Self-theory anarchist from the Midwest,
-        USA.
+        Absurdist, multiverse philosopher, self-theory anarchist, transhumanist
+        (any pronouns).
+    dept: Phene Co.
     name: Una J. Ada
     email: una@anarchy.website
     img: /assets/img/me.jpg
