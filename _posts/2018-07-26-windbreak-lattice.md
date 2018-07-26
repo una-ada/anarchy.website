@@ -1,9 +1,9 @@
 ---
 author: trewbot
 description: >
-    A lonely English speaker discovers a puzzling formation while looking at a
-    map and must journey into the depths of the Japanese web to discover the
-    truth of its origin.
+    I saw some trees on a map and decided I just had to know what was up,
+    completely forgetting that not everything in the world is available in
+    English and overall just making myself look like a fool.
 layout: post
 license: BY-SA
 tags: maps blog history agroforestry agriculture geography
