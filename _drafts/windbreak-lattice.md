@@ -111,11 +111,12 @@ still had significant phrases well enough that I could tell it was what I had
 been looking for: [grid-like windbreak (格子状防風林)][35].
 
 <div class="pullquote image">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Flag_of_Hokkaido_Prefecture.svg">
-    <strong>FIGURE 2.</strong> Flag of Hokkaido Prefecture (北海道旗).
-    <i>source:
-        <a href="https://commons.wikimedia.org/wiki/File:Flag_of_Hokkaido_Prefecture.svg">Wikimedia.</a>
-    </i>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Flag_of_Hokkaido_
+Prefecture.svg">
+<strong>FIGURE 2.</strong> Flag of Hokkaido Prefecture (北海道旗).
+<i>source:<a href="https://commons.wikimedia.org/wiki/File:Flag_of_Hokkaido_
+Prefecture.svg">Wikimedia.</a>
+</i>
 </div>
 
 Of course, now it seems fucking obvious. Had I seen the filename on that aerial
@@ -173,6 +174,14 @@ majority of this report is concerned with land use as it is from an agriculture
 planning lab, the only section that I'm really interested in is [2.1 Development
 Plan from the Meiji Era (明治期の開拓計画)][44].
 
+<div class="pullquote image left">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Black_and_white_
+photo_of_emperor_Meiji_of_Japan.jpg">
+<strong>FIGURE 3.</strong> Emperor Meiji (明治天皇).
+<i>source: <a href="https://commons.wikimedia.org/wiki/File:Black_and_white_
+photo_of_emperor_Meiji_of_Japan.jpg">Wikimedia.</a></i>
+</div>
+
 Through careful searching of random combinations of characters around what I was
 looking for, I eventually found out that what I'd previously referred to as the
 "pioneering era" was actually a time after the [Meiji Restoration][45] when the
@@ -182,9 +191,47 @@ the government recruited *[tondenhei][47]* ([屯田兵][48]), military settler
 colonists, to settle the region. Knowing this clarifies a bit of the section I
 had mentioned.
 
-<http://www.rinya.maff.go.jp/j/kikaku/hakusyo/26hakusyo_h/all/a15.html>
+After the initial establishment of this office in Hokkaido in 1869, according to
+this report, full-scale development began in the area into the 1890s. They
+followed a grid-like plan in which a base line was established and another base
+line was created orthogonally to it such that the area could be split into
+rectangular divisions. The area was, at the time, mostly unexplored and so the
+land had not been built on; this implies that the mandate for such a large area
+of forest to be kept as a windbreak was not a reaction to a loss of forest area
+but rather a preventative measure. The forests were not planted to protect the
+agricultural lands, rather the fields were cut out of the forest according to
+an established grid.
 
-<https://www.town.kamifurano.hokkaido.jp/hp/saguru/1711nojiri.htm> ???
+There was, however, eventually an effort to plant trees in these forests, but it
+was not as an expansion but rather as a response to wildfires and deforestation
+brought about by the demands of railroad expansion in the 1930s. The
+replenishing then was done with larch, which eventually succumbed to rodents and
+so was later (in the 1970s) replaces with native species.
+
+This report also mentions the growth of the dairy industry in Japan and how it
+lead to the expansion of agricultural lands in this area, but the translation is
+a bit unclear and this wasn't really my focus. That just about answers all the
+questions I had, but there's still a lot more to be learned about this. The lack
+of resources in English about such a large structure while there are plenty
+about the military conflicts happening at the same time in the same area points
+to the massive disparity between our treatment of military and non-military
+histories. Perhaps, when I find more thorough information on the context, I will
+revisit this again in a bit more of a formal essay. As [section 4.5][49] of the
+Forest Science Planning Laboratory's report says, there aren't many people that
+understand the origin or even the necessity of these forests, and I think maybe
+that's something that should change.
+
+Here are some links for further reading that I either didn't fully cover or just
+never got around to:
+
+- <http://www.fuuchi.fr.a.u-tokyo.ac.jp/lfl/report/2007nakashibetsu/report.html>
+- <http://www.rinya.maff.go.jp/j/kikaku/hakusyo/26hakusyo_h/all/a15.html>
+- <https://www.town.kamifurano.hokkaido.jp/hp/saguru/1711nojiri.htm>
+
+This was supposed to be a quick "well that's interesting" day or two blog post
+and not several weeks of on and off research as it ended up being, so I didn't
+really get into as much detail as I had hoped. Perhaps I should look into other
+land use histories that aren't in a language I don't speak next time 🙃
 
 [1]: https://www.google.com/maps
 [2]: https://store.steampowered.com/app/255710/Cities_Skylines/
