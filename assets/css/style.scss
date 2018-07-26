@@ -154,7 +154,7 @@ proof {
 	color: #e44;
 }
 
-twitterwidget {
+twitter-widget {
 	margin-left: calc(50% - 250px);
 }
 
@@ -177,7 +177,7 @@ twitterwidget {
 	}
 }
 @media print, screen and (max-width: 500px){
-	twitterwidget {
+	twitter-widget {
 		margin-left: 0;
 	}
 }
