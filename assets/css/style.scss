@@ -154,7 +154,7 @@ proof {
 	color: #e44;
 }
 
-twitter-widget {
+twitterwidget, twitter-widget {
 	margin-left: calc(50% - 250px);
 }
 
@@ -177,7 +177,7 @@ twitter-widget {
 	}
 }
 @media print, screen and (max-width: 500px){
-	twitter-widget {
+	twitterwidget, twitter-widget {
 		margin-left: 0;
 	}
 }
@@ -192,7 +192,7 @@ twitter-widget {
 		color: black;
 		padding: 0.4in 0;
 	}
-	.pullquote {
+	.pullquote:not(.image) {
 		display: none;
 	}
 }
