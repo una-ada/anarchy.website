@@ -4,6 +4,7 @@ description: >
 kramdown:
   syntax_highlighter_opts:
     disable: true
+  footnote_backlink: '&#x21A9;&#xFE0E;'
 lang: en_US
 logo: /assets/img/me.jpg
 markdown: kramdown
