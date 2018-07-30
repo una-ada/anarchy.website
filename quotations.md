@@ -21,11 +21,12 @@ authors.
 
 ## Automation
 
- -  "The fact is, that civilisation requires slaves. The Greeks were quite right
-    there. Unless there are slaves to do the ugly, horrible, uninteresting work,
-    culture and contemplation become almost impossible. Human slavery is wrong,
-    insecure, and demoralising. On mechanical slavery, on the slavery of the
-    machine, the future of the world depends." &mdash; Oscar Wilde
+ -  "The fact is, that civilisation [sic] requires slaves. The Greeks were quite
+    right there. Unless there are slaves to do the ugly, horrible, uninteresting
+    work, culture and contemplation become almost impossible. Human slavery is
+    wrong, insecure, and demoralising [sic]. On mechanical slavery, on the
+    slavery of the machine, the future of the world depends." &mdash; Oscar
+    Wilde
 
 ## Linguistics
 
@@ -44,3 +45,13 @@ authors.
 
  -  "[A]fter a few fleeting and futile attempts..." (*[N]ach einigen flüchtigen
     vergeblichen Versuchen...*) &mdash; Bernhard Riemann
+
+## Video Games
+
+ -  "Among Mario's imitations, Sonic is a good one." &mdash; Shigeru Miyamoto
+    (宮本 茂)
+
+## Misc.
+
+ -  "But that was just a dream<br>
+    That was just a dream" &mdash; R.E.M.
