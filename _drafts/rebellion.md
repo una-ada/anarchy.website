@@ -25,6 +25,10 @@ gave it a 9/10. If you look at [my list][5] you might even draw the conclusion
 that I only gave it a 9 and not a 10 for essentially just not being [Neon
 Genesis Evangelion][6].
 
+[^1]:   At the time of writing this I've rated 241 shows, with a mean rating of
+        4.95 and a standard deviation of 1.82. See
+        <https://graph.anime.plus/Trewbot/ratings,anime> for more details.
+
 One might ask then "why did you like the show so much?" And a few might also be
 compelled to ask why this is even a contrarian opinion. It'll be a lot easier to
 address this latter question first, and to describe why I think a lot of the
@@ -60,6 +64,8 @@ example of genre subversion.
 
 **Madoka as the Absurd Hero**
 
+...
+
 Madoka is the absurd hero, she exists as a consciousness trapped in an unending
 cyclical task as the result of her own actions. Because she chose this, we can
 easily imagine her happy.
@@ -81,6 +87,8 @@ embracing the absurd, Madoka Magica presents a situation that (while not wholly
 realistic) analogs the sort of nuance that one would find in more realistic
 situations.
 
+<https://www.youtube.com/watch?v=cyKTKHjLomc>
+
 [1]:    https://myanimelist.net/anime/9756
 [2]:    https://myanimelist.net/anime/11977
 [3]:    https://myanimelist.net/anime/11979
@@ -91,7 +99,3 @@ situations.
 [6]:    https://myanimelist.net/anime/30
 
 ---
-
-[^1]:   At the time of writing this I've rated 241 shows, with a mean rating of
-        4.95 and a standard deviation of 1.82. See
-        <https://graph.anime.plus/Trewbot/ratings,anime> for more details.
