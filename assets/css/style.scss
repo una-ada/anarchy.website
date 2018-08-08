@@ -140,6 +140,11 @@ thead th {
 	padding-bottom: 0.5rem !important;
 	text-align: left;
 }
+.title-card {
+	margin:1rem 0 1rem -#{$pq-width / 2};
+	max-width: none;
+	width: #{$width + $pq-width};
+}
 tr:nth-child(even) {
 	background: #f0f0f0;
 }
@@ -164,16 +169,17 @@ twitterwidget, twitter-widget {
 		float: none !important;
 		margin: 0 auto !important;
 	}
+	.title-card {
+		margin: 1rem 0;
+		width: 100%;
+	}
 }
 @media print, screen and (max-width: $width) {
 	body {
 		margin: 1.5rem 1rem !important;
 		position: static;
 		width: auto !important;
-		text-align: left;}
-	.pullquote {
-		float: none !important;
-		margin:0 auto !important;
+		text-align: left;
 	}
 }
 @media print, screen and (max-width: 500px){

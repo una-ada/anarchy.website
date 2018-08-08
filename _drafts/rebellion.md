@@ -47,9 +47,34 @@ Madoka Magica cover art. <i>Source:
 <a href="https://myanimelist.net/anime/9756/-/pics">MyAnimeList</a>.</i>
 </div>
 
+The show follows [Kaname Madoka (鹿目 まどか)][7] as she decides whether or not
+she should accept the contract offered to her by [Kyuubey (キュゥべぇ)][8] to
+become a magical girl. While contemplating this decision, she is encouraged by
+her friend, [Miki Sayaka (美樹 さやか)][9], and an upperclassman who shows her
+the life of a magical girl, [Tomoe Mami (巴 マミ)][10]; she is also discouraged
+by the actions of [Akemi Homura (暁美 ほむら)][11], another magical girl who is
+attempting to convince her not to accept the contract.
+
+As a magical girl, it is a girl's responsibility to fight witches. A witch is
+the manifestation of human despair, the create labyrinths that they trick people
+into entering, where they are trapped and consumed. Fighting them is very
+dangerous, as Mami points out to Madoka and Sayaka multiple times before
+ultimately exemplifying this herself by dying in front of them; it is, however,
+necessary for magical girls to defeat the witches both as the simply part of
+their contract and due to the powers of the Grief Seeds that defeated witches
+drop. A magical girl's power comes from her Soul Gem, but as she uses it this
+becomes clouded, the only fix for which is to touch it against a Grief Seed.
+
+The incentive to accept the contract, despite all this, is that you may
+have a single wish granted. The power of such a motivator is shown by Sayaka as
+she, despite seeing the death of Mami and the pain caused by being a magical
+girl, becomes a magical girl herself to help the boy she likes.
+
 **Genre Subversion**
 
-"It IsN't GeNrE sUbVeRsIoN tO jUsT bE eDgY."
+It is at this point that we can begin to ask how exactly any of this differs
+from other magical girl shows, what exactly about this show is subverting it?
+The trivial answer is in the tone. 
 
 I begin to wonder whether or not the critiques of this show are even as common
 among the actual audience as they are among some niche group of reviewers, since
@@ -61,6 +86,9 @@ people's opinions on the show itself. If I'm to make the assumption that this is
 true, then I would have to make a correction to my earlier statement and say
 that my opinion is contrarian in that I believe that the show serves as a great
 example of genre subversion.
+
+Of course, to discuss something subverting a genre, one must first discuss that
+genre. What is a magical girl show?
 
 **Madoka as the Absurd Hero**
 
@@ -87,8 +115,6 @@ embracing the absurd, Madoka Magica presents a situation that (while not wholly
 realistic) analogs the sort of nuance that one would find in more realistic
 situations.
 
-<https://www.youtube.com/watch?v=cyKTKHjLomc>
-
 [1]:    https://myanimelist.net/anime/9756
 [2]:    https://myanimelist.net/anime/11977
 [3]:    https://myanimelist.net/anime/11979
@@ -97,5 +123,10 @@ situations.
 [8]:    https://myanimelist.net/profile/Trewbot
 [5]:    https://myanimelist.net/animelist/Trewbot?status=2&order=4
 [6]:    https://myanimelist.net/anime/30
+[7]:    https://myanimelist.net/character/37832
+[8]:    https://myanimelist.net/character/38566
+[9]:    https://myanimelist.net/character/38395
+[10]:   https://myanimelist.net/character/38194
+[11]:   https://myanimelist.net/character/38005
 
 ---
