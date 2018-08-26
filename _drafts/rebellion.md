@@ -18,14 +18,26 @@ Everyone has *some* contrarian opinions, a prevalent example of this being to
 claim that the Star Wars prequels were actually good. While I'm sure that I
 have plenty of these opinions laying around myself, the one that always seems to
 throw me off upon being reminded of it is that Madoka Magica is actually a
-pretty decent show. Actually, I don't think there's much use in using such weak
-wording here, I didn't just think it was "decent" I thought it was really good
-to the point that I, whose average rating on [MyAnimeList][7] is [4.95][8][^1],
-gave it a 9/10. If you look at [my list][5] you might even draw the conclusion
-that I only gave it a 9 and not a 10 for essentially just not being [Neon
-Genesis Evangelion][6].
+pretty decent show[^1]. Actually, I don't think there's much use in using such
+weak wording here, I didn't just think it was "decent" I thought it was really
+good to the point that I, whose average rating on [MyAnimeList][7] is
+[4.95][8][^2], gave it a 9/10. If you look at [my list][5] you might even draw
+the conclusion that I only gave it a 9 and not a 10 for essentially just not
+being [Neon Genesis Evangelion][6].
 
-[^1]:   At the time of writing this I've rated 241 shows, with a mean rating of
+[^1]:   I begin to wonder whether or not the critiques of this show are even as
+        common among the actual audience as they are among some niche group of
+        reviewers, since according to [MAL][7] my high rating of 9 for the show
+        is actually only 0.55 above the average. Now, it is a very distinct
+        possibility that this is actually a very common critique, but that this
+        disagreement over whether or not the show sufficiently meets the
+        requirements for good genre subversion does not affect people's opinions
+        on the show itself. If I'm to make the assumption that this is true,
+        then I would have to make a correction to my earlier statement and say
+        that my opinion is contrarian in that I believe that the show serves as
+        a great example of genre subversion.
+
+[^2]:   At the time of writing this I've rated 241 shows, with a mean rating of
         4.95 and a standard deviation of 1.82. See
         <https://graph.anime.plus/Trewbot/ratings,anime> for more details.
 
@@ -74,25 +86,17 @@ girl, becomes a magical girl herself to help the boy she likes.
 
 It is at this point that we can begin to ask how exactly any of this differs
 from other magical girl shows, what exactly about this show is subverting it?
-The trivial answer is in the tone. 
+The trivial answer is in the tone. For a more in-depth answer we must first
+discuss the genre it is said to be subverting: what is a magical girl show?
 
-I begin to wonder whether or not the critiques of this show are even as common
-among the actual audience as they are among some niche group of reviewers, since
-according to [MAL][7] my high rating of 9 for the show is actually only 0.55
-above the average. Now, it is a very distinct possibility that this is actually
-a very common critique, but that this disagreement over whether or not the show
-sufficiently meets the requirements for good genre subversion does not affect
-people's opinions on the show itself. If I'm to make the assumption that this is
-true, then I would have to make a correction to my earlier statement and say
-that my opinion is contrarian in that I believe that the show serves as a great
-example of genre subversion.
 
-Of course, to discuss something subverting a genre, one must first discuss that
-genre. What is a magical girl show?
 
 **Madoka as the Absurd Hero**
 
 ...
+
+We see that, just as Sisyphus was set to eternally roll a boulder up a hill,
+Madoka is set to eternally purify those magical girls who would turn witches.
 
 Madoka is the absurd hero, she exists as a consciousness trapped in an unending
 cyclical task as the result of her own actions. Because she chose this, we can

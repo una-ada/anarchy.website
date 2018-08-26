@@ -32,7 +32,7 @@ $$\begin{align}
 \end{align}$$
 
 This implies, rightfully so, that the HUP can be shown using the Fourier
-Transform. Consider Eq.13 from the previous section where $t=0$:
+Transform. Consider Eq.13 from the previous section when $t=0$:
 
 $$\Psi(x,0)=Ae^{ik_0x}.\tag2 $$
 
