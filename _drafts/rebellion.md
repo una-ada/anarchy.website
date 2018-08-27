@@ -12,8 +12,6 @@ Magica (魔法少女まどか☆マギカ)][1] and Puella Magi Madoka Magica: Th
 (永遠の物語)][3], and [Rebellion (叛逆の物語)][4]. Please watch the show (or
 first two movies) and Rebellion before continuing.**
 
-**Introduction**
-
 Everyone has *some* contrarian opinions, a prevalent example of this being to
 claim that the Star Wars prequels were actually good. While I'm sure that I
 have plenty of these opinions laying around myself, the one that always seems to
@@ -51,8 +49,6 @@ good time to put in a reminder that this post will contain a lot of spoilers for
 the Madoka Magica series and movies; if you haven't seen them then *I guess* I
 will basically be explaining the whole thing to you.
 
-**Overview**
-
 <div class="pullquote image">
 <img src="https://myanimelist.cdn-dena.com/images/anime/11/55225l.jpg">
 Madoka Magica cover art. <i>Source:
@@ -82,32 +78,82 @@ have a single wish granted. The power of such a motivator is shown by Sayaka as
 she, despite seeing the death of Mami and the pain caused by being a magical
 girl, becomes a magical girl herself to help the boy she likes.
 
-**Genre Subversion**
-
 It is at this point that we can begin to ask how exactly any of this differs
 from other magical girl shows, what exactly about this show is subverting it?
 The trivial answer is in the tone. For a more in-depth answer we must first
 discuss the genre it is said to be subverting: what is a magical girl show?
 
+While technically the only requirement to be of the magical girl genre is that a
+show contains girls (and this is arguably not restricted by gender) that have
+some magical powers, there are trends that become stereotypical across the
+genre, as is typically the case. One such trend in the magical girl genre is
+that there is some evil that is to be fought by these magical girls. Another is
+that, especially since this is typically a genre intended for younger audiences,
+the tone and framing of the magical girls' actions are that of graceful heroes
+that enjoy saving the world from the aforementioned evil.
 
+Madoka Magica subverts both of these quite well, which is admittedly why I chose
+them as examples of trends in the genre. Firstly, the evil that is being fought
+in the show is (spoilers) actually created by the magical girls themselves, they
+are all trapped in a system where by fighting this evil they eventually become
+that which they fight. It is through Homura's character that we are shown the
+conclusion that those who created and maintain this system, the Incubators, are
+the true evil that should be fought against.
 
-**Madoka as the Absurd Hero**
+Second, as the true nature of the Witches is revealed, the framing of the
+actions of the magical girls is no longer necessarily that of heroism. This is
+wherein the common critique that the show is using edginess as its entire basis
+for genre subversion originates. The show does not present these girls as
+graceful heroes, but as tortured souls. We are especially shown this through
+Mami, who attempts to give off an air of majesty to give Madoka and Sayaka more
+confidence in the work of a magical girl, but is in reality suffering due to the
+difficulty of the work required of her. I will concede that there are points
+where the show is definitely trying too hard to make this point, including some
+lines that are quite "edgy."
 
-...
+_Finally,_ I can begin to get the point of this whole essay. In the end of the
+show, after finding out the truth about the magical girl system, Madoka finally
+decides to make a contract with Kyuubey. If a Soul Gem is not cleansed with a
+Grief Seed it eventually clouds over completely and the magical girl becomes a
+Witch. The Incubators (Kyuubey) use this system to harness the energy that is
+released by this conversion, but as Madoka is empathetic towards the pain
+experienced by the magical girls, her wish is to break this system such that the
+magical girls do not become Witches.
 
-We see that, just as Sisyphus was set to eternally roll a boulder up a hill,
-Madoka is set to eternally purify those magical girls who would turn witches.
+<div class="pullquote left">
+    "[Madoka] transcends not only the current system of magical girls but the
+    current universe itself..."
+</div>
+
+This wish creates what is then called the Law of Cycles (円環の理), a new system
+embodied by Madoka herself. She transcends not only the current system of
+magical girls but the current universe itself, rewriting it such that the
+magical girls are not made to suffer as their Soul Gems are cleansed by the Law
+of Cycles rather than becoming Witches. It is this idea that reminded me of the
+essay "The Myth of Sisyphus" by Albert Camus, in which Camus discusses the Greek
+myth of Sisyphus and establishes the idea of accepting the absurd. Camus
+describes the situation Sisyphus finds himself in, that of rolling a boulder up
+a hill, watching it fall back down, and then repeating the process, as simply
+the unchanging reality of Sisyphus, something that he can and must accept. This
+is furthered by the fact that Sisyphus is not forced into this labor by chance
+but rather as a consequence brought to him by the gods that he had infuriated.
+
+If we substitute the rock for the Law of Cycles, the clever trickery against the
+gods for the wish, and the gods for the Incubators, we can easily draw a
+parallel between these two stories. We see that, just as Sisyphus was set to
+eternally roll a boulder up a hill, Madoka is set to eternally purify those
+magical girls who would turn witches.
 
 Madoka is the absurd hero, she exists as a consciousness trapped in an unending
 cyclical task as the result of her own actions. Because she chose this, we can
 easily imagine her happy.
 
-**Homura's Rebellion**
-
 Homura, however, exists as the natural consequence of such a godly power
 spawning from nothing: an opposing power. Rather than accept the absurdity, she
 rewrites the fundamentals of that absurdity, abolishing it by its own first
 principles.
+
+...
 
 While Madoka may be functionally similar to our absurd hero, she is not also
 equivalent to our proletarian of the gods. This key difference is something that
