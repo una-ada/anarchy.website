@@ -59,7 +59,7 @@ reason for employees to do so), but we will come back to it when discussing the
 concept of punishment as the allowance of theft even when there is no suffering
 lends itself to a greater cultural perception that theft is not an issue. The
 former, however, assumes that the company is not aware of theft as a potential
-problem and therefore reacts to its occurrence as it happens. We many concede at
+problem and therefore reacts to its occurrence as it happens. We may concede at
 this point that there are potentially some companies that are oblivious to the
 possibility of theft and may act in this way, but if we are to consider any
 given act of theft it is likely not the first act of theft to occur at whichever
@@ -139,7 +139,7 @@ other staff members that are paid less (such as the sales staff) so as to
 increase the amount of workers on shift at any given time that are capable of
 preventing shoplifting. This would entail training workers that are not
 necessarily loss prevention staff; however, if these workers are fully trained
-to carry out loss prevention duties, then what reason would they have to be keep
+to carry out loss prevention duties, then what reason would they have to keep
 their current position as opposed to move to a position (at the same company or
 elsewhere) within the higher paying loss prevention staff? This then becomes a
 matter of determining how to ensure an employee acts in an intended way without
