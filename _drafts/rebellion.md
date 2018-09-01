@@ -6,7 +6,7 @@ tags: review absurdism philosophy anime
 title: The Absurdity of <i>Madoka Magica</i>
 ---
 
-**This post contains spoilers for [Puella Magi Madoka Magic/Mahou Shoujo Madoka
+**This post contains spoilers for [Puella Magi Madoka Magica/Mahou Shoujo Madoka
 Magica (魔法少女まどか☆マギカ)][1] and Puella Magi Madoka Magica: The Movie
 (劇場版 魔法少女まどか☆マギカ) [Beginnings (始まりの物語)][2], [Eternal
 (永遠の物語)][3], and [Rebellion (叛逆の物語)][4]. Please watch the show (or
@@ -164,6 +164,11 @@ may provide a perfect example of a situation whose horror is remedied simply by
 embracing the absurd, Madoka Magica presents a situation that (while not wholly
 realistic) analogs the sort of nuance that one would find in more realistic
 situations.
+
+<iframe
+    src="//coub.com/embed/1bgtlo?muted=false&autostart=false&originalSize=false&startWithHD=false"
+    allowfullscreen frameborder="0" style="width:48rem;height:27rem;" allow="autoplay">
+</iframe>
 
 [1]:    https://myanimelist.net/anime/9756
 [2]:    https://myanimelist.net/anime/11977
