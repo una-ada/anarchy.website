@@ -1,5 +1,11 @@
 ---
 author: trewbot
+description: >
+    In this first installment of the Goth Angel Sinners podcast, our hosts
+    @trewbot and Chloe, along with special guest @CheechGuevara, discuss the
+    extremely controversial topic that is the morality of shoplifting. Join us
+    for this exciting discussion about loss prevention, optimization, morality,
+    and absentee ownership.
 image: /assets/img/gas/shoplifting.jpg
 layout: post-img
 permalink: /podcast/1/notes
