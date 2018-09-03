@@ -1,5 +1,7 @@
 ---
-author: trewbot
+author:
+- trewbot
+- shtpostscarcity
 description: >
     In this first installment of the Goth Angel Sinners podcast, our hosts
     @trewbot and Chloe, along with special guest @CheechGuevara, discuss the
@@ -18,7 +20,7 @@ title: "Goth Angel Sinners Pt. I: <i>Shoplifting</i> Notes"
      Sinners, a podcast about anarchy, anarchists, and anarchism, and not about
      Lil Peep."_
    - T: _"We’re your hosts, I’m @trewbot..."_
-   - C: _"...and I’m Χλόη (Chloe)..."_
+   - C: _"...and I’m Chloe (Χλόη)..."_
    - T: _"...here today to talk about shoplifting."_
  - Two main arguments against shoplifting:
    - People who maybe almost have a sense of decency and think it hurts workers
