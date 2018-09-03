@@ -9,6 +9,9 @@ tags: capitalism theft
 title: "Does Shoplifting 'Hurt' Workers?"
 ---
 
+*This post is also available on
+[Steemit](https://steemit.com/money/@trewbot/does-shoplifting-hurt-workers)*
+
 There is a certain idea that pops up in the discourse every few months (at
 least for me it is only so often, perhaps for some it is more common) and it
 never fails to amaze me with the amount of cultural support for capital models
