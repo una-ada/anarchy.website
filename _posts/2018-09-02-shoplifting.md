@@ -11,7 +11,7 @@ description: >
 image: /assets/img/gas/shoplifting.jpg
 layout: post-img
 permalink: /podcast/1/notes
-tags: podcast notes outline
+tags: podcast notes outline collaboration
 title: "Goth Angel Sinners Pt. I: <i>Shoplifting</i> Notes"
 ---
 
