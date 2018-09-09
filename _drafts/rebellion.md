@@ -153,7 +153,26 @@ spawning from nothing: an opposing power. Rather than accept the absurdity, she
 rewrites the fundamentals of that absurdity, abolishing it by its own first
 principles.
 
-...
+What distinguishes Madoka from Sisyphus is that there exists a coercive force
+that would, if he were to somehow manage to break free from his current state,
+reestablish the status quo for Sisyphus, whereas no such thing exists for
+Madoka. If anything, Madoka's position exists _in opposition_ to what may be
+considered the gods in her story (the Incubators). Her situation exists as a
+result of a fundamental shift in the rules of the universe, which indicates that
+within the universe as is there is no possible change to it. However, if the
+universe could be amended once, without any change to that which allowed the
+amendment it could be amended once again.
+
+That last assertion may actually be irrelevant here given the methodology by
+which Homura alters Madoka's situation, but it indicates the possibility of such
+an action within this universe. What Homura does is take advantage of the
+separate existences of Madoka and the Law of Cycles, splitting them such that
+they may exist exclusive of each other. In essence, we can view this as Homura
+automating the Law of Cycles so that Madoka may live unburdened by its labor.
+Therein lies the issue one must take with the Myth of Sisyphus, that while we
+can accept the absurd (imagine Sisyphus happy) we can also in many cases alter
+the absurd such that more people are allowed to be happy than just our
+hypothetical Sisyphus.
 
 While Madoka may be functionally similar to our absurd hero, she is not also
 equivalent to our proletarian of the gods. This key difference is something that
@@ -164,11 +183,6 @@ may provide a perfect example of a situation whose horror is remedied simply by
 embracing the absurd, Madoka Magica presents a situation that (while not wholly
 realistic) analogs the sort of nuance that one would find in more realistic
 situations.
-
-<iframe
-    src="//coub.com/embed/1bgtlo?muted=false&autostart=false&originalSize=false&startWithHD=false"
-    allowfullscreen frameborder="0" style="width:48rem;height:27rem;" allow="autoplay">
-</iframe>
 
 [1]:    https://myanimelist.net/anime/9756
 [2]:    https://myanimelist.net/anime/11977
