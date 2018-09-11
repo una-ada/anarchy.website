@@ -50,6 +50,22 @@ footer {
 footer a {
 	color: $secondary;
 }
+.footnotes {
+	column-count: 2;
+	font-size: 0.8rem;
+	line-height: normal;
+	margin: 1rem 0;
+}
+.footnotes li {
+	line-height: normal;
+}
+.footnotes li p {
+	line-height: normal;
+	margin: 0 0 0.5rem 0;
+}
+.footnotes ol {
+	margin: 0;
+}
 h1,h2,h3,h4 {
 	font-family:'Playfair Display','source-han-serif-japanese',sans-serif;
 	font-weight: 700;
@@ -183,6 +199,9 @@ twitterwidget, twitter-widget {
 	}
 }
 @media print, screen and (max-width: 500px){
+	.footnotes {
+		column-count: auto;
+	}
 	twitterwidget, twitter-widget {
 		margin-left: 0;
 	}
