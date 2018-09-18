@@ -7,6 +7,7 @@ description: >
     phrases that I believe are humorous to reference as quotations by their
     respective authors.
 layout: post
+license: ZERO
 title: Assorted Quotations
 ---
 
@@ -59,6 +60,8 @@ authors.
     nicht einmal einen Café con leche kaufen. Das Geld, Dein Gott und Dein
     Diener, ist hier abgeschafft und die Menschen sind glücklich.*) &mdash; Die
     Soziale Revolution
+
+ -  "That's capital not economy, you fool!" &mdash; @trewbot
 
 ## Video Games
 
