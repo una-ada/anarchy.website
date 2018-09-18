@@ -30,18 +30,48 @@ capitalism?
 and its ideas on commodification.**
 Commodification, the shift in social perception and treatment of any resources,
 products, people, ideas, et cetera so as to be sold in a
-market<sup>[D7](#D7),[D8](#D8),[D14](#D14)</sup>, is fundamentally anchored to
+market[^7]<sup>,</sup>[^8]<sup>,</sup>[^14], is fundamentally anchored to
 the idea of attribution of value.
 In modern society, we have come to view mathematics as the basis for our
 understanding of the world.
 This is true in not only physics, but economics and even sociology as a
-whole<sup>[D12](#D12),[D13](#D13)</sup>.
+whole[^12]<sup>,</sup>[^13].
 If we were to simply trade one item for another, it is arguable that the two
 parties doing said trading are agreeing on some value for each item in the
 trade.
 The value doesn't have to necessarily be given a number, just Person A views
 Item 1 to have the same value as Person B views Item 2 to
-have<sup>[D1](#D1)</sup>.
+have[^1].
+
+[^7]:  *Commodify*, Merriam-Webster.
+
+[^8]:  *Commodity*, Merriam-Webster.
+
+[^14]: Marxists, *Commodification*.
+
+[^12]: *Game Theory*, Wikipedia.
+
+[^13]: Don Ross, *Game Theory*, Stanford Encyclopedia of
+Philosophy, 2016.
+
+[^1]:  Theoretically, if trades were made in such a system between three parties
+       (Persons A, B, and C), where Person A trades Item 1 for Person B's Item
+       2, Person B trades Person A's original Item 1 for Person C's Item 3, and
+       finally Person A requests a trade to take back their Item 1 from Person
+       C, Person C could deny said trade on account of them valuing Item 1
+       higher than Item 2 (which Person A now has). That is to say that the
+       transitive property does not necessarily apply in this system, as each
+       trade is itself a new context in which each item is valued by the parties
+       that hold and request them. The change in value can be attributed to
+       change in circumstance, Person C may inherently value anything that they
+       received from Person B as a higher value than anything they received from
+       Person A by default. It could also be that over the time between trades
+       Person C found Item 1 very useful and therefore now attributes higher
+       value to it. If the circumstances are changed slightly such that it is
+       Person C who is attempting to trade Item 1 back to Person A for Item 2,
+       in such a case the argument could be made that Person A, having been
+       willing to trade away Item 1 to begin with, has no interest in once again
+       having Item 1.
 
 **Maybe not make this about math culture?**
 Nonetheless, any person raised in a world that values mathematics as a necessary
@@ -66,7 +96,7 @@ The buyer in a market is not putting up their property to be traded with your
 property, at least not in the immediate sense, and so there is no matching of
 attributed value.
 Primarily, the value for which an item is sold in a market is based on
-prediction, or "speculation," in this specific instance<sup>[D2](#D2)</sup>
+prediction, or "speculation," in this specific instance[^2]
 the seller must predict what price the sellers of items for which they would be
 otherwise willing to trade for the item offered by this seller would sell their
 items for in this same market.
@@ -79,17 +109,27 @@ No, especially not in the modern system of international markets, but still this
 system of commodification has many undesirable side effects that must be
 explored and countered.
 
+[^2]: Speculation is also the source of value in other
+instances within a market system, such as stocks being bought and sold based on
+the assumed or predicted value of the company backing them.
+
 ## Extent in Modern Society
 
 The extent of the problem with commodification cannot be grasped with the
 examples put forth above, such examples are built on the assumption of property,
 autonomy, control, access, ownership, and, to an extent, the universality of
-people's ability to compromise on value<sup>[D3](#D3)</sup>.
+people's ability to compromise on value[^3].
+
+[^3]:  \ **Give references/discussion about how humans may not always agree on
+       value.**
 
 While commodification is in part derived from the perception of all things based
 on some numerical value, this is still an abstract idea which is only reified
 when a legal structure enforces property rights such that these values may be
-held by individuals or other entities<sup>[D15](#D15)</sup>.
+held by individuals or other entities[^15].
+
+[^15]: Anthony Bonen and Jose Coronado, "Delineating the Process
+of Fictive Commodiﬁcation in Advanced Capitalism", 2015.
 
 **Explain each step of commodification, each level or whatevs.**
 
@@ -98,16 +138,24 @@ held by individuals or other entities<sup>[D15](#D15)</sup>.
 ## The Special Case of Work
 
 To discuss work, one must be certain of that which is being discussed, giving a
-working definition<sup>[D9](#D9)</sup> so as to avoid any confusion.
-Here, Black's definition<sup>[D4](#D4)</sup> as clarified by
-Ross<sup>[D5](#D5)</sup> is used: work is forced labor.
+working definition[^9] so as to avoid any confusion.
+Here, Black's definition[^4] as clarified by
+Ross[^5] is used: work is forced labor.
 This is clearly a very vague definition, but it must be so out of necessity as
 many definitions that aim to be more specific inevitably cut out major sectors
 of what should be considered work, e.g. domestic labor.
 
+[^9]: Pun not intended, but duly acknowledged.
+
+[^4]: Bob Black, *The Abolition of Work*, 2009.
+
+[^5]: Chloe Ross, *Different Types of Activity*, 2017.
+
 Not working is incompatible with our current situation: a society built upon
-labor<sup>[D4](#D4)</sup>.
-This idea was more harshly stated by Wilde<sup>[D10](#D10):
+labor[^4].
+This idea was more harshly stated by Wilde[^10]:
+
+[^10]: Oscar Wilde, *The Soul of Man Under Socialism*, 1891.
 
 ><a name="wilde"></a>The fact is, that civilisation requires slaves. The Greeks
 were quite right there. Unless there are slaves to do the ugly, horrible,
@@ -134,77 +182,23 @@ in which we must push so as to eventually abolish work.
 
 **About what not working is like:**
 Consequence must still exist without work, simply replacing it with play would
-not suffice<sup>[D6](#D6)</sup>.
+not suffice[^6].
 Play is not necessarily non-productive and so the dichotomy of work and play is
-not completely polarized<sup>[D5](#D5)</sup>.
+not completely polarized[^5].
+
+[^6]: William Gillis, *Stress, Labor & Play*, 2010.
 
 ## Aesthetics as a Solution
 
-To simply assert æsthetics<sup>[D14](#D14)</sup> as the means by which to
+To simply assert æsthetics[^14] as the means by which to
 counter commodification would be an essentially meaningless statement.
 As aesthetics is that which has no bearing on anything other than itself, the
 aforementioned statement would mean nothing more than "just stop being
 commodified."
 Shaviro more precisely describes aesthetics as "the one thing that cannot be
-reduced to political economy"<sup>[D11](#D11)</sup>.
+reduced to political economy"[^11].
 
-**How do we move from our current state to one of pure aesthetic indulgence?**
-
-**Something about prefigurativism.**
-
-**Some other shit probably about full automation.**
-
-## Notes
-
-7. <a name="D7"></a>*Commodify*, Merriam-Webster.
-
-8. <a name="D8"></a>*Commodity*, Merriam-Webster.
-
-14. <a name="D14"></a>Marxists, *Commodification*.
-
-12. <a name="D12"></a>*Game Theory*, Wikipedia.
-
-13. <a name="D13"></a>Don Ross, *Game Theory*, Stanford Encyclopedia of
-Philosophy, 2016.
-
-1. <a name="D1"></a>Theoretically, if trades were made in such a system
-between three parties (Persons A, B, and C), where Person A trades Item 1 for
-Person B's Item 2, Person B trades Person A's original Item 1 for Person C's
-Item 3, and finally Person A requests a trade to take back their Item 1 from
-Person C, Person C could deny said trade on account of them valuing Item 1
-higher than Item 2 (which Person A now has). That is to say that the transitive
-property does not necessarily apply in this system, as each trade is itself a
-new context in which each item is valued by the parties that hold and request
-them. The change in value can be attributed to change in circumstance, Person C
-may inherently value anything that they received from Person B as a higher value
-than anything they received from Person A by default. It could also be that over
-the time between trades Person C found Item 1 very useful and therefore now
-attributes higher value to it. If the circumstances are changed slightly such
-that it is Person C who is attempting to trade Item 1 back to Person A for Item
-2, in such a case the argument could be made that Person A, having been willing
-to trade away Item 1 to begin with, has no interest in once again having Item 1.
-
-2. <a name="D2"></a>Speculation is also the source of value in other
-instances within a market system, such as stocks being bought and sold based on
-the assumed or predicted value of the company backing them.
-
-3. <a name="D3"></a>**Give references/discussion about how humans may not always
-agree on value.**
-
-15. <a name="15"></a>Anthony Bonen and Jose Coronado, "Delineating the Process
-of Fictive Commodiﬁcation in Advanced Capitalism", 2015.
-
-9. <a name="D9"></a>Pun not intended, but duly acknowledged.
-
-4. <a name="D4"></a>Bob Black, *The Abolition of Work*, 2009.
-
-5. <a name="D5"></a>Chris Ross, *Different Types of Activity*, 2017.
-
-10. <a name="D10"></a>Oscar Wilde, *The Soul of Man Under Socialism*, 1891.
-
-6. <a name="D6"></a>William Gillis, *Stress, Labor & Play*, 2010.
-
-14. <a name="D14"></a>This is an archaic spelling of "aesthetics" using the now
+[^14]: This is an archaic spelling of "aesthetics" using the now
 defunct English letter æsh. I may be shooting myself in the foot here by using
 this as some text-to-speech programs may not be fully equipped to handle this
 as well as some crawlers and text searches, but this was always meant to be the
@@ -212,8 +206,14 @@ extremely convoluted and esoteric version of this essay that will eventually be
 cut down and polished into a more condensed form so I'll let myself have this
 one.
 
-11. <a name="D11"></a>Steven Shaviro, *Accelerationist Aesthetics: Necessary
+[^11]: Steven Shaviro, *Accelerationist Aesthetics: Necessary
 Inefficiency in Times of Real Subsumption*, e-flux Journal, 2013.
+
+**How do we move from our current state to one of pure aesthetic indulgence?**
+
+**Something about prefigurativism.**
+
+**Some other shit probably about full automation.**
 
 ## Bibliography
 
@@ -285,7 +285,7 @@ University, Vienna, 2012.
 the Philosophy of Science* XVI (1996): 1-13.
 [mcps.umn.edu](http://mcps.umn.edu/assets/pdf/16Intro_OriginsofLogicalEmpiricism.pdf)
 
-1. Ross, Chris. "Different Types of Activity" (September 2017).
+1. Ross, Chloe. "Different Types of Activity" (September 2017).
 [never-work.com](https://never-work.com/2017/09/07/different-types-of-activity/)
 
 1. Ross, Don. "Game Theory," *Stanford Encyclopedia of Philosophy* (Winter 2016
@@ -328,3 +328,5 @@ No. 290 (February 1891): 292-319.
 [libcom.org](https://libcom.org/library/soul-of-man-under-socialism-oscar-wilde)
 [marxists.org](https://www.marxists.org/reference/archive/wilde-oscar/soul-man/)
 [wikisource.org](https://en.wikisource.org/wiki/The_Soul_of_Man_Under_Socialism)
+
+---
