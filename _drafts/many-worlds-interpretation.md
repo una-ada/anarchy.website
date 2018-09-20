@@ -97,8 +97,8 @@ $$
 $$
 
 Based on this depiction and the idea that the universe is a container for all
-worlds branching from its conception, the state of the universe is the described
-as[^3]
+worlds branching from its conception, the state of the universe is then
+described as[^3]:
 
 $$
 \rvert\Psi_{\mathrm{Universe}}\rangle=\rvert\Psi_{\mathrm{World}_1}\rangle\rvert
@@ -117,7 +117,7 @@ $$
         assumption that the universe itself is not infinitely large nor
         eternally old, this amount is not truly be infinite.
 
-## Bibliography:
+## Bibliography
 
 1.  Carroll, Sean. ["Why the Many-Worlds Formulation of Quantum Mechanics
     Is Probably Correct."][2] June 30, 2014.

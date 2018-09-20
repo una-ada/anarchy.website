@@ -69,6 +69,8 @@ title: "Goth Angel Sinners Pt. II: <i>Catalonia</i> Notes"
      state, the act of campaigning itself remains a platform. This point is made
      by Jae Em Carico with regards to their current bid for the U.S. Senate in
      Tennessee[^3].
+     - _This point was replaced with an interview with Jae Carico, see the
+       section titled ["Interview"](#interview) below._
  - Revolutionary Catalonia
    - Difficult to completely determine how successfully collectivization spread
      throughout the Republic and so Catalonia as well since it was, in most
@@ -260,6 +262,33 @@ title: "Goth Angel Sinners Pt. II: <i>Catalonia</i> Notes"
    - Gaston Leval, _[Collectives in the Spanish Revolution][25]_
    - [“The Spanish Civil War: An exchange”][26]
 
+## Interview
+
+ - Introduce yourself, etc., etc..
+ - The biggest question, and the one that brought about this whole interview,
+   pertains to the combination of anarchism and electoralism. A lot of
+   anarchists believe it’s irresponsible to vote let alone run for office, what
+   is your defense against this sort of idea?
+   - How would you distinguish the way you intend to use your office from
+     incrementalism?
+   - _Just come up with follow up questions depending on their response, I
+     believe in you and you should to!_
+ - We also have some policy related questions as well, first being derived from
+   a lot of recent discussions we’ve had regarding theft. _Actually make this a
+   question somehow..._
+ - ~~(If elected, what would you do to make sure every nazi is publicly
+   executed?~~ _While this is an excellent question it does seem a bit too
+   “putting words in their mouth” for an interview_). If elected, in what ways
+   would you use your office to continue your activism against fascism?
+   - If needed: “They're more interested in protecting white supremacists than
+     they are those who oppose literal Nazis[^28].”
+ - Your Facebook username[^29] is “Catalonia2Rojava,” what does this mean to
+   you?
+ - If time: Have you heard of Lil Peep?
+   - What do you think of Lil Peep?
+   - What sort of music are you into?
+ - Anything you want to plug before you go?
+
 ---
 
 [^1]:  Jessica Thorne and Chris Ealham, [“Factories, Fields and Firearms: A Brief
@@ -341,6 +370,10 @@ title: "Goth Angel Sinners Pt. II: <i>Catalonia</i> Notes"
 
 [^i]:  IWW Ireland's [post][21] on Facebook.
 
+[^28]: [Carico for Tennessee 2018][27]
+
+[^29]: Jae Carico's [Facebook page][28].
+
 [1]:  http://www.notesfrombelow.org/article/factories-fields-and-firearms
 [2]:  https://libcom.org/library/spanish-civil-war-revolution-counterrevolution-burnett-bolloten
 [3]:  https://www.facebook.com/Weebertarians/photos/a.212527982812069/284478375617029/
@@ -366,3 +399,5 @@ title: "Goth Angel Sinners Pt. II: <i>Catalonia</i> Notes"
 [24]: https://libcom.org/files/Alexander%20R.J.%20The%20anarchists%20in%20the%20Spanish%20Civil%20War.%20V.2.pdf
 [25]: http://libcom.org/library/collectives-spanish-revolution-gaston-leval
 [26]: https://www.nybooks.com/articles/1995/02/16/the-spanish-civil-war-an-exchange/
+[27]: https://caricocampaign.wixsite.com/caricofortn/get-involved
+[28]: https://www.facebook.com/Catalonia2Rojava

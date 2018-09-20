@@ -18,7 +18,7 @@ is not without countermeasures to such failures.
 * toc
 {:toc}
 
-## Introduction to Commodification
+## Marxian and Neoclassical Economics
 
 **This section can basically just be a brief overview of neoclassical economics
 and its ideas on commodification.**
@@ -102,11 +102,11 @@ No, especially not in the modern system of international markets, but still this
 system of commodification has many undesirable side effects that must be
 explored and countered.
 
-[^2]: Speculation is also the source of value in other
-instances within a market system, such as stocks being bought and sold based on
-the assumed or predicted value of the company backing them.
+[^2]: Speculation is also the source of value in other instances within a market
+      system, such as stocks being bought and sold based on the assumed or
+      predicted value of the company backing them.
 
-## Extent in Modern Society
+## Capital Culture
 
 The extent of the problem with commodification cannot be grasped with the
 examples put forth above, such examples are built on the assumption of property,
@@ -121,14 +121,14 @@ on some numerical value, this is still an abstract idea which is only reified
 when a legal structure enforces property rights such that these values may be
 held by individuals or other entities[^15].
 
-[^15]: Anthony Bonen and Jose Coronado, "Delineating the Process
-of Fictive Commodiﬁcation in Advanced Capitalism", 2015.
+[^15]: Anthony Bonen and Jose Coronado, "Delineating the Process of Fictive
+       Commodiﬁcation in Advanced Capitalism", 2015.
 
 **Explain each step of commodification, each level or whatevs.**
 
 **Give examples at each phase.**
 
-## The Special Case of Work
+## Work
 
 To discuss work, one must be certain of that which is being discussed, giving a
 working definition[^9] so as to avoid any confusion.
@@ -178,7 +178,7 @@ not completely polarized[^5].
 
 [^6]: William Gillis, *Stress, Labor & Play*, 2010.
 
-## Aesthetics as a Solution
+## Aesthetics
 
 To simply assert æsthetics[^14] as the means by which to
 counter commodification would be an essentially meaningless statement.
@@ -188,16 +188,16 @@ commodified."
 Shaviro more precisely describes aesthetics as "the one thing that cannot be
 reduced to political economy"[^11].
 
-[^14]: This is an archaic spelling of "aesthetics" using the now
-defunct English letter æsh. I may be shooting myself in the foot here by using
-this as some text-to-speech programs may not be fully equipped to handle this
-as well as some crawlers and text searches, but this was always meant to be the
-extremely convoluted and esoteric version of this essay that will eventually be
-cut down and polished into a more condensed form so I'll let myself have this
-one.
+[^14]: This is an archaic spelling of "aesthetics" using the now defunct English
+       letter æsh. I may be shooting myself in the foot here by using this as
+       some text-to-speech programs may not be fully equipped to handle this as
+       well as some crawlers and text searches, but this was always meant to be
+       the extremely convoluted and esoteric version of this essay that will
+       eventually be cut down and polished into a more condensed form so I'll
+       let myself have this one.
 
-[^11]: Steven Shaviro, *Accelerationist Aesthetics: Necessary
-Inefficiency in Times of Real Subsumption*, e-flux Journal, 2013.
+[^11]: Steven Shaviro, *Accelerationist Aesthetics: Necessary Inefficiency in
+       Times of Real Subsumption*, e-flux Journal, 2013.
 
 **How do we move from our current state to one of pure aesthetic indulgence?**
 
