@@ -6,7 +6,7 @@ description: >
     Join our hosts @trewbot and Chloe in this second installment of the Goth
     Angel Sinners podcast for an interview with senatorial candidate Jae Em
     Carico and discussions about the CNT, Revolutionary Catalonia, the Spanish
-    Civil War, and the 2017 Catalonian Independence Referendum.
+    Civil War, and the 2017 Catalan Independence Referendum.
 image: /assets/img/gas/catalonia.jpg
 layout: post-img
 permalink: /podcast/2/notes
