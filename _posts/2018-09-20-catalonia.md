@@ -69,7 +69,7 @@ title: "Goth Angel Sinners Pt. II: <i>Catalonia</i> Notes"
      state, the act of campaigning itself remains a platform. This point is made
      by Jae Em Carico with regards to their current bid for the U.S. Senate in
      Tennessee[^3].
-     - _This point was replaced with an interview with Jae Carico, see the
+     - _This point was replaced with an interview with Jae Em Carico, see the
        section titled ["Interview"](#interview) below._
  - Revolutionary Catalonia
    - Difficult to completely determine how successfully collectivization spread
