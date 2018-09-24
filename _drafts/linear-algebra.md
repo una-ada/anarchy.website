@@ -72,7 +72,7 @@ produce equivalent systems of linear equations:
 
 ## Gaussian- and Gaussian-Jordan Elimination
 
-[13] What is a **matrix**? If $m$ and $n$ are positive integers, and $m\times n$
+[13] What is a **matrix**? If $m$ and $n$ are positive integers, an $m\times n$
 matrix is a rectangular array such as:
 
 $$
@@ -115,3 +115,23 @@ for all variables.
 2. use elementary row operations to find the row-echelon form,
 3. write the system from the row-echelon form and use back-substitution to solve
    it.
+
+[13] Examples of representing a system as system, an **augmented matrix**, and a
+**coefficient matrix** (in order):
+
+$$
+\begin{align}
+ x - 4y + 3z &=  5 \\
+-x + 3y -  z &= -3 \tag6 \\
+2x      - 4z &=  6, \\
+\end{align}
+$$
+
+
+$$
+\begin{bmatrix}
+ 1 & -4 &  3 &  5 \\
+-1 &  3 & -1 & -3 \\
+ 2 &  0 & -4 &  6 \\
+\end{bmatrix}, \tag7
+$$
