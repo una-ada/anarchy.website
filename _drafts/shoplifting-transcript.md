@@ -14,8 +14,7 @@ title: "Goth Angel Sinners Pt. I: <i>Shoplifting</i> Transcript"
 
 <br>
 
-<iframe src="https://anchor.fm/gthnglsnnrs/embed" height="102px" width="100%"
-frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/gthnglsnnrs/embed/episodes/Part-I-Shoplifting-e24qpj" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
 
 <style>
     .transcript tr {
@@ -65,7 +64,7 @@ frameborder="0" scrolling="no"></iframe>
     <tr>
         <td><b>Trewbot</b></td>
         <td>[0:00:24]</td>
-        <td>So over the past few days, over hundreds of tweets and several dozen hours, we've had a lot of discussions about the concept of shoplifting and whether or not it's actually an immoral act... and I mean, we've collated just about every argument against it (just to use the word collated there). So let us go through them one by one and destroy their hopes and dreams.</td>
+        <td>So over the past few days, over hundreds of tweets and several dozen hours, we've had a lot of discussions about the concept of shoplifting and whether or not it's actually an immoral act and I mean, we've collated just about every argument against it (just to use the word collated there). So let us... go through them one by one and destroy their hopes and dreams.</td>
     </tr>
     <tr>
         <td><b>Chloe</b></td>
@@ -85,7 +84,7 @@ frameborder="0" scrolling="no"></iframe>
 	<tr>
 		<td><b>Trewbot</b></td>
 		<td>[0:01:34]</td>
-		<td>So, companies in general don't actually have any incentive to&mdash;when there's loss to theft&mdash;to actually punish workers for that. If anything it's more financially stable for them to assume, when they're doing their budgeting beforehand that there will be loss, and to view that as an expense; rather than to, as it happens, blmae everyone there and cut their pay. </td>
+		<td>So, companies in general don't actually have any incentive to&mdash;when there's loss to theft&mdash;to actually punish workers for that. If anything it's more financially stable for them to assume, when they're doing their budgeting beforehand that there will be loss, and to view that as an expense; rather than to, as it happens, blame everyone there and cut their pay. </td>
 	</tr>
 	<tr>
 		<td><b>Chloe</b></td>
@@ -121,6 +120,66 @@ frameborder="0" scrolling="no"></iframe>
 		<td><b>Chloe</b></td>
 		<td>[0:04:36]</td>
 		<td>&mdash;they should... They're the front lines, shoplifters are just the-are just the reinforcements.</td>
+	</tr>
+    <tr>
+		<td><b>Trewbot</b></td>
+		<td>[0:04:42]</td>
+		<td>Th-th-the majority of the work should be done by employees, umm... cuz the... they're really the ones with the access to, uh, bulk materials, um... on the topic of that Wikipedia page, there's a... bit that I found, personally, quite hilarious where they say "the vast majority of thieves have one thing in common: they will steal only if they have the opportunity." Which is... funny in that what they intend for it to mean is that thieves are opportunistic, which is, as far as I know, a fairly accurate thing in that most thieves w&mdash; are opportunistic, most people that steal don't intend to steal when they enter the store, but what it's actually saying, if we're to take this sentence on its own, is that people that steal only steal if they have the chance to steal. </td>
+	</tr>
+	<tr>
+		<td><b>Chloe</b></td>
+		<td>[0:05:40]</td>
+		<td>[Chuckles]</td>
+	</tr>
+	<tr>
+		<td><b>Trewbot</b></td>
+		<td>[0:05:42]</td>
+		<td>As a, uh, word nerd (but not a nerd), that is funny to me.</td>
+	</tr>
+	<tr>
+		<td><b>Chloe</b></td>
+		<td>[0:05:48]</td>
+		<td>You're a nerd.</td>
+	</tr>
+	<tr>
+		<td><b>Chloe</b></td>
+		<td>[0:05:50]</td>
+		<td>Umm, so a lot of people would say thing like "oh, I'm not- I'm not against mothers stealing food for their kids" or whatever, y'know, things like that. Like, they're trying to paint themselves as being like "oh, I'm just against shoplifting not this thing that is also shoplifting."</td>
+	</tr>
+	<tr>
+		<td><b>Trewbot</b></td>
+		<td>[0:06:07]</td>
+		<td>Right, there-there was, uhh... one guy in particular that was really in on this whole thing of like "oh, people don't steal, like, small items, they steal expensive things like iPhones" because i-it wouldn't be an Internet debate if, uhh, people didn't mention iPhones every 5 or 6 posts.</td>
+	</tr>
+	<tr>
+		<td><b>Chloe</b></td>
+		<td>[0:06:26]</td>
+		<td>[Chuckles] Yeah, no there's this- there's this wild idea that all shoplifting is teenagers stealing, uh, $1300 handbags and jackets and stuff&mdash;umm, which is also okay&mdash;but, most shoplifting is not that actually. Umm, and this 2005, uh, report from the Food Marketing Institute found that most commonly stolen items from grocery stores were meat, over the counter medicine, baby formula, and, uh, health and beauty products (which can be any range of things). Um, so, y'know, like, i-i-it's not&mdash;</td>
+	</tr>
+	<tr>
+		<td><b>Trewbot</b></td>
+		<td>[0:07:07]</td>
+		<td>&mdash;yes&mdash;</td>
+	</tr>
+	<tr>
+		<td><b>Chloe</b></td>
+		<td>[0:07:07]</td>
+		<td>&mdash;people stealing iPhones, I don't even know how people would steal iPhones; if they could, good on them, but, like, s- stores that sell iPhones don't keep iPhones like on- sitting on shelves.</td>
+	</tr>
+	<tr>
+		<td><b>Trewbot</b></td>
+		<td>[0:07:18]</td>
+		<td>R-right, I mean, not to immediately declare my power level here or anything, but I have bought an iPhone from a store before and it's difficult even when you're doing it legally. Umm, though I do imagine that, uhh, a lot of... a lot of the red tape involved with the legal process of taking something out of the store is sort of skipped over by shoplifters, but there's a lot to do with, uhh... and this is something that sort of applies to a lot of the arguments like "oh, if-if things are stolen then stores won't stock them"&mdash;there are things that people expect to be stole, like iPhones and deodorant, and what actually happens is they put them in locked cases. And, so... it's difficult to steal them unless you're like really into it, which, I mean, I'm sure there are plenty of people who are...</td>
+	</tr>
+	<tr>
+		<td><b>Chloe</b></td>
+		<td>[0:08:07]</td>
+		<td>You know who- you know who has the opportunity to steal iPhones?</td>
+	</tr>
+	<tr>
+		<td><b>Chloe</b></td>
+		<td>[0:08:11]</td>
+		<td>Employees.</td>
 	</tr>
 </table>
 

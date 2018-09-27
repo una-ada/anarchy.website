@@ -68,6 +68,12 @@ authors.
  -  "Among Mario's imitations, Sonic is a good one." &mdash; Shigeru Miyamoto
     (宮本 茂)
 
+ - "You need to make sure that you cry the entire time. During this period, be
+   sure to collect your tears in a glass and then get her to drink them.
+   Congratulations, a salty liquid that you exert from your body is now inside a
+   girl. You have now made the sex with a lovely lass." &mdash; Modest Pelican
+   Gaming
+
 ## Misc.
 
  -  "But that was just a dream<br>

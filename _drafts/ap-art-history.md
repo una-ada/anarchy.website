@@ -182,8 +182,8 @@ structures made out of three stones, what else could it mean?
 [32]
 The Sumerians were pretty hype around 4k BCE, in southern modern-day Iraq. They
 weren't unified, but in several city-states, god I miss those. With agriculture
-steadily prociding food, manufacturing and such became more prominent. Single
-leaders and counciles were apparentyl cool. The Sumerians ca 3400-3200 BCE
+steadily providing food, manufacturing and such became more prominent. Single
+leaders and councils were apparently cool. The Sumerians ca 3400-3200 BCE
 started using **pictograms**, small pictures representing words. These were
 read RTL and ca 3000-2900 BCE were simplified into wedge shapes
 (**cuneiform**). To be honest this writing of theirs is more beautiful than
@@ -276,11 +276,13 @@ So Sumeria fell, now to 2<sup>nd</sup> Century BCE&hellip; by century I mean
 millennium&hellip; oops. So Hammurabi started a centralized government in
 southern Mesopetamia. He had a code that was inscribed on a stele called
 **Hammurabi's Law Code**, the process of which is unconstitutional since it
-prescribes punishments to actions<sup>[1](#1)</sup>.
+prescribes punishments to actions[^1].
 
-## Transcription Notes
-
- 1. <a name="1"></a>This is a joke, I believe, about the fact that in the U.S.
+[^1]: This is a joke, I believe, about the fact that in the U.S.
     constitution it is said that when a law is written the document declaring
     the law cannot describe the punishment for the breaking of the law as that
     is reserved for the courts.
+
+The **Lion Gate in Hattusa** is just two large blocks straddling a gap in a
+wall, the lions were carved in because why the fuck not and overall is worked
+out to protect the Hittites from whatever... attack maybe?
