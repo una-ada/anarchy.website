@@ -1,8 +1,10 @@
 ---
 author: trewbot
+description: >
+
 layout: post
 license: BY-SA
-tags: history mental-illness psychology criminology
+tags: history mental-illness psychology criminology psychiatry
 title: Psychopathy, Sociopathy, & Demonization
 ---
 
@@ -25,7 +27,7 @@ antisocial personality disorder) was Theophratus' concept of "The Unscrupulous
 Man"[^11]:
 
 [^11]: Theodore Millon, Erik Simonsen, and Morten Birket-Smith, "[Historical
-       Conceptions of Psychopathy in United States and Europe,][9]" in
+       Conceptions of Psychopathy in the United States and Europe,][9]" in
        _Psychopathy: Antisocial, Criminal, and Violent Behavior,_ ed. Theodore
        Millon, et al. (New York: The Guilford Press, 1998), 3.
 
@@ -35,28 +37,30 @@ Man"[^11]:
   a soup-bone. If he succeeds, so much the better; if not, he will snatch a
   piece of tripe and go off laughing._"
 
-This example points to what turns out to be a constant issue with ideas of
-psychopathy (and later sociopathy) in that it frames crime as contextually
-ambivalent; here a person who commits crime that is legally (often not even
-morally or socially) considered wrong is a psychopath, regardless of their
-motivation. This may simply be a matter of brevity as providing such context and
-describing reasons that could justify a person's actions would lengthen the
-example tenfold. Nonetheless, there is a significant lack of such considerations
-especially among the older references to psychopathy.
+This example, however, points to what turns out to be a constant issue with
+ideas of psychopathy (and later sociopathy) in that it frames crime as
+contextually ambivalent; here a person who commits crime that is legally (often
+not even morally or socially) considered wrong is a psychopath, regardless of
+their motivation. This may simply be a matter of brevity as providing such
+context and describing reasons that could justify a person's actions would
+lengthen the example tenfold. Nonetheless, there is a significant lack of such
+considerations especially among the older references to psychopathy.
 
 It is at times uncertain in literature regarding the history of psychopathy
 whether the author is discussing the presence of actual psychological disorder
 in the population or the presence of an understanding of that psychological
 disorder; perhaps this merely comes with the territory of analyzing history
-through literature.
-This is further muddled by the tendency to cite fictional villains as opposed to
-actual historical accounts of real humans suffering from a
-disorder[^9]<sup>,</sup>[^10].
-These include such examples as Alex DeLarge from _A Clockwork Orange_, Hannibal
-Lecter from _Silence of the Lambs_, Norman Bates from _Psycho_, and Freddy
-Krueger from _A Nightmare on Elm Street_; characters ranging from empty husks
-designed to have the audience's ideas of fear projected onto them to those who
-exist solely to exemplify the issue with such naïve perceptions.
+through literature. This is further muddled by the tendency to cite fictional
+villains as opposed to actual historical accounts of real humans suffering from
+a disorder[^9]<sup>,</sup>[^10]. These include such examples as Alex DeLarge
+from _A Clockwork Orange_, Hannibal Lecter from _Silence of the Lambs_, Norman
+Bates from _Psycho_, and Freddy Krueger from _A Nightmare on Elm Street_;
+characters ranging from empty husks designed to have the audience's ideas of
+fear projected onto them to those who exist solely to exemplify the issue with
+such naïve perceptions. To remedy this somewhat, we'll focus on ideas that led
+to the original coining of the terms until we reach the point at which said
+coining happened, then we'll cover how attempts to define the terms themselves
+evolved alongside psychology and sociology.
 
 [^9]: Kent A. Kiehl and Morris B. Hoffman, "[The Criminal Psychopath: History,
       Neuroscience, Treatment, and Economics,][6]" _Jurimetrics_ 51 (Summer
@@ -116,7 +120,7 @@ to assume such cases are applicable to cases where one cannot reasonable assume
 said assertion is true. It is tempting to brush this off as the primitiveness of
 the past, a fallacy far too many fall into, to assume humans hadn't a clue what
 they were doing until just yesterday. In this case we can look to Peter
-Kropotkin, who was fairly prominent in various circles in his time, who in 1886
+Kropotkin, a man fairly prominent in various circles in his time, who in 1886
 wrote[^18]:
 
 [^18]: Peter Kropotkin, "Law and Authority," 1886.
@@ -197,7 +201,7 @@ and NPD, both connotatively and clinically[^3].
       also having another personality disorder than a person without a
       personality disorder.
 
-[^3]: Stephen A. Diamond Ph.D., "[Is It Narcissism of Sociopathy?,][2]"
+[^3]: Stephen A. Diamond Ph.D., "[Is It Narcissism or Sociopathy?,][2]"
       Psychology Today, Jul. 19, 2017.
 
 These terms, psychopathy and sociopathy, originate as _explanations of criminal
