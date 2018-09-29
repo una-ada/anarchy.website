@@ -7,23 +7,42 @@ title: Psychopathy, Sociopathy, & Demonization
 ---
 
 While this work is intended as a discussion on the term "sociopathy" and its
-usage in our public lexicon today, one can hardly discuss sociopathy without
+usage in our language today, one can hardly discuss sociopathy without
 first discussing psychopathy as the terms are "virtually synonymous"[^6] and the
-latter predates the former.
+latter predates the former. The history of the two terms is heavily linked and
+so to fully distinguish them as terms that are used rather than simply noting
+the difference in their definitions, we must first explore the history of the
+terms themselves.
 
 [^6]: Graham Richards, _Psychology: Key Concepts,_ (Oxon: Routledge, 2009), 200.
 
-It may be difficult to determine the exact point at which people began to define
+Attempting to start at the beginning has its problems as
+it may be difficult to determine the exact point at which people began to define
 the concept that was called "psychopathy" throughout the 20<sup>th</sup>
 century. Millon et al. state that the first comparable representation of
 psychopathy (more specifically they reference it as a close representation of
 antisocial personality disorder) was Theophratus' concept of "The Unscrupulous
-Man"[^11].
+Man"[^11]:
 
 [^11]: Theodore Millon, Erik Simonsen, and Morten Birket-Smith, "[Historical
        Conceptions of Psychopathy in United States and Europe,][9]" in
        _Psychopathy: Antisocial, Criminal, and Violent Behavior,_ ed. Theodore
        Millon, et al. (New York: The Guilford Press, 1998), 3.
+
+> "_The Unscrupulous Man will go and borrow more money from a creditor he has
+  never paid.... When marketing he reminds the butcher of some service he has
+  rendered him and, standing near the scales, throws some meat, if he can, and
+  a soup-bone. If he succeeds, so much the better; if not, he will snatch a
+  piece of tripe and go off laughing._"
+
+This example points to what turns out to be a constant issue with ideas of
+psychopathy (and later sociopathy) in that it frames crime as contextually
+ambivalent; here a person who commits crime that is legally (often not even
+morally or socially) considered wrong is a psychopath, regardless of their
+motivation. This may simply be a matter of brevity as providing such context and
+describing reasons that could justify a person's actions would lengthen the
+example tenfold. Nonetheless, there is a significant lack of such considerations
+especially among the older references to psychopathy.
 
 It is at times uncertain in literature regarding the history of psychopathy
 whether the author is discussing the presence of actual psychological disorder
@@ -33,6 +52,11 @@ through literature.
 This is further muddled by the tendency to cite fictional villains as opposed to
 actual historical accounts of real humans suffering from a
 disorder[^9]<sup>,</sup>[^10].
+These include such examples as Alex DeLarge from _A Clockwork Orange_, Hannibal
+Lecter from _Silence of the Lambs_, Norman Bates from _Psycho_, and Freddy
+Krueger from _A Nightmare on Elm Street_; characters ranging from empty husks
+designed to have the audience's ideas of fear projected onto them to those who
+exist solely to exemplify the issue with such naïve perceptions.
 
 [^9]: Kent A. Kiehl and Morris B. Hoffman, "[The Criminal Psychopath: History,
       Neuroscience, Treatment, and Economics,][6]" _Jurimetrics_ 51 (Summer
@@ -41,8 +65,18 @@ disorder[^9]<sup>,</sup>[^10].
 [^10]: James Blair, Derek Mitchell, and Karina Blair, [_The Psychopath: Emotion
        and the Brain_][7]<sup>[alt][8]</sup>, (Oxford: Blackwell, 2005), 1.
 
+"Applying phrenology [Carl Otto] gave a surprisingly modern description of the
+psychopathic mind."[^19]
+
+[^19]: Millon et al., "Historical Conceptions...," 5.
+
 [^8]: Julius Ludwig August Koch, [_Die Psychopathischen Minderwertigkeiten,_][5]
       (Ravensburg: Maier, 1891).
+
+<div class="pullquote">
+    "The concept of psychopathy eventually found its home not in psychiatry
+    [&hellip;] but in criminology."
+</div>
 
 The concept of psychopathy eventually found its home not in psychiatry, not in
 therapy[^12], not in the hearts of those who sought to help inflicted
@@ -72,7 +106,29 @@ would be against the nature of humans to break laws, and therefore deviant[^14].
        "Four D's" of Diagnoses,][11]" _Internet Journal of Psychiatry_ 1, 1
        (2009).
 
-Regardless of one's views on any particular manifestation of law,
+While it may be philosophically a valid position to view law as objective and
+thus assumed to necessarily exist, doing so would be at odds with the
+philosophical principles of science; based on that idea, any criminal diagnosis
+should be considered wholly separate from psychology as a science. However, that
+is not to say it is invalid to scientifically explore cases where such
+assertions on the nature of society are assumed true, rather that it is invalid
+to assume such cases are applicable to cases where one cannot reasonable assume
+said assertion is true. It is tempting to brush this off as the primitiveness of
+the past, a fallacy far too many fall into, to assume humans hadn't a clue what
+they were doing until just yesterday. In this case we can look to Peter
+Kropotkin, who was fairly prominent in various circles in his time, who in 1886
+wrote[^18]:
+
+[^18]: Peter Kropotkin, "Law and Authority," 1886.
+
+       Peter Kropotkin, "[Law and Authority,][15]" _Kropotkin's Revolutionary
+       Pamphlets_, ed. Roger N. Baldwin (Vanguard Press, 1927).
+
+> "_Cleverly assorted scraps of spurious science are inculcated upon the
+   children to prove necessity of law; obedience to the law is made a religion;
+   moral goodness and the law of the masters are fused into one and the same
+   divinity. The historical hero of the schoolroom is the man who obeys the law,
+   and defends it against rebels._"
 
 <div class="pullquote image left">
     <img src="/assets/img/assholes/cleckley.jpg" style="width:100%;"
@@ -83,9 +139,13 @@ Regardless of one's views on any particular manifestation of law,
     <a href="https://www.augusta.edu/library/greenblatt/archives/findaid/cleckley/hcleckley.htm">Augusta University Library</a>.</i>
 </div>
 
-The person who
+Hervey M. Cleckley is often described as the pioneer of the modern (primarily late
+20<sup>th</sup> century) conception of psychopathy[^9]<sup>,</sup>[^15].
 
-> _"When the first edition of this book was written it had for many years been
+[^15]: Diane Kratz, "[Ever Wonder What the Difference Between a Sociopath and
+       Psychopath?,][12]" Profiles of Murder, accessed Sep. 28, 2018.
+
+> "_When the first edition of this book was written it had for many years been
   customary to use the term sexual psychopath to designate homosexuals, sadists,
   masochists, and also people specifically inclined towards exhibitionism,
   voyeurism, fetishism, cross-dressing, and pedophilia. Included at times with
@@ -96,6 +156,24 @@ The person who
 
 [^7]: Hervey M. Cleckley, _The Mask of Sanity_ 5<sup>th</sup> edition (1988),
       286.
+
+In the words of Murray Bookchin "[t]he assumption that what currently exists
+must necessarily exist is the acid that corrodes all visionary thinking[^17]."
+
+[^17]: Murray Bookchin, "[The Meaning of Confederalism,][14]" _Green
+       Perspectives_ 20 (1990).
+
+While attempts to define ASPD do draw from the central idea of psychopathy[^16],
+the attempts at formalization as a personality disorder are put under greater
+scrutiny than those that simply seek to create a checklist for psychopathy. This
+is due to the concept of psychopathy itself being generally considered informal.
+
+[^16]: See, for example, this report for the Axis II Work Group of the Task
+       Force on _DSM&mdash;IV_:
+
+       Robert D. Hare, Stephen D. Hart, and Timothy J. Harpur, "[Psychopathy and
+       the _DSM&mdash;IV_ Criteria for Antisocial Personality Disorder,][13]"
+       _Journal of Abnormal Psychology_ 100, 3 (Aug. 1991): 391-398.
 
 The trivial, etymological analysis of what "sociopathy" means would indicate
 that it simply refers to someone who has a disconnect with society; the _socio-_
@@ -122,6 +200,60 @@ and NPD, both connotatively and clinically[^3].
 [^3]: Stephen A. Diamond Ph.D., "[Is It Narcissism of Sociopathy?,][2]"
       Psychology Today, Jul. 19, 2017.
 
+These terms, psychopathy and sociopathy, originate as _explanations of criminal
+behavior_ rather than psychological analysis of observed personality traits, and
+so they serve not to describe an individual as one who suffers from a mental
+illness but as one who either seems as if or evidently is prone to criminal
+acts. By allowing these two ideas, psychology and criminology, to exists in a
+given term and to use said term widely and offhandedly only serves to demonize
+mental illness and to write off transgressions as psychologically inclined
+(rather than socially motivated) behavior.
+
+Shit by Hare about his fucking PCL-R:
+
+<http://www.hare.org/references/HareandNeumannARCP2008.pdf>
+<http://www.psychiatrictimes.com/articles/psychopathy-and-antisocial-personality-disorder-case-diagnostic-confusion>
+
+The PCL-R sucks actually:
+
+<https://forensicpsychologist.blogspot.com/2011/06/violence-risk-meta-meta-instrument.html>
+<https://www.sciencedirect.com/science/article/pii/S0272735810001947>
+<https://ac.els-cdn.com/S0924933816301894/1-s2.0-S0924933816301894-main.pdf?_tid=7052594b-1a69-4570-9a25-844e79e3f8e3&acdnat=1538177395_d7e44989425f4400dc2ee8280b548f82>
+<https://web.archive.org/web/20151119002546/https://www.ncjrs.gov/App/Publications/abstract.aspx?ID=204918>
+<https://www.npr.org/2011/05/26/136619689/can-a-test-really-tell-whos-a-psychopath>
+<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2817979/>
+
+Treatability of ASPD and psychopathy:
+
+<http://www.apa.org/monitor/mar04/treatment.aspx>
+<https://www.psychologytoday.com/us/blog/wicked-deeds/201408/psychopathic-criminals-cannot-be-cured>
+
+History of criminology:
+
+<https://books.google.com/books?id=iGW7QLJmuwoC&pg=PA46&source=gbs_toc_r&cad=4#v=onepage&q&f=false>
+<https://scholarlycommons.law.northwestern.edu/cgi/viewcontent.cgi?article=4793&context=jclc>
+
+History of psychopathy:
+
+<https://books.google.com/books?id=LSiBsdxcGigC&pg=PA3#v=onepage&q&f=false>
+<https://web.archive.org/web/20131203194612/http://peer.ccsd.cnrs.fr/docs/00/57/09/03/PDF/PEER_stage2_10.1177/0957154X07080661.pdf>
+<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1517449/?page=1>
+<http://samples.jbpub.com/9781284129014/9781284129014_Ch06_SECURE.pdf>
+<https://profilesofmurder.com/2012/04/02/ever-wonder-what-the-difference-between-a-sociopath-and-psychopath/>
+
+Descriptions of psychopathy:
+
+<http://www.thedivineconspiracy.org/Z5223H.pdf>
+<https://www.scribd.com/doc/27005161/The-Psychopath-Emotion-and-the-Brain>
+<http://journals.sagepub.com/stoken/rbtfl/WDUhPiP7pHM3Q/full>
+<https://www.psychologytoday.com/us/blog/witness/201104/psychopathy-rorschach-test-psychologists>
+<http://www.psychiatrictimes.com/articles/paradox-psychopathy>
+
+Public policy:
+
+<https://www.psychologicalscience.org/publications/journals/pspi/psychopathy.html>
+<http://law.jrank.org/pages/2110/Sexual-Predators-Sexual-psychopath-laws.html>
+
 [1]: https://www.psychologytoday.com/us/basics/sociopathy
 [2]: https://www.psychologytoday.com/us/blog/evil-deeds/201707/is-it-narcissism-or-sociopathy
 [3]: https://en.wiktionary.org/wiki/socio-#English
@@ -133,3 +265,7 @@ and NPD, both connotatively and clinically[^3].
 [9]: https://books.google.com/books?id=LSiBsdxcGigC&pg=PA3#v=onepage&q&f=false
 [10]: https://scholarlycommons.law.northwestern.edu/cgi/viewcontent.cgi?article=4793&context=jclc
 [11]: http://ispub.com/IJPSY/1/1/5049
+[12]: https://profilesofmurder.com/2012/04/02/ever-wonder-what-the-difference-between-a-sociopath-and-psychopath/
+[13]: http://www.psych.utoronto.ca/users/peterson/psy430s2001/Hare%20RD%20Psychopathy%20JAP%201991.pdf
+[14]: https://theanarchistlibrary.org/library/murray-bookchin-the-meaning-of-confederalism
+[15]: http://dwardmac.pitzer.edu/anarchist_Archives/kropotkin/revpamphlets/lawandauthority.htm
