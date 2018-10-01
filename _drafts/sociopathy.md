@@ -155,10 +155,14 @@ criminology[^25]<sup>,</sup>[^26]<sup>,</sup>[^27].
 
 [^27]: "[Lombroso’s contributions to Criminology,][21]" accessed Oct. 1, 2018.
 
-
+**Koch**
 
 [^8]: Julius Ludwig August Koch, [_Die Psychopathischen Minderwertigkeiten,_][5]
       (Ravensburg: Maier, 1891).
+
+**Meyer**
+
+**Kraepelin**
 
 <!--
 <div class="pullquote">
@@ -204,13 +208,13 @@ would be against the nature of humans to break laws, and therefore deviant[^14].
     <br>
     <i>Source:
         <a href="https://www.augusta.edu/library/greenblatt/archives/findaid/cleckley/hcleckley.htm">
-            Augusta University Library
-        </a>.
+            Augusta University Library</a>.
     </i>
 </div>
 
-Hervey M. Cleckley is often described as the pioneer of the modern (primarily late
-20<sup>th</sup> century) conception of psychopathy[^9]<sup>,</sup>[^15].
+Hervey M. Cleckley is often described as the pioneer of the modern (primarily
+mid to late 20<sup>th</sup> century) conception of
+psychopathy[^9]<sup>,</sup>[^15].
 
 [^15]: Diane Kratz, "[Ever Wonder What the Difference Between a Sociopath and
        Psychopath?,][12]" Profiles of Murder, accessed Sep. 28, 2018.
@@ -267,6 +271,12 @@ and NPD, both connotatively and clinically[^3].
       Psychology Today, Jul. 19, 2017.
 
 ## III. _The Pseudo Sciences_
+
+**Phrenology**
+
+**Physiognomy (/Craniography)**
+
+**Criminology**
 
 While it may be philosophically a valid position to view law as objective and
 thus assumed to necessarily exist, doing so would be at odds with the
