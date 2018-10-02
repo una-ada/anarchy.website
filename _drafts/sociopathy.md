@@ -51,8 +51,7 @@ Unscrupulous Man"[^11], sometimes also called "The Shameless Man"[^29]:
       <br>
       <i>Source:
           <a href="https://commons.wikimedia.org/wiki/File:Teofrasto_Orto_botanico_detail.jpg">
-              Wikimedia Commons
-          </a>, original photo by
+              Wikimedia Commons</a>, original photo by
           <a href="https://commons.wikimedia.org/wiki/User:Esculapio/gallery">tato grasso</a>.
       </i>
   </div>
@@ -66,7 +65,7 @@ context and describing reasons that could justify a person's actions would
 lengthen the example tenfold. Nonetheless, there is a significant lack of such
 considerations especially among the older references to psychopathy.
 
-It is at times uncertain in literature regarding the history of psychopathy
+It is at times uncertain in the literature regarding the history of psychopathy
 whether the author is discussing the presence of actual psychological disorder
 in the population or the presence of an understanding of that psychological
 disorder; perhaps this merely comes with the territory of analyzing history
@@ -213,7 +212,7 @@ of mental illness, providing loose distinctions between those that were
 "organic" and those caused by events in one's life. For psychopathy, such a
 distinction came to the forefront as [Adolf Meyer][30] proposed the concept of
 "constitutional inferiority" in 1904[^28]. This phrasing, however, lost favor as
-as descriptor as "inferior," despite it's purely clinical intentions, gained a
+a descriptor as "inferior," despite its purely clinical intentions, gained a
 harsh derogatory connotation.
 
 <div class="pullquote image left">
@@ -232,7 +231,7 @@ from constitutional "defects" and therefore their symptoms are permanently a
 part of the affected person from birth, though Kraepelin focused much of his
 efforts on socio- and psychogenic forms of degeneracy. As a politically active
 psychiatrist, Kraepelin not only studied the causes of what he deemed to be
-issues in society (in his case the German _Volk_), but proposed solutions as
+issues in society (in his case the German _Volk_) but proposed solutions as
 well. These primarily took the form of education, prohibition, improving living
 conditions, helping the poor, and... "reasonable policies of racial hygiene"
 (_verstandige Rassenhygiene_)[^37].
@@ -242,12 +241,12 @@ conditions, helping the poor, and... "reasonable policies of racial hygiene"
        147-153.
 
 [^37]: Eric J. Engstrom, "[Classic Text No. 71: 'On the Question of
-       Degeneration' by Emil Kraepelin (1908),][34]"_History of Psychiatry_ 18,
+       Degeneration' by Emil Kraepelin (1908),][34]" _History of Psychiatry_ 18,
        3 (2007): 389-404.
 
 <https://web.archive.org/web/20131029215301/http://www.tara.tcd.ie/bitstream/2262/51636/1/PEER_stage2_10.1177/0957154X07080819.pdf>
 
-Kraepelin probably wasn't a "Nazi". By some definitions one must have been a
+Kraepelin probably wasn't a "Nazi". By some definitions, one must have been a
 member of the Nationalist Socialist Party in order to have actually been a Nazi,
 and Kraepelin died in 1926 leaving behind no record of ever joining said party.
 Of course, that didn't stop him from supporting eugenics, or ethnic
@@ -299,7 +298,7 @@ would be against the nature of humans to break laws, and therefore deviant[^14].
 <div class="pullquote image left">
     <img src="/assets/img/assholes/cleckley.jpg" style="width:100%;"
         alt="Portrait of Hervey M. Cleckley">
-    A very low quality portrait of Hervey M. Cleckley; if he wanted to be
+    A very low-quality portrait of Hervey M. Cleckley; if he wanted to be
     represented in higher quality he should have done higher quality research.
     <br>
     <i>Source:
@@ -370,7 +369,7 @@ and NPD, both connotatively and clinically[^3].
 [^3]: Stephen A. Diamond Ph.D., "[Is It Narcissism or Sociopathy?,][2]"
       Psychology Today, Jul. 19, 2017.
 
-## III. _The Pseudo Sciences_
+## III. _The Pseudo-Sciences_
 
 **Phrenology**
 
@@ -386,10 +385,10 @@ philosophical principles of science; based on that idea, any criminal diagnosis
 should be considered wholly separate from psychology as a science. However, that
 is not to say it is invalid to scientifically explore cases where such
 assertions on the nature of society are assumed true, rather that it is invalid
-to assume such cases are applicable to cases where one cannot reasonable assume
+to assume such cases are applicable to cases where one cannot reasonably assume
 said assertion is true. It is tempting to brush this off as the primitiveness of
 the past, a fallacy far too many fall into, to assume humans hadn't a clue what
-they were doing until just yesterday. In this case we can look to Peter
+they were doing until just yesterday. In this case, we can look to Peter
 Kropotkin, a man fairly prominent in various circles in his time, who in 1886
 wrote[^18]:
 
@@ -422,7 +421,7 @@ serves to demonize mental illness and to write off transgressions as
 psychologically inclined (rather than socially motivated) behavior.
 
 The past is soaked in blood, to simply reach into it and pull a chunk out for
-you own purposes will end in nothing but soaking your hands as well.
+your own purposes will end in nothing but soaking your hands as well.
 
 ## V. Further Reading
 
