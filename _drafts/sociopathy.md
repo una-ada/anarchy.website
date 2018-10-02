@@ -29,12 +29,15 @@ the concept that was called "psychopathy" throughout the 20<sup>th</sup>
 century. Millon et al. state that the first comparable representation of
 psychopathy (more specifically they reference it as a close representation of
 antisocial personality disorder) was Theophrastus' (Θεόφραστος) concept of "The
-Unscrupulous Man"[^11]:
+Unscrupulous Man"[^11], sometimes also called "The Shameless Man"[^29]:
 
 [^11]: Theodore Millon, Erik Simonsen, and Morten Birket-Smith, "[Historical
        Conceptions of Psychopathy in the United States and Europe,][9]" in
        _Psychopathy: Antisocial, Criminal, and Violent Behavior,_ ed. Theodore
        Millon, et al. (New York: The Guilford Press, 1998), 3.
+
+[^29]: "[The Characters of Theophrastus,][22]" an eudæmonist, accessed Oct. 1,
+       2018.
 
 > "_The Unscrupulous Man will go and borrow more money from a creditor he has
   never paid.... When marketing he reminds the butcher of some service he has
@@ -86,22 +89,28 @@ less the same fashion.
       2011): 355-397.
 
 [^10]: James Blair, Derek Mitchell, and Karina Blair, [_The Psychopath: Emotion
-       and the Brain_][7]<sup>[alt][8]</sup>, (Oxford: Blackwell, 2005), 1.
+       and the Brain,_][7] <sup>[(alt)][8]</sup> (Oxford: Blackwell, 2005), 1.
 
 Prior to the 19<sup>th</sup> century, it was thoroughly believed that the mind
-and reason were one in the same, this concept came into question with Philippe
-Pinel who described certain cases he studied as "insanity without delirium"
+and reason were one in the same, this concept came into question with [Philippe
+Pinel][25] who described certain cases he studied as "insanity without delirium"
 (_manie sans délire_)[^20]. He described this idea further as retaining reason
 and understanding while being controlled by some unknown and powerful emotional
-force. Benjamin Rush in 1812 and James Cowles Prichard in 1835 furthered this
+force. [Benjamin Rush][26][^34] in 1812 and [James Cowles Prichard][28] in 1835
+furthered this
 concept to more specifically pertain to morality, the latter credited with the
 formalization of "moral insanity." This imposition of moral positions on a
-previously morally neutral concept was eventually criticized by Daniel Hack Tuke
+previously morally neutral concept was eventually criticized by [Daniel Hack
+Tuke][29]
 in 1892, proposing the terminology be changed to "inhibitory insanity" to
 realign the concept to Pinel's original conception of an emotional affection
 that drives a person regardless of conscious reasoning[^21].
 
 [^20]: Millon et al., "Historical Conceptions...," 4.
+
+[^34]: Benjamin Rush, [_Medical Inquiries and Observations, upon the Diseases of
+       the Mind,_][27] (Philadelphia: Kimber & Richardson, 1812).
+
 [^21]: Millon et al., "Historical Conceptions...," 6.
 
 As an aside, before Prichard there was Carl Otto in 1825-1827 who had attempted
@@ -117,14 +126,11 @@ discussed (along with physiognomy and craniography) in
 [^19]: Millon et al., "Historical Conceptions...," 5.
 
 <div class="pullquote image">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Henry_Maudsley.jpg"
-        alt="Portrait of Henry Maudsley">
-    Portrait of Henry Maudsley<br>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Henry_Maudsley.jpg">
+    Henry Maudsley<br>
     <i>Source:
         <a href="https://commons.wikimedia.org/wiki/File:Henry_Maudsley.jpg">
-            Wikimedia Commons
-        </a>.
-    </i>
+            Wikimedia Commons</a>.</i>
 </div>
 
 Henry Maudsley, unlike Tuke, continued along the path carved out by Prichard
@@ -155,14 +161,104 @@ criminology[^25]<sup>,</sup>[^26]<sup>,</sup>[^27].
 
 [^27]: "[Lombroso’s contributions to Criminology,][21]" accessed Oct. 1, 2018.
 
-**Koch**
+Toward the end of the 19<sup>th</sup> century and into the 20<sup>th</sup>, the
+idea of psychopathy took hold in Germany, where it took a less "value-laden"
+form as it had among the British. One such German, one who stands out in the
+historical context, was Julius Ludwig August Koch in 1891 who proposed that the
+previous standard of "moral insanity" be replaced with his new idea of
+"psychopathic inferiorities" (_Psychopathischen
+Minderwertigkeiten_)[^8]<sup>,</sup>[^28]. He attributed this condition to
+"functional organic deviations" (_organische Abweichungen funktioneller
+Art_)[^32] that couldn't be rectified, a similar idea to the more modern idea of
+predisposition, though more assertive and derived once again from degeneration
+theory. Koch defined three degrees of severity of
+psychopathy[^31]<sup>,</sup>[^28]:
+
+1. Disposition (_Disposition_), characterized by tension and high sensitivity,
+2. Burden (_Belastung_), by egocentrism and impulsiveness, and
+3. Degeneration (_Degeneration_), by borderline states.
 
 [^8]: Julius Ludwig August Koch, [_Die Psychopathischen Minderwertigkeiten,_][5]
       (Ravensburg: Maier, 1891).
 
-**Meyer**
+[^28]: Millon et al., "Historical Conceptions...," 8.
 
-**Kraepelin**
+[^32]: The exact language used by Koch is often ambiguous and confusing, a full
+       discussion into this is outside the scope of this work, for such a
+       discussion see:
+
+       Phillip Gutmann, "[Julius Ludwig August Koch (1841-1908): Christian,
+       philosopher and psychiatrist,][24]" _History of Psychiatry_ 19, 2 (2008):
+       202-214.
+
+[^31]: Gutmann, "J.L.A. Koch...," 208.
+
+From these we can gather that this classification was meant as a very broad
+categorization, encompassing all personality disorders (not just
+antisocial)[^28]. That analysis is reinforced by the introductory remarks of
+Koch's own work which state "[t]he term 'psychopathic inferiorities' comprises
+all abnormalities&mdash;either hereditary or acquired&mdash;which influence a
+human's personal life, but which do not constitute&mdash;even in their worst
+cases&mdash;mental illnesses.[^33]" This meaning was adopted by Kurt Schneider
+as "abnormal personalities," in early conceptions of psychosis, which bears a
+similarly rough history to that of psychopathy[^30].
+
+[^33]: Gutmann, "J.L.A. Koch...," 210.
+
+[^30]: Martin Bürgy, "[The Concept of Psychosis: Historical and Phenomenological
+       Aspects,][23]" _Schizophrenia Bulletin_ 34, 6 (November 2008): 1200-1210.
+
+The nosology (classification of illnesses) developed by Koch included many forms
+of mental illness, providing loose distinctions between those that were
+"organic" and those caused by events in one's life. For psychopathy, such a
+distinction came to the forefront as [Adolf Meyer][30] proposed the concept of
+"constitutional inferiority" in 1904[^28]. This phrasing, however, lost favor as
+as descriptor as "inferior," despite it's purely clinical intentions, gained a
+harsh derogatory connotation.
+
+<div class="pullquote image left">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/E._Kraepelin.jpg">
+    Emil Kraepelin<br>
+    <i>Source:
+        <a href="https://commons.wikimedia.org/wiki/File:E._Kraepelin.jpg">
+            Wikimedia Commons</a>.</i>
+</div>
+
+An alternative framing of psychopathy was provided by [Emil Kraepelin][31] in
+his 1904 work Psychiatry: A Textbook (_Psychiatrie: Ein Lehrbuch_)[^34], in which
+he asserted the idea of "psychopathic personalities." This conception maintained
+the notion that personality disorders (psychopathy specifically here) originate
+from constitutional "defects" and therefore their symptoms are permanently a
+part of the affected person from birth, though Kraepelin focused much of his
+efforts on socio- and psychogenic forms of degeneracy. As a politically active
+psychiatrist, Kraepelin not only studied the causes of what he deemed to be
+issues in society (in his case the German _Volk_), but proposed solutions as
+well. These primarily took the form of education, prohibition, improving living
+conditions, helping the poor, and... "reasonable policies of racial hygiene"
+(_verstandige Rassenhygiene_)[^37].
+
+[^36]: Marc-Antoine Crocq, "[Milestones in the history of personality
+       disorders,][33]" _Dialogues in Clinical Neuroscience_ 15, 2 (June 2013):
+       147-153.
+
+[^37]: Eric J. Engstrom, "[Classic Text No. 71: 'On the Question of
+       Degeneration' by Emil Kraepelin (1908),][34]"_History of Psychiatry_ 18,
+       3 (2007): 389-404.
+
+<https://web.archive.org/web/20131029215301/http://www.tara.tcd.ie/bitstream/2262/51636/1/PEER_stage2_10.1177/0957154X07080819.pdf>
+
+Kraepelin probably wasn't a "Nazi". By some definitions one must have been a
+member of the Nationalist Socialist Party in order to have actually been a Nazi,
+and Kraepelin died in 1926 leaving behind no record of ever joining said party.
+Of course, that didn't stop him from supporting eugenics, or ethnic
+cleansing[^37], or declaring people to be mentally ill by their political
+positions, or being an anti-Semite[^35], but I digress.
+
+[^34]: Millon et al., "Historical Conceptions...," 8.
+
+[^35]: Andreas Ebert and Karl-Jürgen Bär, "[Emil Kraepelin: A pioneer of
+       scientific understanding of psychiatry and psychopharmacology,][32]"
+       _Indian Journal of Psychiatry_ 52, 2 (Apr-Jun 2010): 191-192.
 
 <!--
 <div class="pullquote">
@@ -212,6 +308,8 @@ would be against the nature of humans to break laws, and therefore deviant[^14].
     </i>
 </div>
 
+**Cleckley**
+
 Hervey M. Cleckley is often described as the pioneer of the modern (primarily
 mid to late 20<sup>th</sup> century) conception of
 psychopathy[^9]<sup>,</sup>[^15].
@@ -230,6 +328,8 @@ psychopathy[^9]<sup>,</sup>[^15].
 
 [^7]: Hervey M. Cleckley, _The Mask of Sanity_ 5<sup>th</sup> edition (1988),
       286.
+
+**Hare**
 
 While attempts to define ASPD do draw from the central idea of psychopathy[^16],
 the attempts at formalization as a personality disorder are put under greater
@@ -273,6 +373,8 @@ and NPD, both connotatively and clinically[^3].
 ## III. _The Pseudo Sciences_
 
 **Phrenology**
+
+**Degeneration**
 
 **Physiognomy (/Craniography)**
 
@@ -319,11 +421,19 @@ simultaneously in a given term and to use said term widely and offhandedly only
 serves to demonize mental illness and to write off transgressions as
 psychologically inclined (rather than socially motivated) behavior.
 
+The past is soaked in blood, to simply reach into it and pull a chunk out for
+you own purposes will end in nothing but soaking your hands as well.
+
 ## V. Further Reading
 
  - Jarkko Jalava, "[Science of conscience: Metaphysics, morality, and
    rhetoric in psychopathy research,][18]" Ph.D. Dissertation, Simon Fraser
    University, Burnaby, British Columbia, 2007.
+
+ - Theodore Millon, Erik Simonsen, and Morten Birket-Smith, "[Historical
+   Conceptions of Psychopathy in the United States and Europe,][9]" in
+   _Psychopathy: Antisocial, Criminal, and Violent Behavior,_ ed. Theodore
+   Millon, et al. (New York: The Guilford Press, 1998).
 
 ## VI. Bibliography
 
@@ -420,6 +530,7 @@ Public policy:
 
 <https://www.psychologicalscience.org/publications/journals/pspi/psychopathy.html>
 <http://law.jrank.org/pages/2110/Sexual-Predators-Sexual-psychopath-laws.html>
+<http://ww1.cpa-apc.org/Publications/Archives/CJP/2005/march2/cjp-mar2-05-Seeman-RP.pdf>
 
 ## VII. Footnotes
 
@@ -444,3 +555,16 @@ Public policy:
 [19]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3814446/
 [20]: https://www.historyextra.com/period/victorian/the-born-criminal-lombroso-and-the-origins-of-modern-criminology/
 [21]: https://crimescandalspectacle.academic.wlu.edu/lombrosos-contributions-to-criminology/
+[22]: http://www.eudaemonist.com/biblion/characters/#09
+[23]: https://watermark.silverchair.com/sbm136.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAjswggI3BgkqhkiG9w0BBwagggIoMIICJAIBADCCAh0GCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMj_eTB4D_A0aZvOc6AgEQgIIB7ktWnaGM6IOs24PQhxw2odmLW3LGuyaWsDUgI5RdBZiUod5nJ1iBDsjw2gTR7nhc3fRoM0KChie15IuZLx8fm2jSFkRTuEnAs5OLXMOR6y8Pmr0tuRmoN_SaRFcXmADd1nZLVdiB1m7v545_dvp4k40Ex5c4HJlkS0jeqL0x35C4N8Xiu54H6GIrIOFNmH1IKbjHJPuRXphsuzIf5mprMhV68fPrjRhip88baU2IDIEmj8VV20m67s-u47lkHrqlVZ-a0OHSBEM0wpADmRYX89knMYNsZg0fv0ExchhHSaiSrk9T3lhkfGNb3UPE_sL19tdJWOjQDp6NbZxgZZhY6_7p4oeUd2zIgFjG2l-YvbaxpxxXG-SjeHFF-VHEE2bbnJPpcQdcNQ1h4182owerNW_9lL-sMK9IHzTDrkVmWfuuc9KVdmnuwDJZCR9YcAeh-cDnCtiIEWaCTA3xvR_pExlyMdnqasUslW_kDBjIs1kKITqBQxEi-xLX1A7WglYa6jig6cDWQsarnHiLQJoPGPqLFCF3ROtpXNcA32ZZrona6ejeec1WkWtB9KIxbxkzl7EGYH21t0b5j1lQGFlzSGNCJ53DmFXF5LAi3ndglGRLbZ0g00n_5Xb4h6gd9QKA-LPNLuNTw2qaVHwGTgWz
+[24]: https://web.archive.org/web/20131203194612/http://peer.ccsd.cnrs.fr/docs/00/57/09/03/PDF/PEER_stage2_10.1177/0957154X07080661.pdf
+[25]: https://en.wikipedia.org/wiki/Philippe_Pinel
+[26]: https://en.wikipedia.org/wiki/Benjamin_Rush
+[27]: https://archive.org/details/medicalinquiries1812rush/page/n7
+[28]: https://en.wikipedia.org/wiki/James_Cowles_Prichard
+[29]: https://en.wikipedia.org/wiki/Daniel_Hack_Tuke
+[30]: https://en.wikipedia.org/wiki/Adolf_Meyer_(psychiatrist)
+[31]: https://en.wikipedia.org/wiki/Emil_Kraepelin
+[32]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2927892/#CIT6
+[33]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3811086/
+[34]: https://web.archive.org/web/20130526013902/http://134.76.163.171:8080/jspui/bitstream/123456789/10898/1/PEER_stage2_10.1177%252F0957154X07079689.pdf
