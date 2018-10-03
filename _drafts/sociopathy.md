@@ -4,7 +4,9 @@ description: >
 
 layout: post
 license: BY-SA
-tags: history mental-illness psychology criminology psychiatry
+tags: >
+    history mental-illness psychology criminology psychiatry eugenics nosology
+    epidemiology penology etiology
 title: Psychopathy, Sociopathy, & Demonization
 ---
 
@@ -140,7 +142,7 @@ Maudsley's belief at the time was that individuals and families suffering from
 degeneration (as per [Bénédict Morel][16]'s theory) would simply die off on
 their own eventually[^23], over time he shifted towards a eugenicist view,
 believing that such illnesses needed to be purged manually. For the sake of
-brevity[^24], we'll skip the works of Cesare Lombrose[^22], perhaps to be
+brevity[^24], we'll skip the works of Cesare Lombroso[^22], perhaps to be
 revisited at a later date for his contributions to
 criminology[^25]<sup>,</sup>[^26]<sup>,</sup>[^27].
 
@@ -224,7 +226,7 @@ harsh derogatory connotation.
 </div>
 
 An alternative framing of psychopathy was provided by [Emil Kraepelin][31] in
-his 1904 work Psychiatry: A Textbook (_Psychiatrie: Ein Lehrbuch_)[^34], in which
+his work _Psychiatry: A Textbook_ (_Psychiatrie: Ein Lehrbuch_)[^34], in which
 he asserted the idea of "psychopathic personalities." This conception maintained
 the notion that personality disorders (psychopathy specifically here) originate
 from constitutional "defects" and therefore their symptoms are permanently a
@@ -234,37 +236,107 @@ psychiatrist, Kraepelin not only studied the causes of what he deemed to be
 issues in society (in his case the German _Volk_) but proposed solutions as
 well. These primarily took the form of education, prohibition, improving living
 conditions, helping the poor, and... "reasonable policies of racial hygiene"
-(_verstandige Rassenhygiene_)[^37].
+(_verständige Rassenhygiene_)[^37].
 
-[^36]: Marc-Antoine Crocq, "[Milestones in the history of personality
-       disorders,][33]" _Dialogues in Clinical Neuroscience_ 15, 2 (June 2013):
-       147-153.
+[^41]: Millon et al., "Historical Conceptions...," 9.
 
 [^37]: Eric J. Engstrom, "[Classic Text No. 71: 'On the Question of
        Degeneration' by Emil Kraepelin (1908),][34]" _History of Psychiatry_ 18,
        3 (2007): 389-404.
 
-<https://web.archive.org/web/20131029215301/http://www.tara.tcd.ie/bitstream/2262/51636/1/PEER_stage2_10.1177/0957154X07080819.pdf>
+In his aforementioned magnum opus, Kraepelin originally (1899) referred to
+"psychopathic states" which were, to him, a singular form of degeneration. Only
+afterwards in the 7<sup>th</sup> edition (1904) did he use the term
+"psychopathic personalities," which he had split into four categories at the
+time[^42]<sup>,</sup>[^36]:
 
-Kraepelin probably wasn't a "Nazi". By some definitions, one must have been a
-member of the Nationalist Socialist Party in order to have actually been a Nazi,
-and Kraepelin died in 1926 leaving behind no record of ever joining said party.
-Of course, that didn't stop him from supporting eugenics, or ethnic
+[^42]: Millon et al., "Historical Conceptions...," 10.
+
+[^36]: Marc-Antoine Crocq, "[Milestones in the history of personality
+    disorders,][33]" _Dialogues in Clinical Neuroscience_ 15, 2 (June 2013):
+    147-153.
+
+1. morbid/pathological liars and swindlers (_die krankhaften Ttigner und
+   Schwindler_), who were essentially conmen who were charming but immoral and
+   unempathetic to others' needs, suffering themselves from unfaithful memory
+   and instability of emotion;
+2. criminals by impulse/pseudoquerulants (_die Pseudoquerulanten_), who
+   committed theft, arson, and rape on impulse, corresponding somehow to the
+   modern notion of paranoid personality[^43];
+3. professional/born criminals (_der Geborne Verbrecher_), who were disciplined
+   and well mannered but ultimately manipulative (modeled after Lombroso and
+   Prichard's conceptions);
+4. and morbid vagabonds/irresolute/weak-willed (_die Haltlosen_) who simply
+   stumbled through life, lacking in confidence and unable to take on
+   responsibility or commit to anything.
+
+[^43]: I'd attempted to match the analyses by Millon with those by Crocq, and by
+       process of elimination drew a parallel between the former's "criminals by
+       impulse" and the latter's "pseudoquerulants." This may not be perfect, as
+       neither describes the members of this list in thorough enough detail, and
+       I am as of yet incapable of tracking down a copy of the 7<sup>th</sup>
+       edition of Kraepelin's work.
+
+A cursory glance at this list may lead one to interpret it as more a list of
+types of criminals than any sort of nosology, and to an extent one would in that
+case be correct. As with many of the previous definitions, this iteration of the
+psychopathy diagnosis is blatantly driven by an attempt to classify criminality
+as a disease; this trend certainly does not stop here either. To further the
+absurdity of _this_ definition, Kraepelin went on to expand it in the
+8<sup>th</sup> edition of his work into seven categories[^42]<sup>,</sup>[^36]:
+
+1. the excitable (_die Erregbaren_);
+2. the irresolute (_die Haltlosen_), carried over from the last edition;
+3. those who are impulsive and follow their instincts (_Triebmenschen_),
+   Kraepelin would have considered periodic drinkers and those who sought out
+   pleasure to be among this category since he saw alcohol and syphilis as among
+   the greatest threats to the people (_Volksgiften_)[^37]<sup>,</sup>[^36];
+4. eccentrics (_Verschobenen_);
+5. pathological liars and swindlers (_die krankhaften Ttigner und Schwindler_),
+   also carried over from the last edition;
+6. the antisocial/enemies of society (_Gesellschaftsfeinde_);
+7. and the quarrelsome (_die Streitsüchtige_).
+
+The final three are described by Millon et al. to have "features similar to the
+current notions of the antisocial,"[^42] with the sixth category being the most
+similar.
+
+Now, Kraepelin probably wasn't a "Nazi"[^39]. By some definitions, one must have
+been a member of the Nationalist Socialist Party in order to have actually been
+a Nazi, and Kraepelin died in 1926 leaving behind no record of ever joining said
+party. Of course, that didn't stop him from supporting eugenics[^38], or ethnic
 cleansing[^37], or declaring people to be mentally ill by their political
-positions, or being an anti-Semite[^35], but I digress.
+positions, or being an anti-Semite[^35], but I digress[^40].
 
-[^34]: Millon et al., "Historical Conceptions...," 8.
+[^39]: Though two of the doctors he mentored, [Paul Nitsche][36] and [Ernst
+       Rüdin][37], were very much so. In fact, the former was executed with a
+       fucking guillotine for being a Nazi.
+
+[^38]: Rael D. Strous, Annette A. Opler, Lewis A. Opler, "[Reflections on "Emil
+       Kraepelin: Icon and Reality,"][35]" _American Journal of Psychiatry_ 173,
+       3 (March 2016): 300-301.
 
 [^35]: Andreas Ebert and Karl-Jürgen Bär, "[Emil Kraepelin: A pioneer of
        scientific understanding of psychiatry and psychopharmacology,][32]"
        _Indian Journal of Psychiatry_ 52, 2 (Apr-Jun 2010): 191-192.
 
-<!--
+[^40]: There's a book's worth of details on how fucked up Kraepelin was, but
+       like Lombroso it would detract too much from the primary narrative here.
+       For instance, he was fired from his work as a psychiatrist for neglecting
+       his clinical duties; elsewhere he wrote that the reason he did not like
+       doing such work was that he saw it as a waste to expend effort caring for
+       those he saw as inferior while others in the world that he saw as decent
+       people were suffering.
+
+<!-- I'm certainly having fun writing this, everyone's a fucking Nazi and they
+     want me dead, it's invigorating! -->
+
+**Schneider**
+
 <div class="pullquote">
     "[T]he concept of psychopathy eventually found its home not in psychiatry
     [&hellip;] but in criminology."
 </div>
--->
 
 Unsurprisingly,
 the concept of psychopathy eventually found its home not in psychiatry, not in
@@ -420,6 +492,10 @@ simultaneously in a given term and to use said term widely and offhandedly only
 serves to demonize mental illness and to write off transgressions as
 psychologically inclined (rather than socially motivated) behavior.
 
+Definitions of psychopathy could more aptly be described as "List of People I
+Can't Fucking Stand" by various European proto-fascists than a clinical
+diagnosis.
+
 The past is soaked in blood, to simply reach into it and pull a chunk out for
 your own purposes will end in nothing but soaking your hands as well.
 
@@ -511,8 +587,6 @@ History of criminology:
 
 History of psychopathy:
 
-<https://books.google.com/books?id=LSiBsdxcGigC&pg=PA3#v=onepage&q&f=false>
-<https://web.archive.org/web/20131203194612/http://peer.ccsd.cnrs.fr/docs/00/57/09/03/PDF/PEER_stage2_10.1177/0957154X07080661.pdf>
 <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1517449/?page=1>
 <http://samples.jbpub.com/9781284129014/9781284129014_Ch06_SECURE.pdf>
 <https://profilesofmurder.com/2012/04/02/ever-wonder-what-the-difference-between-a-sociopath-and-psychopath/>
@@ -555,7 +629,7 @@ Public policy:
 [20]: https://www.historyextra.com/period/victorian/the-born-criminal-lombroso-and-the-origins-of-modern-criminology/
 [21]: https://crimescandalspectacle.academic.wlu.edu/lombrosos-contributions-to-criminology/
 [22]: http://www.eudaemonist.com/biblion/characters/#09
-[23]: https://watermark.silverchair.com/sbm136.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAjswggI3BgkqhkiG9w0BBwagggIoMIICJAIBADCCAh0GCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMj_eTB4D_A0aZvOc6AgEQgIIB7ktWnaGM6IOs24PQhxw2odmLW3LGuyaWsDUgI5RdBZiUod5nJ1iBDsjw2gTR7nhc3fRoM0KChie15IuZLx8fm2jSFkRTuEnAs5OLXMOR6y8Pmr0tuRmoN_SaRFcXmADd1nZLVdiB1m7v545_dvp4k40Ex5c4HJlkS0jeqL0x35C4N8Xiu54H6GIrIOFNmH1IKbjHJPuRXphsuzIf5mprMhV68fPrjRhip88baU2IDIEmj8VV20m67s-u47lkHrqlVZ-a0OHSBEM0wpADmRYX89knMYNsZg0fv0ExchhHSaiSrk9T3lhkfGNb3UPE_sL19tdJWOjQDp6NbZxgZZhY6_7p4oeUd2zIgFjG2l-YvbaxpxxXG-SjeHFF-VHEE2bbnJPpcQdcNQ1h4182owerNW_9lL-sMK9IHzTDrkVmWfuuc9KVdmnuwDJZCR9YcAeh-cDnCtiIEWaCTA3xvR_pExlyMdnqasUslW_kDBjIs1kKITqBQxEi-xLX1A7WglYa6jig6cDWQsarnHiLQJoPGPqLFCF3ROtpXNcA32ZZrona6ejeec1WkWtB9KIxbxkzl7EGYH21t0b5j1lQGFlzSGNCJ53DmFXF5LAi3ndglGRLbZ0g00n_5Xb4h6gd9QKA-LPNLuNTw2qaVHwGTgWz
+[23]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2632489/
 [24]: https://web.archive.org/web/20131203194612/http://peer.ccsd.cnrs.fr/docs/00/57/09/03/PDF/PEER_stage2_10.1177/0957154X07080661.pdf
 [25]: https://en.wikipedia.org/wiki/Philippe_Pinel
 [26]: https://en.wikipedia.org/wiki/Benjamin_Rush
@@ -564,6 +638,9 @@ Public policy:
 [29]: https://en.wikipedia.org/wiki/Daniel_Hack_Tuke
 [30]: https://en.wikipedia.org/wiki/Adolf_Meyer_(psychiatrist)
 [31]: https://en.wikipedia.org/wiki/Emil_Kraepelin
-[32]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2927892/#CIT6
+[32]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2927892/
 [33]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3811086/
 [34]: https://web.archive.org/web/20130526013902/http://134.76.163.171:8080/jspui/bitstream/123456789/10898/1/PEER_stage2_10.1177%252F0957154X07079689.pdf
+[35]: https://gun-violence.psychiatryonline.org/doi/full/10.1176/appi.ajp.2016.15111414
+[36]: https://en.wikipedia.org/wiki/Paul_Nitsche
+[37]: https://en.wikipedia.org/wiki/Ernst_R%C3%BCdin
