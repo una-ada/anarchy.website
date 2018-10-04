@@ -331,14 +331,24 @@ positions, or being an anti-Semite[^35], but I digress[^40].
 <!-- I'm certainly having fun writing this, everyone's a fucking Nazi and they
      want me dead, it's invigorating! -->
 
-**Schneider**
+Attempts were made to separate the clinical notion of psychopathy from the value
+judgements imposed on it by the likes of Koch and Kraepelin, primarily by [Kurt
+Schneider][39] in post-World War I Germany (_[Weimarer Republik][40]_)[^46].
+
+Schneider also held a then novel position on the distinction between normal and
+abnormal personality types, being that clinically abnormal personality traits
+would be meaningless to describe as extreme forms of normal ones[^36].
+
+[^46]: Richard F. Wetzell, _Inventing the Criminal: A History of German
+       Criminology, 1880-1945,_ (Chapel Hill: The University of North Carolina
+       Press, 2000), 247.
 
 <div class="pullquote">
     "[T]he concept of psychopathy eventually found its home not in psychiatry
     [&hellip;] but in criminology."
 </div>
 
-Unsurprisingly,
+Unsurprisingly (especially given Kraepelin's classification), however,
 the concept of psychopathy eventually found its home not in psychiatry, not in
 therapy[^12], not in the hearts of those who sought to help inflicted
 individuals better themselves, but in criminology. Specifically the section of
@@ -366,6 +376,25 @@ would be against the nature of humans to break laws, and therefore deviant[^14].
        Timothy O. Davis, PhD, "[Conceptualizing Psychiatric Disorders Using
        "Four D's" of Diagnoses,][11]" _Internet Journal of Psychiatry_ 1, 1
        (2009).
+
+**Birnbaum**
+
+Around this time, the term "sociopathic" was introduced by [Karl Birnbaum][38]
+as a more apt description of the theorized condition. Though it was not at all
+popular at the time, circa 1909, he derived the term from the idea that
+antisocial behavior was only rarely a constitutional condition and more often
+came from social conditioning[^44]<sup>,</sup>[^45].
+
+[^44]: Millon et al., "Historical Conceptions...," 11.
+
+[^45]: Jarkko Jalava, "[Science of conscience: Metaphysics, morality, and
+       rhetoric in psychopathy research,][18]" Ph.D. Dissertation, Simon Fraser
+       University, Burnaby, British Columbia, 2007.
+
+**Freud**
+
+**That big gap where it supposedly lost favor but really was just used by the
+Nazis and people don't like being associated with Nazis**
 
 <div class="pullquote image left">
     <img src="/assets/img/assholes/cleckley.jpg" style="width:100%;"
@@ -644,3 +673,6 @@ Public policy:
 [35]: https://gun-violence.psychiatryonline.org/doi/full/10.1176/appi.ajp.2016.15111414
 [36]: https://en.wikipedia.org/wiki/Paul_Nitsche
 [37]: https://en.wikipedia.org/wiki/Ernst_R%C3%BCdin
+[38]: https://en.wikipedia.org/wiki/Karl_Birnbaum
+[39]: https://en.wikipedia.org/wiki/Kurt_Schneider
+[40]: https://en.wikipedia.org/wiki/Weimar_Republic
