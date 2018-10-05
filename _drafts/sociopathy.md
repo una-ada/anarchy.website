@@ -331,6 +331,16 @@ positions, or being an anti-Semite[^35], but I digress[^40].
 <!-- I'm certainly having fun writing this, everyone's a fucking Nazi and they
      want me dead, it's invigorating! -->
 
+<div class="pullquote image">
+    <img src="/assets/img/assholes/schneider.jpg">
+    Kurt Schneider
+    <br>
+    <i>Source:
+        <a href="https://www.uni-ulm.de/med/med-medgeschichte/forschung/drittmittelprojekte/kurt-schneiders-1887-1967-korrespondenzen/">
+            Universität Ulm / Institut für Geschichte, Theorie und Ethik der
+            Medizin</a>.</i>
+</div>
+
 Attempts were made to separate the clinical notion of psychopathy from the value
 judgements imposed on it by the likes of Koch and Kraepelin, primarily by [Kurt
 Schneider][39] in post-World War I Germany (_[Weimarer Republik][40]_)[^46].
@@ -386,7 +396,12 @@ line served to keep focus on the "psychopathic" group within it[^50].
 On the question of constitutionality of these personalities, Schneider fell in
 line with much of the developments that preceded him. While he agreed that
 environment has an effect on personality, he maintained that abnormalities in a
-personality were congenital and typically hereditary[^49].
+personality were congenital and typically hereditary[^49]. However, he did
+oppose eugenics and even fought against the influence of the Nazis in psychiatry
+(at least so far as defending his own department from them)[^51].
+
+[^51]: "[Schneider, Kurt (1887-1967), Psychiater,][44]" kipnis.de, accessed Oct.
+       5, 2018.
 
 <div class="pullquote">
     "[T]he concept of psychopathy eventually found its home not in psychiatry
@@ -422,13 +437,45 @@ would be against the nature of humans to break laws, and therefore deviant[^14].
        "Four D's" of Diagnoses,][11]" _Internet Journal of Psychiatry_ 1, 1
        (2009).
 
-**Birnbaum**
+While agreeing with many of the conclusions and observations brought forth by
+Kurt Schneider, [Karl Birnbaum][38] returned to previous approaches to the idea
+of psychopathy by focusing on the connection between it and criminality.
+Birnbaum believed that there was such a link, regardless of how little
+statistical backing there was at the time, and thus aimed to explain said link;
+he did so by defining three deficiencies in psychopaths[^52]:
 
-Around this time, the term "sociopathic" was introduced by [Karl Birnbaum][38]
-as a more apt description of the theorized condition. Though it was not at all
-popular at the time, circa 1909, he derived the term from the idea that
-antisocial behavior was only rarely a constitutional condition and more often
-came from social conditioning[^44]<sup>,</sup>[^45].
+[^52]: Richard F. Wetzell, _Inventing the Criminal_, 252.
+
+1. reactions disproportionate to stimuli,
+2. traits not harmonized,
+3. and lack of psychological resilience and balance.
+
+Between these, an afflicted person would be incapable of adapting to life, often
+turning to crime as a result but not in all cases. He also claimed that there
+were certain traits (among those defined by Schneider) that lent themselves to
+antisocial behavior while others directly lead to outright criminal behavior.
+There were also those that did not lend themselves to criminality, but could, by
+situational influences, be pushed to commit crime. Along with all this, he
+claimed that each abnormality was associated with a particular brand of crime as
+well. These tenuous sorts of connections were, according to him, the reason why
+not all psychopaths were criminals, but were merely at higher risk of becoming
+as such[^52].
+
+<div class="pullquote image left">
+    <img src="/assets/img/assholes/birnbaum.jpeg">
+    Karl Birnbaum
+    <br>
+    <i>Source:
+        <a href="http://www.peoples.ru/science/psihology/birnbaum/">
+            peoples.ru</a>.</i>
+</div>
+
+Birnbaum had also in decades prior introduced the term "sociopathic" as a more
+apt description of the condition theorized in Kraepelin's work. Though it was
+not at all popular at the time, circa 1909, he derived the term from the idea
+that antisocial behavior was only rarely directly caused by a constitutional
+condition and was more commonly a result of social
+conditioning[^44]<sup>,</sup>[^45].
 
 [^44]: Millon et al., "Historical Conceptions...," 11.
 
@@ -436,10 +483,52 @@ came from social conditioning[^44]<sup>,</sup>[^45].
        rhetoric in psychopathy research,][18]" Ph.D. Dissertation, Simon Fraser
        University, Burnaby, British Columbia, 2007.
 
-**Freud**
+The Danish psychiatrist August Wimmer was, like Kraepelin and those after him,
+critical of degeneration theory as an explanation of presumed hereditary
+criminality, and, like Kraepelin, was also concerned with "racial improvement."
+The alternative he supported was that of Mendelian inheritance, more similar to
+modern genetics; to that end he supported marital restrictions, sterilization,
+and forced abortion to avoid the "hereditary taint" of these characteristics.
+Of note, Wimmer included in his classification of psychopaths (1929) more
+specific types such as the "sexually perverted" and "asocial"[^53].
 
-**That big gap where it supposedly lost favor but really was just used by the
-Nazis and people don't like being associated with Nazis**
+[^53]: Millon et al., "Historical Conceptions...," 13.
+
+Immediately after Wimmer, though more relevant to discussion of Birnbaum, came
+[George E. Partridge][45]'s review "Current Conceptions of Psychopathic
+Personality" in the July of 1930, wherein he notes that the antisocial behaviors
+of "psychopaths" were likely a focal point among psychiatrists merely due to
+their evident nature[^54], and that this focus has also lead to disagreement as
+to the actual rate at which psychopathy occurs[^55].
+
+[^54]: George E. Partridge, "Current Conceptions of Psychopathic Personality,"
+       _The American Journal of Psychiatry_ 1, 87 (July, 1930): 53-99.
+
+[^55]: Millon et al., "Historical Conceptions...," 14.
+
+<!-- Talk about Freud here? let's not. -->
+
+This critique of the field at the time came despite a recently occurring push
+to once again create a coherent definition of psychopathy, this time using the
+new methodology of psychoanalysis as pioneered by [Sigmund Freud][46]. In 1925,
+[August Aichhorn][47] wrote that delinquency was akin to a disease and so the
+criminal behaviors associated with it were merely symptoms rather than the whole
+of the problem. He theorized that either too permissive or too authoritarian
+parenting would create a foundation upon which such a "disease" would form later
+on in life[^56].
+
+[^56]: Millon et al., "Historical Conceptions...," 15.
+
+In the same year, this concept was further solidified under psychoanalysis by
+[Karl Abraham][48] and [Wilhelm Reich][49]. Abraham asserted that antisocial
+behaviors stemmed from "psychological undernourishment" as a child, thus
+affecting the _libido_ such that a hatred forms to be later directed at the
+whole of society. This was extended by Reich who claimed that the behaviors are
+then a result of the _superego_ being incapable of retaining control of the
+_ego_[^56]. Together, Freud, Abraham, and Reich formed a character typology that
+would influence our modern notions of personality disorders[^36].
+
+**Henderson**
 
 <div class="pullquote image left">
     <img src="/assets/img/assholes/cleckley.jpg" style="width:100%;"
@@ -453,7 +542,7 @@ Nazis and people don't like being associated with Nazis**
     </i>
 </div>
 
-**Cleckley**
+**Hervey M. Cleckley**
 
 Hervey M. Cleckley is often described as the pioneer of the modern (primarily
 mid to late 20<sup>th</sup> century) conception of
@@ -473,6 +562,8 @@ psychopathy[^9]<sup>,</sup>[^15].
 
 [^7]: Hervey M. Cleckley, _The Mask of Sanity_ 5<sup>th</sup> edition (1988),
       286.
+
+**Erich Fromm**
 
 **Hare**
 
@@ -572,6 +663,10 @@ diagnosis.
 
 The past is soaked in blood, to simply reach into it and pull a chunk out for
 your own purposes will end in nothing but soaking your hands as well.
+
+$$
+\mathfrak{We}\;\mathfrak{Live}\;\mathfrak{in}\;\mathfrak{a}\;\mathfrak{Society.}
+$$
 
 ## V. Further Reading
 
@@ -724,3 +819,9 @@ Public policy:
 [41]: https://en.wikipedia.org/wiki/Henry_Maudsley
 [42]: https://en.wikipedia.org/wiki/Cesare_Lombroso
 [43]: https://en.wikipedia.org/wiki/Julius_Ludwig_August_Koch
+[44]: http://www.kipnis.de/index.php/alexander/kurzbiografien/111-schneider-kurt-1887-1967-psychiater
+[45]: https://en.wikipedia.org/wiki/George_E._Partridge
+[46]: https://en.wikipedia.org/wiki/Sigmund_Freud
+[47]: https://en.wikipedia.org/wiki/August_Aichhorn
+[48]: https://en.wikipedia.org/wiki/Karl_Abraham
+[49]: https://en.wikipedia.org/wiki/Wilhelm_Reich
