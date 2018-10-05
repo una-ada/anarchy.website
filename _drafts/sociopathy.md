@@ -6,7 +6,7 @@ layout: post
 license: BY-SA
 tags: >
     history mental-illness psychology criminology psychiatry eugenics nosology
-    epidemiology penology etiology
+    epidemiology penology etiology pseudo-science teleology
 title: Psychopathy, Sociopathy, & Demonization
 ---
 
@@ -134,15 +134,15 @@ discussed (along with physiognomy and craniography) in
             Wikimedia Commons</a>.</i>
 </div>
 
-Henry Maudsley, unlike Tuke, continued along the path carved out by Prichard
-rather than attempting to return to the intentions of Pinel, with ideas similar
-to those of Otto but deviating from the paradigm of phrenology. As such, he
-argued for a biological basis for "natural moral feelings[^22]." While
+[Henry Maudsley][41], unlike Tuke, continued along the path carved out by
+Prichard rather than attempting to return to the intentions of Pinel, with ideas
+similar to those of Otto but deviating from the paradigm of phrenology. As such,
+he argued for a biological basis for "natural moral feelings[^22]." While
 Maudsley's belief at the time was that individuals and families suffering from
 degeneration (as per [Bénédict Morel][16]'s theory) would simply die off on
 their own eventually[^23], over time he shifted towards a eugenicist view,
 believing that such illnesses needed to be purged manually. For the sake of
-brevity[^24], we'll skip the works of Cesare Lombroso[^22], perhaps to be
+brevity[^24], we'll skip the works of [Cesare Lombroso][42][^22], perhaps to be
 revisited at a later date for his contributions to
 criminology[^25]<sup>,</sup>[^26]<sup>,</sup>[^27].
 
@@ -165,8 +165,8 @@ criminology[^25]<sup>,</sup>[^26]<sup>,</sup>[^27].
 Toward the end of the 19<sup>th</sup> century and into the 20<sup>th</sup>, the
 idea of psychopathy took hold in Germany, where it took a less "value-laden"
 form as it had among the British. One such German, one who stands out in the
-historical context, was Julius Ludwig August Koch in 1891 who proposed that the
-previous standard of "moral insanity" be replaced with his new idea of
+historical context, was [Julius Ludwig August Koch][43] in 1891 who proposed
+that the previous standard of "moral insanity" be replaced with his new idea of
 "psychopathic inferiorities" (_Psychopathischen
 Minderwertigkeiten_)[^8]<sup>,</sup>[^28]. He attributed this condition to
 "functional organic deviations" (_organische Abweichungen funktioneller
@@ -334,23 +334,68 @@ positions, or being an anti-Semite[^35], but I digress[^40].
 Attempts were made to separate the clinical notion of psychopathy from the value
 judgements imposed on it by the likes of Koch and Kraepelin, primarily by [Kurt
 Schneider][39] in post-World War I Germany (_[Weimarer Republik][40]_)[^46].
-
-Schneider also held a then novel position on the distinction between normal and
-abnormal personality types, being that clinically abnormal personality traits
-would be meaningless to describe as extreme forms of normal ones[^36].
+This was partially due to the observation that the personality traits that may
+lead someone to criminality don't necessarily do so, and many who would have
+"psychopathic personalities" weren't necessarily doomed to a life of crime; not
+only were the people theorized by this analysis not all criminals living at odds
+with society, many were quite successful in positions of political and social
+power, according to Schneider's observations[^47]. To that end, he attempted to
+use clinical/psychological terms, rather than the previously common social and
+criminal terminology, defining ten categories of "abnormal personalities"[^36]:
 
 [^46]: Richard F. Wetzell, _Inventing the Criminal: A History of German
        Criminology, 1880-1945,_ (Chapel Hill: The University of North Carolina
-       Press, 2000), 247.
+       Press, 2000), 246.
+
+[^47]: Millon et al., "Historical Conceptions...," 12.
+
+1. hyperthymic (_Hyperthymische_),
+2. depressive,
+3. insecure (_Selbstunsichere_)[^48],
+4. fanatical (_Fanatische_),
+5. recognition-seeking (_Geltungsbedürftige_)[^48],
+6. with labile mood (_Stimmungslabile_),
+7. explosive (_Explosible_),
+8. emotionally-blunted (_Gemütlose_),
+9. weakwilled (_Willenlose_),
+10. asthenics (_Asthenische_).
+
+[^48]: This is further evidence to my theory that the internet has actually
+       caused relatively little change in general social norms. Here we see
+       Schneider defining mentally ill groups based on insecurity and validation
+       seeking just as modern critics of social media users (especially in the
+       realm of Instagram models or YouTube stars).
+
+Schneider also held a then novel position on the distinction between normal and
+abnormal personality types, being that clinically abnormal personality traits
+would be meaningless to describe as extreme forms of normal ones[^36]. This sort
+of definition, however, is problematic in that it draws a simple dichotomy
+between "normal" and everything else, the latter group of which can come in an
+infinite number of forms. Thus the previously given categories were merely a
+subset defined to give focus to those abnormalities that caused suffering on
+either the individual or society, the "psychopathic personalities"[^49]. As this
+line is clearly arbitrarily drawn based on whether one considers specific traits
+to case suffering in society, Schneider suggested work be done to study the
+whole category of "abnormal personalities," but the very act of drawing said
+line served to keep focus on the "psychopathic" group within it[^50].
+
+[^49]: Richard F. Wetzell, _Inventing the Criminal_, 247.
+
+[^50]: Richard F. Wetzell, _Inventing the Criminal_, 249.
+
+On the question of constitutionality of these personalities, Schneider fell in
+line with much of the developments that preceded him. While he agreed that
+environment has an effect on personality, he maintained that abnormalities in a
+personality were congenital and typically hereditary[^49].
 
 <div class="pullquote">
     "[T]he concept of psychopathy eventually found its home not in psychiatry
     [&hellip;] but in criminology."
 </div>
 
-Unsurprisingly (especially given Kraepelin's classification), however,
-the concept of psychopathy eventually found its home not in psychiatry, not in
-therapy[^12], not in the hearts of those who sought to help inflicted
+Unsurprisingly, despite Schneider's lackluster attempt to push against the
+trend, the concept of psychopathy eventually found its home not in psychiatry,
+not in therapy[^12], not in the hearts of those who sought to help inflicted
 individuals better themselves, but in criminology. Specifically the section of
 criminology that tackles "the problem of explaining crime and criminal behavior,
 which is the problem of scientifically accounting for the presence of crime and
@@ -676,3 +721,6 @@ Public policy:
 [38]: https://en.wikipedia.org/wiki/Karl_Birnbaum
 [39]: https://en.wikipedia.org/wiki/Kurt_Schneider
 [40]: https://en.wikipedia.org/wiki/Weimar_Republic
+[41]: https://en.wikipedia.org/wiki/Henry_Maudsley
+[42]: https://en.wikipedia.org/wiki/Cesare_Lombroso
+[43]: https://en.wikipedia.org/wiki/Julius_Ludwig_August_Koch
