@@ -10,6 +10,14 @@ tags: >
 title: Psychopathy, Sociopathy, & Demonization
 ---
 
+**Content Warning/Trigger Warning: this article contains discussion and
+presentation of historical views of psychiatry, including a multitude of
+pseudo-scientific ideas that can be and have been actively harmful with regards
+to people with mental illnesses, mentally (and sometimes physically) disabled
+persons, gay and/or transgender persons, and possibly others not listed here.**
+
+**\[CW/TW: homophobia, transphobia, ableism, bigotry, eugenics, nazism\]**
+
 While this work is intended as a discussion on the term "sociopathy" and its
 usage in our language today, one can hardly discuss sociopathy without
 first discussing psychopathy as the terms are "virtually synonymous"[^6] and the
@@ -394,7 +402,7 @@ line served to keep focus on the "psychopathic" group within it[^50].
 [^50]: Richard F. Wetzell, _Inventing the Criminal_, 249.
 
 On the question of constitutionality of these personalities, Schneider fell in
-line with much of the developments that preceded him. While he agreed that
+line with many of the developments that preceded him. While he agreed that
 environment has an effect on personality, he maintained that abnormalities in a
 personality were congenital and typically hereditary[^49]. However, he did
 oppose eugenics and even fought against the influence of the Nazis in psychiatry
@@ -519,6 +527,11 @@ on in life[^56].
 
 [^56]: Millon et al., "Historical Conceptions...," 15.
 
+<div class="pullquote">
+    Together [they] formed a character typology that would influence our modern
+    ideas of personality disorders.
+</div>
+
 In the same year, this concept was further solidified under psychoanalysis by
 [Karl Abraham][48] and [Wilhelm Reich][49]. Abraham asserted that antisocial
 behaviors stemmed from "psychological undernourishment" as a child, thus
@@ -526,11 +539,84 @@ affecting the _libido_ such that a hatred forms to be later directed at the
 whole of society. This was extended by Reich who claimed that the behaviors are
 then a result of the _superego_ being incapable of retaining control of the
 _ego_[^56]. Together, Freud, Abraham, and Reich formed a character typology that
-would influence our modern notions of personality disorders[^36].
+would influence our modern ideas of personality disorders[^36]. Partridge also
+joined into the psychoanalysis in 1927, concluding that the delinquent behavior
+perceived among supposed psychopaths originated from "unfulfilled oral
+needs"[^56].
 
-**Henderson**
+While the works of [Eugen Kahn][50], one of Kraepelin's assistants[^60] who did
+not go on to serve the Nazis, are often overlooked in the history, the
+analysis he gave in 1931 (as quoted by [David Kennedy Henderson][51]) are rather
+indicative of the language used in the '30s. According to Hendersom, Kahn first
+gave a simple classification in four groups[^59]:
 
-<div class="pullquote image left">
+[^60]: Hanns Hippius, Hans-Jürgen Möller, Hans-Jürgen Müller, and Gabriele
+       Neundörfer-Kohl, _[The University Department of Psychiatry in Munich:
+       From Kraepelin and his predecessors to molecular psychiatry][52]_
+       (Heidelberg: Springer Medizin Verlag, 2008), 93.
+
+[^59]: D. K. Henderson, _Psychopathic States_, (New York: W. W. Norton & Co.,
+       1939), 21.
+
+1. unstable egocentric (emotional instability),
+2. constitutional inferiority ("habitual inadequate behavior"),
+3. idiosyncratic personality,
+4. and "psychotoid."
+
+His analytical inventory is then given as three groups with several subgroups as
+"quantitative deviations"[^61]:
+
+[^61]: D. K. Henderson, _Psychopathic States_, 22.
+
+1. impulsive, similar to the _Triebmenschen_ group defined by Kraepelin and
+   specifically including "sex variants" such as masturbation, homosexuality,
+   sadism, masochism, exhibitionism, fetishism, and pedophilia (keep this mildly
+   infuriating list in mind as it comes up several times going forward);
+2. disturbances of temperament:
+   1. _hyperthymic_, similar to Schneider's hyperthymic and explosive, including
+      being vivacious and cheerful;
+   2. _hypothymic_, "phlegmatic" and affectless;
+   3. and _dysphoric_, which Henderson claimed to possibly be close to
+      _cyclothemic_, being anxious and gloomy.
+3. _ego_ and character manifestations:
+   1. "active autists"[^63] and the egocentric,
+   2. "passive autists" and the "ego-searcher,"
+   3. and "ambitendent."
+
+[^63]: The term "autist" itself deserves a significant further discussion,
+       perhaps this will spark a long series of articles on "Issues in Language
+       and Psychiatry" or something along those lines.
+
+It is noted that this system is so broad and vague that it is clinically
+useless, a problem Kahn attempted to fix with a more robust list of instances
+that isn't meaningfully distinguishable from Schneider's list[^62]. Henderson
+himself proposed a categorization of psychopathic personalities into three
+non-exclusive groups in his 1939 work[^57]:
+
+[^62]: D. K. Henderson, _Psychopathic States_, 23.
+
+[^57]: D. K. Henderson, _Psychopathic States_, 38.
+
+1. Predominantly aggressive.
+2. Predominantly passive or inadequate.
+3. Predominantly creative.
+
+This is another development in the movement against viewing psychopathy and
+criminality as synonymous, though caused plenty of controversy due to overlap
+with the passive/inadequate type and other diagnoses (specifically neuroticism),
+as well as people simply disagreeing that the creative type could even be
+considered a psychopath[^58].
+
+[^58]: Millon et al., "Historical Conceptions...," 16.
+
+While plenty of the aforementioned figures had mentioned the "sexual deviants,"
+they had merely included such a category in a wider context of what is
+effectively the classification of various criminal behaviors. Starting in the
+'40s, there was a more significant focus on what they then called "sexual
+psychopaths." [Benjamin Karpman][53] published a significant number of works on
+this concept, including one in 1951 titled _The Sexual Psychopath_.
+
+<div class="pullquote image">
     <img src="/assets/img/assholes/cleckley.jpg" style="width:100%;"
         alt="Portrait of Hervey M. Cleckley">
     A very low-quality portrait of Hervey M. Cleckley; if he wanted to be
@@ -551,6 +637,10 @@ psychopathy[^9]<sup>,</sup>[^15].
 [^15]: Diane Kratz, "[Ever Wonder What the Difference Between a Sociopath and
        Psychopath?,][12]" Profiles of Murder, accessed Sep. 28, 2018.
 
+By the late '80s, the denotation of "sexual psychopath" had lost favor, as is
+evident by this comment in the 5<sup>th</sup> edition of Cleckley's _Mask of
+Sanity_:
+
 > "_When the first edition of this book was written it had for many years been
   customary to use the term sexual psychopath to designate homosexuals, sadists,
   masochists, and also people specifically inclined towards exhibitionism,
@@ -567,6 +657,22 @@ psychopathy[^9]<sup>,</sup>[^15].
 
 **Hare**
 
+---
+
+Shit by Hare about his fucking PCL-R:
+
+<http://www.hare.org/references/HareandNeumannARCP2008.pdf>
+<http://www.psychiatrictimes.com/articles/psychopathy-and-antisocial-personality-disorder-case-diagnostic-confusion>
+
+The PCL-R sucks actually:
+
+<https://forensicpsychologist.blogspot.com/2011/06/violence-risk-meta-meta-instrument.html>
+<https://www.sciencedirect.com/science/article/pii/S0272735810001947>
+<https://ac.els-cdn.com/S0924933816301894/1-s2.0-S0924933816301894-main.pdf?_tid=7052594b-1a69-4570-9a25-844e79e3f8e3&acdnat=1538177395_d7e44989425f4400dc2ee8280b548f82>
+<https://web.archive.org/web/20151119002546/https://www.ncjrs.gov/App/Publications/abstract.aspx?ID=204918>
+<https://www.npr.org/2011/05/26/136619689/can-a-test-really-tell-whos-a-psychopath>
+<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2817979/>
+
 While attempts to define ASPD do draw from the central idea of psychopathy[^16],
 the attempts at formalization as a personality disorder are put under greater
 scrutiny than those that simply seek to create a checklist for psychopathy. This
@@ -580,6 +686,10 @@ is due to the concept of psychopathy itself being generally considered informal.
        _Journal of Abnormal Psychology_ 100, 3 (Aug. 1991): 391-398.
 
 ## II. _The Distinction of "Sociopathy"_
+
+The difference between "sociopath" and "psychopath" (with regards to their
+definitions) is similar to that between "pigeon" and "dove" or "crow" and
+"raven."
 
 The trivial, etymological analysis of what "sociopathy" means would indicate
 that it simply refers to someone who has a disconnect with society; the _socio-_
@@ -605,6 +715,17 @@ and NPD, both connotatively and clinically[^3].
 
 [^3]: Stephen A. Diamond Ph.D., "[Is It Narcissism or Sociopathy?,][2]"
       Psychology Today, Jul. 19, 2017.
+
+---
+
+Descriptions of psychopathy:
+
+<http://www.thedivineconspiracy.org/Z5223H.pdf>
+<https://www.scribd.com/doc/27005161/The-Psychopath-Emotion-and-the-Brain>
+<http://journals.sagepub.com/stoken/rbtfl/WDUhPiP7pHM3Q/full>
+<https://www.psychologytoday.com/us/blog/witness/201104/psychopathy-rorschach-test-psychologists>
+<http://www.psychiatrictimes.com/articles/paradox-psychopathy>
+
 
 ## III. _The Pseudo-Sciences_
 
@@ -645,6 +766,24 @@ must necessarily exist is the acid that corrodes all visionary thinking[^17]."
 
 [^17]: Murray Bookchin, "[The Meaning of Confederalism,][14]" _Green
        Perspectives_ 20 (1990).
+
+---
+
+Treatability of ASPD and psychopathy:
+
+<http://www.apa.org/monitor/mar04/treatment.aspx>
+<https://www.psychologytoday.com/us/blog/wicked-deeds/201408/psychopathic-criminals-cannot-be-cured>
+
+History of criminology:
+
+<https://books.google.com/books?id=iGW7QLJmuwoC&pg=PA46&source=gbs_toc_r&cad=4#v=onepage&q&f=false>
+<https://scholarlycommons.law.northwestern.edu/cgi/viewcontent.cgi?article=4793&context=jclc>
+
+Public policy:
+
+<https://www.psychologicalscience.org/publications/journals/pspi/psychopathy.html>
+<http://law.jrank.org/pages/2110/Sexual-Predators-Sexual-psychopath-laws.html>
+<http://ww1.cpa-apc.org/Publications/Archives/CJP/2005/march2/cjp-mar2-05-Seeman-RP.pdf>
 
 ## IV. _The Conclusion_
 
@@ -730,50 +869,6 @@ $$
 
 - ["socio-,"][3] Wiktionary, accessed Sep. 27, 2018.
 
-Shit by Hare about his fucking PCL-R:
-
-<http://www.hare.org/references/HareandNeumannARCP2008.pdf>
-<http://www.psychiatrictimes.com/articles/psychopathy-and-antisocial-personality-disorder-case-diagnostic-confusion>
-
-The PCL-R sucks actually:
-
-<https://forensicpsychologist.blogspot.com/2011/06/violence-risk-meta-meta-instrument.html>
-<https://www.sciencedirect.com/science/article/pii/S0272735810001947>
-<https://ac.els-cdn.com/S0924933816301894/1-s2.0-S0924933816301894-main.pdf?_tid=7052594b-1a69-4570-9a25-844e79e3f8e3&acdnat=1538177395_d7e44989425f4400dc2ee8280b548f82>
-<https://web.archive.org/web/20151119002546/https://www.ncjrs.gov/App/Publications/abstract.aspx?ID=204918>
-<https://www.npr.org/2011/05/26/136619689/can-a-test-really-tell-whos-a-psychopath>
-<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2817979/>
-
-Treatability of ASPD and psychopathy:
-
-<http://www.apa.org/monitor/mar04/treatment.aspx>
-<https://www.psychologytoday.com/us/blog/wicked-deeds/201408/psychopathic-criminals-cannot-be-cured>
-
-History of criminology:
-
-<https://books.google.com/books?id=iGW7QLJmuwoC&pg=PA46&source=gbs_toc_r&cad=4#v=onepage&q&f=false>
-<https://scholarlycommons.law.northwestern.edu/cgi/viewcontent.cgi?article=4793&context=jclc>
-
-History of psychopathy:
-
-<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1517449/?page=1>
-<http://samples.jbpub.com/9781284129014/9781284129014_Ch06_SECURE.pdf>
-<https://profilesofmurder.com/2012/04/02/ever-wonder-what-the-difference-between-a-sociopath-and-psychopath/>
-
-Descriptions of psychopathy:
-
-<http://www.thedivineconspiracy.org/Z5223H.pdf>
-<https://www.scribd.com/doc/27005161/The-Psychopath-Emotion-and-the-Brain>
-<http://journals.sagepub.com/stoken/rbtfl/WDUhPiP7pHM3Q/full>
-<https://www.psychologytoday.com/us/blog/witness/201104/psychopathy-rorschach-test-psychologists>
-<http://www.psychiatrictimes.com/articles/paradox-psychopathy>
-
-Public policy:
-
-<https://www.psychologicalscience.org/publications/journals/pspi/psychopathy.html>
-<http://law.jrank.org/pages/2110/Sexual-Predators-Sexual-psychopath-laws.html>
-<http://ww1.cpa-apc.org/Publications/Archives/CJP/2005/march2/cjp-mar2-05-Seeman-RP.pdf>
-
 ## VII. Footnotes
 
 [1]: https://www.psychologytoday.com/us/basics/sociopathy
@@ -825,3 +920,7 @@ Public policy:
 [47]: https://en.wikipedia.org/wiki/August_Aichhorn
 [48]: https://en.wikipedia.org/wiki/Karl_Abraham
 [49]: https://en.wikipedia.org/wiki/Wilhelm_Reich
+[50]: https://en.wikipedia.org/wiki/Eugen_Kahn
+[51]: https://en.wikipedia.org/wiki/David_Henderson_(psychiatrist)
+[52]: https://books.google.com/books?id=d0hFEthKmiwC&pg=PA93&lpg=PA93&dq=%22Eugen+Kahn%22+Yale&hl=en#v=onepage&q=%22Eugen%20Kahn%22%20Yale&f=false
+[53]: https://en.wikipedia.org/wiki/Benjamin_Karpman
