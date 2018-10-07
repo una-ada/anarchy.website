@@ -100,6 +100,8 @@ less the same fashion.
 [^10]: James Blair, Derek Mitchell, and Karina Blair, [_The Psychopath: Emotion
        and the Brain,_][7] <sup>[(alt)][8]</sup> (Oxford: Blackwell, 2005), 1.
 
+### Early Conceptions of the 19th Century
+
 Prior to the 19<sup>th</sup> century, it was thoroughly believed that the mind
 and reason were one in the same, this concept came into question with [Philippe
 Pinel][25] who described certain cases he studied as "insanity without delirium"
@@ -216,6 +218,8 @@ similarly rough history to that of psychopathy[^30].
 
 [^30]: Martin Bürgy, "[The Concept of Psychosis: Historical and Phenomenological
        Aspects,][23]" _Schizophrenia Bulletin_ 34, 6 (November 2008): 1200-1210.
+
+### Eugenics in the Early 20th Century
 
 The nosology (classification of illnesses) developed by Koch included many forms
 of mental illness, providing loose distinctions between those that were
@@ -544,6 +548,8 @@ joined into the psychoanalysis in 1927, concluding that the delinquent behavior
 perceived among supposed psychopaths originated from "unfulfilled oral
 needs"[^56].
 
+### Homophobia, Transphobia, and the Mid 20th Century
+
 While the works of [Eugen Kahn][50], one of Kraepelin's assistants[^60] who did
 not go on to serve the Nazis, are often overlooked in the history, the
 analysis he gave in 1931 (as quoted by [David Kennedy Henderson][51]) are rather
@@ -609,12 +615,44 @@ considered a psychopath[^58].
 
 [^58]: Millon et al., "Historical Conceptions...," 16.
 
+[Benjamin Karpman][53], in 1941, maintained the distinction of psychopathy into
+two categories (similar to beliefs held by Birnbaum): "idiopathic" and
+"symptomatic." Here "idiopathic" referred to the constitutional sort, where
+there was a guiltless, antisocial sort of personality with not discernable
+psychogenic history; "symptomatic" were a group that wasn't composed of "true
+psychopaths" but rather of "neurotics 'parading' as psychopaths," where the
+antisocial behavior was the result of internal conflict rather than originating
+from a constitutional condition[^64]. These two groups have also been referred
+to as "primary" and "secondary" psychopaths respectively[^65].
+
+[^64]: Millon et al., "Historical Conceptions...," 18.
+
+[^65]: M. Hildebrand, _[Psychopathy in the treatment of forensic psychiatric
+       patients: assessment, prevalence, predictive validity, and clinical
+       implications][54]_ (Amsterdam: Dutch University Press, 2004), 8.
+
 While plenty of the aforementioned figures had mentioned the "sexual deviants,"
 they had merely included such a category in a wider context of what is
 effectively the classification of various criminal behaviors. Starting in the
 '40s, there was a more significant focus on what they then called "sexual
-psychopaths." [Benjamin Karpman][53] published a significant number of works on
-this concept, including one in 1951 titled _The Sexual Psychopath_.
+psychopaths." Karpman published a significant number of works on this concept,
+including one later in 1951 explicitly titled "The Sexual Psychopath"[^66].
+Leading up to this, Karpman was the Chief Psychotherapist of the St. Elizabeths
+Hospital in Washington, D.C., where he "treated" people for non-conforming
+sexual and gender identities[^67]. While there, he worked to find what was then
+called "latent homosexuality" in criminals, which he believed to be the core
+cause of their criminality[^68]. This often took thorough analysis of every
+aspect of a person's life before finally finding something indicative of such an
+idea, likely due to its incoherence as a concept. 
+
+[^66]: Benjamin Karpman, "[The Sexual Psychopath,][55]" _Journal of Criminal Law
+       and Criminology_ 42, 2 (Summer 1951): 184-198.
+
+[^67]: Andy Steiner, "[Once landfill-bound, the U of M’s Benjamin Karpman Papers
+       are a treasure trove of GLBT history,][56]" MinnPost, Jun. 19, 2017.
+
+[^68]: Jeffrey P Dennis, _[The Myth of the Queer Criminal,][57]_ (New York:
+       Routledge, 2018).
 
 <div class="pullquote image">
     <img src="/assets/img/assholes/cleckley.jpg" style="width:100%;"
@@ -924,3 +962,6 @@ $$
 [51]: https://en.wikipedia.org/wiki/David_Henderson_(psychiatrist)
 [52]: https://books.google.com/books?id=d0hFEthKmiwC&pg=PA93&lpg=PA93&dq=%22Eugen+Kahn%22+Yale&hl=en#v=onepage&q=%22Eugen%20Kahn%22%20Yale&f=false
 [53]: https://en.wikipedia.org/wiki/Benjamin_Karpman
+[54]: https://dare.uva.nl/search?identifier=55f4cc1a-811b-4761-b032-2ccba7f3ae85
+[55]: https://scholarlycommons.law.northwestern.edu/cgi/viewcontent.cgi?article=3893&context=jclc
+[56]: https://www.minnpost.com/mental-health-addiction/2017/06/once-landfill-bound-u-m-s-benjamin-karpman-papers-are-treasure-trove/
