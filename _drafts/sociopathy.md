@@ -643,7 +643,12 @@ sexual and gender identities[^67]. While there, he worked to find what was then
 called "latent homosexuality" in criminals, which he believed to be the core
 cause of their criminality[^68]. This often took thorough analysis of every
 aspect of a person's life before finally finding something indicative of such an
-idea, likely due to its incoherence as a concept. 
+idea[^69], likely due to its incoherence as a concept. This development is left
+out of most of the popular histories of psychopathy (such as Millon et al.),
+mostly due to the focus of said histories being on ideas and concepts that
+remained a part of psychopathy and not on tangents that exemplify the problems
+with historical and modern definitions of it such as the narrative being
+presented in this work.
 
 [^66]: Benjamin Karpman, "[The Sexual Psychopath,][55]" _Journal of Criminal Law
        and Criminology_ 42, 2 (Summer 1951): 184-198.
@@ -653,6 +658,11 @@ idea, likely due to its incoherence as a concept.
 
 [^68]: Jeffrey P Dennis, _[The Myth of the Queer Criminal,][57]_ (New York:
        Routledge, 2018).
+
+[^69]: One particularly intriguing example of this, as described in _The Myth of
+       the Queer Criminal_, had Karpman going so far as to state that
+       professional fighting was indicative of _latent homosexuality_ as it
+       included a man pounding other men.
 
 <div class="pullquote image">
     <img src="/assets/img/assholes/cleckley.jpg" style="width:100%;"
@@ -965,3 +975,4 @@ $$
 [54]: https://dare.uva.nl/search?identifier=55f4cc1a-811b-4761-b032-2ccba7f3ae85
 [55]: https://scholarlycommons.law.northwestern.edu/cgi/viewcontent.cgi?article=3893&context=jclc
 [56]: https://www.minnpost.com/mental-health-addiction/2017/06/once-landfill-bound-u-m-s-benjamin-karpman-papers-are-treasure-trove/
+[57]: https://books.google.com/books?id=z5Y6DwAAQBAJ&pg=PT102&lpg=PT102&dq=karpman+(1886-1962)&source=bl&ots=4kNh-dwuZy&sig=0lQlpZtKiWwGU4JGihJTMn7ONL4&hl=en&sa=X&ved=2ahUKEwj0ndbw2vHdAhVJyoMKHVprDD4Q6AEwA3oECAYQAQ#v=onepage&q=karpman%20(1886-1962)&f=false
