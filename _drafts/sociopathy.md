@@ -18,6 +18,23 @@ persons, gay and/or transgender persons, and possibly others not listed here.**
 
 **\[CW/TW: homophobia, transphobia, ableism, bigotry, eugenics, nazism\]**
 
+## Foreword
+
+Thanks to the group chats currently or formerly known as "Sinking
+Barge🚢🌊⚓️suicide🔪cult🕯#GangGang", "𝕲𝖊𝖘𝖊𝖑𝖑𝖘𝖈𝖍𝖆𝖋𝖙𝖘𝖋𝖊𝖎𝖓𝖉𝖊 𝕲𝖆𝖓𝖌", and
+"ＳＰＡＣＥ ＡＮＡＲＣＨＩＳＴ ⛽🅰️🆖⛽🅰️🆖"[^70] for putting up with my
+constant complaints while researching this topic.
+
+[^70]: For those yet unaware, the emoji combination "⛽🅰️🆖" is read as "gang,"
+       older versions of ⛽ on iOS had a "G" on the center of the pump that was
+       later replaced with a drop of oil and is completely non-standard across
+       other emoji fonts.
+
+- toc
+{:toc}
+
+## I. _The History_
+
 While this work is intended as a discussion on the term "sociopathy" and its
 usage in our language today, one can hardly discuss sociopathy without
 first discussing psychopathy as the terms are "virtually synonymous"[^6] and the
@@ -27,11 +44,6 @@ the difference in their definitions, we must first explore the history of the
 terms themselves.
 
 [^6]: Graham Richards, _Psychology: Key Concepts,_ (Oxon: Routledge, 2009), 200.
-
-- toc
-{:toc}
-
-## I. _The History_
 
 Attempting to start at the beginning has its problems as
 it may be difficult to determine the exact point at which people began to define
@@ -631,6 +643,33 @@ to as "primary" and "secondary" psychopaths respectively[^65].
        patients: assessment, prevalence, predictive validity, and clinical
        implications][54]_ (Amsterdam: Dutch University Press, 2004), 8.
 
+<div class="pullquote image">
+    <img src="/assets/img/assholes/cleckley.jpg" style="width:100%;"
+        alt="Portrait of Hervey M. Cleckley">
+    A very low-quality portrait of Hervey M. Cleckley; if he wanted to be
+    represented in higher quality he should have done higher quality research.
+    <br>
+    <i>Source:
+        <a href="https://www.augusta.edu/library/greenblatt/archives/findaid/cleckley/hcleckley.htm">
+            Augusta University Library</a>.
+    </i>
+</div>
+
+1941 also saw the publication of [Hervey M. Cleckley][58]'s _The Mask of Sanity:
+An Attempt to Clarify Some Issues About the So-Called Psychopathic Personality_,
+which was his attempt to "clarify" some issues he saw with people's ideas of the
+"psychopathic personality." Because of the influence of this book, Cleckley is
+often described as the pioneer of the modern (primarily mid to late
+20<sup>th</sup> century) conception of psychopathy[^9]<sup>,</sup>[^15]. Like
+Schneider and Birnbaum, Cleckley did not believe that psychopaths were
+universally criminal, and could often be found filling roles of great importance
+and power[^71].
+
+[^15]: Diane Kratz, "[Ever Wonder What the Difference Between a Sociopath and
+       Psychopath?,][12]" Profiles of Murder, accessed Sep. 28, 2018.
+
+[^71]: Millon et al., "Historical Conceptions...," 19.
+
 While plenty of the aforementioned figures had mentioned the "sexual deviants,"
 they had merely included such a category in a wider context of what is
 effectively the classification of various criminal behaviors. Starting in the
@@ -663,27 +702,6 @@ presented in this work.
        the Queer Criminal_, had Karpman going so far as to state that
        professional fighting was indicative of _latent homosexuality_ as it
        included a man pounding other men.
-
-<div class="pullquote image">
-    <img src="/assets/img/assholes/cleckley.jpg" style="width:100%;"
-        alt="Portrait of Hervey M. Cleckley">
-    A very low-quality portrait of Hervey M. Cleckley; if he wanted to be
-    represented in higher quality he should have done higher quality research.
-    <br>
-    <i>Source:
-        <a href="https://www.augusta.edu/library/greenblatt/archives/findaid/cleckley/hcleckley.htm">
-            Augusta University Library</a>.
-    </i>
-</div>
-
-**Hervey M. Cleckley**
-
-Hervey M. Cleckley is often described as the pioneer of the modern (primarily
-mid to late 20<sup>th</sup> century) conception of
-psychopathy[^9]<sup>,</sup>[^15].
-
-[^15]: Diane Kratz, "[Ever Wonder What the Difference Between a Sociopath and
-       Psychopath?,][12]" Profiles of Murder, accessed Sep. 28, 2018.
 
 By the late '80s, the denotation of "sexual psychopath" had lost favor, as is
 evident by this comment in the 5<sup>th</sup> edition of Cleckley's _Mask of
@@ -777,13 +795,19 @@ Descriptions of psychopathy:
 
 ## III. _The Pseudo-Sciences_
 
-**Phrenology**
+Earlier sections relied to various extents on the assumption that the reader is
+aware of what an assortment of outdated and pseudo-scientific fields entailed as
+well as the issues with said fields; this section then exists to clarify any
+confusion that would have resulted in the case of these assumptions being
+untrue.
 
-**Degeneration**
+### Phrenology
 
-**Physiognomy (/Craniography)**
+### Degeneration Theory
 
-**Criminology**
+### Physiognomy and Craniography
+
+### Criminology
 
 While it may be philosophically a valid position to view law as objective and
 thus assumed to necessarily exist, doing so would be at odds with the
@@ -855,7 +879,7 @@ $$
 \mathfrak{We}\;\mathfrak{Live}\;\mathfrak{in}\;\mathfrak{a}\;\mathfrak{Society.}
 $$
 
-## V. Further Reading
+## Further Reading
 
  - Jarkko Jalava, "[Science of conscience: Metaphysics, morality, and
    rhetoric in psychopathy research,][18]" Ph.D. Dissertation, Simon Fraser
@@ -866,7 +890,7 @@ $$
    _Psychopathy: Antisocial, Criminal, and Violent Behavior,_ ed. Theodore
    Millon, et al. (New York: The Guilford Press, 1998).
 
-## VI. Bibliography
+## Bibliography
 
 - James Blair, Derek Mitchell, and Karina Blair, [_The Psychopath: Emotion
   and the Brain_][7]<sup>[alt][8]</sup>, (Oxford: Blackwell, 2005), 1.
@@ -917,7 +941,7 @@ $$
 
 - ["socio-,"][3] Wiktionary, accessed Sep. 27, 2018.
 
-## VII. Footnotes
+## Footnotes
 
 [1]: https://www.psychologytoday.com/us/basics/sociopathy
 [2]: https://www.psychologytoday.com/us/blog/evil-deeds/201707/is-it-narcissism-or-sociopathy
@@ -976,3 +1000,4 @@ $$
 [55]: https://scholarlycommons.law.northwestern.edu/cgi/viewcontent.cgi?article=3893&context=jclc
 [56]: https://www.minnpost.com/mental-health-addiction/2017/06/once-landfill-bound-u-m-s-benjamin-karpman-papers-are-treasure-trove/
 [57]: https://books.google.com/books?id=z5Y6DwAAQBAJ&pg=PT102&lpg=PT102&dq=karpman+(1886-1962)&source=bl&ots=4kNh-dwuZy&sig=0lQlpZtKiWwGU4JGihJTMn7ONL4&hl=en&sa=X&ved=2ahUKEwj0ndbw2vHdAhVJyoMKHVprDD4Q6AEwA3oECAYQAQ#v=onepage&q=karpman%20(1886-1962)&f=false
+[58]: https://en.wikipedia.org/wiki/Hervey_M._Cleckley
