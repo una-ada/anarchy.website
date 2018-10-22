@@ -6,7 +6,8 @@ layout: post
 license: BY-SA
 tags: >
     history mental-illness psychology criminology psychiatry eugenics nosology
-    epidemiology penology etiology pseudo-science teleology
+    epidemiology penology etiology pseudo-science teleology homophobia bigotry
+    transphobia
 title: Psychopathy, Sociopathy, & Demonization
 ---
 
@@ -19,6 +20,18 @@ persons, gay and/or transgender persons, and possibly others not listed here.**
 **\[CW/TW: homophobia, transphobia, ableism, bigotry, eugenics, nazism\]**
 
 ## Foreword
+
+Through discussion of the concept, it became clear that we would benefit from a
+more thorough work to which we could refer, one that would contain citations and
+explanations so as to avoid the confusion and misunderstanding that plagues most
+discussions on the internet. And so, with the encouragement of
+[@CheechGuevara][59], I spent nearly the entirety of Vendémiaire CCXXVII[^79]
+researching this topic to ensure that this essay thoroughly describes the
+tumultuous history of the terms psychopath and sociopath, as well as the issues
+with its current conception.
+
+[^79]: I started writing this on 6 Vendémiaire CCXXVII, based on the [equinox
+       method][60] for handling leap years on the Republican Calendar.
 
 Thanks to the group chats currently or formerly known as "Sinking
 Barge🚢🌊⚓️suicide🔪cult🕯#GangGang", "𝕲𝖊𝖘𝖊𝖑𝖑𝖘𝖈𝖍𝖆𝖋𝖙𝖘𝖋𝖊𝖎𝖓𝖉𝖊 𝕲𝖆𝖓𝖌", and
@@ -662,13 +675,93 @@ which was his attempt to "clarify" some issues he saw with people's ideas of the
 often described as the pioneer of the modern (primarily mid to late
 20<sup>th</sup> century) conception of psychopathy[^9]<sup>,</sup>[^15]. Like
 Schneider and Birnbaum, Cleckley did not believe that psychopaths were
-universally criminal, and could often be found filling roles of great importance
-and power[^71].
+universally criminal and could often be found filling roles of great importance
+and power[^71]; he further aligned with Schneider in his attempts to create a
+clinical definition of psychopathy, one that could be used separate from
+theories of its origin[^72].
 
 [^15]: Diane Kratz, "[Ever Wonder What the Difference Between a Sociopath and
        Psychopath?,][12]" Profiles of Murder, accessed Sep. 28, 2018.
 
 [^71]: Millon et al., "Historical Conceptions...," 19.
+
+[^72]: Hildebrand, _Psychopathy..._, 6.
+
+Rather than categorization of various sorts of psychopaths, the focus of
+Cleckley's work was on the creation of a set of criteria by which a psychopath
+could be diagnosed[^72]. It is because of his work on such a definition and its
+similarity to how we define mental illnesses today that Cleckley is regarded so
+highly (as stated earlier). There were 16 criteria in his definition[^74], the
+first nine of which were "key features" and the latter seven were "other"[^73]:
+
+[^74]: Hervey M. Cleckley, _The Mask of Sanity_ 5<sup>th</sup> edition (1988),
+       338.
+
+[^73]: This is the language used by Hildebrand, who cites Andrews and Bonta's
+       _The psychology of criminal conduct_ 3<sup>rd</sup> ed. as its origin.
+       This list has also been rearranged to match the order used by Hildebrand
+       (on page 6) for the purposes of this categorization.
+
+1. Unresponsive in general interpersonal relations
+2. Superficial charm and good "intelligence"[^75]
+3. Absence of delusions and other signs of irrational thinking
+4. Absence of "nervousness" or other neurotic manifestations
+5. Lack of remorse or shame
+6. Poor judgment and failure to learn from experience
+7. Pathological egocentricity and incapacity for love
+8. General poverty in major affective reactions
+9. Inadequately motivated antisocial behavior
+10. Impersonal, trivial, and poorly integrated sex life
+11. Unreliability
+12. Failure to follow any life plan
+13. Untruthfulness and insincerity
+14. Suicide rarely carried out
+15. Specific loss of insight
+16. Fantastic and uninviting behavior with drink and sometimes without
+
+[^75]: The quotation marks around "intelligence" are present in Cleckley's _Mask
+       of Sanity_ 5<sup>th</sup> ed. but not in Hildebrand's retelling of it.
+
+One may readily notice that many of those items categorized as "other features"
+are nearly universally applicable depending on interpretation. Ideas like
+unreliability and loss of insight point to the retention of the biases found in
+many of the earlier attempts at definitions; they (even when accounting for the
+further discussion offered in Cleckley's work[^76]<sup>,</sup>[^77]) fail to
+describe anything significantly deviant from the norm but rather describe
+arbitrarily more extreme forms of biases or issues any given person is likely to
+experience. Unreliability can be seen as simply a lack of motivation, something
+that is heavily dependent on the specific situation, and while Cleckley attempts
+to distinguish this as a form of unreliability that neglects even the strongest
+social obligation[^76] it remains true that there is virtually no means by which
+to guarantee without a doubt someone remains motivated to any cause. The latter
+example, specific loss of insight, is also described in a way that may bear some
+distinction from the norm, but only so long as one does not understand that
+there is no universal or objective perspective and so one's inability to see
+from the perspective of those around them is not necessarily so deviant as to be
+considered a disorder. Of course, these are merely two examples out of the list
+of 16, but the same general critique applies to nearly all the others; though
+such a harsh analysis could be easily applied to any clinical definition, the
+point here remains that these were not derived in a vacuum, but rather off the
+back of the aforementioned works of Kahn[^78], which were in turn derived from
+those of Schneider and Krapelin, and so the flimsiness of the definitions is not
+so certainly merely due to the requirements of such definitions to be so.
+
+[^76]: Cleckley, _The Mask of Sanity_, 340.
+
+[^77]: Cleckley, _The Mask of Sanity_, 350.
+
+[^78]: Cleckley, _The Mask of Sanity_, 234.
+
+It is important to realize at this point that the efforts from hereon in the
+20<sup>th</sup> century were not to reevaluate the concept of psychopathy from a
+new clinical and scientific perspective but to reestablish already existing
+ideas as both clinical and scientific. The distinction here is that rather than
+purging all previous notions and exploring the fundamentals of a perceived
+problem through scientific means, what was done was at best a meta-study of said
+previous notions that was then translated into a format commonly used in
+clinical contexts. That is to say that rather than exploring the origin of what
+would be seen as psychopathy in a patient, these new definitions would continue
+to represent an arbitrary set of "antisocial" behaviors labeled as symptoms.
 
 While plenty of the aforementioned figures had mentioned the "sexual deviants,"
 they had merely included such a category in a wider context of what is
@@ -700,7 +793,7 @@ presented in this work.
 
 [^69]: One particularly intriguing example of this, as described in _The Myth of
        the Queer Criminal_, had Karpman going so far as to state that
-       professional fighting was indicative of _latent homosexuality_ as it
+       professional fighting was indicative of "latent homosexuality" as it
        included a man pounding other men.
 
 By the late '80s, the denotation of "sexual psychopath" had lost favor, as is
@@ -716,8 +809,7 @@ Sanity_:
   years before and after the initial publication of the_ Mask of Sanity _this
   custom had authoritative sanction in our nomenclature._[^7]"
 
-[^7]: Hervey M. Cleckley, _The Mask of Sanity_ 5<sup>th</sup> edition (1988),
-      286.
+[^7]: Cleckley, _The Mask of Sanity_, 286.
 
 **Erich Fromm**
 
@@ -875,9 +967,7 @@ diagnosis.
 The past is soaked in blood, to simply reach into it and pull a chunk out for
 your own purposes will end in nothing but soaking your hands as well.
 
-$$
-\mathfrak{We}\;\mathfrak{Live}\;\mathfrak{in}\;\mathfrak{a}\;\mathfrak{Society.}
-$$
+<center>𝖂𝖊 𝕷𝖎𝖛𝖊 𝖎𝖓 𝖆 𝕾𝖔𝖈𝖎𝖊𝖙𝖞</center>
 
 ## Further Reading
 
@@ -893,13 +983,12 @@ $$
 ## Bibliography
 
 - James Blair, Derek Mitchell, and Karina Blair, [_The Psychopath: Emotion
-  and the Brain_][7]<sup>[alt][8]</sup>, (Oxford: Blackwell, 2005), 1.
+  and the Brain_][7]<sup>[alt][8]</sup>, (Oxford: Blackwell, 2005).
 
 - Murray Bookchin, "[The Meaning of Confederalism,][14]" _Green
   Perspectives_ 20 (1990).
 
-- Hervey M. Cleckley, _The Mask of Sanity_ 5<sup>th</sup> edition (1988),
-  286.
+- Hervey M. Cleckley, _The Mask of Sanity_ 5<sup>th</sup> edition (1988).
 
 - Timothy O. Davis, PhD, "[Conceptualizing Psychiatric Disorders Using
   "Four D's" of Diagnoses,][11]" _Internet Journal of Psychiatry_ 1, 1
@@ -931,11 +1020,11 @@ $$
 - Theodore Millon, Erik Simonsen, and Morten Birket-Smith, "[Historical
   Conceptions of Psychopathy in the United States and Europe,][9]" in
   _Psychopathy: Antisocial, Criminal, and Violent Behavior,_ ed. Theodore
-  Millon, et al. (New York: The Guilford Press, 1998), 3.
+  Millon, et al. (New York: The Guilford Press, 1998).
 
 - ["Sociopathy,"][1] Psychology Today, accessed Sep. 27, 2018.
 
-- Graham Richards, _Psychology: Key Concepts,_ (Oxon: Routledge, 2009), 200.
+- Graham Richards, _Psychology: Key Concepts,_ (Oxon: Routledge, 2009).
 
 - ["-path,"][4] Wiktionary, accessed Sep. 27, 2018.
 
@@ -1001,3 +1090,5 @@ $$
 [56]: https://www.minnpost.com/mental-health-addiction/2017/06/once-landfill-bound-u-m-s-benjamin-karpman-papers-are-treasure-trove/
 [57]: https://books.google.com/books?id=z5Y6DwAAQBAJ&pg=PT102&lpg=PT102&dq=karpman+(1886-1962)&source=bl&ots=4kNh-dwuZy&sig=0lQlpZtKiWwGU4JGihJTMn7ONL4&hl=en&sa=X&ved=2ahUKEwj0ndbw2vHdAhVJyoMKHVprDD4Q6AEwA3oECAYQAQ#v=onepage&q=karpman%20(1886-1962)&f=false
 [58]: https://en.wikipedia.org/wiki/Hervey_M._Cleckley
+[59]: https://twitter.com/CheechGuevara
+[60]: https://en.wikipedia.org/wiki/French_Republican_Calendar#Converting_from_the_Gregorian_Calendar
