@@ -19,16 +19,39 @@ persons, gay and/or transgender persons, and possibly others not listed here.**
 
 **\[CW/TW: homophobia, transphobia, ableism, bigotry, eugenics, nazism\]**
 
+- toc
+{:toc}
+
 ## Foreword
+
+There exists a tendency in a major portion of our modern speech and language in
+general to uphold oneself in contrast to some general group considered to be
+inferior. This is commonly referred to as "punching down" and we see it in terms
+such as "lame" or "dumb" being used as insults. To a further extent we see the
+concept of (general) intelligence used as a basis for many of these, see
+"stupid," "moron," and "imbecile" for example. A lot of this is more cultural
+and abstract than any sort of direct denotation, people merely call others these
+terms as a means of brushing them off as intellectually inferior without any
+further thought. However, at the end of this abstract concept we find terms like
+"retarded" where people are much more willing to delve into an actual definition
+of the word to further their attempt at insult, they'll double down and explain
+that they are calling the person "slow" or "intellectually underdeveloped." This
+is not to say that this never happens with the previous terms, but that it would
+typically only happen with said terms in obscure edge cases rather than your
+regular conversation. What we can determine from this is that people are in many
+cases simultaneously attempting to harm someone with an immediate insult and
+trying to establish an analysis by which to justify the insult. We see this more
+cogently in the terms that are the focus of this work: "sociopath" and
+"psychopath."
 
 Through discussion of the concept, it became clear that we would benefit from a
 more thorough work to which we could refer, one that would contain citations and
 explanations so as to avoid the confusion and misunderstanding that plagues most
 discussions on the internet. And so, with the encouragement of
 [@CheechGuevara][59], I spent nearly the entirety of Vendémiaire CCXXVII[^79]
-researching this topic to ensure that this essay thoroughly describes the
-tumultuous history of the terms psychopath and sociopath, as well as the issues
-with its current conception.
+(and a sadly considerable bit of Brumaire as well) researching this topic to
+ensure that this essay thoroughly describes the tumultuous history of the terms
+psychopath and sociopath, as well as the issues with its current conception.
 
 [^79]: I started writing this on 6 Vendémiaire CCXXVII, based on the [equinox
        method][60] for handling leap years on the Republican Calendar.
@@ -42,9 +65,6 @@ constant complaints while researching this topic.
        older versions of ⛽ on iOS had a "G" on the center of the pump that was
        later replaced with a drop of oil and is completely non-standard across
        other emoji fonts.
-
-- toc
-{:toc}
 
 ## I. _The History_
 
@@ -743,8 +763,8 @@ of 16, but the same general critique applies to nearly all the others; though
 such a harsh analysis could be easily applied to any clinical definition, the
 point here remains that these were not derived in a vacuum, but rather off the
 back of the aforementioned works of Kahn[^78], which were in turn derived from
-those of Schneider and Krapelin, and so the flimsiness of the definitions is not
-so certainly merely due to the requirements of such definitions to be so.
+those of Schneider and Kraepelin, and so the flimsiness of the definitions is
+not so certainly merely due to the requirements of such definitions to be so.
 
 [^76]: Cleckley, _The Mask of Sanity_, 340.
 
@@ -762,6 +782,8 @@ previous notions that was then translated into a format commonly used in
 clinical contexts. That is to say that rather than exploring the origin of what
 would be seen as psychopathy in a patient, these new definitions would continue
 to represent an arbitrary set of "antisocial" behaviors labeled as symptoms.
+
+**Cleckley's discussion of sexuality**
 
 While plenty of the aforementioned figures had mentioned the "sexual deviants,"
 they had merely included such a category in a wider context of what is
@@ -796,6 +818,8 @@ presented in this work.
        professional fighting was indicative of "latent homosexuality" as it
        included a man pounding other men.
 
+**Karpman's "sexual psychopathy"**
+
 By the late '80s, the denotation of "sexual psychopath" had lost favor, as is
 evident by this comment in the 5<sup>th</sup> edition of Cleckley's _Mask of
 Sanity_:
@@ -812,6 +836,8 @@ Sanity_:
 [^7]: Cleckley, _The Mask of Sanity_, 286.
 
 **Erich Fromm**
+
+### The Psychopathy Checklist in the Late 20th Century
 
 **Hare**
 
@@ -967,7 +993,7 @@ diagnosis.
 The past is soaked in blood, to simply reach into it and pull a chunk out for
 your own purposes will end in nothing but soaking your hands as well.
 
-<center>𝖂𝖊 𝕷𝖎𝖛𝖊 𝖎𝖓 𝖆 𝕾𝖔𝖈𝖎𝖊𝖙𝖞</center>
+<p><center>𝖂𝖊 𝕷𝖎𝖛𝖊 𝖎𝖓 𝖆 𝕾𝖔𝖈𝖎𝖊𝖙𝖞</center></p>
 
 ## Further Reading
 
