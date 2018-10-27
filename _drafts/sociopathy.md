@@ -22,7 +22,7 @@ persons, gay and/or transgender persons, and possibly others not listed here.**
 - toc
 {:toc}
 
-## Foreword
+## Introduction
 
 There exists a tendency in a major portion of our modern speech and language in
 general to uphold oneself in contrast to some general group considered to be
@@ -44,6 +44,12 @@ trying to establish an analysis by which to justify the insult. We see this more
 cogently in the terms that are the focus of this work: "sociopath" and
 "psychopath."
 
+<https://twitter.com/shanedawson/status/1047998909648265216>
+
+<https://twitter.com/shanedawson/status/1048000170053459969>
+
+<https://twitter.com/shanedawson/status/1048000624145485824>
+
 Through discussion of the concept, it became clear that we would benefit from a
 more thorough work to which we could refer, one that would contain citations and
 explanations so as to avoid the confusion and misunderstanding that plagues most
@@ -57,14 +63,20 @@ psychopath and sociopath, as well as the issues with its current conception.
        method][60] for handling leap years on the Republican Calendar.
 
 Thanks to the group chats currently or formerly known as "Sinking
-Barge🚢🌊⚓️suicide🔪cult🕯#GangGang", "𝕲𝖊𝖘𝖊𝖑𝖑𝖘𝖈𝖍𝖆𝖋𝖙𝖘𝖋𝖊𝖎𝖓𝖉𝖊 𝕲𝖆𝖓𝖌", and
-"ＳＰＡＣＥ ＡＮＡＲＣＨＩＳＴ ⛽🅰️🆖⛽🅰️🆖"[^70] for putting up with my
-constant complaints while researching this topic.
+Barge🚢🌊⚓️suicide🔪cult🕯[#GangGang][61]", "𝕲𝖊𝖘𝖊𝖑𝖑𝖘𝖈𝖍𝖆𝖋𝖙𝖘𝖋𝖊𝖎𝖓𝖉𝖊
+𝕲𝖆𝖓𝖌"[^80], and "ＳＰＡＣＥ ＡＮＡＲＣＨＩＳＴ ⛽🅰️🆖⛽🅰️🆖"[^70] for putting up
+with my constant complaints while researching this topic.
 
 [^70]: For those yet unaware, the emoji combination "⛽🅰️🆖" is read as "gang,"
        older versions of ⛽ on iOS had a "G" on the center of the pump that was
        later replaced with a drop of oil and is completely non-standard across
        other emoji fonts.
+
+[^80]: The "Gesellschaftsfeinde" in the name of this group was directly inspired
+       by my research during the writing of this work and is an ironic embrace
+       of the concept of "antisocial" (here being literally translated as "enemy
+       of society") given that the group is comprised of members who themselves
+       have a variety of critiques of the modern incarnation(s) of society.
 
 ## I. _The History_
 
@@ -284,16 +296,16 @@ harsh derogatory connotation.
 
 An alternative framing of psychopathy was provided by [Emil Kraepelin][31] in
 his work _Psychiatry: A Textbook_ (_Psychiatrie: Ein Lehrbuch_)[^34], in which
-he asserted the idea of "psychopathic personalities." This conception maintained
-the notion that personality disorders (psychopathy specifically here) originate
-from constitutional "defects" and therefore their symptoms are permanently a
-part of the affected person from birth, though Kraepelin focused much of his
-efforts on socio- and psychogenic forms of degeneracy. As a politically active
-psychiatrist, Kraepelin not only studied the causes of what he deemed to be
-issues in society (in his case the German _Volk_) but proposed solutions as
-well. These primarily took the form of education, prohibition, improving living
-conditions, helping the poor, and... "reasonable policies of racial hygiene"
-(_verständige Rassenhygiene_)[^37].
+he asserted the idea of "psychopathic personalities"[^41]. This conception
+maintained the notion that personality disorders (psychopathy specifically here)
+originate from constitutional "defects" and therefore their symptoms are
+permanently a part of the affected person from birth, though Kraepelin focused
+much of his efforts on socio- and psychogenic forms of degeneracy. As a
+politically active psychiatrist, Kraepelin not only studied the causes of what
+he deemed to be issues in society (in his case the German _Volk_) but proposed
+solutions as well. These primarily took the form of education, prohibition,
+improving living conditions, helping the poor, and... "reasonable policies of
+racial hygiene" (_verständige Rassenhygiene_)[^37].
 
 [^41]: Millon et al., "Historical Conceptions...," 9.
 
@@ -951,7 +963,7 @@ wrote[^18]:
    divinity. The historical hero of the schoolroom is the man who obeys the law,
    and defends it against rebels._"
 
-In the words of Murray Bookchin "[t]he assumption that what currently exists
+In the words of Murray Bookchin, "[t]he assumption that what currently exists
 must necessarily exist is the acid that corrodes all visionary thinking[^17]."
 
 [^17]: Murray Bookchin, "[The Meaning of Confederalism,][14]" _Green
@@ -1118,3 +1130,4 @@ your own purposes will end in nothing but soaking your hands as well.
 [58]: https://en.wikipedia.org/wiki/Hervey_M._Cleckley
 [59]: https://twitter.com/CheechGuevara
 [60]: https://en.wikipedia.org/wiki/French_Republican_Calendar#Converting_from_the_Gregorian_Calendar
+[61]: https://twitter.com/search?q=%23GangGang
