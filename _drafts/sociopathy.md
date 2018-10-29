@@ -24,8 +24,8 @@ persons, gay and/or transgender persons, and possibly others not listed here.**
 
 ## Introduction
 
-There exists a tendency in a major portion of our modern speech and language in
-general to uphold oneself in contrast to some general group considered to be
+There exists a tendency in a major portion of our modern speech, and language in
+general, to uphold oneself in contrast to some general group considered to be
 inferior. This is commonly referred to as "punching down" and we see it in terms
 such as "lame" or "dumb" being used as insults. To a further extent we see the
 concept of (general) intelligence used as a basis for many of these, see
@@ -43,6 +43,52 @@ cases simultaneously attempting to harm someone with an immediate insult and
 trying to establish an analysis by which to justify the insult. We see this more
 cogently in the terms that are the focus of this work: "sociopath" and
 "psychopath."
+
+As opposed to many of the aforementioned examples, "sociopath" and "psychopath"
+are unique in that they also represent a conceptual issue in the popular
+perceptions of psychiatric work. This is, of course, not unique to these terms,
+this trivialization of mental illness that we see in plenty of other places.
+What should draw our attention here is that while many other examples of this
+trivialization are primarily used as a sort of self diagnosis (such as claiming
+one's self to have clinical depression due to a period of lost motivation or to
+have an anxiety disorder due to an unwillingness to speak in front of crowds),
+these terms are more typically used to diagnose others. In its most extreme we
+see this concept manifested in news media, be it about criminals or
+politicians[^81]. See, for example, a recent [Huffington Post][62] article[^82]
+titled "Twitter Explodes After 'Psychopath' Donald Trump Cheers Body-Slamming
+of Reporter," where the term "psychopath" is mirrored from a tweet quoted within
+the content of the article, but nonetheless is used to call a politician a
+psychopath based on publicly displayed views or actions.
+
+[^81]: "Politicians are criminals though, so that's redundant" &mdash; Mark
+       Twain, probably.
+
+[^82]: Lee Morgan, "[Twitter Explodes After 'Psychopath' Donald Trump Cheers
+       Body-Slamming of Reporter,][63]" Huffington Post, Oct. 19, 2018.
+
+       This is really just a single example I'd noticed, there are plenty more
+       similar examples of people calling a number of politicians "psychopaths,"
+       but the effort required to compile them outweighs the amount it would add
+       to this work as a whole.
+
+However, at the time of writing this, the most likely place you'll find either
+of the topical terms is a number of articles pertaining to [Shane Dawson][64]'s
+recent documentary series on the [YouTube][65] platform: [_The Mind of Jake
+Paul_][66][^83].
+
+[^83]: Shane Dawson, [_The Mind of Jake Paul_][66], YouTube, 2018
+
+The language discussed here is always an issue, something that comes up quite
+often (especially around the time of mass shootings here in the U.S. when many
+are compelled to immediately attribute the actions to mental illness[^84]), and
+I've personally attempted to make the issues with it clear to those around me
+but the publication of this documentary series by such a high profile content
+creator brought about a new and potent wave of discourse around it.
+
+[^84]: This particular phenomenon, that of the tragedies uniquely common to the
+       United States being attributed to mental conditions supposedly
+       universally common, deserves an entire discussion of its own and will not
+       be discussed at any length here.
 
 <https://twitter.com/shanedawson/status/1047998909648265216>
 
@@ -1131,3 +1177,8 @@ your own purposes will end in nothing but soaking your hands as well.
 [59]: https://twitter.com/CheechGuevara
 [60]: https://en.wikipedia.org/wiki/French_Republican_Calendar#Converting_from_the_Gregorian_Calendar
 [61]: https://twitter.com/search?q=%23GangGang
+[62]: https://www.huffingtonpost.com
+[63]: https://www.huffingtonpost.com/entry/twitter-explodes-after-psychopath-donald-trump-cheers-body-slamming-of-reporter_us_5bc9784ae4b0d38b5876a464
+[64]: https://en.wikipedia.org/wiki/Shane_Dawson
+[65]: https://www.youtube.com
+[66]: https://www.youtube.com/watch?v=9bpkr91p2xY&list=PLDs0tNoNYTz1P3dO8m5Wdv0WE2lPTQSJm
