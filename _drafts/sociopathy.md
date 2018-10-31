@@ -78,6 +78,21 @@ Paul_][66][^83].
 
 [^83]: Shane Dawson, [_The Mind of Jake Paul_][66], YouTube, 2018
 
+For the sake of argument and the establishment of context we'll quickly go over
+some of the issues present in this documentary series; before doing so I,
+reluctantly, recommend you watch at least the first two parts of the series
+([link here][66]) to ensure that the points therein are properly represented
+here and to understand the further context. With the due diligence done, we can
+discuss the work more or less point by point.
+
+
+
+<https://twitter.com/shanedawson/status/1047998909648265216>
+
+<https://twitter.com/shanedawson/status/1048000170053459969>
+
+<https://twitter.com/shanedawson/status/1048000624145485824>
+
 The language discussed here is always an issue, something that comes up quite
 often (especially around the time of mass shootings here in the U.S. when many
 are compelled to immediately attribute the actions to mental illness[^84]), and
@@ -89,12 +104,6 @@ creator brought about a new and potent wave of discourse around it.
        United States being attributed to mental conditions supposedly
        universally common, deserves an entire discussion of its own and will not
        be discussed at any length here.
-
-<https://twitter.com/shanedawson/status/1047998909648265216>
-
-<https://twitter.com/shanedawson/status/1048000170053459969>
-
-<https://twitter.com/shanedawson/status/1048000624145485824>
 
 Through discussion of the concept, it became clear that we would benefit from a
 more thorough work to which we could refer, one that would contain citations and
@@ -113,10 +122,10 @@ Barge🚢🌊⚓️suicide🔪cult🕯[#GangGang][61]", "𝕲𝖊𝖘𝖊𝖑�
 𝕲𝖆𝖓𝖌"[^80], and "ＳＰＡＣＥ ＡＮＡＲＣＨＩＳＴ ⛽🅰️🆖⛽🅰️🆖"[^70] for putting up
 with my constant complaints while researching this topic.
 
-[^70]: For those yet unaware, the emoji combination "⛽🅰️🆖" is read as "gang,"
-       older versions of ⛽ on iOS had a "G" on the center of the pump that was
-       later replaced with a drop of oil and is completely non-standard across
-       other emoji fonts.
+[^70]: For those yet unaware (\*cough \*cough Nathan), the emoji combination
+       "⛽🅰️🆖" is read as "gang," older versions of ⛽ on iOS had a "G" on the
+       center of the pump that was later replaced with a drop of oil and is
+       completely non-standard across other emoji fonts.
 
 [^80]: The "Gesellschaftsfeinde" in the name of this group was directly inspired
        by my research during the writing of this work and is an ironic embrace
@@ -504,9 +513,9 @@ to case suffering in society, Schneider suggested work be done to study the
 whole category of "abnormal personalities," but the very act of drawing said
 line served to keep focus on the "psychopathic" group within it[^50].
 
-[^49]: Richard F. Wetzell, _Inventing the Criminal_, 247.
+[^49]: Wetzell, _Inventing the Criminal_, 247.
 
-[^50]: Richard F. Wetzell, _Inventing the Criminal_, 249.
+[^50]: Wetzell, _Inventing the Criminal_, 249.
 
 On the question of constitutionality of these personalities, Schneider fell in
 line with many of the developments that preceded him. While he agreed that
@@ -559,7 +568,7 @@ Birnbaum believed that there was such a link, regardless of how little
 statistical backing there was at the time, and thus aimed to explain said link;
 he did so by defining three deficiencies in psychopaths[^52]:
 
-[^52]: Richard F. Wetzell, _Inventing the Criminal_, 252.
+[^52]: Wetzell, _Inventing the Criminal_, 252.
 
 1. reactions disproportionate to stimuli,
 2. traits not harmonized,
@@ -675,7 +684,7 @@ gave a simple classification in four groups[^59]:
 His analytical inventory is then given as three groups with several subgroups as
 "quantitative deviations"[^61]:
 
-[^61]: D. K. Henderson, _Psychopathic States_, 22.
+[^61]: Henderson, _Psychopathic States_, 22.
 
 1. impulsive, similar to the _Triebmenschen_ group defined by Kraepelin and
    specifically including "sex variants" such as masturbation, homosexuality,
@@ -702,9 +711,9 @@ that isn't meaningfully distinguishable from Schneider's list[^62]. Henderson
 himself proposed a categorization of psychopathic personalities into three
 non-exclusive groups in his 1939 work[^57]:
 
-[^62]: D. K. Henderson, _Psychopathic States_, 23.
+[^62]: Henderson, _Psychopathic States_, 23.
 
-[^57]: D. K. Henderson, _Psychopathic States_, 38.
+[^57]: Henderson, _Psychopathic States_, 38.
 
 1. Predominantly aggressive.
 2. Predominantly passive or inadequate.
