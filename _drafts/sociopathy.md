@@ -167,16 +167,10 @@ Unscrupulous Man"[^11], sometimes also called "The Shameless Man"[^29]:
   a soup-bone. If he succeeds, so much the better; if not, he will snatch a
   piece of tripe and go off laughing._"
 
-  <div class="pullquote image left">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Teofrasto_Orto_botanico_detail.jpg">
-      Statue of Theophrastus (Detail)
-      <br>
-      <i>Source:
-          <a href="https://commons.wikimedia.org/wiki/File:Teofrasto_Orto_botanico_detail.jpg">
-              Wikimedia Commons</a>, original photo by
-          <a href="https://commons.wikimedia.org/wiki/User:Esculapio/gallery">tato grasso</a>.
-      </i>
-  </div>
+![Statue of Theophrastus][77]
+Statue of Theophrastus (Detail)<br>_Source: [Wikimedia Commons][78], original
+photo by [tato grasso][79]._
+{: .pullquote .image .left}
 
 This example, however, points to what turns out to be a constant issue with
 ideas of psychopathy (and later sociopathy) in that it frames crime as
@@ -248,13 +242,9 @@ discussed (along with physiognomy and craniography) in
 
 [^19]: Millon et al., "Historical Conceptions...," 5.
 
-<div class="pullquote image">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Henry_Maudsley.jpg">
-    Henry Maudsley<br>
-    <i>Source:
-        <a href="https://commons.wikimedia.org/wiki/File:Henry_Maudsley.jpg">
-            Wikimedia Commons</a>.</i>
-</div>
+![Portrait of Henry Maudsley][75]
+Henry Maudsley<br>_Source: [Wikimedia Commons][76]._
+{: .pullquote .image}
 
 [Henry Maudsley][41], unlike Tuke, continued along the path carved out by
 Prichard rather than attempting to return to the intentions of Pinel, with ideas
@@ -341,13 +331,9 @@ distinction came to the forefront as [Adolf Meyer][30] proposed the concept of
 a descriptor as "inferior," despite its purely clinical intentions, gained a
 harsh derogatory connotation.
 
-<div class="pullquote image left">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/E._Kraepelin.jpg">
-    Emil Kraepelin<br>
-    <i>Source:
-        <a href="https://commons.wikimedia.org/wiki/File:E._Kraepelin.jpg">
-            Wikimedia Commons</a>.</i>
-</div>
+![Portrait of Emil Kraepelin][73]
+Emil Kraepelin<br>_Source: [Wikimedia Commons][74]._
+{: .pullquote .image .left}
 
 An alternative framing of psychopathy was provided by [Emil Kraepelin][31] in
 his work _Psychiatry: A Textbook_ (_Psychiatrie: Ein Lehrbuch_)[^34], in which
@@ -455,15 +441,10 @@ positions, or being an anti-Semite[^35], but I digress[^40].
 <!-- I'm certainly having fun writing this, everyone's a fucking Nazi and they
      want me dead, it's invigorating! -->
 
-<div class="pullquote image">
-    <img src="/assets/img/assholes/schneider.jpg">
-    Kurt Schneider
-    <br>
-    <i>Source:
-        <a href="https://www.uni-ulm.de/med/med-medgeschichte/forschung/drittmittelprojekte/kurt-schneiders-1887-1967-korrespondenzen/">
-            Universität Ulm / Institut für Geschichte, Theorie und Ethik der
-            Medizin</a>.</i>
-</div>
+![Portrait of Kurt Schneider][71]
+Kurt Schneider<br>_Source: [Universität Ulm / Institut für Geschichte, Theorie
+und Ethik der Medizin][72]._
+{: .pullquote .image}
 
 Attempts were made to separate the clinical notion of psychopathy from the value
 judgements imposed on it by the likes of Koch and Kraepelin, primarily by [Kurt
@@ -585,14 +566,9 @@ well. These tenuous sorts of connections were, according to him, the reason why
 not all psychopaths were criminals, but were merely at higher risk of becoming
 as such[^52].
 
-<div class="pullquote image left">
-    <img src="/assets/img/assholes/birnbaum.jpeg">
-    Karl Birnbaum
-    <br>
-    <i>Source:
-        <a href="http://www.peoples.ru/science/psihology/birnbaum/">
-            peoples.ru</a>.</i>
-</div>
+![Portrait of Karl Birnbaum][69]
+Karl Birnbaum<br>_Source: [peoples.ru][70]._
+{: .pullquote .image .left}
 
 Birnbaum had also in decades prior introduced the term "sociopathic" as a more
 apt description of the condition theorized in Kraepelin's work. Though it was
@@ -743,17 +719,11 @@ to as "primary" and "secondary" psychopaths respectively[^65].
        patients: assessment, prevalence, predictive validity, and clinical
        implications][54]_ (Amsterdam: Dutch University Press, 2004), 8.
 
-<div class="pullquote image">
-    <img src="/assets/img/assholes/cleckley.jpg" style="width:100%;"
-        alt="Portrait of Hervey M. Cleckley">
-    A very low-quality portrait of Hervey M. Cleckley; if he wanted to be
-    represented in higher quality he should have done higher quality research.
-    <br>
-    <i>Source:
-        <a href="https://www.augusta.edu/library/greenblatt/archives/findaid/cleckley/hcleckley.htm">
-            Augusta University Library</a>.
-    </i>
-</div>
+![Portrait of Hervey M. Cleckley][67]{: style="width:100%;"}
+A very low-quality portrait of Hervey M. Cleckley; if he wanted to be
+represented in higher quality he should have done higher quality research.<br>
+_Source: [Augusta University Library][68]._
+{: .pullquote .image}
 
 1941 also saw the publication of [Hervey M. Cleckley][58]'s _The Mask of Sanity:
 An Attempt to Clarify Some Issues About the So-Called Psychopathic Personality_,
@@ -849,6 +819,13 @@ previous notions that was then translated into a format commonly used in
 clinical contexts. That is to say that rather than exploring the origin of what
 would be seen as psychopathy in a patient, these new definitions would continue
 to represent an arbitrary set of "antisocial" behaviors labeled as symptoms.
+
+However, Cleckley did make some attempt to explicitly separate psychopathy from
+criminality, drawing distinction in the fact that criminals often commit crime
+for a specific end (such as the accumulation of wealth) whereas psychopaths do
+so for the satisfaction of committing the crime in itself[^85].
+
+[^85]: Cleckley, _The Mask of Sanity_, 361.
 
 **Cleckley's discussion of sexuality**
 
@@ -1191,3 +1168,16 @@ your own purposes will end in nothing but soaking your hands as well.
 [64]: https://en.wikipedia.org/wiki/Shane_Dawson
 [65]: https://www.youtube.com
 [66]: https://www.youtube.com/watch?v=9bpkr91p2xY&list=PLDs0tNoNYTz1P3dO8m5Wdv0WE2lPTQSJm
+[67]: /assets/img/assholes/cleckley.jpg
+[68]: https://www.augusta.edu/library/greenblatt/archives/findaid/cleckley/hcleckley.htm
+[69]: /assets/img/assholes/birnbaum.jpeg
+[70]: http://www.peoples.ru/science/psihology/birnbaum/
+[71]: /assets/img/assholes/schneider.jpg
+[72]: https://www.uni-ulm.de/med/med-medgeschichte/forschung/drittmittelprojekte/kurt-schneiders-1887-1967-korrespondenzen/
+[73]: https://upload.wikimedia.org/wikipedia/commons/d/d2/E._Kraepelin.jpg
+[74]: https://commons.wikimedia.org/wiki/File:E._Kraepelin.jpg
+[75]: https://upload.wikimedia.org/wikipedia/commons/b/b8/Henry_Maudsley.jpg
+[76]: https://commons.wikimedia.org/wiki/File:Henry_Maudsley.jpg
+[77]: https://upload.wikimedia.org/wikipedia/commons/d/d3/Teofrasto_Orto_botanico_detail.jpg
+[78]: https://commons.wikimedia.org/wiki/File:Teofrasto_Orto_botanico_detail.jpg
+[79]: https://commons.wikimedia.org/wiki/User:Esculapio/gallery
