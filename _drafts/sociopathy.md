@@ -823,11 +823,16 @@ to represent an arbitrary set of "antisocial" behaviors labeled as symptoms.
 However, Cleckley did make some attempt to explicitly separate psychopathy from
 criminality, drawing distinction in the fact that criminals often commit crime
 for a specific end (such as the accumulation of wealth) whereas psychopaths do
-so for the satisfaction of committing the crime in itself[^85].
+so for the satisfaction of committing the crime in itself[^85]. This is a clear
+improvement over some of the earliest ideas of psychopathy, but there remains
+the emphasis on finding a correlation (without any statistical or often even
+theoretical basis) between personality disorders and criminality. He maintains
+this distinction while also admitting that the term is necessarily vague and is
+most often used without such clarity[^86].
 
-[^85]: Cleckley, _The Mask of Sanity_, 361.
+[^85]: Cleckley, _The Mask of Sanity_, 261.
 
-**Cleckley's discussion of sexuality**
+[^86]: Cleckley, _The Mask of Sanity_, 263.
 
 While plenty of the aforementioned figures had mentioned the "sexual deviants,"
 they had merely included such a category in a wider context of what is
@@ -862,9 +867,19 @@ presented in this work.
        professional fighting was indicative of "latent homosexuality" as it
        included a man pounding other men.
 
-**Karpman's "sexual psychopathy"**
+Returning to "The Sexual Psychopath," Karpman explicitly states that "[t]he
+terms 'sexual psychopath' and 'sexual psychopathy' have no legitimate place in
+psychiatric nosology or dynamic classification"[^87]. This comes after a lengthy
+introduction in which he describes the lack of reasonable certainty in the
+definition of sexual crime by both the public and the law, and that the concept
+of sexual psychopathy would be reliant on such definitions[^88].
 
-By the late '80s, the denotation of "sexual psychopath" had lost favor, as is
+[^87]: Karpman, "The Sexual Psychopath," 186.
+
+[^88]: Karpman, "The Sexual Psychopath," 184.
+
+By the late '80s, the denotation of "sexual psychopath" had lost what little
+favor it had retained since its denunciation by Karpman and Cleckley, as is
 evident by this comment in the 5<sup>th</sup> edition of Cleckley's _Mask of
 Sanity_:
 
@@ -878,6 +893,8 @@ Sanity_:
   custom had authoritative sanction in our nomenclature._[^7]"
 
 [^7]: Cleckley, _The Mask of Sanity_, 286.
+
+**Cleckley's discussion of sexuality**
 
 **Erich Fromm**
 
