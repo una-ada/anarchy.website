@@ -187,7 +187,7 @@ in the population or the presence of an understanding of that psychological
 disorder; perhaps this merely comes with the territory of analyzing history
 through literature. This is further muddled by the tendency to cite fictional
 villains as opposed to actual historical accounts of real humans suffering from
-a disorder[^9]<sup>,</sup>[^10]. These include such examples as Alex DeLarge
+a disorder[^9][^10]. These include such examples as Alex DeLarge
 from _A Clockwork Orange_, Hannibal Lecter from _Silence of the Lambs_, Norman
 Bates from _Psycho_, and Freddy Krueger from _A Nightmare on Elm Street_;
 characters ranging from empty husks designed to have the audience's ideas of
@@ -256,7 +256,7 @@ their own eventually[^23], over time he shifted towards a eugenicist view,
 believing that such illnesses needed to be purged manually. For the sake of
 brevity[^24], we'll skip the works of [Cesare Lombroso][42][^22], perhaps to be
 revisited at a later date for his contributions to
-criminology[^25]<sup>,</sup>[^26]<sup>,</sup>[^27].
+criminology[^25][^26][^27].
 
 [^22]: Millon et al., "Historical Conceptions...," 7.
 
@@ -280,12 +280,12 @@ form as it had among the British. One such German, one who stands out in the
 historical context, was [Julius Ludwig August Koch][43] in 1891 who proposed
 that the previous standard of "moral insanity" be replaced with his new idea of
 "psychopathic inferiorities" (_Psychopathischen
-Minderwertigkeiten_)[^8]<sup>,</sup>[^28]. He attributed this condition to
+Minderwertigkeiten_)[^8][^28]. He attributed this condition to
 "functional organic deviations" (_organische Abweichungen funktioneller
 Art_)[^32] that couldn't be rectified, a similar idea to the more modern idea of
 predisposition, though more assertive and derived once again from degeneration
 theory. Koch defined three degrees of severity of
-psychopathy[^31]<sup>,</sup>[^28]:
+psychopathy[^31][^28]:
 
 1. Disposition (_Disposition_), characterized by tension and high sensitivity,
 2. Burden (_Belastung_), by egocentrism and impulsiveness, and
@@ -358,7 +358,7 @@ In his aforementioned magnum opus, Kraepelin originally (1899) referred to
 "psychopathic states" which were, to him, a singular form of degeneration. Only
 afterwards in the 7<sup>th</sup> edition (1904) did he use the term
 "psychopathic personalities," which he had split into four categories at the
-time[^42]<sup>,</sup>[^36]:
+time[^42][^36]:
 
 [^42]: Millon et al., "Historical Conceptions...," 10.
 
@@ -393,14 +393,14 @@ case be correct. As with many of the previous definitions, this iteration of the
 psychopathy diagnosis is blatantly driven by an attempt to classify criminality
 as a disease; this trend certainly does not stop here either. To further the
 absurdity of _this_ definition, Kraepelin went on to expand it in the
-8<sup>th</sup> edition of his work into seven categories[^42]<sup>,</sup>[^36]:
+8<sup>th</sup> edition of his work into seven categories[^42][^36]:
 
 1. the excitable (_die Erregbaren_);
 2. the irresolute (_die Haltlosen_), carried over from the last edition;
 3. those who are impulsive and follow their instincts (_Triebmenschen_),
    Kraepelin would have considered periodic drinkers and those who sought out
    pleasure to be among this category since he saw alcohol and syphilis as among
-   the greatest threats to the people (_Volksgiften_)[^37]<sup>,</sup>[^36];
+   the greatest threats to the people (_Volksgiften_)[^37][^36];
 4. eccentrics (_Verschobenen_);
 5. pathological liars and swindlers (_die krankhaften Ttigner und Schwindler_),
    also carried over from the last edition;
@@ -575,7 +575,7 @@ apt description of the condition theorized in Kraepelin's work. Though it was
 not at all popular at the time, circa 1909, he derived the term from the idea
 that antisocial behavior was only rarely directly caused by a constitutional
 condition and was more commonly a result of social
-conditioning[^44]<sup>,</sup>[^45].
+conditioning[^44][^45].
 
 [^44]: Millon et al., "Historical Conceptions...," 11.
 
@@ -730,7 +730,8 @@ An Attempt to Clarify Some Issues About the So-Called Psychopathic Personality_,
 which was his attempt to "clarify" some issues he saw with people's ideas of the
 "psychopathic personality." Because of the influence of this book, Cleckley is
 often described as the pioneer of the modern (primarily mid to late
-20<sup>th</sup> century) conception of psychopathy[^9]<sup>,</sup>[^15]. Like
+20<sup>th</sup> century) conception of psychopathy[^9][^15] and was
+even in his own time considered and important contributor[^89]. Like
 Schneider and Birnbaum, Cleckley did not believe that psychopaths were
 universally criminal and could often be found filling roles of great importance
 and power[^71]; he further aligned with Schneider in his attempts to create a
@@ -739,6 +740,10 @@ theories of its origin[^72].
 
 [^15]: Diane Kratz, "[Ever Wonder What the Difference Between a Sociopath and
        Psychopath?,][12]" Profiles of Murder, accessed Sep. 28, 2018.
+
+[^89]: "The Mask of Sanity: An Attempt to Clarify Some Issues About the
+       So-Called Psychopathic Personality," _California Medicine_ 74, 4 (Apr
+       1951): 286.
 
 [^71]: Millon et al., "Historical Conceptions...," 19.
 
@@ -770,7 +775,7 @@ first nine of which were "key features" and the latter seven were "other"[^73]:
 9. Inadequately motivated antisocial behavior
 10. Impersonal, trivial, and poorly integrated sex life
 11. Unreliability
-12. Failure to follow any life plan
+12. Failure to follow any life plan[^90]
 13. Untruthfulness and insincerity
 14. Suicide rarely carried out
 15. Specific loss of insight
@@ -779,11 +784,13 @@ first nine of which were "key features" and the latter seven were "other"[^73]:
 [^75]: The quotation marks around "intelligence" are present in Cleckley's _Mask
        of Sanity_ 5<sup>th</sup> ed. but not in Hildebrand's retelling of it.
 
+[^90]: Whom among us can't relate though.
+
 One may readily notice that many of those items categorized as "other features"
 are nearly universally applicable depending on interpretation. Ideas like
 unreliability and loss of insight point to the retention of the biases found in
 many of the earlier attempts at definitions; they (even when accounting for the
-further discussion offered in Cleckley's work[^76]<sup>,</sup>[^77]) fail to
+further discussion offered in Cleckley's work[^76][^77]) fail to
 describe anything significantly deviant from the norm but rather describe
 arbitrarily more extreme forms of biases or issues any given person is likely to
 experience. Unreliability can be seen as simply a lack of motivation, something
@@ -881,7 +888,7 @@ of sexual psychopathy would be reliant on such definitions[^88].
 By the late '80s, the denotation of "sexual psychopath" had lost what little
 favor it had retained since its denunciation by Karpman and Cleckley, as is
 evident by this comment in the 5<sup>th</sup> edition of Cleckley's _Mask of
-Sanity_:
+Sanity_[^7]:
 
 > "_When the first edition of this book was written it had for many years been
   customary to use the term sexual psychopath to designate homosexuals, sadists,
@@ -890,7 +897,7 @@ Sanity_:
   these deviations under the concept of sexual psychopathy were also types of
   abnormal behavior designated as erotomania and sexual immaturity. For many
   years before and after the initial publication of the_ Mask of Sanity _this
-  custom had authoritative sanction in our nomenclature._[^7]"
+  custom had authoritative sanction in our nomenclature._"
 
 [^7]: Cleckley, _The Mask of Sanity_, 286.
 

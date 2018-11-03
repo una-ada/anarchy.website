@@ -50,6 +50,14 @@ footer {
 footer a {
 	color: $secondary;
 }
+.footnote::after {
+	content: "]";
+	vertical-align: top;
+}
+.footnote::before {
+	content: "[";
+	vertical-align: top;
+}
 .footnotes {
 	column-count: 2;
 	font-size: 0.8rem;
@@ -139,8 +147,12 @@ sub {
 }
 sup {
 	vertical-align: top;
+	line-height: 1;
 	position: relative;
-	top: -0.3em;
+	top: 0em;
+}
+sup a {
+	vertical-align: top;
 }
 table {
 	border-collapse: collapse;
