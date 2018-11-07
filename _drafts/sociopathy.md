@@ -122,10 +122,11 @@ Barge🚢🌊⚓️suicide🔪cult🕯[#GangGang][61]", "𝕲𝖊𝖘𝖊𝖑�
 𝕲𝖆𝖓𝖌"[^80], and "ＳＰＡＣＥ ＡＮＡＲＣＨＩＳＴ ⛽🅰️🆖⛽🅰️🆖"[^70] for putting up
 with my constant complaints while researching this topic.
 
-[^70]: For those yet unaware (\*cough \*cough Nathan), the emoji combination
+[^70]: For those yet unaware (\*cough\* \*cough\* Nathan), the emoji combination
        "⛽🅰️🆖" is read as "gang," older versions of ⛽ on iOS had a "G" on the
        center of the pump that was later replaced with a drop of oil and is
-       completely non-standard across other emoji fonts.
+       completely non-standard across other emoji fonts. See [emojipedia][82]'s
+       historical record of the emoji.
 
 [^80]: The "Gesellschaftsfeinde" in the name of this group was directly inspired
        by my research during the writing of this work and is an ironic embrace
@@ -730,7 +731,8 @@ An Attempt to Clarify Some Issues About the So-Called Psychopathic Personality_,
 which was his attempt to "clarify" some issues he saw with people's ideas of the
 "psychopathic personality." Because of the influence of this book, Cleckley is
 often described as the pioneer of the modern (primarily mid to late
-20<sup>th</sup> century) conception of psychopathy[^9][^15] and was
+20<sup>th</sup> century) conception of psychopathy[^9][^15][^92] providing the
+"best definition of psychopathy"[^91] and was
 even in his own time considered and important contributor[^89]. Like
 Schneider and Birnbaum, Cleckley did not believe that psychopaths were
 universally criminal and could often be found filling roles of great importance
@@ -741,9 +743,16 @@ theories of its origin[^72].
 [^15]: Diane Kratz, "[Ever Wonder What the Difference Between a Sociopath and
        Psychopath?,][12]" Profiles of Murder, accessed Sep. 28, 2018.
 
-[^89]: "The Mask of Sanity: An Attempt to Clarify Some Issues About the
-       So-Called Psychopathic Personality," _California Medicine_ 74, 4 (Apr
-       1951): 286.
+[^92]: Scott O. Lilienfeld, Ashley L. Watts, Sarah Francis Smith, Christopher J.
+       Patrick, and Robert D. Hare, "[Hervey Cleckley (1903–1984): Contributions
+       to the Study of Psychopathy,][80]" _Personality Disorders: Theory,
+       Research, and Treatment,_ Advance online publication, Aug. 6, 2018.
+
+[^91]: Hildebrand, _Psychopathy..._, 5.
+
+[^89]: "[The Mask of Sanity: An Attempt to Clarify Some Issues About the
+       So-Called Psychopathic Personality,][81]" _California Medicine_ 74, 4
+       (Apr 1951): 286.
 
 [^71]: Millon et al., "Historical Conceptions...," 19.
 
@@ -1205,3 +1214,6 @@ your own purposes will end in nothing but soaking your hands as well.
 [77]: https://upload.wikimedia.org/wikipedia/commons/d/d3/Teofrasto_Orto_botanico_detail.jpg
 [78]: https://commons.wikimedia.org/wiki/File:Teofrasto_Orto_botanico_detail.jpg
 [79]: https://commons.wikimedia.org/wiki/User:Esculapio/gallery
+[80]: https://www.hare.org/LilienfeldetalPDTRT2018.pdf
+[81]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1520904/
+[82]: https://emojipedia.org/apple/ios-6.0/fuel-pump/
