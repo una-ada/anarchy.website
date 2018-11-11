@@ -115,7 +115,11 @@ ensure that this essay thoroughly describes the tumultuous history of the terms
 psychopath and sociopath, as well as the issues with its current conception.
 
 [^79]: I started writing this on 6 Vendémiaire CCXXVII, based on the [equinox
-       method][60] for handling leap years on the Republican Calendar.
+       method][60] for handling leap years on the Republican Calendar. And, to
+       be fair, there is no shortage of times within this essay in which I must
+       describe how men in positions of influence wanted entire swaths of people
+       (often including myself) to be killed off, so some time to process is
+       forgivable, in my opinion.
 
 Thanks to the group chats currently or formerly known as "Sinking
 Barge🚢🌊⚓️suicide🔪cult🕯[#GangGang][61]", "𝕲𝖊𝖘𝖊𝖑𝖑𝖘𝖈𝖍𝖆𝖋𝖙𝖘𝖋𝖊𝖎𝖓𝖉𝖊
@@ -727,11 +731,12 @@ _Source: [Augusta University Library][68]._
 {: .pullquote .image}
 
 1941 also saw the publication of [Hervey M. Cleckley][58]'s _The Mask of Sanity:
-An Attempt to Clarify Some Issues About the So-Called Psychopathic Personality_,
-which was his attempt to "clarify" some issues he saw with people's ideas of the
+An Attempt to Reinterpret Some Issues About the So-Called Psychopathic
+Personality_[^92], which was his attempt to "reinterpret" some issues he saw
+with people's ideas of the
 "psychopathic personality." Because of the influence of this book, Cleckley is
 often described as the pioneer of the modern (primarily mid to late
-20<sup>th</sup> century) conception of psychopathy[^9][^15][^92] providing the
+20<sup>th</sup> century) conception of psychopathy[^9][^15][^93] providing the
 "best definition of psychopathy"[^91] and was
 even in his own time considered and important contributor[^89]. Like
 Schneider and Birnbaum, Cleckley did not believe that psychopaths were
@@ -740,13 +745,15 @@ and power[^71]; he further aligned with Schneider in his attempts to create a
 clinical definition of psychopathy, one that could be used separate from
 theories of its origin[^72].
 
-[^15]: Diane Kratz, "[Ever Wonder What the Difference Between a Sociopath and
-       Psychopath?,][12]" Profiles of Murder, accessed Sep. 28, 2018.
-
 [^92]: Scott O. Lilienfeld, Ashley L. Watts, Sarah Francis Smith, Christopher J.
        Patrick, and Robert D. Hare, "[Hervey Cleckley (1903–1984): Contributions
        to the Study of Psychopathy,][80]" _Personality Disorders: Theory,
-       Research, and Treatment,_ Advance online publication, Aug. 6, 2018.
+       Research, and Treatment,_ Advance online publication, Aug. 6, 2018, 3.
+
+[^15]: Diane Kratz, "[Ever Wonder What the Difference Between a Sociopath and
+       Psychopath?,][12]" Profiles of Murder, accessed Sep. 28, 2018.
+
+[^93]: Lilienfeld et al., "Hervey Cleckley...," 1.
 
 [^91]: Hildebrand, _Psychopathy..._, 5.
 
@@ -793,7 +800,7 @@ first nine of which were "key features" and the latter seven were "other"[^73]:
 [^75]: The quotation marks around "intelligence" are present in Cleckley's _Mask
        of Sanity_ 5<sup>th</sup> ed. but not in Hildebrand's retelling of it.
 
-[^90]: Whom among us can't relate though.
+[^90]: Whom among us cannot relate though.
 
 One may readily notice that many of those items categorized as "other features"
 are nearly universally applicable depending on interpretation. Ideas like
