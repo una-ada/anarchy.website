@@ -7,12 +7,13 @@
 $primary:   #444;
 $pq-width:  18rem;
 $secondary: white;
+$tertiary:  #284da5;
 $width:     48rem;
 
 // Elements
 a {
 	text-decoration: underline;
-	color: $primary;
+	color: $tertiary;
 }
 blockquote {
 	border-left: 2px solid $primary;
@@ -74,15 +75,22 @@ footer a {
 .footnotes ol {
 	margin: 0;
 }
-h1,h2,h3,h4 {
-	font-family:'Playfair Display','source-han-serif-japanese',sans-serif;
+h1, h2, h3, h4 {
+	font-family:'EB Garamond','source-han-serif-japanese',serif;
 	font-weight: 700;
 }
-h1 a,h2 a,h3 a,h4 a{
+h1 a, h2 a, h3 a, h4 a{
 	text-decoration: none;
 }
+h1 {
+	font-size: 2.5em;
+}
 h2 {
+	font-size: 2em;
 	margin-top: 3em;
+}
+h3 {
+	font-size: 1.5em;
 }
 hr {
 	background: $primary;
@@ -96,7 +104,7 @@ html {
 	color: $primary;
 	font-size: 11pt;
 }
-img,video {
+img, video {
 	max-width: 100%;
 }
 li, p {

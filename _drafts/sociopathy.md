@@ -535,10 +535,9 @@ oppose eugenics and even fought against the influence of the Nazis in psychiatry
 [^51]: "[Schneider, Kurt (1887-1967), Psychiater,][44]" kipnis.de, accessed Oct.
        5, 2018.
 
-<div class="pullquote">
-    "[T]he concept of psychopathy eventually found its home not in psychiatry
-    [&hellip;] but in criminology."
-</div>
+"[T]he concept of psychopathy eventually found its home not in psychiatry [...]
+but in criminology."
+{: .pullquote}
 
 Unsurprisingly, despite Schneider's lackluster attempt to push against the
 trend, the concept of psychopathy eventually found its home not in psychiatry,
@@ -646,10 +645,9 @@ on in life[^56].
 
 [^56]: Millon et al., "Historical Conceptions...," 15.
 
-<div class="pullquote">
-    Together [they] formed a character typology that would influence our modern
-    ideas of personality disorders.
-</div>
+"Together [they] formed a character typology that would influence our modern
+ideas of personality disorders."
+{: .pullquote}
 
 In the same year, this concept was further solidified under psychoanalysis by
 [Karl Abraham][48] and [Wilhelm Reich][49]. Abraham asserted that antisocial
@@ -865,6 +863,10 @@ clinical contexts. That is to say that rather than exploring the origin of what
 would be seen as psychopathy in a patient, these new definitions would continue
 to represent an arbitrary set of "antisocial" behaviors labeled as symptoms.
 
+"Cleckley did make some attempt to explicitly separate psychopath from
+criminality..."
+{: .pullquote}
+
 However, Cleckley did make some attempt to explicitly separate psychopathy from
 criminality, drawing distinction in the fact that criminals often commit crime
 for a specific end (such as the accumulation of wealth) whereas psychopaths do
@@ -939,11 +941,11 @@ Sanity_[^7]:
 
 [^7]: Cleckley, _The Mask of Sanity_, 286.
 
-**Cleckley's discussion of sexuality**
-
 **Erich Fromm**
 
-### The Psychopathy Checklist in the Late 20th Century
+
+
+### The DSM(-II) and the PCL-R in the Late 20th Century
 
 **Hare**
 
@@ -952,15 +954,21 @@ Sanity_[^7]:
 Shit by Hare about his fucking PCL-R:
 
 <http://www.hare.org/references/HareandNeumannARCP2008.pdf>
+
 <http://www.psychiatrictimes.com/articles/psychopathy-and-antisocial-personality-disorder-case-diagnostic-confusion>
 
 The PCL-R sucks actually:
 
 <https://forensicpsychologist.blogspot.com/2011/06/violence-risk-meta-meta-instrument.html>
+
 <https://www.sciencedirect.com/science/article/pii/S0272735810001947>
+
 <https://ac.els-cdn.com/S0924933816301894/1-s2.0-S0924933816301894-main.pdf?_tid=7052594b-1a69-4570-9a25-844e79e3f8e3&acdnat=1538177395_d7e44989425f4400dc2ee8280b548f82>
+
 <https://web.archive.org/web/20151119002546/https://www.ncjrs.gov/App/Publications/abstract.aspx?ID=204918>
+
 <https://www.npr.org/2011/05/26/136619689/can-a-test-really-tell-whos-a-psychopath>
+
 <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2817979/>
 
 While attempts to define ASPD do draw from the central idea of psychopathy[^16],
@@ -1011,9 +1019,13 @@ and NPD, both connotatively and clinically[^3].
 Descriptions of psychopathy:
 
 <http://www.thedivineconspiracy.org/Z5223H.pdf>
+
 <https://www.scribd.com/doc/27005161/The-Psychopath-Emotion-and-the-Brain>
+
 <http://journals.sagepub.com/stoken/rbtfl/WDUhPiP7pHM3Q/full>
+
 <https://www.psychologytoday.com/us/blog/witness/201104/psychopathy-rorschach-test-psychologists>
+
 <http://www.psychiatrictimes.com/articles/paradox-psychopathy>
 
 
@@ -1068,17 +1080,21 @@ must necessarily exist is the acid that corrodes all visionary thinking[^17]."
 Treatability of ASPD and psychopathy:
 
 <http://www.apa.org/monitor/mar04/treatment.aspx>
+
 <https://www.psychologytoday.com/us/blog/wicked-deeds/201408/psychopathic-criminals-cannot-be-cured>
 
 History of criminology:
 
 <https://books.google.com/books?id=iGW7QLJmuwoC&pg=PA46&source=gbs_toc_r&cad=4#v=onepage&q&f=false>
+
 <https://scholarlycommons.law.northwestern.edu/cgi/viewcontent.cgi?article=4793&context=jclc>
 
 Public policy:
 
 <https://www.psychologicalscience.org/publications/journals/pspi/psychopathy.html>
+
 <http://law.jrank.org/pages/2110/Sexual-Predators-Sexual-psychopath-laws.html>
+
 <http://ww1.cpa-apc.org/Publications/Archives/CJP/2005/march2/cjp-mar2-05-Seeman-RP.pdf>
 
 ## IV. _The Conclusion_
