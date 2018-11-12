@@ -71,6 +71,24 @@ psychopath based on publicly displayed views or actions.
        but the effort required to compile them outweighs the amount it would add
        to this work as a whole.
 
+Perhaps more blatant an example of this as well as an explanation of some
+popular perceptions of "psychopathic personality" specifically is this passage
+from chapter eight of Kurt Vonnegut's _A Man Without A Country_[^94]:
+
+[^94]: Kurt Vonnegut, _A Man Without a Country_, ed. Deniel Simon, (New York:
+       Seven Stories Press, 2005).
+
+> _George W. Bush has gathered around him [...] psychopathic personalities, or
+  PPs, the medical term for smart, personable people who have no consciences.
+  To say somebody is a PP is to make a perfectly respectable diagnosis, like
+  saying he or she has appendicitis or athlete’s foot. [...] PPs are
+  presentable, they know full well the suffering their actions may cause others,
+  but they do not care. They cannot care because they are nuts. They have a
+  screw loose! [...] So many of these heartless PPs now hold big jobs in our
+  federal government, as though they were leaders instead of sick. They have
+  taken charge. They have taken charge of communications and the schools, so we
+  might as well be Poland under occupation._
+
 However, at the time of writing this, the most likely place you'll find either
 of the topical terms is a number of articles pertaining to [Shane Dawson][64]'s
 recent documentary series on the [YouTube][65] platform: [_The Mind of Jake
@@ -193,8 +211,8 @@ disorder; perhaps this merely comes with the territory of analyzing history
 through literature. This is further muddled by the tendency to cite fictional
 villains as opposed to actual historical accounts of real humans suffering from
 a disorder[^9][^10]. These include such examples as Alex DeLarge
-from _A Clockwork Orange_, Hannibal Lecter from _Silence of the Lambs_, Norman
-Bates from _Psycho_, and Freddy Krueger from _A Nightmare on Elm Street_;
+from _A Clockwork Orange_, Hannibal Lecter from _Silence of the Lambs_[^95],
+Norman Bates from _Psycho_, and Freddy Krueger from _A Nightmare on Elm Street_;
 characters ranging from empty husks designed to have the audience's ideas of
 fear projected onto them to those who exist solely to exemplify the issue with
 such naïve perceptions. To remedy this somewhat, we'll focus on ideas that led
@@ -210,6 +228,10 @@ less the same fashion.
 
 [^10]: James Blair, Derek Mitchell, and Karina Blair, [_The Psychopath: Emotion
        and the Brain,_][7] <sup>[(alt)][8]</sup> (Oxford: Blackwell, 2005), 1.
+
+[^95]: Nick J Wilson, "[Psychopathy and Risk of Violence: Assessment and
+       Management,][83]" _Will they do it again? Assessing and Managing Risk,_
+       ed. Ken McMaster and Leon Bakker ([HMA Books][84]).
 
 ### Early Conceptions of the 19th Century
 
@@ -1224,3 +1246,5 @@ your own purposes will end in nothing but soaking your hands as well.
 [80]: https://www.hare.org/LilienfeldetalPDTRT2018.pdf
 [81]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1520904/
 [82]: https://emojipedia.org/apple/ios-6.0/fuel-pump/
+[83]: http://www.hma.co.nz/wp-content/uploads/2016/01/Chapter-7-Psychopathy-and-Risk-of-Violence.pdf
+[84]: https://www.hma.co.nz/resources/free-books/
