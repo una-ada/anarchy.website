@@ -233,7 +233,7 @@ less the same fashion.
        Management,][83]" _Will they do it again? Assessing and Managing Risk,_
        ed. Ken McMaster and Leon Bakker ([HMA Books][84]).
 
-### Early Conceptions of the 19th Century
+### I-1. Conception
 
 Prior to the 19<sup>th</sup> century, it was thoroughly believed that the mind
 and reason were one in the same, this concept came into question with [Philippe
@@ -348,7 +348,7 @@ similarly rough history to that of psychopathy[^30].
 [^30]: Martin Bürgy, "[The Concept of Psychosis: Historical and Phenomenological
        Aspects,][23]" _Schizophrenia Bulletin_ 34, 6 (November 2008): 1200-1210.
 
-### Eugenics in the Early 20th Century
+### I-2. Eugenics
 
 The nosology (classification of illnesses) developed by Koch included many forms
 of mental illness, providing loose distinctions between those that were
@@ -661,7 +661,7 @@ joined into the psychoanalysis in 1927, concluding that the delinquent behavior
 perceived among supposed psychopaths originated from "unfulfilled oral
 needs"[^56].
 
-### Homophobia, Transphobia, and the Mid 20th Century
+### I-3. Operationalization
 
 While the works of [Eugen Kahn][50], one of Kraepelin's assistants[^60] who did
 not go on to serve the Nazis, are often overlooked in the history, the
@@ -863,7 +863,7 @@ clinical contexts. That is to say that rather than exploring the origin of what
 would be seen as psychopathy in a patient, these new definitions would continue
 to represent an arbitrary set of "antisocial" behaviors labeled as symptoms.
 
-"Cleckley did make some attempt to explicitly separate psychopath from
+"Cleckley did make some attempt to explicitly separate psychopathy from
 criminality..."
 {: .pullquote}
 
@@ -945,7 +945,9 @@ Sanity_[^7]:
 
 
 
-### The DSM(-II) and the PCL-R in the Late 20th Century
+### I-4. Standardization
+
+**Millon**
 
 **Hare**
 
@@ -1037,13 +1039,13 @@ well as the issues with said fields; this section then exists to clarify any
 confusion that would have resulted in the case of these assumptions being
 untrue.
 
-### Phrenology
+### III-1. Phrenology
 
-### Degeneration Theory
+### III-2. Degeneration Theory
 
-### Physiognomy and Craniography
+### III-3. Physiognomy
 
-### Criminology
+### III-4. Criminology
 
 While it may be philosophically a valid position to view law as objective and
 thus assumed to necessarily exist, doing so would be at odds with the
