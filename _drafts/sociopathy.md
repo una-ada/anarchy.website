@@ -881,11 +881,12 @@ most often used without such clarity[^86].
 
 [^86]: Cleckley, _The Mask of Sanity_, 263.
 
-While plenty of the aforementioned figures had mentioned the "sexual deviants,"
-they had merely included such a category in a wider context of what is
-effectively the classification of various criminal behaviors. Starting in the
-'40s, there was a more significant focus on what they then called "sexual
-psychopaths." Karpman published a significant number of works on this concept,
+Plenty of the aforementioned figures had mentioned some category of "sexual
+deviants," though they had merely included such a category in a wider context of
+what is effectively the classification of various criminal behaviors. Starting
+in the '40s, there was a more significant focus on what they then called "sexual
+psychopaths." We then return to Karpman, who published a significant number of
+works on this concept,
 including one later in 1951 explicitly titled "The Sexual Psychopath"[^66].
 Leading up to this, Karpman was the Chief Psychotherapist of the St. Elizabeths
 Hospital in Washington, D.C., where he "treated" people for non-conforming
