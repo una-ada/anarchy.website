@@ -47,7 +47,7 @@ cogently in the terms that are the focus of this work: "sociopath" and
 As opposed to many of the aforementioned examples, "sociopath" and "psychopath"
 are unique in that they also represent a conceptual issue in the popular
 perceptions of psychiatric work. This is, of course, not unique to these terms,
-this trivialization of mental illness that we see in plenty of other places.
+this trivialization of mental illness can be seen in plenty of other places.
 What should draw our attention here is that while many other examples of this
 trivialization are primarily used as a sort of self diagnosis (such as claiming
 one's self to have clinical depression due to a period of lost motivation or to
@@ -96,6 +96,12 @@ Paul_][66][^83].
 
 [^83]: Shane Dawson, [_The Mind of Jake Paul_][66], YouTube, 2018
 
+![Shane Dawson speaking at the 2014 VidCon at the Anaheim Convention Center in
+Anaheim, California.][102]
+Shane Dawson at [VidCon][105] 2014<br>_Source: [Wikimedia Commons][103], photo
+by [Gage Skidmore][104]._
+{: .pullquote .image}
+
 For the sake of argument and the establishment of context we'll quickly go over
 some of the issues present in this documentary series; before doing so I,
 reluctantly, recommend you watch at least the first two parts of the series
@@ -103,7 +109,89 @@ reluctantly, recommend you watch at least the first two parts of the series
 here and to understand the further context. With the due diligence done, we can
 discuss the work more or less point by point.
 
+Less than seven minutes into the first episode the viewer will see what
+constituted a large portion of the controversy surrounding this series, that
+being the tone with which it presents the concept of sociopathy. Here this tone
+is made blatantly clear with the word "sociopath" plastered on screen in a
+manner that presents it as shocking and scary[^106]. He goes on to say he did
+not intend to make a documentary about [Jake Paul][101] but broadly about
+sociopaths[^110] which he describes as "someone who doesn't have a sense of
+morality... [who enjoys] manipulating people."[^107]
 
+[^106]: Dawson, _... Jake Paul_ 1: 6′.
+
+[^110]: This detail, while seemingly banal, is significant in that it indicates
+        the framing (and to an extent the bias) of the documentary series as a
+        whole. Dawson did not begin research on Jake Paul and subsequently
+        conclude that he must be a sociopath, rather he began work on sociopathy
+        and moved on to focus on Paul as an example of it.
+
+[^107]: Dawson, _... Jake Paul_ 1: 8′.
+
+The attempt to refer to experts on this topic begins with a citation of ["Dr.
+Phil" McGraw][98] who claims "[sociopaths] don't get better." Dawson then also
+cites a therapist, [Kati Morton][99], who he had previously been in contact with
+and who later in the episode begins consulting on the documentary, specifically
+referencing that she had told him she believed multiple "YouTubers" were
+sociopaths[^108]. This leads to a discussion of "needing to be sociopathic or
+narcissistic" to maintain the sort of presence that "YouTubers" maintain[^109].
+This then leads into an extended discussion on the effects of popularity and
+platformism that takes up a good portion of the episode, similar to discussions
+one finds about reality television and the extent to which the personality
+portrayed is representative of that of the portrayer.
+
+[^108]: Dawson, _... Jake Paul_ 1: 13′.
+
+[^109]: Dawson, _... Jake Paul_ 1: 14′.
+
+Discussion is brought back to sociopathy after approximated fifteen
+minutes[^111][^112], but then shifted back to describing on Paul's
+personality[^113]. This line of discussion is then pushed back to exclusively
+describing Paul in terms of sociopathy by Dawson[^114]. Nearing the end of the
+first episode they bring up the relationship between Jake Paul and his brother,
+[Logan Paul][100][^115].
+
+[^111]: Dawson, _... Jake Paul_ 1: 28′.
+
+[^112]: Dawson, _... Jake Paul_ 1: 30′.
+
+[^113]: Dawson, _... Jake Paul_ 1: 33′.
+
+[^114]: Similar to when he admitted his original goal was to discuss
+        sociopaths[^110], this detail is an indicator of the framing the
+        documentary series as a whole is done within.
+
+[^115]: Dawson, _... Jake Paul_ 1: 36′.
+
+![Portrait of Kati Morton][110]
+Kati Morton<br>_Source: [Twitter][111]._
+{: .pullquote .image .left}
+
+Just a couple minutes into episode two a clip from the introduction to Kati
+Morton's [video on antisocial personality disorder][106] is used, stating "hey
+everybody, today I want to talk to you about the word 'psychopath.'"[^116][^117]
+The clip is used to establish both tone and the voice of Morton who acts as the
+clarifying expert throughout the episode. Shortly afterwards she is introduced
+in person and begins to explain sociopathy, or more fittingly 'sociopaths.' This
+is initially done by describing a feeling or sense she has for them and more
+concretely by stating that they are defined by a "lack of empathy."[^118] This
+then brings Morton to mention antisocial personality disorder (ASPD), the
+definition of which she reads directly out of the [_Diagnostic and Statistical
+Manual of Mental Disorders_][107] (DSM)[^119], the implication being that ASPD
+is a formalization of the concept of sociopathy which is supported by others in
+her field[^120].
+
+[^116]: Dawson, _... Jake Paul_ 2: 2′.
+
+[^117]: Kati Morton, "[What does Psychopath mean? Antisocial Personality
+        Disorder][106]," _Mental Health Help with Kati Morton_, YouTube, 2014.
+
+[^118]: Dawson, _... Jake Paul_ 2: 9′.
+
+[^119]: Dawson, _... Jake Paul_ 2: 10′.
+
+[^120]: David Porter, "[Antisocial Personality Disorder DSM-5 301.7
+        (F60.2)][108]," [theravive][109], March 2014.
 
 <https://twitter.com/shanedawson/status/1047998909648265216>
 
@@ -127,10 +215,11 @@ Through discussion of the concept, it became clear that we would benefit from a
 more thorough work to which we could refer, one that would contain citations and
 explanations so as to avoid the confusion and misunderstanding that plagues most
 discussions on the internet. And so, with the encouragement of
-[@CheechGuevara][59], I spent nearly the entirety of Vendémiaire CCXXVII[^79]
-(and a sadly considerable bit of Brumaire as well) researching this topic to
-ensure that this essay thoroughly describes the tumultuous history of the terms
-psychopath and sociopath, as well as the issues with its current conception.
+[@CheechGuevara][59], I spent nearly the entirety of Vendémiaire and Brumaire
+CCXXVII[^79] (and a sadly considerable bit of Frimaire as well) researching this
+topic to ensure that this essay thoroughly describes the tumultuous history of
+the terms psychopath and sociopath, as well as the issues with its current
+conception.
 
 [^79]: I started writing this on 6 Vendémiaire CCXXVII, based on the [equinox
        method][60] for handling leap years on the Republican Calendar. And, to
@@ -138,6 +227,8 @@ psychopath and sociopath, as well as the issues with its current conception.
        describe how men in positions of influence wanted entire swaths of people
        (often including myself) to be killed off, so some time to process is
        forgivable, in my opinion.
+
+<br><br>
 
 Thanks to the group chats currently or formerly known as "Sinking
 Barge🚢🌊⚓️suicide🔪cult🕯[#GangGang][61]", "𝕲𝖊𝖘𝖊𝖑𝖑𝖘𝖈𝖍𝖆𝖋𝖙𝖘𝖋𝖊𝖎𝖓𝖉𝖊
@@ -926,7 +1017,8 @@ of sexual psychopathy would be reliant on such definitions[^88].
 
 [^88]: Karpman, "The Sexual Psychopath," 184.
 
-By the late '80s, the denotation of "sexual psychopath" had lost what little
+By the late '80s, the aforementioned denotation of "sexual psychopath" would
+lose what little
 favor it had retained since its denunciation by Karpman and Cleckley, as is
 evident by this comment in the 5<sup>th</sup> edition of Cleckley's _Mask of
 Sanity_[^7]:
@@ -942,9 +1034,68 @@ Sanity_[^7]:
 
 [^7]: Cleckley, _The Mask of Sanity_, 286.
 
-**Erich Fromm**
+![Timothy Leary][97]
+Timothy Leary while arrested by the Drug Enforcement Administration.<br>_Source:
+[dea.gov][93]._
+{: .pullquote .image .left}
 
+In 1957, [Timothy Leary][85] published _Interpersonal Diagnosis of Personality:
+A Functional Theory and Methodology for Personality Evaluation_, in which he
+described a category of personality disorders that are motivated by a social
+adjustment through rebellion, a desire to retain uniqueness and individuality
+during periods of otherwise social development[^97]. Leary was at one point
+labeled the "most dangerous man in America" by [Richard Nixon][90][^98], due to
+his influence in the use of psychedelics, including the [Concord Prison
+Experiment][87] which tested the effects of [psilocybin][88]-assisted
+psychotherapy on recidivism rates[^99].
 
+[^97]: Millon et al., "Historical Conceptions...," 20.
+
+[^98]: Laura Mansnerus, "[Timothy Leary, Pied Piper Of Psychedelic 60's, Dies at
+       75][86]," The New York _Times_, June 1, 1996.
+
+[^99]: Rick Doblin, "[Dr. Leary's Concord Prison Experiment: A 34 Year Follow-Up
+       Study][89]," _the Bulletin of the Multidisciplinary Association for
+       Psychedelic Studies (MAPS)_ 9, 4 (Winter 1999/2000): 10-18.
+
+[Hans Eysenck][91]'s work throughout the '50s similarly challenged the
+traditional models of psychopathy and personality while not completely disposing
+of the concept of a constitutional disposition[^97]. **Need to actually talk
+about Eysenck's concepts of personality.**
+
+Similar to Leary[^101], Eysenck was very controversial in his time (and still is
+to this day)[^103]. The divergence of the two is evident in that the phrase
+"fights with the establishment" is used for the latter to refer to his rejection
+of Freudian psychoanalysis[^100], criticism of psychotherapy[^105], claims that
+the link between tobacco and cancer was based on personality rather than
+carcinogens[^100], and support of eugenicist models of intelligence[^104].
+
+[^101]: Leary's controversies were, of course, the cool getting arrested by the
+        DEA[^102] kind rather than the very uncool eugenics kind.
+
+[^102]: "[The Drug Enforcement Administration (DEA) Years 1970-1975][93]," _The
+        United States Drug Enforcement Administration History_, 37.
+
+[^103]: Roderick D. Buchanan, "[Looking back: the controversial Hans
+        Eysenck][94]," _The Psychologist_ 24, 4 (April 2011): 318-319.
+
+[^100]: "[Scientist or showman?][92]" _Mail & Guardian_, Sep. 12, 1997.
+
+[^105]: Sujit Kar, "[Hans Eysenck &mdash; Contributions & Controversies][96],"
+        _Delhi Psychiatric Journal_ 16, 1 (April 2013): 53-56.
+
+[^104]: William H. Honan, "[Hans J. Eysenck, 81, a Heretic In the Field of
+        Psychotherapy][95]," The New York _Times_, Sep. 10, 1997.
+
+Georg K. Stürup described work in attempting to treat personality disorders in
+his 1968 work _Treating the 'Untreatable': Chronic Criminals at Herstedvester_;
+this was for the most part an effort to get those at the Herstedvester Detention
+Center to improve through voluntary treatment[^96]. He proposed that a belief in
+improvement held by the detainee would increase the success rate of the
+treatment. Notably, some treatments included psychopharmacological elements,
+such as castration for those who had committed sexual crimes[^96].
+
+[^96]: Millon et al., "Historical Conceptions...," 19.
 
 ### I-4. Standardization
 
@@ -1131,56 +1282,6 @@ your own purposes will end in nothing but soaking your hands as well.
    _Psychopathy: Antisocial, Criminal, and Violent Behavior,_ ed. Theodore
    Millon, et al. (New York: The Guilford Press, 1998).
 
-## Bibliography
-
-- James Blair, Derek Mitchell, and Karina Blair, [_The Psychopath: Emotion
-  and the Brain_][7]<sup>[alt][8]</sup>, (Oxford: Blackwell, 2005).
-
-- Murray Bookchin, "[The Meaning of Confederalism,][14]" _Green
-  Perspectives_ 20 (1990).
-
-- Hervey M. Cleckley, _The Mask of Sanity_ 5<sup>th</sup> edition (1988).
-
-- Timothy O. Davis, PhD, "[Conceptualizing Psychiatric Disorders Using
-  "Four D's" of Diagnoses,][11]" _Internet Journal of Psychiatry_ 1, 1
-  (2009).
-
-- Stephen A. Diamond Ph.D., "[Is It Narcissism or Sociopathy?,][2]"
-  Psychology Today, Jul. 19, 2017.
-
-- Robert D. Hare, Stephen D. Hart, and Timothy J. Harpur, "[Psychopathy and
-  the _DSM&mdash;IV_ Criteria for Antisocial Personality Disorder,][13]"
-  _Journal of Abnormal Psychology_ 100, 3 (Aug. 1991): 391-398.
-
-- Clarence Ray Jeffrey, "[The Historical Development of Criminology,][10]"
-  _Journal of Criminal Law and Criminology_ 50, 1 (Summer 1959): 3-19.
-
-- Kent A. Kiehl and Morris B. Hoffman, "[The Criminal Psychopath: History,
-  Neuroscience, Treatment, and Economics,][6]" _Jurimetrics_ 51 (Summer
-  2011): 355-397.
-
-- Julius Ludwig August Koch, [_Die Psychopathischen Minderwertigkeiten,_][5]
-  (Ravensburg: Maier, 1891).
-
-- Diane Kratz, "[Ever Wonder What the Difference Between a Sociopath and
-  Psychopath?,][12]" Profiles of Murder, accessed Sep. 28, 2018.
-
-- Peter Kropotkin, "[Law and Authority,][15]" _Kropotkin's Revolutionary
-  Pamphlets_, ed. Roger N. Baldwin (Vanguard Press, 1927).
-
-- Theodore Millon, Erik Simonsen, and Morten Birket-Smith, "[Historical
-  Conceptions of Psychopathy in the United States and Europe,][9]" in
-  _Psychopathy: Antisocial, Criminal, and Violent Behavior,_ ed. Theodore
-  Millon, et al. (New York: The Guilford Press, 1998).
-
-- ["Sociopathy,"][1] Psychology Today, accessed Sep. 27, 2018.
-
-- Graham Richards, _Psychology: Key Concepts,_ (Oxon: Routledge, 2009).
-
-- ["-path,"][4] Wiktionary, accessed Sep. 27, 2018.
-
-- ["socio-,"][3] Wiktionary, accessed Sep. 27, 2018.
-
 ## Footnotes
 
 [1]: https://www.psychologytoday.com/us/basics/sociopathy
@@ -1267,3 +1368,30 @@ your own purposes will end in nothing but soaking your hands as well.
 [82]: https://emojipedia.org/apple/ios-6.0/fuel-pump/
 [83]: http://www.hma.co.nz/wp-content/uploads/2016/01/Chapter-7-Psychopathy-and-Risk-of-Violence.pdf
 [84]: https://www.hma.co.nz/resources/free-books/
+[85]: https://en.wikipedia.org/wiki/Timothy_Leary
+[86]: https://www.nytimes.com/1996/06/01/us/timothy-leary-pied-piper-of-psychedelic-60-s-dies-at-75.html?pagewanted=all
+[87]: https://en.wikipedia.org/wiki/Concord_Prison_Experiment
+[88]: https://en.wikipedia.org/wiki/Psilocybin
+[89]: https://maps.org/news-letters/v09n4/09410con.bk.html
+[90]: https://en.wikipedia.org/wiki/Richard_Nixon
+[91]: https://en.wikipedia.org/wiki/Hans_Eysenck
+[92]: https://mg.co.za/article/1997-09-12-scientist-or-showman
+[93]: https://www.dea.gov/sites/default/files/2018-07/1970-1975%20p%2030-39.pdf
+[94]: https://thepsychologist.bps.org.uk/volume-24/edition-4/looking-back-controversial-hans-eysenck
+[95]: https://www.nytimes.com/1997/09/10/world/hans-j-eysenck-81-a-heretic-in-the-field-of-psychotherapy.html
+[96]: http://medind.nic.in/daa/t13/i1/daat13i1p53.pdf
+[97]: /assets/img/assholes/leary.jpg
+[98]: https://en.wikipedia.org/wiki/Phil_McGraw
+[99]: https://www.youtube.com/user/KatiMorton
+[100]: https://en.wikipedia.org/wiki/Logan_Paul
+[101]: https://en.wikipedia.org/wiki/Jake_Paul
+[102]: https://upload.wikimedia.org/wikipedia/commons/5/5a/Shane_Dawson_%2814558760423%29_%282%29_%28cropped%29.jpg
+[103]: https://commons.wikimedia.org/wiki/File:Shane_Dawson_(14558760423)_(2)_(cropped).jpg
+[104]: https://www.flickr.com/photos/22007612@N05/14558760423
+[105]: https://en.wikipedia.org/wiki/VidCon
+[106]: https://www.youtube.com/watch?v=VSdyktUjZSI
+[107]: https://en.wikipedia.org/wiki/Diagnostic_and_Statistical_Manual_of_Mental_Disorders
+[108]: https://www.theravive.com/therapedia/antisocial-personality-disorder-dsm--5-301.7-(f60.2)
+[109]: https://www.theravive.com
+[110]: /assets/img/assholes/morton.jpg
+[111]: https://twitter.com/KatiMorton
