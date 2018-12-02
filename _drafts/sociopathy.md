@@ -191,13 +191,83 @@ her field[^120].
 [^119]: Dawson, _... Jake Paul_ 2: 10′.
 
 [^120]: David Porter, "[Antisocial Personality Disorder DSM-5 301.7
-        (F60.2)][108]," [theravive][109], March 2014.
+        (F60.2)][108]," [theravive][109], accessed Dec. 1, 2018.
 
-<https://twitter.com/shanedawson/status/1047998909648265216>
+Perhaps the first interesting analytical point made with regards to sociopathy
+comes when Morton mentions "social learning" and claims that sociopaths learn to
+mimic the actions of others without "feeling the feelings."[^121] Another common
+concept pertaining to sociopathy is eventually brought up (again referencing the
+DSM) with the mention of "narcissism." Morton describes narcissism as having a
+similar form of manipulation of others but with the perpetrator being capable of
+remorse and feeling empathy for others[^122].
 
-<https://twitter.com/shanedawson/status/1048000170053459969>
+[^121]: Dawson, _... Jake Paul_ 2: 17′.
 
-<https://twitter.com/shanedawson/status/1048000624145485824>
+[^122]: Dawson, _... Jake Paul_ 2: 24′.
+
+A statistic is mentioned at one point, one that is particularly interesting and
+thus deserves to be singled out here: about 1 in 25 (or around 4%) of people are
+sociopaths[^123].
+
+[^123]: Dawson, _... Jake Paul_ 2: 26′.
+
+"Empaths" are also mentioned, which Morton describes as the "opposite" of
+sociopaths as they have a higher than normal amount of empathy for others rather
+than none[^124]. She also claims that empaths are likely to attracts sociopaths
+since they are easily manipulated by them. This leads back to discussing
+"YouTubers" and people overlooking sociopathic behaviors[^125], a discussion
+that culminates in Dawson exclaiming "we're like detectives."[^126]
+
+[^124]: Dawson, _... Jake Paul_ 2: 30′.
+
+[^125]: Dawson, _... Jake Paul_ 2: 33′.
+
+[^126]: Dawson, _... Jake Paul_ 2: 35′.
+
+This series (including the six later episodes not discussed here) garnered a
+fair amount of backlash, some of which was immediately addressed by Dawson in a
+Snapchat story. He mentions the critique that the term "sociopath" is itself an
+issue and defends his usage by claiming his sources on the matter had assured
+him that people that the word describes are fundamentally incapable of being
+offended[^130]. He then also defends the lack of total factuality in the series
+for the purposes of entertainment[^130][^131]. Dawson then foes on to reference
+fiction, as is an oddly common act in the description of socio- and psychopathy,
+claiming that a work described but avoided labeling a sociopath and that this
+was indicative of people being secretive about sociopathy[^130]. The claim that
+people are hiding the truth of this matter was also indicated in the documentary
+series itself with the line "they don't talk about this in school."[^123]
+
+[^130]: Shane Dawson, Snapchat, [Sep. 28, 2018][116] (archived on YouTube).
+
+[^131]: This point is an outlier here in that it will not be addressed in this
+        work, but may be addressed in works on this site in the future.
+
+In further response to the backlash to the series, Dawson posted several tweets
+defending the tone of the series. Initially exonerating Morton by stating her
+appearance was meant to be "relaxed and real" and that she was not responsible
+for the editing that framed the whole conversation in an odious manner[^127]. He
+then went on to defend his framing of sociopaths as a whole, claiming he did not
+mean to describe sociopaths themselves as "gross" but still stands by his
+describing the discussion of sociopathy and its symptoms to be as
+such[^128][^129].
+
+[^127]: Shane Dawson ([@shanedawson][112]), "Kati is my friend and i wanted our
+        conversation to be relaxed and real. we both got comfortable and didn’t
+        think everything through. but i think the music and b roll just enhanced
+        everything which was 100% my fault. she didn’t know i was gonna do that.
+        🙏🏻❤️," Twitter, [Oct. 4, 2018][113].
+
+[^128]: Shane Dawson ([@shanedawson][112]), "i’ve suffered from bulimia, body
+        dysmorphia and depression for the last 15 years. i would 100% consider
+        the feeling i have when talking about those things to be “creepy”
+        “gross” and “icky”. it’s not me that’s icky. it’s the feeling i get when
+        describing them. i totally (1/2)," Twitter, [Oct. 4, 2018][114].
+
+[^129]: Shane Dawson ([@shanedawson][112]), "(2/2) understand why people are
+        upset but i think it’s important to see it from all sides. are
+        sociopaths gross? no. does it feel gross when u think about a sociopath
+        acting out one of the symptoms? depends on who you are. but once again,
+        i shouldn’t have made it scary 1000% 🙏🏻," Twitter, [Oct. 4, 2018][115].
 
 The language discussed here is always an issue, something that comes up quite
 often (especially around the time of mass shootings here in the U.S. when many
@@ -1395,3 +1465,8 @@ your own purposes will end in nothing but soaking your hands as well.
 [109]: https://www.theravive.com
 [110]: /assets/img/assholes/morton.jpg
 [111]: https://twitter.com/KatiMorton
+[112]: https://twitter.com/shanedawson
+[113]: https://twitter.com/shanedawson/status/1047998909648265216
+[114]: https://twitter.com/shanedawson/status/1048000170053459969
+[115]: https://twitter.com/shanedawson/status/1048000624145485824
+[116]: https://www.youtube.com/watch?v=bCN3IjzhNOA
