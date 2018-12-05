@@ -8,7 +8,7 @@ tags: >
     history mental-illness psychology criminology psychiatry eugenics nosology
     epidemiology penology etiology pseudo-science teleology homophobia bigotry
     transphobia
-title: Psychopathy, Sociopathy, & Demonization
+title: The False Paragon of Evil
 ---
 
 **Content Warning/Trigger Warning: this article contains discussion and
@@ -71,6 +71,14 @@ psychopath based on publicly displayed views or actions.
        but the effort required to compile them outweighs the amount it would add
        to this work as a whole.
 
+<https://www.politico.com/magazine/story/2018/06/23/washington-dc-the-psychopath-capital-of-america-218892>
+
+<https://www.tallahassee.com/story/news/2018/11/04/tallahassee-gunman-gave-off-psychopath-vibe-substitute-teacher/1884582002/>
+
+<https://www.alternet.org/ex-cia-operative-explains-why-trump-white-house-wont-hold-psychopath-saudi-crown-prince-accountable>
+
+<https://kdvr.com/2018/08/21/could-chris-watts-be-a-psychopath/>
+
 Perhaps more blatant an example of this as well as an explanation of some
 popular perceptions of "psychopathic personality" specifically is this passage
 from chapter eight of Kurt Vonnegut's _A Man Without A Country_[^94]:
@@ -80,14 +88,16 @@ from chapter eight of Kurt Vonnegut's _A Man Without A Country_[^94]:
 
 > _George W. Bush has gathered around him [...] psychopathic personalities, or
   PPs, the medical term for smart, personable people who have no consciences.
-  To say somebody is a PP is to make a perfectly respectable diagnosis, like
-  saying he or she has appendicitis or athlete’s foot. [...] PPs are
+  To say somebody is a PP[^132] is to make a perfectly respectable diagnosis,
+  like saying he or she has appendicitis or athlete’s foot. [...] PPs are
   presentable, they know full well the suffering their actions may cause others,
   but they do not care. They cannot care because they are nuts. They have a
   screw loose! [...] So many of these heartless PPs now hold big jobs in our
   federal government, as though they were leaders instead of sick. They have
   taken charge. They have taken charge of communications and the schools, so we
   might as well be Poland under occupation._
+
+[^132]: Haha, "PP."
 
 However, at the time of writing this, the most likely place you'll find either
 of the topical terms is a number of articles pertaining to [Shane Dawson][64]'s
@@ -298,12 +308,15 @@ conception.
        (often including myself) to be killed off, so some time to process is
        forgivable, in my opinion.
 
-<br><br>
+<https://www.psychologytoday.com/us/blog/unique-everybody-else/201809/are-psychopaths-unfairly-stigmatized>
+
+<br>
 
 Thanks to the group chats currently or formerly known as "Sinking
-Barge🚢🌊⚓️suicide🔪cult🕯[#GangGang][61]", "𝕲𝖊𝖘𝖊𝖑𝖑𝖘𝖈𝖍𝖆𝖋𝖙𝖘𝖋𝖊𝖎𝖓𝖉𝖊
-𝕲𝖆𝖓𝖌"[^80], and "ＳＰＡＣＥ ＡＮＡＲＣＨＩＳＴ ⛽🅰️🆖⛽🅰️🆖"[^70] for putting up
-with my constant complaints while researching this topic.
+Barge🚢🌊⚓️suicide🔪cult🕯[#GangGang][61]" (and its successor "🐌🏴"),
+"𝕲𝖊𝖘𝖊𝖑𝖑𝖘𝖈𝖍𝖆𝖋𝖙𝖘𝖋𝖊𝖎𝖓𝖉𝖊 𝕲𝖆𝖓𝖌"[^80], and "ＳＰＡＣＥ ＡＮＡＲＣＨＩＳＴ
+⛽🅰️🆖⛽🅰️🆖"[^70] for putting up with my constant complaints while
+researching this topic.
 
 [^70]: For those yet unaware (\*cough\* \*cough\* Nathan), the emoji combination
        "⛽🅰️🆖" is read as "gang," older versions of ⛽ on iOS had a "G" on the
@@ -1169,11 +1182,18 @@ such as castration for those who had committed sexual crimes[^96].
 
 ### I-4. Standardization
 
+The late 20<sup>th</sup> century saw a more distinct split in concepts of
+psychopathy/sociopathy than past eras, in the interest of properly describing
+both camps we'll cover both trends simultaneously. This is not completely unique
+from the previous sections as there were often tangents, deviations, and splits;
+however, the splits present here have propagated to our modern conceptions,
+adding in a greater necessity to track them.
+
 **Millon**
 
 **Hare**
 
----
+<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3811085/>
 
 Shit by Hare about his fucking PCL-R:
 
@@ -1351,6 +1371,8 @@ your own purposes will end in nothing but soaking your hands as well.
    Conceptions of Psychopathy in the United States and Europe,][9]" in
    _Psychopathy: Antisocial, Criminal, and Violent Behavior,_ ed. Theodore
    Millon, et al. (New York: The Guilford Press, 1998).
+
+<!-- Аве Луна -->
 
 ## Footnotes
 
