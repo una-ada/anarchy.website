@@ -1,6 +1,9 @@
 ---
 author: tjhoglund
+entry: 13
 layout: post
+series: uwrfvoice
+set: 102
 title: The feasibility of spontaneously morphing into an octopus
 tags: column student-voice
 ---

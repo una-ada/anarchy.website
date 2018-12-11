@@ -1,6 +1,8 @@
 ---
 author: trewbot
+entry: "001"
 layout: post
+series: atil
 title: ATIL Issue 001 Glossary
 tags: atil glossary
 ---

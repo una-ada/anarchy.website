@@ -1,9 +1,11 @@
 ---
 author: trewbot
 description: >
-
+    
+entry: 1
 layout: post
 license: BY-SA
+series: langandpsych
 tags: >
     history mental-illness psychology criminology psychiatry eugenics nosology
     epidemiology penology etiology pseudo-science teleology homophobia bigotry

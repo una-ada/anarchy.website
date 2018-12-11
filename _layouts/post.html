@@ -3,6 +3,12 @@
 {%include head.html%}
 <body>
     {%include header.html%}
+    {%if page.series%}
+        {%assign ser = site.data.series[page.series]%}
+        <div class="series">
+            {%if ser.url%}<a href="{{ser.url}}">{%endif%}<em>{{ser.title}}</em>{%if ser.url%}</a>{%endif%}{%if ser.set%} {{ser.set}} {{page.set}},{%endif%} {%if ser.entry%}{{ser.entry}} {%endif%}{{page.entry}}
+        </div>
+    {%endif%}
     <h1>{{page.title}}</h1>
     <div class="byline">
         {%if page.author%}
