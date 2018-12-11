@@ -8,7 +8,7 @@ description: >
     and absentee ownership.
 layout: post
 permalink: /podcast/1/transcript
-tags: podcast transcript collaboration
+tags: podcast transcript collaboration shoplifting property leftism culture
 title: "Goth Angel Sinners Pt. I: <i>Shoplifting</i> Transcript"
 ---
 
@@ -181,6 +181,106 @@ title: "Goth Angel Sinners Pt. I: <i>Shoplifting</i> Transcript"
 		<td>[0:08:11]</td>
 		<td>Employees.</td>
 	</tr>
+    <tr>
+        <td><b>Trewbot</b></td>
+        <td>[0:08:13]</td>
+        <td>But, uhh, th-the fact is that, uhh, a lot of these things in order to steal you have to walk in with the intent, because it's going to be a lot of... an uphill battle essentially because they are in locked cases, that you're going to basically have to picklock, while probably under surveillance, and like sneak it out under that; so I don't think that it's really a, uhh, a reasonable thing to be like "oh all shoplifters are stealking these specific things that are predicted to be shoplifted but actually aren't because they're in locked cases."</td>
+    </tr>
+    <tr>
+        <td><b>Chloe</b></td>
+        <td>[0:08:49]</td>
+        <td>Yeah, I was also trying to find... statistics about employees being punished or fired for&mdash; because of shoplifters, or, like, if that is even legal to do.</td>
+    </tr>
+    <tr>
+        <td><b>Trewbot</b></td>
+        <td>[0:09:02]</td>
+        <td>Yeah.</td>
+    </tr>
+    <tr>
+        <td><b>Chloe</b></td>
+        <td>[0:09:03]</td>
+        <td>And... I... went through like twenty pages of Google results, so you know it's&mdash; it's real, uhh, data... just so you know I did the real research.</td>
+    </tr>
+    <tr>
+        <td><b>Trewbot</b></td>
+        <td>[0:09:14]</td>
+        <td>Yeah, hardcore.</td>
+    </tr>
+    <tr>
+        <td><b>Chloe</b></td>
+        <td>[0:09:16]</td>
+        <td>But I literally didn't&mdash; I couldn't find anything about that, because all I found, all the results, were, uh, articles about employees being fired for pursuing shoplifters... or, think pieces and blog posts from conservatives who said, who were saying that shoplifting hurts workers without evidence.</td>
+    </tr>
+    <tr>
+        <td><b>Trewbot</b></td>
+        <td>[0:09:39]</td>
+        <td>Right, umm, no that's the uh... the thing that I've, uh, ended up discussing a lot, is the fact that, and mostly because I did right that and people tried nitpicking that specific part of... companies can't, uh, really... tell employees to seek shoplifters, because...</td>
+    </tr>
+    <tr>
+        <td><b>Trewbot</b></td>
+        <td>[0:10:01]</td>
+        <td>Essentially, so th-this is going to be extremely like a little, little story here. Let's imagine, in theory, that you're working retail, you're behind a counter or something like that, and you see someone slip something into their pocket. What do you have, at your disposal, that allows you to stop this person? You can walk up to them and confront them verbally, which is... harassment. And... that's all you can do, you can harass them, which... if you're wrong you're definitely going to get charged with that, and if you're right you're probably going to get charged with that. And... alternatively you can try to physically stop them or take the item away from them, which is assault (or batter or whatever I don't... care). Um...</td>
+    </tr>
+    <tr>
+        <td><b>Trewbot</b></td>
+        <td>[0:10:49]</td>
+        <td>And, so, the company can't encourage that, because telling your employees to do illegal things typically leads to a lot of shit, from a legal perspective, and companies typically prefer to, path of least resistance kind of thing, not to do illegal stuff (for the most part) especially when it comes to employees because they are extremely a liability so... the company will more likely fire you for doing that because now they're liable for the fact that you're harassing people in their store, than encourage you to do it.</td>
+    </tr>
+    <tr>
+        <td><b>Trewbot</b></td>
+        <td>[0:11:28]</td>
+        <td>And, of course, uh, discussing this got people to bring up this whole thing of like "well you mentioned loss prevention workers as a separate group of people, what makes them different?" And, the difference is that loss prevention workers are allowed to, typically through some liability or something like that, according to law, stop someone who they are at-at least a certain amount confident that that person took merchandise past a point of sale (which, depending on your state, is either, like, the cash register or the doors). And so, what they're allowed to do is... essentially detain you, but there's like a limitation on how much force they can use and, of course, that's all very fuzzy, but nonetheless they, unlike the rest of the retail staff, are allowed to grab and detain someone that they believe shoplifted while calling the actual police; whereas all the rest of the staff can do (without, of course, getting like fired or charge) is just report it, like take down license plate numbers kind of thing. So that's... that's why you-you're more likely to get fired than... encouraged to do that.</td>
+    </tr>
+    <tr>
+        <td><b>Chloe</b></td>
+        <td>[0:12:41]</td>
+        <td>Yeah... it d&mdash; it doesn't... it doesn't do anything to workers.</td>
+    </tr>
+    <tr>
+        <td><b>Trewbot</b></td>
+        <td>[0:12:46]</td>
+        <td>Yeah...</td>
+    </tr>
+    <tr>
+        <td><b>Chloe</b></td>
+        <td>[0:12:47]</td>
+        <td>It's almost as if the idea that shoplifting hurts workers... is just, like... a scam, pushed by those with institutional power int&mdash; in, in order to get those that ha&mdash; that they have institutional power over to hate people with no power....</td>
+    </tr>
+    <tr>
+        <td><b>Chloe</b></td>
+        <td>[0:13:08]</td>
+        <td>Isn't that funny... how that works?</td>
+    </tr>
+    <tr>
+        <td><b>Trewbot</b></td>
+        <td>[0:13:13]</td>
+        <td>Essentially, uhh, because they can't directly encourage someone to try to stop shoplifters, the best they can do is hope you do it on your own... or, like, feel the need to actually report it, because... I don't really have the numbers on this, and it'd probably be hard to even gather accurate numbers on this, but I feel like more people view it as a hassle to report theft they notice than as like a&mdash; it's something that they absolutely have to do. So, by creating this sort of, like, notion that "well, if shoplifting continues, you're the one who's going to be hurt." It's motivating through punishment. I would argue... that... punishment is really the only thing they can do there, because they can't really... like, pay you more to do it, because then they're encouraging those illegal acts, as previously stated. So, really&mdash;</td>
+    </tr>
+    <tr>
+        <td><b>Chloe</b></td>
+        <td>[0:14:13]</td>
+        <td>They're also just not going to pay you for doing that anyway, like&mdash;</td>
+    </tr>
+    <tr>
+        <td><b>Trewbot</b></td>
+        <td>[0:14:17]</td>
+        <td>Right, well, they, like... yeah... 'cause it's&mdash;</td>
+    </tr>
+    <tr>
+        <td><b>Chloe</b></td>
+        <td>[0:14:21]</td>
+        <td>&mdash;they don't want to pay you more. [chuckles] Another thing, umm, is that businesses... if-if employees don't report shoplfifting that they see, then businesses don't know that things are missing... until one times a year when they take inventory. </td>
+    </tr>
+    <tr>
+        <td><b>Trewbot</b></td>
+        <td>[0:14:41]</td>
+        <td>Well, could be more often depending on the company, but yeah...</td>
+    </tr>
+    <tr>
+        <td><b>Chloe</b></td>
+        <td>[0:14:45]</td>
+        <td>Ok, yeah, it depends on the company. Umm, all my friends who work in retail said they d-do inventory, uh, once a year. In whi&mdash; but, in which case, like, they have no idea when, like, things went missing; and therefore have no idea which employees let the shoplifters go unreported.</td>
+    </tr>
 </table>
 
 <!--
