@@ -15,3 +15,8 @@ uwrfvoice:
     title: Student Voice
     type: publication
     url: https://uwrfvoice.com/
+acmmin:
+    abbr: UWRF ACM
+    entry: Meeting
+    title: UWRF ACM Chapter
+    type: series
