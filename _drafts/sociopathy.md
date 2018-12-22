@@ -1,7 +1,7 @@
 ---
 author: trewbot
 description: >
-    
+
 entry: 1
 layout: post
 license: BY-SA
@@ -9,7 +9,7 @@ series: langandpsych
 tags: >
     history mental-illness psychology criminology psychiatry eugenics nosology
     epidemiology penology etiology pseudo-science teleology homophobia bigotry
-    transphobia
+    transphobia personality-disorders
 title: The False Paragon of Evil
 ---
 
@@ -1102,25 +1102,67 @@ of sexual psychopathy would be reliant on such definitions[^88].
 
 [^88]: Karpman, "The Sexual Psychopath," 184.
 
-By the late '80s, the aforementioned denotation of "sexual psychopath" would
-lose what little
-favor it had retained since its denunciation by Karpman and Cleckley, as is
-evident by this comment in the 5<sup>th</sup> edition of Cleckley's _Mask of
-Sanity_[^7]:
+### I-4. Standardization
 
-> "_When the first edition of this book was written it had for many years been
-  customary to use the term sexual psychopath to designate homosexuals, sadists,
-  masochists, and also people specifically inclined towards exhibitionism,
-  voyeurism, fetishism, cross-dressing, and pedophilia. Included at times with
-  these deviations under the concept of sexual psychopathy were also types of
-  abnormal behavior designated as erotomania and sexual immaturity. For many
-  years before and after the initial publication of the_ Mask of Sanity _this
-  custom had authoritative sanction in our nomenclature._"
+The late 20<sup>th</sup> century saw a more distinct split in concepts of
+psychopathy/sociopathy than past eras, in the interest of properly describing
+both camps we'll cover both trends simultaneously. This is not completely unique
+from the previous sections as there were often tangents, deviations, and splits;
+however, the splits present here have propagated to our modern conceptions,
+adding in a greater necessity to track them.
 
-[^7]: Cleckley, _The Mask of Sanity_, 286.
+As a continuation of its pre-World War II mission of aiding the US Bureau of the
+Census in gathering data on the frequency of mental illnesses (and by necessity
+producing definitions of illnesses to be used in gathering said statistics), the
+[American Psychiatric Association (APA)][118] Committee on Nomenclature and
+Statistics developed the first edition of its [_Diagnostic and Statistical
+Manual of Mental Disorders (DSM)_][119] in 1952.[^133] This initial _DSM_ was
+effectively the APA's version of the sixth edition of the [World Health
+Organization (WHO)][120]'s [_International Statistical Classification of
+Diseases and Related Health Problems (ICD)_][121], developed shortly beforehand
+and itself influenced by the Veterans Administration's classifications to aid in
+the treatment of servicemen and veterans of World War II.[^133] The definition
+of "personality disorder" used in the Manual at the time listed four
+subtypes:[^134]
+
+[^133]: "[_DSM_ History,][117]" American Psychiatric Association, Accessed Dec.
+        20, 2018.
+
+[^134]: Hildebrand, _Psychopathy..._, 9.
+
+1. Personality pattern disturbances.
+2. Personality trait disturbances.
+3. Sociopathic personality disturbances.
+4. Special symptom reactions.
+
+The third entry here being of particular interest to this work, the definition
+of which included several categories of "reactions": antisocial reaction,
+dyssocial reaction, sexual deviation, and addiction (alcoholism and drug
+addiction).[^135] Once again we see here the inclusion of "sexual deviance,"
+further described as:[^136]
+
+[^135]: The Committee on Nomenclature and Statistics of the American
+        Psychiatric Association, _Diagnostic and Statistical Manual: Mental
+        Disorders_ (Massachusetts: American Psychiatric Association Mental
+        Hospital Service, 1952), 38.
+
+[^136]: APA, _DSM_, 39.
+
+> "_[Sexual deviation] is reserved for deviant sexuality which is not
+  symptomatic of more extensive syndromes, such as schizophrenic and obsessional
+  reactions. The term includes most of the cases formerly classed as
+  "psychopathic personality with pathologic sexuality." The diagnosis will
+  specify the type of the pathologic behavior, such as homosexuality,
+  transvestism, pedophilia, fetishism and sexual sadism (including rape, sexual
+  assault, mutilation)._"
+
+The _DSM_'s definitions often included the term "reaction" which was indicative
+of the influence of Adolf Meyer (from Section I-4.)'s conception of mental
+illness as the way in which a personality reacts to psychological, social, and
+biological factors.[^133]
 
 ![Timothy Leary][97]
-Timothy Leary while arrested by the Drug Enforcement Administration.<br>_Source:
+Timothy Leary being arrested by the Drug Enforcement Administration.<br>_Source:
 [dea.gov][93]._
 {: .pullquote .image .left}
 
@@ -1128,11 +1170,11 @@ In 1957, [Timothy Leary][85] published _Interpersonal Diagnosis of Personality:
 A Functional Theory and Methodology for Personality Evaluation_, in which he
 described a category of personality disorders that are motivated by a social
 adjustment through rebellion, a desire to retain uniqueness and individuality
-during periods of otherwise social development[^97]. Leary was at one point
-labeled the "most dangerous man in America" by [Richard Nixon][90][^98], due to
+during periods of otherwise social development.[^97] Leary was at one point
+labeled the "most dangerous man in America" by [Richard Nixon][90],[^98] due to
 his influence in the use of psychedelics, including the [Concord Prison
 Experiment][87] which tested the effects of [psilocybin][88]-assisted
-psychotherapy on recidivism rates[^99].
+psychotherapy on recidivism rates.[^99]
 
 [^97]: Millon et al., "Historical Conceptions...," 20.
 
@@ -1145,15 +1187,15 @@ psychotherapy on recidivism rates[^99].
 
 [Hans Eysenck][91]'s work throughout the '50s similarly challenged the
 traditional models of psychopathy and personality while not completely disposing
-of the concept of a constitutional disposition[^97]. **Need to actually talk
+of the concept of a constitutional disposition.[^97] **Need to actually talk
 about Eysenck's concepts of personality.**
 
-Similar to Leary[^101], Eysenck was very controversial in his time (and still is
-to this day)[^103]. The divergence of the two is evident in that the phrase
+Similar to Leary,[^101] Eysenck was very controversial in his time (and still is
+to this day).[^103] The divergence of the two is evident in that the phrase
 "fights with the establishment" is used for the latter to refer to his rejection
-of Freudian psychoanalysis[^100], criticism of psychotherapy[^105], claims that
+of Freudian psychoanalysis,[^100] criticism of psychotherapy,[^105] claims that
 the link between tobacco and cancer was based on personality rather than
-carcinogens[^100], and support of eugenicist models of intelligence[^104].
+carcinogens,[^100] and support of eugenicist models of intelligence.[^104]
 
 [^101]: Leary's controversies were, of course, the cool getting arrested by the
         DEA[^102] kind rather than the very uncool eugenics kind.
@@ -1172,28 +1214,158 @@ carcinogens[^100], and support of eugenicist models of intelligence[^104].
 [^104]: William H. Honan, "[Hans J. Eysenck, 81, a Heretic In the Field of
         Psychotherapy][95]," The New York _Times_, Sep. 10, 1997.
 
+Joan and William McCord's _The psychopath: an essay on the criminal mind_ (1964)
+described psychopathy as having the defining characteristics of guiltlessness
+and lovelessness.[^137]
+
+[^137]: Hildebrand, _Psychopathy..._, 7.
+
+![Lee N. Robins][124]
+Lee N. Robins<br>_Source: [Becker Medical Library][125]._
+{: .pullquote .image}
+
+The empirical research done by [Lee N. Robins][122] in 1966, published under the
+title _Deviant Children Grown Up: A Sociological and Psychiatric Study of
+Sociopathic Personality_, indicated that antisocial behavior in childhood was a
+greater predictor of alcoholism, incarceration, or other problems in adulthood
+than childhood fears or depression.[^138] This publication was, in the words of
+Felton James Earls, "a major contributor to lifting psychiatry out of its deep
+morass of diagnostic and therapeutic abstractions into the realm of scientific
+rationale and empirical methods."[^139] As per its relevance to the study and
+operationalization of psychopathy and its adjacent concepts, _Deviant Children_
+affirmed the view of antisocial behavior as a personality disorder[^139] and in
+doing so showed the limitations of the diagnostic criteria given by the
+_DSM-I_,[^140] later going on to heavily influence the criteria in the
+_DSM-II_[^141] with her removal of "criteria that could not be operationalized
+for research purposes."[^142]
+
+[^138]: Linda B. Cottler, Darrel A. Regier, John E. Helzer, Felton James Earls,
+        J. Elisabeth Wells, Norman Sartorius, Michael Rutter, Paul Bebbington,
+        and Charles F. Zorumski, "A tribute to Lee Nelken Robins: from
+        colleagues and friends," _Social Psychiatry and Psychiatric
+        Epidemiology_ 45, 7 (July 2010): 681-693.
+
+[^139]: Cottler et al., "... Lee Nelken Robins ...," 686.
+
+[^140]: Nancy D. Campbell, "[The spirit of St Louis: the contributions of Lee N.
+        Robins to North American psychiatric epidemiology,][123]" _International
+        Journal of Epidemiology_ 2014: i19-i28.
+
+[^141]: Hildebrand, _Psychopathy..._, 10.
+
+[^142]: Campbell, "The spirit of St Louis...," i21.
+
+The revisions made between the _DSM-I_ and the _DSM-II_ in 1968 were relatively
+insignificant. To combat the lack of acceptance seen by the _ICD_(-6 and -7)'s
+the WHO had commissioned a committee (headed by [Erwin Stengel][126]) to review
+issues with the diagnostic criteria in the _ICD_; while this review was highly
+influential in its own right, neither the _ICD-8_ nor the _DSM-II_ took any
+major direction from it.[^133] The language of "reaction" and the idea of
+reactivity that was present in the _DSM-I_ was removed in the _DSM-II_, removing
+the implications of Meyer's psychobiological models from the criteria.[^134]
+Personality disorders were, however, significantly renovated in the update,
+including the creation of "antisocial personality" as a category of personality
+disorder that subsumed the antisocial and dyssocial reactions.[^134] The
+redefinition of reactions that were listed in the _DSM-I_ as different
+manifestations of one of the then four categories of personality disorders
+contributed to the jump from four to ten (plus two additional "unspecified"
+types) types of personality disorder:[^143]
+
+[^143]: The Committee on Nomenclature and Statistics of the American
+        Psychiatric Association, _Diagnostic and Statistical Manual: Mental
+        Disorders_ Second Edition (Washington, D.C.: American Psychiatric
+        Association Mental, 1968), 41.
+
+1. Paranoid personality
+2. Cyclothymic personality (affective personality)
+3. Shizoid personality
+4. Explosive personality (epileptoid personality disorder)
+5. Obsessive compulsive personality (anankastic personality)
+6. Hysterical (histrionic personality disorder)
+7. Asthenic personality
+8. Antisocial personality
+9. Passive-aggressive personality
+10. Inadequate personality
+11. Other personality disorders of specified types (immature personality)
+12. Unspecified personality disorder
+
+Additionally, sexual deviations that were previously included under "sociopathic
+personality disturbances" were put into the separate section "302 Sexual
+Deviations," giving the listed types of disturbances as homosexuality,
+fetishism, pedophilia, transvestism, exhibitionism, voyeurism, sadism,
+masochism, and other and unspecified sexual deviation.[^144] Addiction was
+similarly separated form personality disorders and put into sections 303 and
+304, for alcoholism and drug dependence respectively;[^145] the latter group was
+also then given diagnoses for specific substances or substance types, opium,
+cocaine, cannabis, and barbiturates being a few of those included.[^146]
+
+[^144]: APA, _DSM-II_, 44.
+
+[^145]: APA, _DSM-II_, 45.
+
+[^146]: APA, _DSM-II_, 46.
+
+<https://www.cdc.gov/nchs/data/misc/classification_diseases2011.pdf>
+
+<https://www.who.int/classifications/icd/en/HistoryOfICD.pdf>
+
+<https://pdfs.semanticscholar.org/6d77/9c1f7692524f0c1051a7e65840a46a4f6f29.pdf>
+
 Georg K. Stürup described work in attempting to treat personality disorders in
 his 1968 work _Treating the 'Untreatable': Chronic Criminals at Herstedvester_;
 this was for the most part an effort to get those at the Herstedvester Detention
-Center to improve through voluntary treatment[^96]. He proposed that a belief in
+Center to improve through voluntary treatment.[^96] He proposed that a belief in
 improvement held by the detainee would increase the success rate of the
 treatment. Notably, some treatments included psychopharmacological elements,
-such as castration for those who had committed sexual crimes[^96].
+such as castration for those who had committed sexual crimes.[^96]
 
 [^96]: Millon et al., "Historical Conceptions...," 19.
 
-### I-4. Standardization
+**Millon (1969)**
 
-The late 20<sup>th</sup> century saw a more distinct split in concepts of
-psychopathy/sociopathy than past eras, in the interest of properly describing
-both camps we'll cover both trends simultaneously. This is not completely unique
-from the previous sections as there were often tangents, deviations, and splits;
-however, the splits present here have propagated to our modern conceptions,
-adding in a greater necessity to track them.
+**Millon (1974)**
 
-**Millon**
+**DSM-III (1980)**
 
-**Hare**
+**Hare, PCL (1980)**
+
+By the late '80s, the aforementioned denotation of "sexual psychopath" would
+have lost what little favor it had retained since its denunciation by Karpman
+and Cleckley, as is evident by this comment in the 5<sup>th</sup> edition of
+Cleckley's _Mask of Sanity_ (1988):[^7]
+
+> "_When the first edition of this book was written it had for many years been
+  customary to use the term sexual psychopath to designate homosexuals, sadists,
+  masochists, and also people specifically inclined towards exhibitionism,
+  voyeurism, fetishism, cross-dressing, and pedophilia. Included at times with
+  these deviations under the concept of sexual psychopathy were also types of
+  abnormal behavior designated as erotomania and sexual immaturity. For many
+  years before and after the initial publication of the_ Mask of Sanity _this
+  custom had authoritative sanction in our nomenclature._"
+
+[^7]: Cleckley, _The Mask of Sanity_, 286.
+
+**Weiner (1991)**
+
+**Hare, PCL-R (1991)**
+
+**ICD-10 (1992)**
+
+**Blackburn (1993)**
+
+**DSM-IV (1994)**
+
+**Fitzpatrick (1995)**
+
+**Eysenck (1998)**
+
+**Herpertz and Sass (2000)**
+
+**Cooke and Michie (2001)**
+
+**Andrews and Bonta? (2003)**
+
+---
 
 <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3811085/>
 
@@ -1274,6 +1446,14 @@ Descriptions of psychopathy:
 
 <http://www.psychiatrictimes.com/articles/paradox-psychopathy>
 
+Good critiques or w/e:
+
+Psychopathic disorder: a category mistake?:
+<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1376001/pdf/jmedeth00277-0023.pdf>
+
+Mediated Psychopathy—A Critical Discourse Analysis of Newspaper Representations
+of Aggression:
+<http://www.kritike.org/journal/issue_8/paulsen_december2010.pdf>
 
 ## III. _The Pseudo-Sciences_
 
@@ -1444,11 +1624,11 @@ your own purposes will end in nothing but soaking your hands as well.
 [64]: https://en.wikipedia.org/wiki/Shane_Dawson
 [65]: https://www.youtube.com
 [66]: https://www.youtube.com/watch?v=9bpkr91p2xY&list=PLDs0tNoNYTz1P3dO8m5Wdv0WE2lPTQSJm
-[67]: /assets/img/assholes/cleckley.jpg
+[67]: /assets/img/people/cleckley.jpg
 [68]: https://www.augusta.edu/library/greenblatt/archives/findaid/cleckley/hcleckley.htm
-[69]: /assets/img/assholes/birnbaum.jpeg
+[69]: /assets/img/people/birnbaum.jpeg
 [70]: http://www.peoples.ru/science/psihology/birnbaum/
-[71]: /assets/img/assholes/schneider.jpg
+[71]: /assets/img/people/schneider.jpg
 [72]: https://www.uni-ulm.de/med/med-medgeschichte/forschung/drittmittelprojekte/kurt-schneiders-1887-1967-korrespondenzen/
 [73]: https://upload.wikimedia.org/wikipedia/commons/d/d2/E._Kraepelin.jpg
 [74]: https://commons.wikimedia.org/wiki/File:E._Kraepelin.jpg
@@ -1474,7 +1654,7 @@ your own purposes will end in nothing but soaking your hands as well.
 [94]: https://thepsychologist.bps.org.uk/volume-24/edition-4/looking-back-controversial-hans-eysenck
 [95]: https://www.nytimes.com/1997/09/10/world/hans-j-eysenck-81-a-heretic-in-the-field-of-psychotherapy.html
 [96]: http://medind.nic.in/daa/t13/i1/daat13i1p53.pdf
-[97]: /assets/img/assholes/leary.jpg
+[97]: /assets/img/people/leary.jpg
 [98]: https://en.wikipedia.org/wiki/Phil_McGraw
 [99]: https://www.youtube.com/user/KatiMorton
 [100]: https://en.wikipedia.org/wiki/Logan_Paul
@@ -1487,10 +1667,20 @@ your own purposes will end in nothing but soaking your hands as well.
 [107]: https://en.wikipedia.org/wiki/Diagnostic_and_Statistical_Manual_of_Mental_Disorders
 [108]: https://www.theravive.com/therapedia/antisocial-personality-disorder-dsm--5-301.7-(f60.2)
 [109]: https://www.theravive.com
-[110]: /assets/img/assholes/morton.jpg
+[110]: /assets/img/people/morton.jpg
 [111]: https://twitter.com/KatiMorton
 [112]: https://twitter.com/shanedawson
 [113]: https://twitter.com/shanedawson/status/1047998909648265216
 [114]: https://twitter.com/shanedawson/status/1048000170053459969
 [115]: https://twitter.com/shanedawson/status/1048000624145485824
 [116]: https://www.youtube.com/watch?v=bCN3IjzhNOA
+[117]: https://www.psychiatry.org/psychiatrists/practice/dsm/history-of-the-dsm
+[118]: https://www.psychiatry.org
+[119]: https://www.psychiatry.org/psychiatrists/practice/dsm
+[120]: https://www.who.int
+[121]: https://www.who.int/classifications/icd/en/
+[122]: https://en.wikipedia.org/wiki/Lee_Robins
+[123]: https://pdfs.semanticscholar.org/6d77/9c1f7692524f0c1051a7e65840a46a4f6f29.pdf
+[124]: https://upload.wikimedia.org/wikipedia/en/4/4f/Lee_Robins.jpg
+[125]: http://beckerexhibits.wustl.edu/women/robins.htm
+[126]: https://en.wikipedia.org/wiki/Erwin_Stengel
