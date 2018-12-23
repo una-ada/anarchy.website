@@ -56,7 +56,7 @@ one's self to have clinical depression due to a period of lost motivation or to
 have an anxiety disorder due to an unwillingness to speak in front of crowds),
 these terms are more typically used to diagnose others. In its most extreme we
 see this concept manifested in news media, be it about criminals or
-politicians[^81]. See, for example, a recent [Huffington Post][62] article[^82]
+politicians.[^81] See, for example, a recent [Huffington Post][62] article[^82]
 titled "Twitter Explodes After 'Psychopath' Donald Trump Cheers Body-Slamming
 of Reporter," where the term "psychopath" is mirrored from a tweet quoted within
 the content of the article, but nonetheless is used to call a politician a
@@ -83,7 +83,7 @@ psychopath based on publicly displayed views or actions.
 
 Perhaps more blatant an example of this as well as an explanation of some
 popular perceptions of "psychopathic personality" specifically is this passage
-from chapter eight of Kurt Vonnegut's _A Man Without A Country_[^94]:
+from chapter eight of Kurt Vonnegut's _A Man Without A Country_:[^94]
 
 [^94]: Kurt Vonnegut, _A Man Without a Country_, ed. Deniel Simon, (New York:
        Seven Stories Press, 2005).
@@ -104,7 +104,7 @@ from chapter eight of Kurt Vonnegut's _A Man Without A Country_[^94]:
 However, at the time of writing this, the most likely place you'll find either
 of the topical terms is a number of articles pertaining to [Shane Dawson][64]'s
 recent documentary series on the [YouTube][65] platform: [_The Mind of Jake
-Paul_][66][^83].
+Paul_][66].[^83]
 
 [^83]: Shane Dawson, [_The Mind of Jake Paul_][66], YouTube, 2018
 
@@ -125,7 +125,7 @@ Less than seven minutes into the first episode the viewer will see what
 constituted a large portion of the controversy surrounding this series, that
 being the tone with which it presents the concept of sociopathy. Here this tone
 is made blatantly clear with the word "sociopath" plastered on screen in a
-manner that presents it as shocking and scary[^106]. He goes on to say he did
+manner that presents it as shocking and scary.[^106] He goes on to say he did
 not intend to make a documentary about [Jake Paul][101] but broadly about
 sociopaths[^110] which he describes as "someone who doesn't have a sense of
 morality... [who enjoys] manipulating people."[^107]
@@ -145,8 +145,8 @@ Phil" McGraw][98] who claims "[sociopaths] don't get better." Dawson then also
 cites a therapist, [Kati Morton][99], who he had previously been in contact with
 and who later in the episode begins consulting on the documentary, specifically
 referencing that she had told him she believed multiple "YouTubers" were
-sociopaths[^108]. This leads to a discussion of "needing to be sociopathic or
-narcissistic" to maintain the sort of presence that "YouTubers" maintain[^109].
+sociopaths.[^108] This leads to a discussion of "needing to be sociopathic or
+narcissistic" to maintain the sort of presence that "YouTubers" maintain.[^109]
 This then leads into an extended discussion on the effects of popularity and
 platformism that takes up a good portion of the episode, similar to discussions
 one finds about reality television and the extent to which the personality
@@ -157,11 +157,11 @@ portrayed is representative of that of the portrayer.
 [^109]: Dawson, _... Jake Paul_ 1: 14′.
 
 Discussion is brought back to sociopathy after approximated fifteen
-minutes[^111][^112], but then shifted back to describing on Paul's
-personality[^113]. This line of discussion is then pushed back to exclusively
-describing Paul in terms of sociopathy by Dawson[^114]. Nearing the end of the
+minutes,[^111][^112] but then shifted back to describing on Paul's
+personality.[^113] This line of discussion is then pushed back to exclusively
+describing Paul in terms of sociopathy by Dawson.[^114] Nearing the end of the
 first episode they bring up the relationship between Jake Paul and his brother,
-[Logan Paul][100][^115].
+[Logan Paul][100].[^115]
 
 [^111]: Dawson, _... Jake Paul_ 1: 28′.
 
@@ -189,9 +189,9 @@ is initially done by describing a feeling or sense she has for them and more
 concretely by stating that they are defined by a "lack of empathy."[^118] This
 then brings Morton to mention antisocial personality disorder (ASPD), the
 definition of which she reads directly out of the [_Diagnostic and Statistical
-Manual of Mental Disorders_][107] (DSM)[^119], the implication being that ASPD
+Manual of Mental Disorders_][107] (DSM),[^119] the implication being that ASPD
 is a formalization of the concept of sociopathy which is supported by others in
-her field[^120].
+her field.[^120]
 
 [^116]: Dawson, _... Jake Paul_ 2: 2′.
 
@@ -211,7 +211,7 @@ mimic the actions of others without "feeling the feelings."[^121] Another common
 concept pertaining to sociopathy is eventually brought up (again referencing the
 DSM) with the mention of "narcissism." Morton describes narcissism as having a
 similar form of manipulation of others but with the perpetrator being capable of
-remorse and feeling empathy for others[^122].
+remorse and feeling empathy for others.[^122]
 
 [^121]: Dawson, _... Jake Paul_ 2: 17′.
 
@@ -219,15 +219,15 @@ remorse and feeling empathy for others[^122].
 
 A statistic is mentioned at one point, one that is particularly interesting and
 thus deserves to be singled out here: about 1 in 25 (or around 4%) of people are
-sociopaths[^123].
+sociopaths.[^123]
 
 [^123]: Dawson, _... Jake Paul_ 2: 26′.
 
 "Empaths" are also mentioned, which Morton describes as the "opposite" of
 sociopaths as they have a higher than normal amount of empathy for others rather
-than none[^124]. She also claims that empaths are likely to attracts sociopaths
+than none.[^124] She also claims that empaths are likely to attracts sociopaths
 since they are easily manipulated by them. This leads back to discussing
-"YouTubers" and people overlooking sociopathic behaviors[^125], a discussion
+"YouTubers" and people overlooking sociopathic behaviors,[^125] a discussion
 that culminates in Dawson exclaiming "we're like detectives."[^126]
 
 [^124]: Dawson, _... Jake Paul_ 2: 30′.
@@ -241,8 +241,8 @@ fair amount of backlash, some of which was immediately addressed by Dawson in a
 Snapchat story. He mentions the critique that the term "sociopath" is itself an
 issue and defends his usage by claiming his sources on the matter had assured
 him that people that the word describes are fundamentally incapable of being
-offended[^130]. He then also defends the lack of total factuality in the series
-for the purposes of entertainment[^130][^131]. Dawson then foes on to reference
+offended.[^130] He then also defends the lack of total factuality in the series
+for the purposes of entertainment.[^130][^131] Dawson then foes on to reference
 fiction, as is an oddly common act in the description of socio- and psychopathy,
 claiming that a work described but avoided labeling a sociopath and that this
 was indicative of people being secretive about sociopathy[^130]. The claim that
@@ -257,11 +257,11 @@ series itself with the line "they don't talk about this in school."[^123]
 In further response to the backlash to the series, Dawson posted several tweets
 defending the tone of the series. Initially exonerating Morton by stating her
 appearance was meant to be "relaxed and real" and that she was not responsible
-for the editing that framed the whole conversation in an odious manner[^127]. He
+for the editing that framed the whole conversation in an odious manner.[^127] He
 then went on to defend his framing of sociopaths as a whole, claiming he did not
 mean to describe sociopaths themselves as "gross" but still stands by his
 describing the discussion of sociopathy and its symptoms to be as
-such[^128][^129].
+such.[^128][^129]
 
 [^127]: Shane Dawson ([@shanedawson][112]), "Kati is my friend and i wanted our
         conversation to be relaxed and real. we both got comfortable and didn’t
@@ -297,8 +297,8 @@ Through discussion of the concept, it became clear that we would benefit from a
 more thorough work to which we could refer, one that would contain citations and
 explanations so as to avoid the confusion and misunderstanding that plagues most
 discussions on the internet. And so, with the encouragement of
-[@CheechGuevara][59], I spent nearly the entirety of Vendémiaire and Brumaire
-CCXXVII[^79] (and a sadly considerable bit of Frimaire as well) researching this
+[@CheechGuevara][59], I spent nearly the entirety of Vendémiaire thru Frimaire
+CCXXVII[^79] (and a sadly considerable bit of Nivôse as well) researching this
 topic to ensure that this essay thoroughly describes the tumultuous history of
 the terms psychopath and sociopath, as well as the issues with its current
 conception.
@@ -316,7 +316,7 @@ conception.
 
 Thanks to the group chats currently or formerly known as "Sinking
 Barge🚢🌊⚓️suicide🔪cult🕯[#GangGang][61]" (and its successor "🐌🏴"),
-"𝕲𝖊𝖘𝖊𝖑𝖑𝖘𝖈𝖍𝖆𝖋𝖙𝖘𝖋𝖊𝖎𝖓𝖉𝖊 𝕲𝖆𝖓𝖌"[^80], and "ＳＰＡＣＥ ＡＮＡＲＣＨＩＳＴ
+"𝕲𝖊𝖘𝖊𝖑𝖑𝖘𝖈𝖍𝖆𝖋𝖙𝖘𝖋𝖊𝖎𝖓𝖉𝖊 𝕲𝖆𝖓𝖌,"[^80] and "ＳＰＡＣＥ ＡＮＡＲＣＨＩＳＴ
 ⛽🅰️🆖⛽🅰️🆖"[^70] for putting up with my constant complaints while
 researching this topic.
 
@@ -350,7 +350,7 @@ the concept that was called "psychopathy" throughout the 20<sup>th</sup>
 century. Millon et al. state that the first comparable representation of
 psychopathy (more specifically they reference it as a close representation of
 antisocial personality disorder) was Theophrastus' (Θεόφραστος) concept of "The
-Unscrupulous Man"[^11], sometimes also called "The Shameless Man"[^29]:
+Unscrupulous Man,"[^11] sometimes also called "The Shameless Man":[^29]
 
 [^11]: Theodore Millon, Erik Simonsen, and Morten Birket-Smith, "[Historical
        Conceptions of Psychopathy in the United States and Europe,][9]" in
@@ -386,8 +386,8 @@ in the population or the presence of an understanding of that psychological
 disorder; perhaps this merely comes with the territory of analyzing history
 through literature. This is further muddled by the tendency to cite fictional
 villains as opposed to actual historical accounts of real humans suffering from
-a disorder[^9][^10]. These include such examples as Alex DeLarge
-from _A Clockwork Orange_, Hannibal Lecter from _Silence of the Lambs_[^95],
+a disorder.[^9][^10] These include such examples as Alex DeLarge
+from _A Clockwork Orange_, Hannibal Lecter from _Silence of the Lambs_,[^95]
 Norman Bates from _Psycho_, and Freddy Krueger from _A Nightmare on Elm Street_;
 characters ranging from empty husks designed to have the audience's ideas of
 fear projected onto them to those who exist solely to exemplify the issue with
@@ -414,7 +414,7 @@ less the same fashion.
 Prior to the 19<sup>th</sup> century, it was thoroughly believed that the mind
 and reason were one in the same, this concept came into question with [Philippe
 Pinel][25] who described certain cases he studied as "insanity without delirium"
-(_manie sans délire_)[^20]. He described this idea further as retaining reason
+(_manie sans délire_).[^20] He described this idea further as retaining reason
 and understanding while being controlled by some unknown and powerful emotional
 force. [Benjamin Rush][26][^34] in 1812 and [James Cowles Prichard][28] in 1835
 furthered this
@@ -424,7 +424,7 @@ previously morally neutral concept was eventually criticized by [Daniel Hack
 Tuke][29]
 in 1892, proposing the terminology be changed to "inhibitory insanity" to
 realign the concept to Pinel's original conception of an emotional affection
-that drives a person regardless of conscious reasoning[^21].
+that drives a person regardless of conscious reasoning.[^21]
 
 [^20]: Millon et al., "Historical Conceptions...," 4.
 
@@ -452,14 +452,14 @@ Henry Maudsley<br>_Source: [Wikimedia Commons][76]._
 [Henry Maudsley][41], unlike Tuke, continued along the path carved out by
 Prichard rather than attempting to return to the intentions of Pinel, with ideas
 similar to those of Otto but deviating from the paradigm of phrenology. As such,
-he argued for a biological basis for "natural moral feelings[^22]." While
+he argued for a biological basis for "natural moral feelings."[^22] While
 Maudsley's belief at the time was that individuals and families suffering from
 degeneration (as per [Bénédict Morel][16]'s theory) would simply die off on
-their own eventually[^23], over time he shifted towards a eugenicist view,
+their own eventually,[^23] over time he shifted towards a eugenicist view,
 believing that such illnesses needed to be purged manually. For the sake of
-brevity[^24], we'll skip the works of [Cesare Lombroso][42][^22], perhaps to be
+brevity,[^24] we'll skip the works of [Cesare Lombroso][42],[^22] perhaps to be
 revisited at a later date for his contributions to
-criminology[^25][^26][^27].
+criminology.[^25][^26][^27]
 
 [^22]: Millon et al., "Historical Conceptions...," 7.
 
@@ -483,12 +483,12 @@ form as it had among the British. One such German, one who stands out in the
 historical context, was [Julius Ludwig August Koch][43] in 1891 who proposed
 that the previous standard of "moral insanity" be replaced with his new idea of
 "psychopathic inferiorities" (_Psychopathischen
-Minderwertigkeiten_)[^8][^28]. He attributed this condition to
+Minderwertigkeiten_)[^8].[^28] He attributed this condition to
 "functional organic deviations" (_organische Abweichungen funktioneller
 Art_)[^32] that couldn't be rectified, a similar idea to the more modern idea of
 predisposition, though more assertive and derived once again from degeneration
 theory. Koch defined three degrees of severity of
-psychopathy[^31][^28]:
+psychopathy:[^31][^28]
 
 1. Disposition (_Disposition_), characterized by tension and high sensitivity,
 2. Burden (_Belastung_), by egocentrism and impulsiveness, and
@@ -511,13 +511,13 @@ psychopathy[^31][^28]:
 
 From these we can gather that this classification was meant as a very broad
 categorization, encompassing all personality disorders (not just
-antisocial)[^28]. That analysis is reinforced by the introductory remarks of
+antisocial).[^28] That analysis is reinforced by the introductory remarks of
 Koch's own work which state "[t]he term 'psychopathic inferiorities' comprises
 all abnormalities&mdash;either hereditary or acquired&mdash;which influence a
 human's personal life, but which do not constitute&mdash;even in their worst
-cases&mdash;mental illnesses.[^33]" This meaning was adopted by Kurt Schneider
+cases&mdash;mental illnesses."[^33] This meaning was adopted by Kurt Schneider
 as "abnormal personalities," in early conceptions of psychosis, which bears a
-similarly rough history to that of psychopathy[^30].
+similarly rough history to that of psychopathy.[^30]
 
 [^33]: Gutmann, "J.L.A. Koch...," 210.
 
@@ -530,7 +530,7 @@ The nosology (classification of illnesses) developed by Koch included many forms
 of mental illness, providing loose distinctions between those that were
 "organic" and those caused by events in one's life. For psychopathy, such a
 distinction came to the forefront as [Adolf Meyer][30] proposed the concept of
-"constitutional inferiority" in 1904[^28]. This phrasing, however, lost favor as
+"constitutional inferiority" in 1904.[^28] This phrasing, however, lost favor as
 a descriptor as "inferior," despite its purely clinical intentions, gained a
 harsh derogatory connotation.
 
@@ -539,8 +539,8 @@ Emil Kraepelin<br>_Source: [Wikimedia Commons][74]._
 {: .pullquote .image .left}
 
 An alternative framing of psychopathy was provided by [Emil Kraepelin][31] in
-his work _Psychiatry: A Textbook_ (_Psychiatrie: Ein Lehrbuch_)[^34], in which
-he asserted the idea of "psychopathic personalities"[^41]. This conception
+his work _Psychiatry: A Textbook_ (_Psychiatrie: Ein Lehrbuch_),[^34] in which
+he asserted the idea of "psychopathic personalities."[^41] This conception
 maintained the notion that personality disorders (psychopathy specifically here)
 originate from constitutional "defects" and therefore their symptoms are
 permanently a part of the affected person from birth, though Kraepelin focused
@@ -549,7 +549,7 @@ politically active psychiatrist, Kraepelin not only studied the causes of what
 he deemed to be issues in society (in his case the German _Volk_) but proposed
 solutions as well. These primarily took the form of education, prohibition,
 improving living conditions, helping the poor, and... "reasonable policies of
-racial hygiene" (_verständige Rassenhygiene_)[^37].
+racial hygiene" (_verständige Rassenhygiene_).[^37]
 
 [^41]: Millon et al., "Historical Conceptions...," 9.
 
@@ -561,7 +561,7 @@ In his aforementioned magnum opus, Kraepelin originally (1899) referred to
 "psychopathic states" which were, to him, a singular form of degeneration. Only
 afterwards in the 7<sup>th</sup> edition (1904) did he use the term
 "psychopathic personalities," which he had split into four categories at the
-time[^42][^36]:
+time:[^42][^36]
 
 [^42]: Millon et al., "Historical Conceptions...," 10.
 
@@ -575,7 +575,7 @@ time[^42][^36]:
    and instability of emotion;
 2. criminals by impulse/pseudoquerulants (_die Pseudoquerulanten_), who
    committed theft, arson, and rape on impulse, corresponding somehow to the
-   modern notion of paranoid personality[^43];
+   modern notion of paranoid personality;[^43]
 3. professional/born criminals (_der Geborne Verbrecher_), who were disciplined
    and well mannered but ultimately manipulative (modeled after Lombroso and
    Prichard's conceptions);
@@ -596,7 +596,7 @@ case be correct. As with many of the previous definitions, this iteration of the
 psychopathy diagnosis is blatantly driven by an attempt to classify criminality
 as a disease; this trend certainly does not stop here either. To further the
 absurdity of _this_ definition, Kraepelin went on to expand it in the
-8<sup>th</sup> edition of his work into seven categories[^42][^36]:
+8<sup>th</sup> edition of his work into seven categories:[^42][^36]
 
 1. the excitable (_die Erregbaren_);
 2. the irresolute (_die Haltlosen_), carried over from the last edition;
@@ -614,12 +614,12 @@ The final three are described by Millon et al. to have "features similar to the
 current notions of the antisocial,"[^42] with the sixth category being the most
 similar.
 
-Now, Kraepelin probably wasn't a "Nazi"[^39]. By some definitions, one must have
+Now, Kraepelin probably wasn't a "Nazi."[^39] By some definitions, one must have
 been a member of the Nationalist Socialist Party in order to have actually been
 a Nazi, and Kraepelin died in 1926 leaving behind no record of ever joining said
-party. Of course, that didn't stop him from supporting eugenics[^38], or ethnic
-cleansing[^37], or declaring people to be mentally ill by their political
-positions, or being an anti-Semite[^35], but I digress[^40].
+party. Of course, that didn't stop him from supporting eugenics,[^38] or ethnic
+cleansing,[^37] or declaring people to be mentally ill by their political
+positions, or being an anti-Semite[^35], but I digress.[^40]
 
 [^39]: Though two of the doctors he mentored, [Paul Nitsche][36] and [Ernst
        Rüdin][37], were very much so. In fact, the former was executed with a
@@ -651,15 +651,15 @@ und Ethik der Medizin][72]._
 
 Attempts were made to separate the clinical notion of psychopathy from the value
 judgements imposed on it by the likes of Koch and Kraepelin, primarily by [Kurt
-Schneider][39] in post-World War I Germany (_[Weimarer Republik][40]_)[^46].
+Schneider][39] in post-World War I Germany (_[Weimarer Republik][40]_).[^46]
 This was partially due to the observation that the personality traits that may
 lead someone to criminality don't necessarily do so, and many who would have
 "psychopathic personalities" weren't necessarily doomed to a life of crime; not
 only were the people theorized by this analysis not all criminals living at odds
 with society, many were quite successful in positions of political and social
-power, according to Schneider's observations[^47]. To that end, he attempted to
+power, according to Schneider's observations.[^47] To that end, he attempted to
 use clinical/psychological terms, rather than the previously common social and
-criminal terminology, defining ten categories of "abnormal personalities"[^36]:
+criminal terminology, defining ten categories of "abnormal personalities":[^36]
 
 [^46]: Richard F. Wetzell, _Inventing the Criminal: A History of German
        Criminology, 1880-1945,_ (Chapel Hill: The University of North Carolina
@@ -686,16 +686,16 @@ criminal terminology, defining ten categories of "abnormal personalities"[^36]:
 
 Schneider also held a then novel position on the distinction between normal and
 abnormal personality types, being that clinically abnormal personality traits
-would be meaningless to describe as extreme forms of normal ones[^36]. This sort
+would be meaningless to describe as extreme forms of normal ones.[^36] This sort
 of definition, however, is problematic in that it draws a simple dichotomy
 between "normal" and everything else, the latter group of which can come in an
 infinite number of forms. Thus the previously given categories were merely a
 subset defined to give focus to those abnormalities that caused suffering on
-either the individual or society, the "psychopathic personalities"[^49]. As this
+either the individual or society, the "psychopathic personalities."[^49] As this
 line is clearly arbitrarily drawn based on whether one considers specific traits
 to case suffering in society, Schneider suggested work be done to study the
 whole category of "abnormal personalities," but the very act of drawing said
-line served to keep focus on the "psychopathic" group within it[^50].
+line served to keep focus on the "psychopathic" group within it.[^50]
 
 [^49]: Wetzell, _Inventing the Criminal_, 247.
 
@@ -704,9 +704,9 @@ line served to keep focus on the "psychopathic" group within it[^50].
 On the question of constitutionality of these personalities, Schneider fell in
 line with many of the developments that preceded him. While he agreed that
 environment has an effect on personality, he maintained that abnormalities in a
-personality were congenital and typically hereditary[^49]. However, he did
+personality were congenital and typically hereditary.[^49] However, he did
 oppose eugenics and even fought against the influence of the Nazis in psychiatry
-(at least so far as defending his own department from them)[^51].
+(at least so far as defending his own department from them).[^51]
 
 [^51]: "[Schneider, Kurt (1887-1967), Psychiater,][44]" kipnis.de, accessed Oct.
        5, 2018.
@@ -717,15 +717,15 @@ but in criminology."
 
 Unsurprisingly, despite Schneider's lackluster attempt to push against the
 trend, the concept of psychopathy eventually found its home not in psychiatry,
-not in therapy[^12], not in the hearts of those who sought to help inflicted
+not in therapy,[^12] not in the hearts of those who sought to help inflicted
 individuals better themselves, but in criminology. Specifically the section of
 criminology that tackles "the problem of explaining crime and criminal behavior,
 which is the problem of scientifically accounting for the presence of crime and
-criminals in society.[^13]" Of course, in a society that had in the not so
+criminals in society."[^13] Of course, in a society that had in the not so
 distant past claimed laws to be backed by divine right, one could see how the
 breaching of law would be seen to some extent as an absurd act against human
 nature. If laws are inherent to human society, or to the universe even, then it
-would be against the nature of humans to break laws, and therefore deviant[^14].
+would be against the nature of humans to break laws, and therefore deviant.[^14]
 
 [^12]: Supposedly this was not intentional, but a result of psychopathy being
        considered untreatable; however, given what we now know about the
@@ -749,7 +749,7 @@ Kurt Schneider, [Karl Birnbaum][38] returned to previous approaches to the idea
 of psychopathy by focusing on the connection between it and criminality.
 Birnbaum believed that there was such a link, regardless of how little
 statistical backing there was at the time, and thus aimed to explain said link;
-he did so by defining three deficiencies in psychopaths[^52]:
+he did so by defining three deficiencies in psychopaths:[^52]
 
 [^52]: Wetzell, _Inventing the Criminal_, 252.
 
@@ -766,7 +766,7 @@ situational influences, be pushed to commit crime. Along with all this, he
 claimed that each abnormality was associated with a particular brand of crime as
 well. These tenuous sorts of connections were, according to him, the reason why
 not all psychopaths were criminals, but were merely at higher risk of becoming
-as such[^52].
+as such.[^52]
 
 ![Portrait of Karl Birnbaum][69]
 Karl Birnbaum<br>_Source: [peoples.ru][70]._
@@ -777,7 +777,7 @@ apt description of the condition theorized in Kraepelin's work. Though it was
 not at all popular at the time, circa 1909, he derived the term from the idea
 that antisocial behavior was only rarely directly caused by a constitutional
 condition and was more commonly a result of social
-conditioning[^44][^45].
+conditioning.[^44][^45]
 
 [^44]: Millon et al., "Historical Conceptions...," 11.
 
@@ -792,7 +792,7 @@ The alternative he supported was that of Mendelian inheritance, more similar to
 modern genetics; to that end he supported marital restrictions, sterilization,
 and forced abortion to avoid the "hereditary taint" of these characteristics.
 Of note, Wimmer included in his classification of psychopaths (1929) more
-specific types such as the "sexually perverted" and "asocial"[^53].
+specific types such as the "sexually perverted" and "asocial."[^53]
 
 [^53]: Millon et al., "Historical Conceptions...," 13.
 
@@ -800,8 +800,8 @@ Immediately after Wimmer, though more relevant to discussion of Birnbaum, came
 [George E. Partridge][45]'s review "Current Conceptions of Psychopathic
 Personality" in the July of 1930, wherein he notes that the antisocial behaviors
 of "psychopaths" were likely a focal point among psychiatrists merely due to
-their evident nature[^54], and that this focus has also lead to disagreement as
-to the actual rate at which psychopathy occurs[^55].
+their evident nature,[^54] and that this focus has also lead to disagreement as
+to the actual rate at which psychopathy occurs.[^55]
 
 [^54]: George E. Partridge, "Current Conceptions of Psychopathic Personality,"
        _The American Journal of Psychiatry_ 1, 87 (July, 1930): 53-99.
@@ -817,7 +817,7 @@ new methodology of psychoanalysis as pioneered by [Sigmund Freud][46]. In 1925,
 criminal behaviors associated with it were merely symptoms rather than the whole
 of the problem. He theorized that either too permissive or too authoritarian
 parenting would create a foundation upon which such a "disease" would form later
-on in life[^56].
+on in life.[^56]
 
 [^56]: Millon et al., "Historical Conceptions...," 15.
 
@@ -831,11 +831,11 @@ behaviors stemmed from "psychological undernourishment" as a child, thus
 affecting the _libido_ such that a hatred forms to be later directed at the
 whole of society. This was extended by Reich who claimed that the behaviors are
 then a result of the _superego_ being incapable of retaining control of the
-_ego_[^56]. Together, Freud, Abraham, and Reich formed a character typology that
-would influence our modern ideas of personality disorders[^36]. Partridge also
+_ego_.[^56] Together, Freud, Abraham, and Reich formed a character typology that
+would influence our modern ideas of personality disorders.[^36] Partridge also
 joined into the psychoanalysis in 1927, concluding that the delinquent behavior
 perceived among supposed psychopaths originated from "unfulfilled oral
-needs"[^56].
+needs."[^56]
 
 ### I-3. Operationalization
 
@@ -843,7 +843,7 @@ While the works of [Eugen Kahn][50], one of Kraepelin's assistants[^60] who did
 not go on to serve the Nazis, are often overlooked in the history, the
 analysis he gave in 1931 (as quoted by [David Kennedy Henderson][51]) are rather
 indicative of the language used in the '30s. According to Hendersom, Kahn first
-gave a simple classification in four groups[^59]:
+gave a simple classification in four groups:[^59]
 
 [^60]: Hanns Hippius, Hans-Jürgen Möller, Hans-Jürgen Müller, and Gabriele
        Neundörfer-Kohl, _[The University Department of Psychiatry in Munich:
@@ -859,7 +859,7 @@ gave a simple classification in four groups[^59]:
 4. and "psychotoid."
 
 His analytical inventory is then given as three groups with several subgroups as
-"quantitative deviations"[^61]:
+"quantitative deviations":[^61]
 
 [^61]: Henderson, _Psychopathic States_, 22.
 
@@ -884,9 +884,9 @@ His analytical inventory is then given as three groups with several subgroups as
 
 It is noted that this system is so broad and vague that it is clinically
 useless, a problem Kahn attempted to fix with a more robust list of instances
-that isn't meaningfully distinguishable from Schneider's list[^62]. Henderson
+that isn't meaningfully distinguishable from Schneider's list.[^62] Henderson
 himself proposed a categorization of psychopathic personalities into three
-non-exclusive groups in his 1939 work[^57]:
+non-exclusive groups in his 1939 work:[^57]
 
 [^62]: Henderson, _Psychopathic States_, 23.
 
@@ -900,7 +900,7 @@ This is another development in the movement against viewing psychopathy and
 criminality as synonymous, though caused plenty of controversy due to overlap
 with the passive/inadequate type and other diagnoses (specifically neuroticism),
 as well as people simply disagreeing that the creative type could even be
-considered a psychopath[^58].
+considered a psychopath.[^58]
 
 [^58]: Millon et al., "Historical Conceptions...," 16.
 
@@ -911,8 +911,8 @@ there was a guiltless, antisocial sort of personality with not discernable
 psychogenic history; "symptomatic" were a group that wasn't composed of "true
 psychopaths" but rather of "neurotics 'parading' as psychopaths," where the
 antisocial behavior was the result of internal conflict rather than originating
-from a constitutional condition[^64]. These two groups have also been referred
-to as "primary" and "secondary" psychopaths respectively[^65].
+from a constitutional condition.[^64] These two groups have also been referred
+to as "primary" and "secondary" psychopaths respectively.[^65]
 
 [^64]: Millon et al., "Historical Conceptions...," 18.
 
@@ -928,18 +928,18 @@ _Source: [Augusta University Library][68]._
 
 1941 also saw the publication of [Hervey M. Cleckley][58]'s _The Mask of Sanity:
 An Attempt to Reinterpret Some Issues About the So-Called Psychopathic
-Personality_[^92], which was his attempt to "reinterpret" some issues he saw
+Personality_,[^92] which was his attempt to "reinterpret" some issues he saw
 with people's ideas of the
 "psychopathic personality." Because of the influence of this book, Cleckley is
 often described as the pioneer of the modern (primarily mid to late
 20<sup>th</sup> century) conception of psychopathy[^9][^15][^93] providing the
 "best definition of psychopathy"[^91] and was
-even in his own time considered and important contributor[^89]. Like
+even in his own time considered and important contributor.[^89] Like
 Schneider and Birnbaum, Cleckley did not believe that psychopaths were
 universally criminal and could often be found filling roles of great importance
-and power[^71]; he further aligned with Schneider in his attempts to create a
+and power;[^71] he further aligned with Schneider in his attempts to create a
 clinical definition of psychopathy, one that could be used separate from
-theories of its origin[^72].
+theories of its origin.[^72]
 
 [^92]: Scott O. Lilienfeld, Ashley L. Watts, Sarah Francis Smith, Christopher J.
        Patrick, and Robert D. Hare, "[Hervey Cleckley (1903–1984): Contributions
@@ -963,10 +963,10 @@ theories of its origin[^72].
 
 Rather than categorization of various sorts of psychopaths, the focus of
 Cleckley's work was on the creation of a set of criteria by which a psychopath
-could be diagnosed[^72]. It is because of his work on such a definition and its
+could be diagnosed.[^72] It is because of his work on such a definition and its
 similarity to how we define mental illnesses today that Cleckley is regarded so
-highly (as stated earlier). There were 16 criteria in his definition[^74], the
-first nine of which were "key features" and the latter seven were "other"[^73]:
+highly (as stated earlier). There were 16 criteria in his definition,[^74] the
+first nine of which were "key features" and the latter seven were "other":[^73]
 
 [^74]: Hervey M. Cleckley, _The Mask of Sanity_ 5<sup>th</sup> edition (1988),
        338.
@@ -1018,7 +1018,7 @@ considered a disorder. Of course, these are merely two examples out of the list
 of 16, but the same general critique applies to nearly all the others; though
 such a harsh analysis could be easily applied to any clinical definition, the
 point here remains that these were not derived in a vacuum, but rather off the
-back of the aforementioned works of Kahn[^78], which were in turn derived from
+back of the aforementioned works of Kahn,[^78] which were in turn derived from
 those of Schneider and Kraepelin, and so the flimsiness of the definitions is
 not so certainly merely due to the requirements of such definitions to be so.
 
@@ -1046,12 +1046,12 @@ criminality..."
 However, Cleckley did make some attempt to explicitly separate psychopathy from
 criminality, drawing distinction in the fact that criminals often commit crime
 for a specific end (such as the accumulation of wealth) whereas psychopaths do
-so for the satisfaction of committing the crime in itself[^85]. This is a clear
+so for the satisfaction of committing the crime in itself.[^85] This is a clear
 improvement over some of the earliest ideas of psychopathy, but there remains
 the emphasis on finding a correlation (without any statistical or often even
 theoretical basis) between personality disorders and criminality. He maintains
 this distinction while also admitting that the term is necessarily vague and is
-most often used without such clarity[^86].
+most often used without such clarity.[^86]
 
 [^85]: Cleckley, _The Mask of Sanity_, 261.
 
@@ -1063,14 +1063,14 @@ what is effectively the classification of various criminal behaviors. Starting
 in the '40s, there was a more significant focus on what they then called "sexual
 psychopaths." We then return to Karpman, who published a significant number of
 works on this concept,
-including one later in 1951 explicitly titled "The Sexual Psychopath"[^66].
+including one later in 1951 explicitly titled "The Sexual Psychopath."[^66]
 Leading up to this, Karpman was the Chief Psychotherapist of the St. Elizabeths
 Hospital in Washington, D.C., where he "treated" people for non-conforming
-sexual and gender identities[^67]. While there, he worked to find what was then
+sexual and gender identities.[^67] While there, he worked to find what was then
 called "latent homosexuality" in criminals, which he believed to be the core
-cause of their criminality[^68]. This often took thorough analysis of every
+cause of their criminality.[^68] This often took thorough analysis of every
 aspect of a person's life before finally finding something indicative of such an
-idea[^69], likely due to its incoherence as a concept. This development is left
+idea,[^69] likely due to its incoherence as a concept. This development is left
 out of most of the popular histories of psychopathy (such as Millon et al.),
 mostly due to the focus of said histories being on ideas and concepts that
 remained a part of psychopathy and not on tangents that exemplify the problems
@@ -1093,10 +1093,10 @@ presented in this work.
 
 Returning to "The Sexual Psychopath," Karpman explicitly states that "[t]he
 terms 'sexual psychopath' and 'sexual psychopathy' have no legitimate place in
-psychiatric nosology or dynamic classification"[^87]. This comes after a lengthy
+psychiatric nosology or dynamic classification."[^87] This comes after a lengthy
 introduction in which he describes the lack of reasonable certainty in the
 definition of sexual crime by both the public and the law, and that the concept
-of sexual psychopathy would be reliant on such definitions[^88].
+of sexual psychopathy would be reliant on such definitions.[^88]
 
 [^87]: Karpman, "The Sexual Psychopath," 186.
 
@@ -1327,7 +1327,9 @@ such as castration for those who had committed sexual crimes.[^96]
 
 **DSM-III (1980)**
 
-<https://web.archive.org/web/20160911011243/https://www.hks.harvard.edu/sdn/articles/files/Pickersgill_Standardising%20Antisocial%20Personality%20Disorder_SHI.pdf>
+[^147]: Martyn Pickersgill, "[Standardising antisocial personality disorder: the
+        social shaping of a psychiatric technology,][129]" _Sociology of Health
+        & Wellness_ 34, 4 (May 2012): 544-559.
 
 ![Robert D. Hare][127]
 Robert D. Hare is still alive.<br>_Source: [Wikimedia Commons][128], photo by
@@ -1398,7 +1400,7 @@ The PCL-R sucks actually:
 
 <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2817979/>
 
-While attempts to define ASPD do draw from the central idea of psychopathy[^16],
+While attempts to define ASPD do draw from the central idea of psychopathy,[^16]
 the attempts at formalization as a personality disorder are put under greater
 scrutiny than those that simply seek to create a checklist for psychopathy. This
 is due to the concept of psychopathy itself being generally considered informal.
@@ -1419,7 +1421,7 @@ definitions) is similar to that between "pigeon" and "dove" or "crow" and
 The trivial, etymological analysis of what "sociopathy" means would indicate
 that it simply refers to someone who has a disconnect with society; the _socio-_
 prefix meaning "regarding society"[^4] and the _-path_ suffix meaning
-"disorder"[^5].
+"disorder."[^5]
 
 [^4]: ["socio-,"][3] Wiktionary, accessed Sep. 27, 2018.
 
@@ -1430,7 +1432,7 @@ Sociopathy is commonly used synonymously with Antisocial Personality Disorder
 history of the diagnoses, see section I-4) also more loosely associated with
 Narcissistic Personality Disorder (NPD). This tangential association's
 continuation in contemporary notions is largely due to conceptual overlaps
-between ASPD and NPD, both connotatively and clinically[^3].
+between ASPD and NPD, both connotatively and clinically.[^3]
 
 [^1]: ["Sociopathy,"][1] Psychology Today, accessed Sep. 27, 2018.
 
@@ -1492,7 +1494,7 @@ said assertion is true. It is tempting to brush this off as the primitiveness of
 the past, a fallacy far too many fall into, to assume humans hadn't a clue what
 they were doing until just yesterday. In this case, we can look to Peter
 Kropotkin, a man fairly prominent in various circles in his time, who in 1886
-wrote[^18]:
+wrote:[^18]
 
 [^18]: Peter Kropotkin, "Law and Authority," 1886.
 
@@ -1506,7 +1508,7 @@ wrote[^18]:
    and defends it against rebels._"
 
 In the words of Murray Bookchin, "[t]he assumption that what currently exists
-must necessarily exist is the acid that corrodes all visionary thinking[^17]."
+must necessarily exist is the acid that corrodes all visionary thinking."[^17]
 
 [^17]: Murray Bookchin, "[The Meaning of Confederalism,][14]" _Green
        Perspectives_ 20 (1990).
@@ -1709,3 +1711,4 @@ your own purposes will end in nothing but soaking your hands as well.
 [126]: https://en.wikipedia.org/wiki/Erwin_Stengel
 [127]: https://upload.wikimedia.org/wikipedia/commons/d/d4/Robert_D._Hare.jpg
 [128]: https://commons.wikimedia.org/wiki/File:Robert_D._Hare.jpg
+[129]: https://web.archive.org/web/20160911011243/https://www.hks.harvard.edu/sdn/articles/files/Pickersgill_Standardising%20Antisocial%20Personality%20Disorder_SHI.pdf
