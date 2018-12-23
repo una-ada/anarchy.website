@@ -1327,6 +1327,13 @@ such as castration for those who had committed sexual crimes.[^96]
 
 **DSM-III (1980)**
 
+<https://web.archive.org/web/20160911011243/https://www.hks.harvard.edu/sdn/articles/files/Pickersgill_Standardising%20Antisocial%20Personality%20Disorder_SHI.pdf>
+
+![Robert D. Hare][127]
+Robert D. Hare is still alive.<br>_Source: [Wikimedia Commons][128], photo by
+Stephen McCall._
+{: .pullquote .image .left}
+
 **Hare, PCL (1980)**
 
 By the late '80s, the aforementioned denotation of "sexual psychopath" would
@@ -1700,3 +1707,5 @@ your own purposes will end in nothing but soaking your hands as well.
 [124]: https://upload.wikimedia.org/wikipedia/en/4/4f/Lee_Robins.jpg
 [125]: http://beckerexhibits.wustl.edu/women/robins.htm
 [126]: https://en.wikipedia.org/wiki/Erwin_Stengel
+[127]: https://upload.wikimedia.org/wikipedia/commons/d/d4/Robert_D._Hare.jpg
+[128]: https://commons.wikimedia.org/wiki/File:Robert_D._Hare.jpg
