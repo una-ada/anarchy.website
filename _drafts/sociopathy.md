@@ -88,7 +88,7 @@ from chapter eight of Kurt Vonnegut's _A Man Without A Country_[^94]:
 [^94]: Kurt Vonnegut, _A Man Without a Country_, ed. Deniel Simon, (New York:
        Seven Stories Press, 2005).
 
-> _George W. Bush has gathered around him [...] psychopathic personalities, or
+> "_George W. Bush has gathered around him [...] psychopathic personalities, or
   PPs, the medical term for smart, personable people who have no consciences.
   To say somebody is a PP[^132] is to make a perfectly respectable diagnosis,
   like saying he or she has appendicitis or athlete’s foot. [...] PPs are
@@ -97,7 +97,7 @@ from chapter eight of Kurt Vonnegut's _A Man Without A Country_[^94]:
   screw loose! [...] So many of these heartless PPs now hold big jobs in our
   federal government, as though they were leaders instead of sick. They have
   taken charge. They have taken charge of communications and the schools, so we
-  might as well be Poland under occupation._
+  might as well be Poland under occupation._"
 
 [^132]: Haha, "PP."
 
@@ -1361,6 +1361,8 @@ Cleckley's _Mask of Sanity_ (1988):[^7]
 
 **Herpertz and Sass (2000)**
 
+### I-5. Continuation
+
 **Cooke and Michie (2001)**
 
 **Andrews and Bonta? (2003)**
@@ -1417,10 +1419,11 @@ prefix meaning "regarding society"[^4] and the _-path_ suffix meaning
 [^5]: ["-path,"][4] Wiktionary, accessed Sep. 27, 2018.
 
 Sociopathy is commonly used synonymously with Antisocial Personality Disorder
-(APD/ASPD)[^1] and due to the nature of personality disorders[^2] also more
-loosely associated with Narcissistic Personality Disorder (NPD).
-This tangential association is primarily due to conceptual overlaps between ASPD
-and NPD, both connotatively and clinically[^3].
+(APD/ASPD)[^1] and due to the nature of personality disorders[^2] (and the
+history of the diagnoses, see section I-4) also more loosely associated with
+Narcissistic Personality Disorder (NPD). This tangential association's
+continuation in contemporary notions is largely due to conceptual overlaps
+between ASPD and NPD, both connotatively and clinically[^3].
 
 [^1]: ["Sociopathy,"][1] Psychology Today, accessed Sep. 27, 2018.
 
@@ -1523,7 +1526,18 @@ Public policy:
 
 <http://ww1.cpa-apc.org/Publications/Archives/CJP/2005/march2/cjp-mar2-05-Seeman-RP.pdf>
 
-## IV. _The Conclusion_
+## IV. _The Validity_
+
+The crux of the critiques presented here is of a social and philosophical
+variety, that the side effects of this "psychopathy project" far outweigh the
+intended consequences. However, to determine the extent to which this assertion
+holds we must describe said intentions.
+
+### IV-1. Predictive
+
+### IV-2. Clinical
+
+## V. _The Conclusion_
 
 These terms, psychopathy and sociopathy, originate as _explanations of criminal
 behavior_ rather than psychological analysis of observed personality traits, and
@@ -1554,7 +1568,9 @@ your own purposes will end in nothing but soaking your hands as well.
    _Psychopathy: Antisocial, Criminal, and Violent Behavior,_ ed. Theodore
    Millon, et al. (New York: The Guilford Press, 1998).
 
-<!-- Аве Луна -->
+## Bibliography
+
+**To do when all the footnotes are finalized.**
 
 ## Footnotes
 
