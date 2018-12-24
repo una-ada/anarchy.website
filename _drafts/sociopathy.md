@@ -1325,7 +1325,17 @@ such as castration for those who had committed sexual crimes.[^96]
 
 **Millon (1974)**
 
+**Spitzer et al., RDC (1975)**
+
 **DSM-III (1980)**
+
+The _DSM-III_ continued the influence of Robins from the _DSM-II_ and in a much
+less superficial manner, moving towards the social deviance model for diagnoses
+rather than the trait model of previous criteria.[^141] However, the definitions
+maintained the problems of many previous conceptions in that they focused on the
+classification of criminality over clinical treatment; though items associated
+with psychopathy's outward presentation (such as 'coldness') were included as
+criteria for narcissistic personality disorder (NPD).[^141]
 
 [^147]: Martyn Pickersgill, "[Standardising antisocial personality disorder: the
         social shaping of a psychiatric technology,][129]" _Sociology of Health
@@ -1363,6 +1373,13 @@ Cleckley's _Mask of Sanity_ (1988):[^7]
 **Blackburn (1993)**
 
 **DSM-IV (1994)**
+
+The _DSM-IV_ once again maintained the social deviance model seen in the
+_DSM-III_.[^141] Again, the ASPD criteria here require there to be some level of
+misconduct that isn't attributed to another underlying cause such as a
+schizophrenic or manic episode.[^147]
+
+[^147]: Hildebrand, _Psychopathy..._, 12.
 
 **Fitzpatrick (1995)**
 
