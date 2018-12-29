@@ -482,12 +482,11 @@ idea of psychopathy took hold in Germany, where it took a less "value-laden"
 form as it had among the British. One such German, one who stands out in the
 historical context, was [Julius Ludwig August Koch][43] in 1891 who proposed
 that the previous standard of "moral insanity" be replaced with his new idea of
-"psychopathic inferiorities" (_Psychopathischen
-Minderwertigkeiten_)[^8].[^28] He attributed this condition to
-"functional organic deviations" (_organische Abweichungen funktioneller
-Art_)[^32] that couldn't be rectified, a similar idea to the more modern idea of
-predisposition, though more assertive and derived once again from degeneration
-theory. Koch defined three degrees of severity of
+"psychopathic inferiorities" (_Psychopathischen Minderwertigkeiten_).[^8][^28]
+He attributed this condition to "functional organic deviations" (_organische
+Abweichungen funktioneller Art_)[^32] that couldn't be rectified, a similar idea
+to the more modern idea of predisposition, though more assertive and derived
+once again from degeneration theory. Koch defined three degrees of severity of
 psychopathy:[^31][^28]
 
 1. Disposition (_Disposition_), characterized by tension and high sensitivity,
@@ -711,10 +710,6 @@ oppose eugenics and even fought against the influence of the Nazis in psychiatry
 [^51]: "[Schneider, Kurt (1887-1967), Psychiater,][44]" kipnis.de, accessed Oct.
        5, 2018.
 
-"[T]he concept of psychopathy eventually found its home not in psychiatry [...]
-but in criminology."
-{: .pullquote}
-
 Unsurprisingly, despite Schneider's lackluster attempt to push against the
 trend, the concept of psychopathy eventually found its home not in psychiatry,
 not in therapy,[^12] not in the hearts of those who sought to help inflicted
@@ -821,10 +816,6 @@ on in life.[^56]
 
 [^56]: Millon et al., "Historical Conceptions...," 15.
 
-"Together [they] formed a character typology that would influence our modern
-ideas of personality disorders."
-{: .pullquote}
-
 In the same year, this concept was further solidified under psychoanalysis by
 [Karl Abraham][48] and [Wilhelm Reich][49]. Abraham asserted that antisocial
 behaviors stemmed from "psychological undernourishment" as a child, thus
@@ -884,9 +875,18 @@ His analytical inventory is then given as three groups with several subgroups as
 
 It is noted that this system is so broad and vague that it is clinically
 useless, a problem Kahn attempted to fix with a more robust list of instances
-that isn't meaningfully distinguishable from Schneider's list.[^62] Henderson
-himself proposed a categorization of psychopathic personalities into three
-non-exclusive groups in his 1939 work:[^57]
+that isn't meaningfully distinguishable from Schneider's list.[^62]
+
+[Pyotr Borisovich Gannushkin][133] (_Пётр Борисович Ганнушкин_)[^149]
+
+[^149]: Some names written in Cyrillic contain the letters `а́`, `е́`, `и́`, and
+        `о́`, which have been replaced with their non-accented forms due to
+        issues with font support; in future revisions to this site or
+        publications of this work in separate media, these should be reverted to
+        their original form for accuracy.
+
+Henderson himself proposed a categorization of psychopathic personalities into
+three non-exclusive groups in his 1939 work:[^57]
 
 [^62]: Henderson, _Psychopathic States_, 23.
 
@@ -903,8 +903,6 @@ as well as people simply disagreeing that the creative type could even be
 considered a psychopath.[^58]
 
 [^58]: Millon et al., "Historical Conceptions...," 16.
-
-<https://en.wikipedia.org/wiki/Pyotr_Gannushkin>
 
 [Benjamin Karpman][53], in 1941, maintained the distinction of psychopathy into
 two categories (similar to beliefs held by Birnbaum): "idiopathic" and
@@ -1041,10 +1039,6 @@ clinical contexts. That is to say that rather than exploring the origin of what
 would be seen as psychopathy in a patient, these new definitions would continue
 to represent an arbitrary set of "antisocial" behaviors labeled as symptoms.
 
-"Cleckley did make some attempt to explicitly separate psychopathy from
-criminality..."
-{: .pullquote}
-
 However, Cleckley did make some attempt to explicitly separate psychopathy from
 criminality, drawing distinction in the fact that criminals often commit crime
 for a specific end (such as the accumulation of wealth) whereas psychopaths do
@@ -1159,7 +1153,7 @@ further described as:[^136]
   assault, mutilation)._"
 
 The _DSM_'s definitions often included the term "reaction" which was indicative
-of the influence of Adolf Meyer (from Section I-4.)'s conception of mental
+of the influence of Adolf Meyer (from Section I-2.)'s conception of mental
 illness as the way in which a personality reacts to psychological, social, and
 biological factors.[^133]
 
@@ -1323,8 +1317,6 @@ such as castration for those who had committed sexual crimes.[^96]
 
 [^96]: Millon et al., "Historical Conceptions...," 19.
 
-**Millon (1969)**
-
 [Theodore Millon][130], inspired by [Carl Gustav Hempel][131]'s "Aspects of
 Scientific Explanation" (1965), believed in "empirical or inductive models that
 identify and describe associations among observed variables via statistical
@@ -1345,6 +1337,32 @@ ideas within the field[^148].
 
 <https://www.millonpersonality.com/theory/core-components/EvolutionaryTheory.pdf>
 
+**Kernberg (1970)**
+
+[Otto F. Kernberg][135]
+
+While not particularly influential, Ben Bursten sought to define the essence of
+"[t]he diagnosis of sociopathy, together with its
+predecessors&mdash;psychopathy, psychopathic personality, constitutional
+psychopathic inferiority, etc.&mdash;" by the means of his psychoanalytical
+perspective. From this he concluded with what he called the "manipulative
+personality," defined by a fragile form of narcissism that required actions to
+bolster self-esteem[^151]. Due to this definition being concerned with the
+source or motive of the person, a person would not be required to have
+"committed offenses against society" in order to be determined to fit its
+description[^151]; this being perhaps an implementation of Bursten's opposition
+to the value judgements of other characterizations of
+sociopathy/psychopathy.[^152]
+
+[^152]: Millon et al., "Historical Conceptions...," 21.
+
+[^151]: Ben Bursten, "The Manipulative Personality," _Archives of General
+        Psychiatry_ 26, 4 (April 1972): 318-321.
+
+**Fromm (1973)**
+
+**Benjamin (1974)**
+
 **Millon (1974)**
 
 **Spitzer et al., RDC (1975)**
@@ -1359,14 +1377,18 @@ rather than the trait model of previous criteria.[^141] However, the definitions
 maintained the problems of many previous conceptions in that they focused on the
 classification of criminality over clinical treatment; though items associated
 with psychopathy's outward presentation (such as 'coldness') were included as
-criteria for narcissistic personality disorder (NPD).[^141]
+criteria for narcissistic personality disorder (NPD).[^141] **USE THIS.**[^155]
 
-[^147]: Martyn Pickersgill, "[Standardising antisocial personality disorder: the
+[^155]: Martyn Pickersgill, "[Standardising antisocial personality disorder: the
         social shaping of a psychiatric technology,][129]" _Sociology of Health
         & Wellness_ 34, 4 (May 2012): 544-559.
 
 Theodore Millon also served in the Personality Disorder Advisory Group during
-the development of the _DSM-III_.[^148]
+the development of the _DSM-III_,[^148] with his category of "active-independent
+personality" working as a starting point for what then became "antisocial
+personality disorder."[^150]
+
+[^150]: Millon et al., "Historical Conceptions...," 23.
 
 ![Robert D. Hare][127]
 Robert D. Hare is still alive.<br>_Source: [Wikimedia Commons][128], photo by
@@ -1375,9 +1397,16 @@ Stephen McCall._
 
 **Hare, PCL (1980)**
 
+[David Shapiro][136], in his _Autonomy and Rigid Character_ (1981), reasserted
+the antisocial nature of sadism on the basis of the degradation of the victim
+being the goal and motivator of the perpetrator (in opposition to Fromm's
+descriptions of sadistic personalities).[^153]
+
+[^153]: Millon et al., "Historical Conceptions...," 22.
+
 By the late '80s, the aforementioned denotation of "sexual psychopath" would
 have lost what little favor it had retained since its denunciation by Karpman
-and Cleckley, as is evident by this comment in the 5<sup>th</sup> edition of
+and Cleckley, as described by this comment in the 5<sup>th</sup> edition of
 Cleckley's _Mask of Sanity_ (1988):[^7]
 
 > "_When the first edition of this book was written it had for many years been
@@ -1391,13 +1420,21 @@ Cleckley's _Mask of Sanity_ (1988):[^7]
 
 [^7]: Cleckley, _The Mask of Sanity_, 286.
 
+**Siever et al. (1985)**
+
+**Beck et al. (1990)**
+
 **Weiner (1991)**
 
 **Hare, PCL-R (1991)**
 
 **ICD-10 (1992)**
 
+**Michael Stone (1993)**
+
 **Blackburn (1993)**
+
+**Cost & Widiger (1994)**
 
 **DSM-IV (1994)**
 
@@ -1536,9 +1573,9 @@ assertions on the nature of society are assumed true, rather that it is invalid
 to assume such cases are applicable to cases where one cannot reasonably assume
 said assertion is true. It is tempting to brush this off as the primitiveness of
 the past, a fallacy far too many fall into, to assume humans hadn't a clue what
-they were doing until just yesterday. In this case, we can look to Peter
-Kropotkin, a man fairly prominent in various circles in his time, who in 1886
-wrote:[^18]
+they were doing until just yesterday. In this case, we can look to [Peter
+Kropotkin][134] (_Пётр Алексеевич Кропоткин_),[^149] a man fairly prominent in
+various circles in his time, who in 1886 wrote:[^18]
 
 [^18]: Peter Kropotkin, "Law and Authority," 1886.
 
@@ -1603,12 +1640,20 @@ psychologically inclined (rather than socially motivated) behavior.
 
 Definitions of psychopathy could more aptly be described as "List of People I
 Can't Fucking Stand" by various European proto-fascists than a clinical
-diagnosis.
+diagnosis. See: <http://sci-hub.tw/10.1001/archpsyc.1972.01750220028005>[^151]
 
 The past is soaked in blood, to simply reach into it and pull a chunk out for
 your own purposes will end in nothing but soaking your hands as well.
 
-<p><center>𝖂𝖊 𝕷𝖎𝖛𝖊 𝖎𝖓 𝖆 𝕾𝖔𝖈𝖎𝖊𝖙𝖞</center></p>
+The time has come for a dimensional personality disorder diagnosis.[^154]
+
+[^154]: Christopher J. Hopwood, Roman Kotov, Robert F. Krueger, et al., "[The
+        time has come for a dimensional personality disorder diagnosis][137],"
+        _Personality and Mental Health_ 12, 1 (Feb. 2018): 82-86.
+
+<https://onlinelibrary.wiley.com/doi/full/10.1002/pmh.1408>
+
+<p><center>𝖂𝖎𝖗 𝖑𝖊𝖇𝖊𝖓 𝖎𝖓 𝖊𝖎𝖓𝖊𝖗 𝕲𝖊𝖘𝖊𝖑𝖑𝖘𝖈𝖍𝖆𝖋𝖙.</center></p>
 
 ## Further Reading
 
@@ -1637,6 +1682,9 @@ your own purposes will end in nothing but soaking your hands as well.
 
  - Martin Bürgy, "[The Concept of Psychosis: Historical and Phenomenological
    Aspects,][23]" _Schizophrenia Bulletin_ 34, 6 (November 2008): 1200-1210.
+
+ - Ben Bursten, "The Manipulative Personality," _Archives of General Psychiatry_
+   26, 4 (April 1972): 318-321.
 
  - Nancy D. Campbell, "[The spirit of St Louis: the contributions of Lee N.
    Robins to North American psychiatric epidemiology,][123]" _International
@@ -1972,3 +2020,8 @@ your own purposes will end in nothing but soaking your hands as well.
 [130]: https://en.wikipedia.org/wiki/Theodore_Millon
 [131]: https://en.wikipedia.org/wiki/Carl_Gustav_Hempel
 [132]: https://www.researchgate.net/publication/275217155_Theodore_Millon's_Contributions_to_Conceptualizing_Personality_Disorders
+[133]: https://en.wikipedia.org/wiki/Pyotr_Gannushkin
+[134]: https://en.wikipedia.org/wiki/Peter_Kropotkin
+[135]: https://en.wikipedia.org/wiki/Otto_F._Kernberg
+[136]: https://www.davidshapiropsychology.com
+[137]: https://onlinelibrary.wiley.com/doi/full/10.1002/pmh.1408
