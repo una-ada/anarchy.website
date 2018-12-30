@@ -9,12 +9,12 @@ the content here being [comedic fiction][10] or [notes][11] from classes.
 
 ## Goth Angel Sinners
 
-![Goth Angel Sinners][22]
+[![Goth Angel Sinners][22]][1]
 **Figure 1.** The Goth Angel Sinners podcast title card.
 {: .pullquote .image}
 
-[Goth Angel Sinners][1] (🥀👼🗡) is a podcast about anarchy, anarchists, and
-anarchism; hosted by [Una "Trewbot" Ada][2], [Chloe (Χλόη) Ross][3], and
+[Goth Angel Sinners][1] (abbr: 🥀👼🗡) is a podcast about anarchy, anarchists,
+and anarchism; hosted by [Una "Trewbot" Ada][2], [Chloe (Χλόη) Ross][3], and
 [Leland (@whimworm)][4]. The podcast is currently hosted on [anchor.fm][1].
 
 Episodes of the podcast (called "parts") are meant to be released regularly on

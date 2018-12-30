@@ -1457,6 +1457,42 @@ schizophrenic or manic episode.[^147]
 
 **Andrews and Bonta? (2003)**
 
+Evolutionary Theory and Psychopathy
+
+<http://aglenn.people.ua.edu/uploads/1/4/1/8/14182546/glenn_avb_2011.pdf>
+
+Why Use Evolutionary Theory To Describe Personality?
+
+<https://www.millonpersonality.com/theory/core-components/EvolutionaryTheory.pdf>
+
+PSYCHIATRY, SOCIOPATHY AND THE XYY CHROMOSOME SYNDROME
+
+<https://pdfs.semanticscholar.org/5949/3deda5e2f75d948c3f9da35713092dcb2bfd.pdf>
+
+Theodore Millon’s Contributions to Conceptualizing Personality Disorders
+
+<https://www.researchgate.net/publication/275217155_Theodore_Millon's_Contributions_to_Conceptualizing_Personality_Disorders>
+
+The MCMI as a Measure of DSM-III
+
+<http://sci-hub.tw/10.1207/s15327752jpa4904_4>
+
+PSYCHOPATHY A Clinical Construct Whose Time Has Come
+
+<http://sci-hub.tw/10.1177/0093854896023001004>
+
+Personality and Personality Disorders
+
+<http://sci-hub.tw/10.1037/0021-843X.103.1.78>
+
+Between Soma and Society: Neuroscience and the Ontology of Psychopathy
+
+<http://sci-hub.tw/10.1017/S1745855209006425>
+
+BORN TO BE DEVIANT HISTORIES OF THE DIAGNOSIS OF PSYCHOPATHY IN FINLAND
+
+<http://jultika.oulu.fi/files/isbn9789526219431.pdf>
+
 ---
 
 <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3811085/>
