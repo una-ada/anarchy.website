@@ -2,9 +2,13 @@
 layout: default
 ---
 
-<h2 style="margin-top:2rem;">Recent posts:</h2>
+<h1><em>Anarchy.</em>Website</h1>
 
-{% for post in site.posts limit:5%}
+{{ content }}
+
+<h2>Recent Posts</h2>
+
+{% for post in site.posts limit:7%}
     {% include preview.html post=post %}
 {% endfor %}
 

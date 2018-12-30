@@ -1627,6 +1627,8 @@ holds we must describe said intentions.
 
 ### IV-2. Clinical
 
+<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2242349/>
+
 ## V. _The Conclusion_
 
 These terms, psychopathy and sociopathy, originate as _explanations of criminal
