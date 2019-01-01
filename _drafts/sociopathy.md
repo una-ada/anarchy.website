@@ -828,6 +828,22 @@ joined into the psychoanalysis in 1927, concluding that the delinquent behavior
 perceived among supposed psychopaths originated from "unfulfilled oral
 needs."[^56]
 
+**What the fuck was Reich's deal?!?**
+
+<https://en.wikipedia.org/wiki/Freudo-Marxism>
+
+<https://opus4.kobv.de/opus4-Fromm/frontdoor/index/index/year/2014/docId/26236>
+
+<https://www.marxist.com/marxism-psychoanalysis-wilhelm-reich.htm>
+
+<https://www.marxists.org/archive/brinton/1972/reich2.htm>
+
+<https://www.researchgate.net/publication/321187976_Wilhelm_Reich_Revisited_The_role_of_ideology_in_character_analysis_of_the_individual_versus_character_analysis_of_the_masses_and_the_Holocaust>
+
+<https://thecharnelhouse.org/wp-content/uploads/2016/11/wilhelm-reich-sex-pol-essays-1929-1934.pdf>
+
+<http://www.lust-for-life.org/Lust-For-Life/ReichVersusTheSituationists/ReichVersusTheSituationists.htm>
+
 ### I-3. Operationalization
 
 While the works of [Eugen Kahn][50], one of Kraepelin's assistants[^60] who did
@@ -1261,11 +1277,18 @@ reactivity that was present in the _DSM-I_ was removed in the _DSM-II_, removing
 the implications of Meyer's psychobiological models from the criteria.[^134]
 Personality disorders were, however, significantly renovated in the update,
 including the creation of "antisocial personality" as a category of personality
-disorder that subsumed the antisocial and dyssocial reactions.[^134] The
+disorder that subsumed the antisocial and dyssocial reactions,[^134] an
+alteration that while superficially rewriting the intent of the classifications
+retained the influence that Cleckley's works on psychopathy had on nosology in
+psychiatry at the time.[^155] The
 redefinition of reactions that were listed in the _DSM-I_ as different
 manifestations of one of the then four categories of personality disorders
 contributed to the jump from four to ten (plus two additional "unspecified"
 types) types of personality disorder:[^143]
+
+[^155]: Martyn Pickersgill, "[Standardising antisocial personality disorder: the
+        social shaping of a psychiatric technology,][129]" _Sociology of Health
+        & Wellness_ 34, 4 (May 2012), 547.
 
 [^143]: The Committee on Nomenclature and Statistics of the American
         Psychiatric Association, _Diagnostic and Statistical Manual: Mental
@@ -1300,6 +1323,16 @@ cocaine, cannabis, and barbiturates being a few of those included.[^146]
 [^145]: APA, _DSM-II_, 45.
 
 [^146]: APA, _DSM-II_, 46.
+
+Despite these changes and the general removal of "sociopathic personality
+disturbances," psychiatrists at the time continued using the diagnoses of
+"sociopath" and "sociopathic personality," showing both a loose interpretation
+of the _DSM_'s categories and a resistance to change.[^155] This trend came
+under heavy scrutiny of [Richard L. Jenkins][138], a key contributor to the
+_DSM-II_ and later an uncredited consultant to the _DSM-III_ for personality
+disorders.[^156]
+
+[^156]: Pickersgill, "Standardising antisocial...," 550.
 
 <https://www.cdc.gov/nchs/data/misc/classification_diseases2011.pdf>
 
@@ -1361,34 +1394,96 @@ sociopathy/psychopathy.[^152]
 
 **Fromm (1973)**
 
+**Feighner (1967-73)**
+
+&mdash;[George Winokur][140], [Samuel Guze][141], and [Eli Robins][142], as well
+as John Feighner, Robert Woodruff, and Rodrigo A. Muñoz&mdash;at the Washington
+University School of Medicine in St. Louis, Missouri, developing the informally
+named "Feighner Criteria."[^155]
+
 **Benjamin (1974)**
 
 **Millon (1974)**
 
-**Spitzer et al., RDC (1975)**
+[Robert L. Spitzer][143], who had been appointed as the chair of the APA's
+nosological task force in 1974,[^157] **began efforts research into personality
+disorders along with a group of likeminded neo-Kraepelians&mdash;[George
+Winokur][140], [Samuel Guze][141], and [Eli Robins][142]&mdash;at the Washington
+University School of Medicine in St. Louis, Missouri, developing the informally
+named "Feighner Criteria."[^155]**
+
+[^157]: Pickersgill, "Standardising antisocial...," 544.
+
+Aside from Emil Kraepelin, Spitzer was also influenced by Wilhelm Reich[^161]
+earlier in his career, particularly from his high school years on as he noted in
+an anecdote explaining his initially unpublished paper "An Examination of
+Wilhelm Reich's Demonstration of Orgone Energy."[^159] This paper, which was
+denied publication in the _American Journal of Psychiatry_ in 1953, attempted to
+duplicate the experiments described by Reich for the verification of what he
+called "orgone energy," failing to duplicate a small portion due to lack of
+available equipment and volunteers, and ultimately concluded that "careful
+examination of the data in no way proves or even hints at the existence of
+orgone energy."[^160]
+
+[^159]: Robert L. Spitzer, "[The Story of Robert L. Spitzer's Paper, 'An
+        Examination of Demonstrations of Wilhelm Reich's Orgone Energy,'][144]"
+        _The Scientific Review of Mental Health Practice_ 4, 1 (Summer 2005).
+
+[^160]: Robert L. Spitzer, "[An Examination of Demonstrations of Wilhelm Reich's
+        Orgone Energy,'][145]" _The Scientific Review of Mental Health Practice_
+        4, 1 (Summer 2005).
+
+[^161]: Wilhelm Reich is another character that pops up here and there
+        throughout the research for this section; his biography is absolutely
+        wild and while it is outside the scope of this work to discuss him any
+        further, reading into his life and works is heavily encouraged. It's a
+        tipsy turvy tale that includes Freud, Einstein, Marxism, the FBI, the
+        FDA, book burning, and dying in jail after being arrested for contempt
+        of court.
 
 **Millon, MCMI (1977)**
 
-**DSM-III (1980)**
+The _DSM-III_ continued the influence of Lee Robins from the _DSM-II_ and in a
+much less superficial manner, moving towards the social deviance model for
+diagnoses rather than the trait model of previous criteria.[^141] However, the
+definitions maintained the problems of many previous conceptions in that they
+focused on the classification of criminality over clinical treatment; though
+items associated with psychopathy's outward presentation (such as 'coldness')
+were included as criteria for narcissistic personality disorder (NPD).[^141]
 
-The _DSM-III_ continued the influence of Robins from the _DSM-II_ and in a much
-less superficial manner, moving towards the social deviance model for diagnoses
-rather than the trait model of previous criteria.[^141] However, the definitions
-maintained the problems of many previous conceptions in that they focused on the
-classification of criminality over clinical treatment; though items associated
-with psychopathy's outward presentation (such as 'coldness') were included as
-criteria for narcissistic personality disorder (NPD).[^141] **USE THIS.**[^155]
-
-[^155]: Martyn Pickersgill, "[Standardising antisocial personality disorder: the
-        social shaping of a psychiatric technology,][129]" _Sociology of Health
-        & Wellness_ 34, 4 (May 2012): 544-559.
-
-Theodore Millon also served in the Personality Disorder Advisory Group during
-the development of the _DSM-III_,[^148] with his category of "active-independent
+Millon also served in the Personality Disorder Advisory Group during the
+development of the _DSM-III_,[^148] with his category of "active-independent
 personality" working as a starting point for what then became "antisocial
-personality disorder."[^150]
+personality disorder" (ASPD)[^150] alongside the RDC and the work of Robins as
+mentioned earlier.[^158] The use of Robins' research (and the RDC) kept in line
+with the trend towards empirically validated criteria from the '60s on; however,
+even Robins' own criteria were subject to further scrutiny, with the criterion
+of "lack of guilt" being excluded from ASPD for being "too difficult to evaluate
+reliably."[^158] Of course, none of the influences on the _DSM-III_'s criteria
+came uncontested, with members of the committee such as [John R. Lion][146]
+pushing to base the definition more on Cleckley's psychopathy than on Robins'
+sociopathy,[^158] prioritizing psychology over behavior, etiology over
+symptomology. In general, however, Spitzer et al. were more sympathetic to the
+ideas of Kraepelin, holding symptomology over etiology.[^155]
 
 [^150]: Millon et al., "Historical Conceptions...," 23.
+
+[^158]: Pickersgill, "Standardising antisocial...," 548.
+
+Lion's continued efforts to bring psychopathy into the _DSM_ were in part
+informed by his clinical experience with "aggressive individuals" that couldn't
+be defined as having "antisocial personality" as it was defined by an unstable
+form of aggression, whereas "psychopathic personality" was characterized as an
+unwillingness/inability to conform to social laws and an "impoverished sense of
+ethical and moral values."[^162] This attempt was refuted on the grounds that
+the definitions he was using were too difficult to operationalize, going against
+the intentions of the committee. Some effort was made to compromise and
+effectively include both sociopathy and psychopathy within the definition of
+ASPD based on a suggestion from Jenkins to create two subtypes: "socialized" and
+"undersocialized;" though after some consideration Spitzer ultimately decided
+against the idea.[^156] 
+
+[^162]: Pickersgill, "Standardising antisocial...," 549.
 
 ![Robert D. Hare][127]
 Robert D. Hare is still alive.<br>_Source: [Wikimedia Commons][128], photo by
@@ -1396,6 +1491,13 @@ Stephen McCall._
 {: .pullquote .image .left}
 
 **Hare, PCL (1980)**
+
+Throughout the '70s, the classification of psychopathy continued to see usage in
+the psychiatric community despite its exclusion from the likes of the _DSM_ and
+the _ICD_; as other diagnoses were being given rigid and standardized
+definitions, a push began towards such a standard for psychopathy, among which a
+prominent member was [Robert D. Hare][139].[^155] **Hare's efforts led to the
+PCL etc etc...** Hare was heavily influenced by the work of Cleckley.[^155]
 
 [David Shapiro][136], in his _Autonomy and Rigid Character_ (1981), reasserted
 the antisocial nature of sadism on the basis of the degradation of the victim
@@ -1907,6 +2009,14 @@ The time has come for a dimensional personality disorder diagnosis.[^154]
 
  - ["Sociopathy,"][1] Psychology Today, accessed Sep. 27, 2018.
 
+ - Robert L. Spitzer, "[An Examination of Demonstrations of Wilhelm Reich's
+   Orgone Energy,'][145]" _The Scientific Review of Mental Health Practice_ 4, 1
+   (Summer 2005).
+
+ - Robert L. Spitzer, "[The Story of Robert L. Spitzer's Paper, 'An Examination
+   of Demonstrations of Wilhelm Reich's Orgone Energy,'][144]" _The Scientific
+   Review of Mental Health Practice_ 4, 1 (Summer 2005).
+
  - Andy Steiner, "[Once landfill-bound, the U of M’s Benjamin Karpman Papers are
    a treasure trove of GLBT history,][56]" MinnPost, Jun. 19, 2017.
 
@@ -2063,3 +2173,12 @@ The time has come for a dimensional personality disorder diagnosis.[^154]
 [135]: https://en.wikipedia.org/wiki/Otto_F._Kernberg
 [136]: https://www.davidshapiropsychology.com
 [137]: https://onlinelibrary.wiley.com/doi/full/10.1002/pmh.1408
+[138]: https://en.wikipedia.org/wiki/Richard_L._Jenkins
+[139]: https://en.wikipedia.org/wiki/Robert_D._Hare
+[140]: https://en.wikipedia.org/wiki/George_Winokur
+[141]: https://en.wikipedia.org/wiki/Samuel_Guze
+[142]: https://en.wikipedia.org/wiki/Eli_Robins
+[143]: https://en.wikipedia.org/wiki/Robert_Spitzer_(psychiatrist)
+[144]: http://www.srmhp.org/0401/spitzer.html
+[145]: https://www.srmhp.org/0401/reich.html
+[146]: http://johnrlion.com
