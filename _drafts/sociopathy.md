@@ -1,7 +1,8 @@
 ---
 author: trewbot
 description: >
-
+    An exploration into the history, validity, and social and philosophical
+    implications of psychopathy, sociopathy, and related psychiatric concepts.
 entry: 1
 layout: post
 license: BY-SA
@@ -838,7 +839,7 @@ needs."[^56]
 
 <https://www.marxists.org/archive/brinton/1972/reich2.htm>
 
-<https://www.researchgate.net/publication/321187976_Wilhelm_Reich_Revisited_The_role_of_ideology_in_character_analysis_of_the_individual_versus_character_analysis_of_the_masses_and_the_Holocaust>
+<https://www.researchgate.net/publication/321187976>
 
 <https://thecharnelhouse.org/wp-content/uploads/2016/11/wilhelm-reich-sex-pol-essays-1929-1934.pdf>
 
@@ -1114,7 +1115,7 @@ of sexual psychopathy would be reliant on such definitions.[^88]
 
 [^88]: Karpman, "The Sexual Psychopath," 184.
 
-### I-4. Standardization
+### I-4. Standardization I: The _DSM_ and _DSM-II_
 
 The late 20<sup>th</sup> century saw a more distinct split in concepts of
 psychopathy/sociopathy than past eras, in the interest of properly describing
@@ -1394,23 +1395,128 @@ sociopathy/psychopathy.[^152]
 
 **Fromm (1973)**
 
-**Feighner (1967-73)**
+### I-5. Standardization II: The _DSM-III_
 
-&mdash;[George Winokur][140], [Samuel Guze][141], and [Eli Robins][142], as well
-as John Feighner, Robert Woodruff, and Rodrigo A. Muñoz&mdash;at the Washington
-University School of Medicine in St. Louis, Missouri, developing the informally
-named "Feighner Criteria."[^155]
+Through the 1940s Freudian psychoanalysis dominated the field of psychiatry, and
+with it a largely negative view on psychiatric diagnoses. This perspective was
+validated by Philip Ash (1949)[^163] and Beck et al. (1962)[^164] whose works
+showed a relative lack of consistency from psychiatrist to psychiatrist
+diagnosing a single patient.[^165] The alternative interpretation of this
+dilemma was, of course, that diagnostic criteria needed to be more consistent
+and less vague.
+
+[^163]: Philip Ash, "The Reliability of Psychiatric Diagnoses," _The Journal of
+        Abnormal and Social Psychology_ 44, 2 (1949): 272-276.
+
+[^164]: A. T. Beck, C. H. Ward, M. Mendelson, J. E. Mock, and J. K. Erbaugh,
+        "Reliability of Psychiatric Diagnoses: 2. A Study of Consistency of
+        Clinical Judgments and Ratings," _The American Journal of Psychiatry_
+        119, 3 (Sep. 1962): 210-216.
+
+[^165]: Kenneth S. Kendler, Rodrigo A. Muñoz, and George Murphy, "[The
+        Development of the Feighner Criteria: A Historical Perspective][147],"
+        _The American Journal of Psychiatry_ 167, 2 (Feb. 2010), 134.
+
+The Department of Psychiatry at Washington University School of Medicine in St.
+Louis, Missouri stood against this Freudian wave, with the head of the
+department, Dr. Edwin Gildea, leaning more towards biological theories for
+psychiatric illnesses[^168] and supporting empirical research in the
+field.[^166] In 1949, [Eli Robins][142] joined the department after studying
+systemic clinical investigation under Dr. Mandel Cohen at Harvard;[^167] as part
+of this "systemic" methodology, Robins believed in replicability as a necessity
+for clinical validity.[^166] In the following year, 1950, [George Winokur][140]
+also joined the department, having likely escaped Freudian influence by
+maintaining a "strong Meyerian tradition."[^166] [Samuel Guze][141] attended
+Washington University in both undergraduate and medical school, beginning his
+psychiatric training there in 1950 and becoming a faculty member in 1955.[^166]
+These three concerned themselves over the state of psychiatric diagnoses
+constantly, coming under critique by psychoanalysts as being "too mechanistic"
+but nonetheless pushing forward to promote research and literary review for the
+sake of improving the state of said diagnoses.[^166]
+
+[^166]: Kendler et al., "...the Feighner Criteria...," 135.
+
+[^167]: "[History Timeline: Dr. Edwin Gildea][148]," Washington University,
+        accessed Jan. 2, 2019.
+
+[^168]: "[History Timeline: Dr. Mandel Cohen][149]," Washington University,
+        accessed Jan. 2, 2019.
+
+To the point of literary studies, the group had created a list of works required
+of every new faculty member to read regarding psychiatric diagnostics; upon his
+undertaking of the reading, John Feighner, who began his residency at Washington
+University in 1966, proposed members of the department publish a paper reviewing
+the works in the list and providing an outline of the concepts therein.[^169]
+A committee was formed with Robins, Winokur, Guze, and Feighner, along with the
+addition of Robert Woodruff (brought in for his expertise on the concepts at
+hand) and Rodrigo Muñoz (who had joined the department in 1965 and was already
+planning work with Robins beforehand).[^169]
+
+[^169]: Kendler et al., "...the Feighner Criteria...," 136.
+
+The meetings of this committee soon came to the realization that there was a
+great amount of inconsistency and vagueness in the literature, leading to
+difficulty with drawing any conclusions from it.[^170] Upon this realization,
+the group shifted towards a new goal of improving the state of things, leading
+to nine months of semi-regular meetings to successively review and outline new
+criteria for 14 psychiatric disorders[^169] in what would be informally referred
+to as the "Feighner Criteria".[^155] Over the course of these meetings, other
+residents and faculty from the University would be called in to consult on
+various diagnoses, including Richard Hudgens, George Murphy, and, most notably,
+Lee Robins.[^169]
+
+[^170]: John P. Feighner, "[The Advent of the 'Feighner Criteria][150],'"
+        _Current Contents_ 43 (Oct. 23, 1989): 14.
+
+The criteria laid out by the committee for antisocial personality disorder
+(being the equivalent of sociopathy in this categorization) was based on the
+criteria developed by Lee Robins' 1966 work, just as with the _DSM-II_, but with
+significant revisions made.[^171] The coauthors of the Feighner Criteria aimed
+to avoid intersects between antisocial personality and poverty and drug abuse,
+removing the criteria of excessive drugs, heavy drinking, and public financial
+care from Robins' original list; they also removed criteria for lacking in the
+desired diagnostic specificity, those being lack of friends, impulsive behavior,
+suicide attempts, and "many somatic symptoms;" finally, based on the studies of
+Guze along with Donald Goodwin, a new criterion of running away from home was
+added.[^171]
+
+[^171]: Kendler et al., "...the Feighner Criteria...," 137.
+
+![Spitzer holding a copy of the DSM-III.][153]
+Robert L. Spitzer<br>_Source: [Psychology Today][152]._
+{: .pullquote .image}
+
+In the end, the criteria were published as "Diagnostic Criteria for Use in
+Psychiatric Research" in the Archives of General Psychiatry in 1972.[^172]
+
+[^172]: John P. Feighner, Eli Robins, Samuel B. Guze, Robert A. Woodruff, Jr.,
+        George Winokur, and Rodrigo Muñoz, "[Diagnostic Criteria for Use in
+        Psychiatric Research][151]," _Archives of General Psychiatry_ 26, 1
+        (Jan. 1972): 57-63.
+
+That same year, the Clinical Research Branch of the National Institute for
+Mental Health (NIMH) began sponsoring a collaborative project on the
+psychobiology of depression, with [Robert L. Spitzer][143] and [Jean
+Endicott][154] developing a diagnostic criteria.[^173] Following the
+recommendation of Dr. Martin Kratz, the two sought to collaborate with Eli
+Robins and his colleagues at Washington University,[^173] basing this new
+criteria, dubbed the Research Diagnostic Criteria (RDC), on the Feighner
+Criteria they had developed.[^174][^175]
+
+[^173]: Kendler et al., "...the Feighner Criteria...," 138.
+
+[^174]: Robert L. Spitzer, "[The Development of Diagnostic Criteria in
+        Psychiatry][155]," _Current Contents_ (May 8, 1989): 21.
+
+[^175]: Robert L. Spitzer, Jean Endicott, Eli Robins, "[Research Diagnostic
+        Criteria][156]," _Archives of General Psychiatry_ 35 (Jun. 1978), 773.
 
 **Benjamin (1974)**
 
 **Millon (1974)**
 
-[Robert L. Spitzer][143], who had been appointed as the chair of the APA's
-nosological task force in 1974,[^157] **began efforts research into personality
-disorders along with a group of likeminded neo-Kraepelians&mdash;[George
-Winokur][140], [Samuel Guze][141], and [Eli Robins][142]&mdash;at the Washington
-University School of Medicine in St. Louis, Missouri, developing the informally
-named "Feighner Criteria."[^155]**
+Spitzer was appointed as the chair of the APA's nosological task force in
+1974.[^157]
 
 [^157]: Pickersgill, "Standardising antisocial...," 544.
 
@@ -1440,6 +1546,17 @@ orgone energy."[^160]
         tipsy turvy tale that includes Freud, Einstein, Marxism, the FBI, the
         FDA, book burning, and dying in jail after being arrested for contempt
         of court.
+
+Spitzer obit.
+<https://www.modernhealthcare.com/article/20151227/NEWS/312279997>
+
+<https://www.nytimes.com/2012/05/19/health/dr-robert-l-spitzer-noted-psychiatrist-apologizes-for-study-on-gay-cure.html>
+
+<https://www.psychologytoday.com/us/blog/side-effects/201601/the-problem-heroizing-robert-spitzer>
+
+<https://www.columbiapsychiatry.org/news/memoriam-robert-spitzer-md-friend-and-colleague>
+
+<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5101569/>
 
 **Millon, MCMI (1977)**
 
@@ -1481,16 +1598,16 @@ the intentions of the committee. Some effort was made to compromise and
 effectively include both sociopathy and psychopathy within the definition of
 ASPD based on a suggestion from Jenkins to create two subtypes: "socialized" and
 "undersocialized;" though after some consideration Spitzer ultimately decided
-against the idea.[^156] 
+against the idea.[^156]
 
 [^162]: Pickersgill, "Standardising antisocial...," 549.
+
+### I-6. Standardization III: The PCL
 
 ![Robert D. Hare][127]
 Robert D. Hare is still alive.<br>_Source: [Wikimedia Commons][128], photo by
 Stephen McCall._
 {: .pullquote .image .left}
-
-**Hare, PCL (1980)**
 
 Throughout the '70s, the classification of psychopathy continued to see usage in
 the psychiatric community despite its exclusion from the likes of the _DSM_ and
@@ -1520,7 +1637,7 @@ Cleckley's _Mask of Sanity_ (1988):[^7]
   years before and after the initial publication of the_ Mask of Sanity _this
   custom had authoritative sanction in our nomenclature._"
 
-[^7]: Cleckley, _The Mask of Sanity_, 286.
+[^7]:   Cleckley, _The Mask of Sanity_, 286.
 
 **Siever et al. (1985)**
 
@@ -1553,7 +1670,7 @@ schizophrenic or manic episode.[^147]
 
 **Herpertz and Sass (2000)**
 
-### I-5. Continuation
+### I-7. Continuation
 
 **Cooke and Michie (2001)**
 
@@ -1624,12 +1741,13 @@ the attempts at formalization as a personality disorder are put under greater
 scrutiny than those that simply seek to create a checklist for psychopathy. This
 is due to the concept of psychopathy itself being generally considered informal.
 
-[^16]: See, for example, this report for the Axis II Work Group of the Task
-       Force on _DSM&mdash;IV_ (why does anyone let Hare talk about this?):
+[^16]:  See, for example, this report for the Axis II Work Group of the Task
+        Force on _DSM&mdash;IV_ (why does anyone let Hare talk about this?):
 
-       Robert D. Hare, Stephen D. Hart, and Timothy J. Harpur, "[Psychopathy and
-       the _DSM&mdash;IV_ Criteria for Antisocial Personality Disorder,][13]"
-       _Journal of Abnormal Psychology_ 100, 3 (Aug. 1991): 391-398.
+    Robert D. Hare, Stephen D. Hart, and Timothy J. Harpur, "[Psychopathy
+    and the _DSM&mdash;IV_ Criteria for Antisocial Personality
+    Disorder,][13]" _Journal of Abnormal Psychology_ 100, 3 (Aug. 1991):
+    391-398.
 
 ## II. _The Distinction of "Sociopathy"_
 
@@ -1642,9 +1760,9 @@ that it simply refers to someone who has a disconnect with society; the _socio-_
 prefix meaning "regarding society"[^4] and the _-path_ suffix meaning
 "disorder."[^5]
 
-[^4]: ["socio-,"][3] Wiktionary, accessed Sep. 27, 2018.
+[^4]:   ["socio-,"][3] Wiktionary, accessed Sep. 27, 2018.
 
-[^5]: ["-path,"][4] Wiktionary, accessed Sep. 27, 2018.
+[^5]:   ["-path,"][4] Wiktionary, accessed Sep. 27, 2018.
 
 Sociopathy is commonly used synonymously with Antisocial Personality Disorder
 (APD/ASPD)[^1] and due to the nature of personality disorders[^2] (and the
@@ -1653,15 +1771,15 @@ Narcissistic Personality Disorder (NPD). This tangential association's
 continuation in contemporary notions is largely due to conceptual overlaps
 between ASPD and NPD, both connotatively and clinically.[^3]
 
-[^1]: ["Sociopathy,"][1] Psychology Today, accessed Sep. 27, 2018.
+[^1]:   ["Sociopathy,"][1] Psychology Today, accessed Sep. 27, 2018.
 
-[^2]: Personality disorders are known to have high rates of comorbidity, meaning
-      that a person with any given personality disorder has a higher chance of
-      also having another personality disorder than a person without a
-      personality disorder.
+[^2]:   Personality disorders are known to have high rates of comorbidity,
+        meaning that a person with any given personality disorder has a higher
+        chance of also having another personality disorder than a person without
+        a personality disorder.
 
-[^3]: Stephen A. Diamond Ph.D., "[Is It Narcissism or Sociopathy?,][2]"
-      Psychology Today, Jul. 19, 2017.
+[^3]:   Stephen A. Diamond Ph.D., "[Is It Narcissism or Sociopathy?,][2]"
+        Psychology Today, Jul. 19, 2017.
 
 ---
 
@@ -1698,7 +1816,7 @@ untrue.
 
 ### III-2. Degeneration Theory
 
-### III-3. Physiognomy
+### III-3. Physiognomy and Craniography
 
 ### III-4. Criminology
 
@@ -1715,10 +1833,10 @@ they were doing until just yesterday. In this case, we can look to [Peter
 Kropotkin][134] (_Пётр Алексеевич Кропоткин_),[^149] a man fairly prominent in
 various circles in his time, who in 1886 wrote:[^18]
 
-[^18]: Peter Kropotkin, "Law and Authority," 1886.
+[^18]:  Peter Kropotkin, "Law and Authority," 1886.
 
-       Peter Kropotkin, "[Law and Authority,][15]" _Kropotkin's Revolutionary
-       Pamphlets_, ed. Roger N. Baldwin (Vanguard Press, 1927).
+    Peter Kropotkin, "[Law and Authority,][15]" _Kropotkin's Revolutionary
+    Pamphlets_, ed. Roger N. Baldwin (Vanguard Press, 1927).
 
 > "_Cleverly assorted scraps of spurious science are inculcated upon the
    children to prove necessity of law; obedience to the law is made a religion;
@@ -1729,8 +1847,8 @@ various circles in his time, who in 1886 wrote:[^18]
 In the words of Murray Bookchin, "[t]he assumption that what currently exists
 must necessarily exist is the acid that corrodes all visionary thinking."[^17]
 
-[^17]: Murray Bookchin, "[The Meaning of Confederalism,][14]" _Green
-       Perspectives_ 20 (1990).
+[^17]:  Murray Bookchin, "[The Meaning of Confederalism,][14]" _Green
+        Perspectives_ 20 (1990).
 
 ---
 
@@ -1797,242 +1915,275 @@ The time has come for a dimensional personality disorder diagnosis.[^154]
 
 ## Further Reading
 
- - Jarkko Jalava, "[Science of conscience: Metaphysics, morality, and
-   rhetoric in psychopathy research,][18]" Ph.D. Dissertation, Simon Fraser
-   University, Burnaby, British Columbia, 2007.
+-   Jarkko Jalava, "[Science of conscience: Metaphysics, morality, and
+    rhetoric in psychopathy research,][18]" Ph.D. Dissertation, Simon Fraser
+    University, Burnaby, British Columbia, 2007.
 
- - Theodore Millon, Erik Simonsen, and Morten Birket-Smith, "[Historical
-   Conceptions of Psychopathy in the United States and Europe,][9]" in
-   _Psychopathy: Antisocial, Criminal, and Violent Behavior,_ ed. Theodore
-   Millon, et al. (New York: The Guilford Press, 1998).
+-   Theodore Millon, Erik Simonsen, and Morten Birket-Smith, "[Historical
+    Conceptions of Psychopathy in the United States and Europe,][9]" in
+    _Psychopathy: Antisocial, Criminal, and Violent Behavior,_ ed. Theodore
+    Millon, et al. (New York: The Guilford Press, 1998).
 
 ## Bibliography
 
- - James Blair, Derek Mitchell, and Karina Blair, [_The Psychopath: Emotion and
-   the Brain,_][7] <sup>[(alt)][8]</sup> (Oxford: Blackwell, 2005).
+-   Philip Ash, "The Reliability of Psychiatric Diagnoses," _The Journal of
+    Abnormal and Social Psychology_ 44, 2 (1949): 272-276.
 
- - Murray Bookchin, "[The Meaning of Confederalism,][14]" _Green Perspectives_
-   20 (1990).
+-   A. T. Beck, C. H. Ward, M. Mendelson, J. E. Mock, and J. K. Erbaugh,
+    "Reliability of Psychiatric Diagnoses: 2. A Study of Consistency of Clinical
+    Judgments and Ratings," _The American Journal of Psychiatry_ 119, 3 (Sep.
+    1962): 210-216.
 
- - Diana Bretherick, "[The ‘born criminal’? Lombroso and the origins of modern
-   criminology,][20]" History Extra, Oct. 9, 2016.
+-   James Blair, Derek Mitchell, and Karina Blair, [_The Psychopath: Emotion and
+    the Brain,_][7] <sup>[(alt)][8]</sup> (Oxford: Blackwell, 2005).
 
- - Roderick D. Buchanan, "[Looking back: the controversial Hans Eysenck][94],"
-   _The Psychologist_ 24, 4 (April 2011): 318-319.
+-   Murray Bookchin, "[The Meaning of Confederalism,][14]" _Green Perspectives_
+    20 (1990).
 
- - Martin Bürgy, "[The Concept of Psychosis: Historical and Phenomenological
-   Aspects,][23]" _Schizophrenia Bulletin_ 34, 6 (November 2008): 1200-1210.
+-   Diana Bretherick, "[The ‘born criminal’? Lombroso and the origins of modern
+    criminology,][20]" History Extra, Oct. 9, 2016.
 
- - Ben Bursten, "The Manipulative Personality," _Archives of General Psychiatry_
-   26, 4 (April 1972): 318-321.
+-   Roderick D. Buchanan, "[Looking back: the controversial Hans Eysenck][94],"
+    _The Psychologist_ 24, 4 (April 2011): 318-319.
 
- - Nancy D. Campbell, "[The spirit of St Louis: the contributions of Lee N.
-   Robins to North American psychiatric epidemiology,][123]" _International
-   Journal of Epidemiology_ 2014: i19-i28.
+-   Martin Bürgy, "[The Concept of Psychosis: Historical and Phenomenological
+    Aspects,][23]" _Schizophrenia Bulletin_ 34, 6 (November 2008): 1200-1210.
 
- - "[The Characters of Theophrastus,][22]" an eudæmonist, accessed Oct. 1, 2018.
+-   Ben Bursten, "The Manipulative Personality," _Archives of General
+    Psychiatry_ 26, 4 (April 1972): 318-321.
 
- - Hervey M. Cleckley, _The Mask of Sanity_ 5<sup>th</sup> edition (1988).
+-   Nancy D. Campbell, "[The spirit of St Louis: the contributions of Lee N.
+    Robins to North American psychiatric epidemiology,][123]" _International
+    Journal of Epidemiology_ 2014: i19-i28.
 
- - The Committee on Nomenclature and Statistics of the American Psychiatric
-   Association, _Diagnostic and Statistical Manual: Mental Disorders_
-   (Massachusetts: American Psychiatric Association Mental Hospital Service,
-   1952).
+-   "[The Characters of Theophrastus,][22]" an eudæmonist, accessed Oct. 1,
+    2018.
 
- - The Committee on Nomenclature and Statistics of the American Psychiatric
-   Association, _Diagnostic and Statistical Manual: Mental Disorders_ Second
-   Edition (Washington, D.C.: American Psychiatric Association Mental, 1968).
+-   Hervey M. Cleckley, _The Mask of Sanity_ 5<sup>th</sup> edition (1988).
 
- - Linda B. Cottler, Darrel A. Regier, John E. Helzer, Felton James Earls, J.
-   Elisabeth Wells, Norman Sartorius, Michael Rutter, Paul Bebbington, and
-   Charles F. Zorumski, "A tribute to Lee Nelken Robins: from colleagues and
-   friends," _Social Psychiatry and Psychiatric Epidemiology_ 45, 7 (July 2010):
-   681-693.
+-   The Committee on Nomenclature and Statistics of the American Psychiatric
+    Association, _Diagnostic and Statistical Manual: Mental Disorders_
+    (Massachusetts: American Psychiatric Association Mental Hospital Service,
+    1952).
 
- - Marc-Antoine Crocq, "[Milestones in the history of personality
-   disorders,][33]" _Dialogues in Clinical Neuroscience_ 15, 2 (June 2013):
-   147-153.
+-   The Committee on Nomenclature and Statistics of the American Psychiatric
+    Association, _Diagnostic and Statistical Manual: Mental Disorders_ Second
+    Edition (Washington, D.C.: American Psychiatric Association Mental, 1968).
 
- - Timothy O. Davis, PhD, "[Conceptualizing Psychiatric Disorders Using "Four
-   D's" of Diagnoses,][11]" _Internet Journal of Psychiatry_ 1, 1 (2009).
+-   Linda B. Cottler, Darrel A. Regier, John E. Helzer, Felton James Earls, J.
+    Elisabeth Wells, Norman Sartorius, Michael Rutter, Paul Bebbington, and
+    Charles F. Zorumski, "A tribute to Lee Nelken Robins: from colleagues and
+    friends," _Social Psychiatry and Psychiatric Epidemiology_ 45, 7 (July
+    2010): 681-693.
 
- - Shane Dawson, [_The Mind of Jake Paul_][66], YouTube, 2018
+-   Marc-Antoine Crocq, "[Milestones in the history of personality
+    disorders,][33]" _Dialogues in Clinical Neuroscience_ 15, 2 (June 2013):
+    147-153.
 
- - Shane Dawson, Snapchat, [Sep. 28, 2018][116] (archived on YouTube).
+-   Timothy O. Davis, PhD, "[Conceptualizing Psychiatric Disorders Using "Four
+    D's" of Diagnoses,][11]" _Internet Journal of Psychiatry_ 1, 1 (2009).
 
- - Shane Dawson ([@shanedawson][112]), "Kati is my friend and i wanted our
-   conversation to be relaxed and real. we both got comfortable and didn’t
-   think everything through. but i think the music and b roll just enhanced
-   everything which was 100% my fault. she didn’t know i was gonna do that.
-   🙏🏻❤️," Twitter, [Oct. 4, 2018][113].
+-   Shane Dawson, [_The Mind of Jake Paul_][66], YouTube, 2018
 
- - Shane Dawson ([@shanedawson][112]), "i’ve suffered from bulimia, body
-   dysmorphia and depression for the last 15 years. i would 100% consider
-   the feeling i have when talking about those things to be “creepy”
-   “gross” and “icky”. it’s not me that’s icky. it’s the feeling i get when
-   describing them. i totally (1/2)," Twitter, [Oct. 4, 2018][114].
+-   Shane Dawson, Snapchat, [Sep. 28, 2018][116] (archived on YouTube).
 
- - Shane Dawson ([@shanedawson][112]), "(2/2) understand why people are
-   upset but i think it’s important to see it from all sides. are
-   sociopaths gross? no. does it feel gross when u think about a sociopath
-   acting out one of the symptoms? depends on who you are. but once again,
-   i shouldn’t have made it scary 1000% 🙏🏻," Twitter, [Oct. 4, 2018][115].
+-   Shane Dawson ([@shanedawson][112]), "Kati is my friend and i wanted our
+    conversation to be relaxed and real. we both got comfortable and didn’t
+    think everything through. but i think the music and b roll just enhanced
+    everything which was 100% my fault. she didn’t know i was gonna do that.
+    🏻❤️," Twitter, [Oct. 4, 2018][113].
 
- - Jeffrey P Dennis, _[The Myth of the Queer Criminal,][57]_ (New York:
-   Routledge, 2018).
+-   Shane Dawson ([@shanedawson][112]), "i’ve suffered from bulimia, body
+    dysmorphia and depression for the last 15 years. i would 100% consider
+    the feeling i have when talking about those things to be “creepy”
+    “gross” and “icky”. it’s not me that’s icky. it’s the feeling i get when
+    describing them. i totally (1/2)," Twitter, [Oct. 4, 2018][114].
 
- - Stephen A. Diamond Ph.D., "[Is It Narcissism or Sociopathy?,][2]" Psychology
-   Today, Jul. 19, 2017.
+-   Shane Dawson ([@shanedawson][112]), "(2/2) understand why people are
+    upset but i think it’s important to see it from all sides. are
+    sociopaths gross? no. does it feel gross when u think about a sociopath
+    acting out one of the symptoms? depends on who you are. but once again,
+    i shouldn’t have made it scary 1000% 🙏🏻," Twitter, [Oct. 4, 2018][115].
 
- - Rick Doblin, "[Dr. Leary's Concord Prison Experiment: A 34 Year Follow-Up
-   Study][89]," _the Bulletin of the Multidisciplinary Association for
-   Psychedelic Studies (MAPS)_ 9, 4 (Winter 1999/2000): 10-18.
+-   Jeffrey P Dennis, _[The Myth of the Queer Criminal,][57]_ (New York:
+    Routledge, 2018).
 
- - "[The Drug Enforcement Administration (DEA) Years 1970-1975][93]," _The
-   United States Drug Enforcement Administration History_
+-   Stephen A. Diamond Ph.D., "[Is It Narcissism or Sociopathy?,][2]" Psychology
+    Today, Jul. 19, 2017.
 
- - "[_DSM_ History,][117]" American Psychiatric Association, Accessed Dec. 20,
-   2018.
+-   Rick Doblin, "[Dr. Leary's Concord Prison Experiment: A 34 Year Follow-Up
+    Study][89]," _the Bulletin of the Multidisciplinary Association for
+    Psychedelic Studies (MAPS)_ 9, 4 (Winter 1999/2000): 10-18.
 
- - Andreas Ebert and Karl-Jürgen Bär, "[Emil Kraepelin: A pioneer of scientific
-   understanding of psychiatry and psychopharmacology,][32]" _Indian Journal of
-   Psychiatry_ 52, 2 (Apr-Jun 2010): 191-192.
+-   "[The Drug Enforcement Administration (DEA) Years 1970-1975][93]," _The
+    United States Drug Enforcement Administration History_
 
- - Eric J. Engstrom, "[Classic Text No. 71: 'On the Question of Degeneration' by
-   Emil Kraepelin (1908),][34]" _History of Psychiatry_ 18, 3 (2007): 389-404.
+-   "[_DSM_ History,][117]" American Psychiatric Association, Accessed Dec. 20,
+    2018.
 
- - Phillip Gutmann, "[Julius Ludwig August Koch (1841-1908): Christian,
-   philosopher and psychiatrist,][24]" _History of Psychiatry_ 19, 2 (2008):
-   202-214.
+-   Andreas Ebert and Karl-Jürgen Bär, "[Emil Kraepelin: A pioneer of scientific
+    understanding of psychiatry and psychopharmacology,][32]" _Indian Journal of
+    Psychiatry_ 52, 2 (Apr-Jun 2010): 191-192.
 
- - Robert D. Hare, Stephen D. Hart, and Timothy J. Harpur, "[Psychopathy and the
-   _DSM&mdash;IV_ Criteria for Antisocial Personality Disorder,][13]" _Journal
-   of Abnormal Psychology_ 100, 3 (Aug. 1991): 391-398.
+-   Eric J. Engstrom, "[Classic Text No. 71: 'On the Question of Degeneration'
+    by Emil Kraepelin (1908),][34]" _History of Psychiatry_ 18, 3 (2007):
+    389-404.
 
- - D. K. Henderson, _Psychopathic States_, (New York: W. W. Norton & Co., 1939)=.
+-   John P. Feighner, "[The Advent of the 'Feighner Criteria][150],'" _Current
+    Contents_ 43 (Oct. 23, 1989): 14.
 
- - M. Hildebrand, _[Psychopathy in the treatment of forensic psychiatric
-   patients: assessment, prevalence, predictive validity, and clinical
-   implications][54]_ (Amsterdam: Dutch University Press, 2004).
+-   John P. Feighner, Eli Robins, Samuel B. Guze, Robert A. Woodruff, Jr.,
+    George Winokur, and Rodrigo Muñoz, "[Diagnostic Criteria for Use in
+    Psychiatric Research][151]," _Archives of General Psychiatry_ 26, 1
+    (Jan. 1972): 57-63.
 
- - Hanns Hippius, Hans-Jürgen Möller, Hans-Jürgen Müller, and Gabriele
-   Neundörfer-Kohl, _[The University Department of Psychiatry in Munich: From
-   Kraepelin and his predecessors to molecular psychiatry][52]_ (Heidelberg:
-   Springer Medizin Verlag, 2008)=.
+-   Phillip Gutmann, "[Julius Ludwig August Koch (1841-1908): Christian,
+    philosopher and psychiatrist,][24]" _History of Psychiatry_ 19, 2 (2008):
+    202-214.
 
- - William H. Honan, "[Hans J. Eysenck, 81, a Heretic In the Field of
-   Psychotherapy][95]," The New York _Times_, Sep. 10, 1997.
+-   Robert D. Hare, Stephen D. Hart, and Timothy J. Harpur, "[Psychopathy and
+    the _DSM&mdash;IV_ Criteria for Antisocial Personality Disorder,][13]"
+    _Journal of Abnormal Psychology_ 100, 3 (Aug. 1991): 391-398.
 
- - Jarkko Jalava, "[Science of conscience: Metaphysics, morality, and rhetoric
-   in psychopathy research,][18]" Ph.D. Dissertation, Simon Fraser University,
-   Burnaby, British Columbia, 2007.
+-   D. K. Henderson, _Psychopathic States_, (New York: W. W. Norton & Co.,
+    1939).
 
- - Clarence Ray Jeffrey, "[The Historical Development of Criminology,][10]"
-   _Journal of Criminal Law and Criminology_ 50, 1 (Summer 1959): 3-19.
+-   M. Hildebrand, _[Psychopathy in the treatment of forensic psychiatric
+    patients: assessment, prevalence, predictive validity, and clinical
+    implications][54]_ (Amsterdam: Dutch University Press, 2004).
 
- - Sujit Kar, "[Hans Eysenck &mdash; Contributions & Controversies][96],"
-   _Delhi Psychiatric Journal_ 16, 1 (April 2013): 53-56.
+-   Hanns Hippius, Hans-Jürgen Möller, Hans-Jürgen Müller, and Gabriele
+    Neundörfer-Kohl, _[The University Department of Psychiatry in Munich: From
+    Kraepelin and his predecessors to molecular psychiatry][52]_ (Heidelberg:
+    Springer Medizin Verlag, 2008)=.
 
- - Benjamin Karpman, "[The Sexual Psychopath,][55]" _Journal of Criminal Law
-   and Criminology_ 42, 2 (Summer 1951): 184-198.
+-   "[History Timeline: Dr. Edwin Gildea][148]," Washington University, accessed
+    Jan. 2, 2019.
 
- - Kent A. Kiehl and Morris B. Hoffman, "[The Criminal Psychopath: History,
-   Neuroscience, Treatment, and Economics,][6]" _Jurimetrics_ 51 (Summer 2011):
-   355-397.
+-   "[History Timeline: Dr. Mandel Cohen][149]," Washington University, accessed
+    Jan. 2, 2019.
 
- - Julius Ludwig August Koch, [_Die Psychopathischen Minderwertigkeiten,_][5]
-   (Ravensburg: Maier, 1891).
+-   William H. Honan, "[Hans J. Eysenck, 81, a Heretic In the Field of
+    Psychotherapy][95]," The New York _Times_, Sep. 10, 1997.
 
- - Diane Kratz, "[Ever Wonder What the Difference Between a Sociopath and
-   Psychopath?,][12]" Profiles of Murder, accessed Sep. 28, 2018.
+-   Jarkko Jalava, "[Science of conscience: Metaphysics, morality, and rhetoric
+    in psychopathy research,][18]" Ph.D. Dissertation, Simon Fraser University,
+    Burnaby, British Columbia, 2007.
 
- - Peter Kropotkin, "[Law and Authority,][15]" _Kropotkin's Revolutionary
-   Pamphlets_, ed. Roger N. Baldwin (Vanguard Press, 1927).
+-   Clarence Ray Jeffrey, "[The Historical Development of Criminology,][10]"
+    _Journal of Criminal Law and Criminology_ 50, 1 (Summer 1959): 3-19.
 
- - Scott O. Lilienfeld, Ashley L. Watts, Sarah Francis Smith, Christopher J.
-   Patrick, and Robert D. Hare, "[Hervey Cleckley (1903–1984): Contributions to
-   the Study of Psychopathy,][80]" _Personality Disorders: Theory, Research, and
-   Treatment,_ Advance online publication, Aug. 6, 2018
+-   Sujit Kar, "[Hans Eysenck &mdash; Contributions & Controversies][96],"
+    _Delhi Psychiatric Journal_ 16, 1 (April 2013): 53-56.
 
- - "[Lombroso’s contributions to Criminology,][21]" accessed Oct. 1, 2018.
+-   Benjamin Karpman, "[The Sexual Psychopath,][55]" _Journal of Criminal Law
+    and Criminology_ 42, 2 (Summer 1951): 184-198.
 
- - "[The Mask of Sanity: An Attempt to Clarify Some Issues About the So-Called
-   Psychopathic Personality,][81]" _California Medicine_ 74, 4 (Apr 1951): 286.
+-   Kenneth S. Kendler, Rodrigo A. Muñoz, and George Murphy, "[The
+    Development of the Feighner Criteria: A Historical Perspective][147],"
+    _The American Journal of Psychiatry_ 167, 2 (Feb. 2010): 134-142.
 
- - Laura Mansnerus, "[Timothy Leary, Pied Piper Of Psychedelic 60's, Dies at
-   75][86]," The New York _Times_, June 1, 1996.
+-   Kent A. Kiehl and Morris B. Hoffman, "[The Criminal Psychopath: History,
+    Neuroscience, Treatment, and Economics,][6]" _Jurimetrics_ 51 (Summer 2011):
+    355-397.
 
- - Henry Maudsley, M.D., "[Remarks on Crime and Criminals,][17]" _The British
-   Journal of Mental Science_ 146, 34 (July 1888): 159-167.
+-   Julius Ludwig August Koch, [_Die Psychopathischen Minderwertigkeiten,_][5]
+    (Ravensburg: Maier, 1891).
 
- - Theodore Millon, Erik Simonsen, and Morten Birket-Smith, "[Historical
-   Conceptions of Psychopathy in the United States and Europe,][9]" in
-   _Psychopathy: Antisocial, Criminal, and Violent Behavior,_ ed. Theodore
-   Millon, et al. (New York: The Guilford Press, 1998).
+-   Diane Kratz, "[Ever Wonder What the Difference Between a Sociopath and
+    Psychopath?,][12]" Profiles of Murder, accessed Sep. 28, 2018.
 
- - Lee Morgan, "[Twitter Explodes After 'Psychopath' Donald Trump Cheers
-   Body-Slamming of Reporter,][63]" Huffington Post, Oct. 19, 2018.
+-   Peter Kropotkin, "[Law and Authority,][15]" _Kropotkin's Revolutionary
+    Pamphlets_, ed. Roger N. Baldwin (Vanguard Press, 1927).
 
- - Kati Morton, "[What does Psychopath mean? Antisocial Personality
-   Disorder][106]," _Mental Health Help with Kati Morton_, YouTube, 2014.
+-   Scott O. Lilienfeld, Ashley L. Watts, Sarah Francis Smith, Christopher J.
+    Patrick, and Robert D. Hare, "[Hervey Cleckley (1903–1984): Contributions to
+    the Study of Psychopathy,][80]" _Personality Disorders: Theory, Research,
+    and Treatment,_ Advance online publication, Aug. 6, 2018
 
- - Paolo Mozzarello, "[Cesare Lombroso: an anthropologist between evolution
-   and degeneration,][19]" _Functional Neurology_ 26, 2 (Apr-Jun 2011): 97-101.
+-   "[Lombroso’s contributions to Criminology,][21]" accessed Oct. 1, 2018.
 
- - George E. Partridge, "Current Conceptions of Psychopathic Personality," _The
-   American Journal of Psychiatry_ 1, 87 (July, 1930): 53-99.
+-   "[The Mask of Sanity: An Attempt to Clarify Some Issues About the So-Called
+    Psychopathic Personality,][81]" _California Medicine_ 74, 4 (Apr 1951): 286.
 
- - ["-path,"][4] Wiktionary, accessed Sep. 27, 2018.
+-   Laura Mansnerus, "[Timothy Leary, Pied Piper Of Psychedelic 60's, Dies at
+    75][86]," The New York _Times_, June 1, 1996.
 
- - Martyn Pickersgill, "[Standardising antisocial personality disorder: the
-   social shaping of a psychiatric technology,][129]" _Sociology of Health &
-   Wellness_ 34, 4 (May 2012): 544-559.
+-   Henry Maudsley, M.D., "[Remarks on Crime and Criminals,][17]" _The British
+    Journal of Mental Science_ 146, 34 (July 1888): 159-167.
 
- - Aaron L. Pincus and Robert F. Krueger, "[Theodore Millon's Contributons to
-   Conceptualizing Personality Disorders][132]," _Journal of Personality
-   Assesment_ 97, 6 (April 2015): 537-540.
+-   Theodore Millon, Erik Simonsen, and Morten Birket-Smith, "[Historical
+    Conceptions of Psychopathy in the United States and Europe,][9]" in
+    _Psychopathy: Antisocial, Criminal, and Violent Behavior,_ ed. Theodore
+    Millon, et al. (New York: The Guilford Press, 1998).
 
- - David Porter, "[Antisocial Personality Disorder DSM-5 301.7 (F60.2)][108],"
-   [theravive][109], accessed Dec. 1, 2018.
+-   Lee Morgan, "[Twitter Explodes After 'Psychopath' Donald Trump Cheers
+    Body-Slamming of Reporter,][63]" Huffington Post, Oct. 19, 2018.
 
- - Graham Richards, _Psychology: Key Concepts,_ (Oxon: Routledge, 2009).
+-   Kati Morton, "[What does Psychopath mean? Antisocial Personality
+    Disorder][106]," _Mental Health Help with Kati Morton_, YouTube, 2014.
 
- - Benjamin Rush, [_Medical Inquiries and Observations, upon the Diseases of the
-   Mind,_][27] (Philadelphia: Kimber & Richardson, 1812).
+-   Paolo Mozzarello, "[Cesare Lombroso: an anthropologist between evolution
+    and degeneration,][19]" _Functional Neurology_ 26, 2 (Apr-Jun 2011): 97-101.
 
- - "[Schneider, Kurt (1887-1967), Psychiater,][44]" kipnis.de, accessed Oct. 5,
-   2018.
+-   George E. Partridge, "Current Conceptions of Psychopathic Personality," _The
+    American Journal of Psychiatry_ 1, 87 (July, 1930): 53-99.
 
- - "[Scientist or showman?][92]" _Mail & Guardian_, Sep. 12, 1997.
+-   ["-path,"][4] Wiktionary, accessed Sep. 27, 2018.
 
- - ["socio-,"][3] Wiktionary, accessed Sep. 27, 2018.
+-   Martyn Pickersgill, "[Standardising antisocial personality disorder: the
+    social shaping of a psychiatric technology,][129]" _Sociology of Health &
+    Wellness_ 34, 4 (May 2012): 544-559.
 
- - ["Sociopathy,"][1] Psychology Today, accessed Sep. 27, 2018.
+-   Aaron L. Pincus and Robert F. Krueger, "[Theodore Millon's Contributons to
+    Conceptualizing Personality Disorders][132]," _Journal of Personality
+    Assesment_ 97, 6 (April 2015): 537-540.
 
- - Robert L. Spitzer, "[An Examination of Demonstrations of Wilhelm Reich's
-   Orgone Energy,'][145]" _The Scientific Review of Mental Health Practice_ 4, 1
-   (Summer 2005).
+-   David Porter, "[Antisocial Personality Disorder DSM-5 301.7 (F60.2)][108],"
+    [theravive][109], accessed Dec. 1, 2018.
 
- - Robert L. Spitzer, "[The Story of Robert L. Spitzer's Paper, 'An Examination
-   of Demonstrations of Wilhelm Reich's Orgone Energy,'][144]" _The Scientific
-   Review of Mental Health Practice_ 4, 1 (Summer 2005).
+-   Graham Richards, _Psychology: Key Concepts,_ (Oxon: Routledge, 2009).
 
- - Andy Steiner, "[Once landfill-bound, the U of M’s Benjamin Karpman Papers are
-   a treasure trove of GLBT history,][56]" MinnPost, Jun. 19, 2017.
+-   Benjamin Rush, [_Medical Inquiries and Observations, upon the Diseases of
+    the Mind,_][27] (Philadelphia: Kimber & Richardson, 1812).
 
- - Rael D. Strous, Annette A. Opler, Lewis A. Opler, "[Reflections on "Emil
-   Kraepelin: Icon and Reality,"][35]" _American Journal of Psychiatry_ 173, 3
-   (March 2016): 300-301.
+-   "[Schneider, Kurt (1887-1967), Psychiater,][44]" kipnis.de, accessed Oct. 5,
+    2018.
 
- - Kurt Vonnegut, _A Man Without a Country_, ed. Daniel Simon, (New York: Seven
-   Stories Press, 2005).
+-   "[Scientist or showman?][92]" _Mail & Guardian_, Sep. 12, 1997.
 
- - Nick J Wilson, "[Psychopathy and Risk of Violence: Assessment and
-   Management,][83]" _Will they do it again? Assessing and Managing Risk,_ ed.
-   Ken McMaster and Leon Bakker ([HMA Books][84]).
+-   ["socio-,"][3] Wiktionary, accessed Sep. 27, 2018.
 
- - Richard F. Wetzell, _Inventing the Criminal: A History of German Criminology,
-   1880-1945,_ (Chapel Hill: The University of North Carolina Press, 2000).
+-   ["Sociopathy,"][1] Psychology Today, accessed Sep. 27, 2018.
+
+-   Robert L. Spitzer, "[An Examination of Demonstrations of Wilhelm Reich's
+    Orgone Energy,'][145]" _The Scientific Review of Mental Health Practice_ 4,
+    1 (Summer 2005).
+
+-   Robert L. Spitzer, "[The Story of Robert L. Spitzer's Paper, 'An Examination
+    of Demonstrations of Wilhelm Reich's Orgone Energy,'][144]" _The Scientific
+    Review of Mental Health Practice_ 4, 1 (Summer 2005).
+
+-   Robert L. Spitzer, Jean Endicott, Eli Robins, "[Research Diagnostic
+    Criteria][156]," _Archives of General Psychiatry_ 35 (Jun. 1978), 773.
+
+-   Andy Steiner, "[Once landfill-bound, the U of M’s Benjamin Karpman Papers
+    are a treasure trove of GLBT history,][56]" MinnPost, Jun. 19, 2017.
+
+-   Rael D. Strous, Annette A. Opler, Lewis A. Opler, "[Reflections on "Emil
+    Kraepelin: Icon and Reality,"][35]" _American Journal of Psychiatry_ 173, 3
+    (March 2016): 300-301.
+
+-   Kurt Vonnegut, _A Man Without a Country_, ed. Daniel Simon, (New York: Seven
+    Stories Press, 2005).
+
+-   Nick J Wilson, "[Psychopathy and Risk of Violence: Assessment and
+    Management,][83]" _Will they do it again? Assessing and Managing Risk,_ ed.
+    Ken McMaster and Leon Bakker ([HMA Books][84]).
+
+-   Richard F. Wetzell, _Inventing the Criminal: A History of German
+    Criminology, 1880-1945,_ (Chapel Hill: The University of North Carolina
+    Press, 2000).
 
 ## Footnotes
 
@@ -2182,3 +2333,13 @@ The time has come for a dimensional personality disorder diagnosis.[^154]
 [144]: http://www.srmhp.org/0401/spitzer.html
 [145]: https://www.srmhp.org/0401/reich.html
 [146]: http://johnrlion.com
+[147]: https://ajp.psychiatryonline.org/doi/10.1176/appi.ajp.2009.09081155
+[148]: http://www.psychiatry.wustl.edu/psychtimeline/default.aspx?pgnav=11
+[149]: http://www.psychiatry.wustl.edu/psychtimeline/default.aspx?pgnav=13
+[150]: http://www.garfield.library.upenn.edu/classics1989/A1989AU44300001.pdf
+[151]: http://www.scalesandmeasures.net/files/files/Feighner_JP_1972.pdf
+[152]: https://www.psychologytoday.com/us/blog/side-effects/201601/the-problem-heroizing-robert-spitzer
+[153]: /assets/img/people/spitzer.jpg
+[154]: https://www.columbiapsychiatry.org/profile/jean-endicott-phd
+[155]: http://garfield.library.upenn.edu/classics1989/A1989U310000002.pdf
+[156]: https://www3.nd.edu/~ghaeffel/Spitzeretal(1978).PDF
