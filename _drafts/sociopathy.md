@@ -1511,11 +1511,87 @@ Criteria they had developed.[^174][^175]
 [^175]: Robert L. Spitzer, Jean Endicott, Eli Robins, "[Research Diagnostic
         Criteria][156]," _Archives of General Psychiatry_ 35 (Jun. 1978), 773.
 
-**Benjamin (1974)**
+
+
+The basic concept of antisocial personality according to Spitzer et al. was
+described in the subsection for "Depressive Disorders Not Meeting the Full
+Criteria for Major Depressive Disorder" in the "Rationale for the Specific
+Diagnostic Concepts Included in the RDC," a category for disorders that show
+depressive symptoms but don't meet the full definition of Major Depressive
+Disorder:[^176]
+
+[^176]: Spitzer, et al., "RDC," 778.
+
+>   _"This category is for subjects with a chronic or recurrent disorder
+    characterized by antisocial behavior in many areas, beginning before the age
+    of 15 and typically from earliest school years or before and persisting into
+    adulthood. As an adult there is invariably a markedly impaired capacity to
+    sustain lasting, close, warm, and responsible relationships with family,
+    friends, or sexual partners, and a failure to sustain good job performance
+    over a period of several years."_
+
+In 1974, [Lorna Smith Benjamin][158] published her "Structural Analysis of
+Social Behavior," stemming from the assumption of scientific psychology stating
+that behavior is "orderly and lawful" and developing a model that would in
+theory allow for predictions of future behaviors based on present or past
+behavior.[^177] This analysis continued in the tradition of Leary in defining a
+limited set of dimensions such that the whole space of behaviors would fit in
+"real space," that is limiting the definitions to two or three dimensions as
+opposed to a "multidimensional" approach that would eschew such limitations in
+an effort to achieve the most accurate mathematical model possible.[^177]
+
+[^177]: Lorna Smith Benjamin, "[Structural Analysis of Social Behavior][157],"
+        _Psychological Review_ 81, 5 (1974), 392.
+
+Benjamin's model synthesized and expanded on Leary's model and that of Earl S.
+Schaefer (1965),[^179] who had created a version of the interpersonal circle
+specifically for describing parental behavior.[^178] Early versions of
+Schaefer's model used two dimensions: control-authority and love-hate; later a
+third dimension of lax-firm was added.[^179] John L. Rinn's "Structure of
+Phenomenal Domains" (1965)[^180] also lends some concepts to Benjamin's
+concepts, expanding on Leary to include not only interpersonal behavior but
+intrapsychic, pairing the displayed behaviors with associated feelings.[^179] In
+total, the combination of these models created three diamond-shaped surfaces,
+named "parentlike," "childlike," and "introject."[^181]
+
+[^178]: Earl S. Schaefer, "Children's Reports of Parental Behavior: An
+        Inventory," _Child Development_ 36, 2 (Jun. 1965): 413-424.
+
+[^179]: Benjamin, "Structural Analysis...," 393.
+
+[^180]: John L. Rinn, "Structure of Phenomenal Domains," _Psychological Review_
+        72, 6 (1965): 445-466.
+
+[^181]: Benjamin, "Structural Analysis...," 395.
+
+Combining the ideas of Leary, Schaefer, and Rinn required some amount of
+reconciliation due to a variety of intersect and differences; for example, Leary
+dichotomized dominate and submit, whereas Schaefer dichotomized control and
+autonomy. While similar, the implications of these dichotomies are not
+necessarily equal, a problem that Benjamin solved by placing submit as the
+complement of dominate and emancipate (autonomy) as its opposite.[^181] This
+complementary behavior concept was discussed earlier by Robert C. Carson in his
+1969 book _Interaction Concepts of Personality_, describing the interaction as
+one person offering a given behavior and thus inviting its complement.[^181] In
+a parent-child relationship this can be interpreted as, though not necessarily
+in a fixed manner, the reason that hatred in the parent will cause hatred in the
+child, a logic that in conjunction with the work of Schaefer gives the first two
+surfaces (parentlike and childlike) their names.[^182]
+
+[^182]: Benjamin, "Structural Analysis...," 396.
+
+Antisocial personality was, within this framework, described as detached form of
+a desire to control others; the criminal level of antisociality that the _DSM_
+dictates are then described as "inordinate autonomy taking, addiction to
+control, and lack of attachment to others."[^183] This would also then apply to
+people of high socioeconomic status who abuse their power but aren't necessarily
+diagnosable by the _DSM_'s standards.[^183]
+
+[^183]: Millon et al., "Historical Conceptions...," 25.
 
 **Millon (1974)**
 
-Spitzer was appointed as the chair of the APA's nosological task force in
+Spitzer was also appointed as the chair of the APA's nosological task force in
 1974.[^157]
 
 [^157]: Pickersgill, "Standardising antisocial...," 544.
@@ -1934,6 +2010,9 @@ The time has come for a dimensional personality disorder diagnosis.[^154]
     Judgments and Ratings," _The American Journal of Psychiatry_ 119, 3 (Sep.
     1962): 210-216.
 
+-   Lorna Smith Benjamin, "[Structural Analysis of Social Behavior][157],"
+    _Psychological Review_ 81, 5 (1974): 392-425.
+
 -   James Blair, Derek Mitchell, and Karina Blair, [_The Psychopath: Emotion and
     the Brain,_][7] <sup>[(alt)][8]</sup> (Oxford: Blackwell, 2005).
 
@@ -2144,8 +2223,14 @@ The time has come for a dimensional personality disorder diagnosis.[^154]
 
 -   Graham Richards, _Psychology: Key Concepts,_ (Oxon: Routledge, 2009).
 
+-   John L. Rinn, "Structure of Phenomenal Domains," _Psychological Review_
+    72, 6 (1965): 445-466.
+
 -   Benjamin Rush, [_Medical Inquiries and Observations, upon the Diseases of
     the Mind,_][27] (Philadelphia: Kimber & Richardson, 1812).
+
+-   Earl S. Schaefer, "Children's Reports of Parental Behavior: An
+    Inventory," _Child Development_ 36, 2 (Jun. 1965): 413-424.
 
 -   "[Schneider, Kurt (1887-1967), Psychiater,][44]" kipnis.de, accessed Oct. 5,
     2018.
@@ -2155,6 +2240,9 @@ The time has come for a dimensional personality disorder diagnosis.[^154]
 -   ["socio-,"][3] Wiktionary, accessed Sep. 27, 2018.
 
 -   ["Sociopathy,"][1] Psychology Today, accessed Sep. 27, 2018.
+
+-   Robert L. Spitzer, "[The Development of Diagnostic Criteria in
+    Psychiatry][155]," _Current Contents_ (May 8, 1989): 21.
 
 -   Robert L. Spitzer, "[An Examination of Demonstrations of Wilhelm Reich's
     Orgone Energy,'][145]" _The Scientific Review of Mental Health Practice_ 4,
@@ -2343,3 +2431,5 @@ The time has come for a dimensional personality disorder diagnosis.[^154]
 [154]: https://www.columbiapsychiatry.org/profile/jean-endicott-phd
 [155]: http://garfield.library.upenn.edu/classics1989/A1989U310000002.pdf
 [156]: https://www3.nd.edu/~ghaeffel/Spitzeretal(1978).PDF
+[157]: https://pdfs.semanticscholar.org/18c3/f1fdb66442837bbe41b67f86270c433f38b4.pdf
+[158]: https://en.wikipedia.org/wiki/Lorna_Smith_Benjamin
