@@ -1365,6 +1365,8 @@ ideas within the field[^148].
         to Conceptualizing Personality Disorders][132]," _Journal of Personality
         Assesment_ 97, 6 (April 2015): 537-540.
 
+**FINISH TALKING ABOUT MILLON**
+
 <https://books.google.com/books?id=uIaEKB-BggQC&pg=PA3#v=onepage&q&f=false>
 
 <https://web.archive.org/web/20141018183611/http://millon.net/taxonomy/summary.htm>
@@ -1373,7 +1375,7 @@ ideas within the field[^148].
 
 **Kernberg (1970)**
 
-[Otto F. Kernberg][135]
+[Otto F. Kernberg][135] **!?!?!?!**
 
 While not particularly influential, Ben Bursten sought to define the essence of
 "[t]he diagnosis of sociopathy, together with its
@@ -1588,8 +1590,6 @@ people of high socioeconomic status who abuse their power but aren't necessarily
 diagnosable by the _DSM_'s standards.[^183]
 
 [^183]: Millon et al., "Historical Conceptions...," 25.
-
-**Millon (1974)**
 
 Spitzer was also appointed as the chair of the APA's nosological task force in
 1974.[^157]
@@ -1989,7 +1989,7 @@ The time has come for a dimensional personality disorder diagnosis.[^154]
 
 <p><center>𝖂𝖎𝖗 𝖑𝖊𝖇𝖊𝖓 𝖎𝖓 𝖊𝖎𝖓𝖊𝖗 𝕲𝖊𝖘𝖊𝖑𝖑𝖘𝖈𝖍𝖆𝖋𝖙.</center></p>
 
-## Further Reading
+## Appendix A. Further Reading
 
 -   Jarkko Jalava, "[Science of conscience: Metaphysics, morality, and
     rhetoric in psychopathy research,][18]" Ph.D. Dissertation, Simon Fraser
@@ -2000,7 +2000,7 @@ The time has come for a dimensional personality disorder diagnosis.[^154]
     _Psychopathy: Antisocial, Criminal, and Violent Behavior,_ ed. Theodore
     Millon, et al. (New York: The Guilford Press, 1998).
 
-## Bibliography
+## Appendix B. Bibliography
 
 -   Philip Ash, "The Reliability of Psychiatric Diagnoses," _The Journal of
     Abnormal and Social Psychology_ 44, 2 (1949): 272-276.
@@ -2273,7 +2273,7 @@ The time has come for a dimensional personality disorder diagnosis.[^154]
     Criminology, 1880-1945,_ (Chapel Hill: The University of North Carolina
     Press, 2000).
 
-## Footnotes
+## Appendix C. Footnotes
 
 [1]: https://www.psychologytoday.com/us/basics/sociopathy
 [2]: https://www.psychologytoday.com/us/blog/evil-deeds/201707/is-it-narcissism-or-sociopathy
