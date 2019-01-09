@@ -57,22 +57,14 @@ one's self to have clinical depression due to a period of lost motivation or to
 have an anxiety disorder due to an unwillingness to speak in front of crowds),
 these terms are more typically used to diagnose others. In its most extreme we
 see this concept manifested in news media, be it about criminals or
-politicians.[^81] See, for example, a recent [Huffington Post][62] article[^82]
+politicians. See, for example, a recent [Huffington Post][62] article[^82]
 titled "Twitter Explodes After 'Psychopath' Donald Trump Cheers Body-Slamming
 of Reporter," where the term "psychopath" is mirrored from a tweet quoted within
 the content of the article, but nonetheless is used to call a politician a
 psychopath based on publicly displayed views or actions.
 
-[^81]: "Politicians are criminals though, so that's redundant" &mdash; Mark
-       Twain, probably.
-
-[^82]: Lee Morgan, "[Twitter Explodes After 'Psychopath' Donald Trump Cheers
-       Body-Slamming of Reporter,][63]" Huffington Post, Oct. 19, 2018.
-
-       This is really just a single example I'd noticed, there are plenty more
-       similar examples of people calling a number of politicians "psychopaths,"
-       but the effort required to compile them outweighs the amount it would add
-       to this work as a whole.
+[^82]:  Lee Morgan, "[Twitter Explodes After 'Psychopath' Donald Trump Cheers
+        Body-Slamming of Reporter,][63]" Huffington Post, Oct. 19, 2018.
 
 <https://www.politico.com/magazine/story/2018/06/23/washington-dc-the-psychopath-capital-of-america-218892>
 
@@ -82,6 +74,14 @@ psychopath based on publicly displayed views or actions.
 
 <https://kdvr.com/2018/08/21/could-chris-watts-be-a-psychopath/>
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">You’re a
+literal psychopath <a href="https://twitter.com/hashtag/TrumpResign?src=hash&amp;ref_src=twsrc%5Etfw">#TrumpResign</a>
+<a href="https://t.co/jXBW2t1IHw">https://t.co/jXBW2t1IHw</a></p>&mdash; Dylan O&#39;Brien (@dylanobrien)
+<a href="https://twitter.com/dylanobrien/status/1076277567878037504?ref_src=twsrc%5Etfw">December
+22, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 Perhaps more blatant an example of this as well as an explanation of some
 popular perceptions of "psychopathic personality" specifically is this passage
 from chapter eight of Kurt Vonnegut's _A Man Without A Country_:[^94]
@@ -89,18 +89,17 @@ from chapter eight of Kurt Vonnegut's _A Man Without A Country_:[^94]
 [^94]: Kurt Vonnegut, _A Man Without a Country_, ed. Deniel Simon, (New York:
        Seven Stories Press, 2005).
 
-> "_George W. Bush has gathered around him [...] psychopathic personalities, or
-  PPs, the medical term for smart, personable people who have no consciences.
-  To say somebody is a PP[^132] is to make a perfectly respectable diagnosis,
-  like saying he or she has appendicitis or athlete’s foot. [...] PPs are
-  presentable, they know full well the suffering their actions may cause others,
-  but they do not care. They cannot care because they are nuts. They have a
-  screw loose! [...] So many of these heartless PPs now hold big jobs in our
-  federal government, as though they were leaders instead of sick. They have
-  taken charge. They have taken charge of communications and the schools, so we
-  might as well be Poland under occupation._"
-
-[^132]: Haha, "PP."
+>   "_George W. Bush has gathered around him [...] psychopathic personalities,
+    or PPs, the medical term for smart, personable people who have no
+    consciences. To say somebody is a PP is to make a perfectly
+    respectable diagnosis, like saying he or she has appendicitis or athlete's
+    foot. [...] PPs are presentable, they know full well the suffering their
+    actions may cause others, but they do not care. They cannot care because
+    they are nuts. They have a screw loose! [...] So many of these heartless PPs
+    now hold big jobs in our federal government, as though they were leaders
+    instead of sick. They have taken charge. They have taken charge of
+    communications and the schools, so we might as well be Poland under
+    occupation._"
 
 However, at the time of writing this, the most likely place you'll find either
 of the topical terms is a number of articles pertaining to [Shane Dawson][64]'s
@@ -313,26 +312,6 @@ conception.
 
 <https://www.psychologytoday.com/us/blog/unique-everybody-else/201809/are-psychopaths-unfairly-stigmatized>
 
-<br>
-
-Thanks to the group chats currently or formerly known as "Sinking
-Barge🚢🌊⚓️suicide🔪cult🕯[#GangGang][61]" (and its successor "🐌🏴"),
-"𝕲𝖊𝖘𝖊𝖑𝖑𝖘𝖈𝖍𝖆𝖋𝖙𝖘𝖋𝖊𝖎𝖓𝖉𝖊 𝕲𝖆𝖓𝖌,"[^80] and "ＳＰＡＣＥ ＡＮＡＲＣＨＩＳＴ
-⛽🅰️🆖⛽🅰️🆖"[^70] for putting up with my constant complaints while
-researching this topic.
-
-[^70]: For those yet unaware (\*cough\* \*cough\* Nathan), the emoji combination
-       "⛽🅰️🆖" is read as "gang," older versions of ⛽ on iOS had a "G" on the
-       center of the pump that was later replaced with a drop of oil and is
-       completely non-standard across other emoji fonts. See [emojipedia][82]'s
-       historical record of the emoji.
-
-[^80]: The "Gesellschaftsfeinde" in the name of this group was directly inspired
-       by my research during the writing of this work and is an ironic embrace
-       of the concept of "antisocial" (here being literally translated as "enemy
-       of society") given that the group is comprised of members who themselves
-       have a variety of critiques of the modern incarnation(s) of society.
-
 ## I. _The History_
 
 While this work is intended as a discussion on the term "sociopathy" and its
@@ -458,7 +437,7 @@ Maudsley's belief at the time was that individuals and families suffering from
 degeneration (as per [Bénédict Morel][16]'s theory) would simply die off on
 their own eventually,[^23] over time he shifted towards a eugenicist view,
 believing that such illnesses needed to be purged manually. For the sake of
-brevity,[^24] we'll skip the works of [Cesare Lombroso][42],[^22] perhaps to be
+brevity, we'll skip the works of [Cesare Lombroso][42],[^22] perhaps to be
 revisited at a later date for his contributions to
 criminology.[^25][^26][^27]
 
@@ -466,8 +445,6 @@ criminology.[^25][^26][^27]
 
 [^23]: Henry Maudsley, M.D., "[Remarks on Crime and Criminals,][17]" _The
        British Journal of Mental Science_ 146, 34 (July 1888): 159-167.
-
-[^24]: lol.
 
 [^25]: Paolo Mozzarello, "[Cesare Lombroso: an anthropologist between evolution
        and degeneration,][19]" _Functional Neurology_ 26, 2 (Apr-Jun 2011):
@@ -669,20 +646,14 @@ criminal terminology, defining ten categories of "abnormal personalities":[^36]
 
 1. hyperthymic (_Hyperthymische_),
 2. depressive,
-3. insecure (_Selbstunsichere_)[^48],
+3. insecure (_Selbstunsichere_),
 4. fanatical (_Fanatische_),
-5. recognition-seeking (_Geltungsbedürftige_)[^48],
+5. recognition-seeking (_Geltungsbedürftige_),
 6. with labile mood (_Stimmungslabile_),
 7. explosive (_Explosible_),
 8. emotionally-blunted (_Gemütlose_),
 9. weakwilled (_Willenlose_),
 10. asthenics (_Asthenische_).
-
-[^48]: This is further evidence to my theory that the internet has actually
-       caused relatively little change in general social norms. Here we see
-       Schneider defining mentally ill groups based on insecurity and validation
-       seeking just as modern critics of social media users (especially in the
-       realm of Instagram models or YouTube stars).
 
 Schneider also held a then novel position on the distinction between normal and
 abnormal personality types, being that clinically abnormal personality traits
@@ -1004,7 +975,7 @@ first nine of which were "key features" and the latter seven were "other":[^73]
 9. Inadequately motivated antisocial behavior
 10. Impersonal, trivial, and poorly integrated sex life
 11. Unreliability
-12. Failure to follow any life plan[^90]
+12. Failure to follow any life plan
 13. Untruthfulness and insincerity
 14. Suicide rarely carried out
 15. Specific loss of insight
@@ -1012,8 +983,6 @@ first nine of which were "key features" and the latter seven were "other":[^73]
 
 [^75]: The quotation marks around "intelligence" are present in Cleckley's _Mask
        of Sanity_ 5<sup>th</sup> ed. but not in Hildebrand's retelling of it.
-
-[^90]: Whom among us cannot relate though.
 
 One may readily notice that many of those items categorized as "other features"
 are nearly universally applicable depending on interpretation. Ideas like
@@ -1587,7 +1556,10 @@ a desire to control others; the criminal level of antisociality that the _DSM_
 dictates are then described as "inordinate autonomy taking, addiction to
 control, and lack of attachment to others."[^183] This would also then apply to
 people of high socioeconomic status who abuse their power but aren't necessarily
-diagnosable by the _DSM_'s standards.[^183]
+diagnosable by the _DSM_'s standards.[^183] Like Leary before her, Benjamin's
+work amounts to an alternative to the orthodoxy of the _DSM_, but did not in its
+time detract in any significant way from the development of the _DSM-III_ as a
+list of taxonomic rather than dimensional descriptors.
 
 [^183]: Millon et al., "Historical Conceptions...," 25.
 
@@ -1717,6 +1689,14 @@ Cleckley's _Mask of Sanity_ (1988):[^7]
 
 **Siever et al. (1985)**
 
+sought to define a biogenic origin of antisocial personality, concluding that
+impulsive behaviors go against social bounds therefore indicating a lack of
+social learning which is described as a "lack of critical arousal" and
+"disinhibited motoric reaction to various stimuli" (essentially meaning a
+decrease in premeditation for any given action).[^70]
+
+[^70]:  Millon et al., "Historical Conceptions...," 26.
+
 **Beck et al. (1990)**
 
 **Weiner (1991)**
@@ -1727,9 +1707,27 @@ Cleckley's _Mask of Sanity_ (1988):[^7]
 
 **Michael Stone (1993)**
 
+Following in the tradition of basing conceptualization of psychopathy on
+biographies of various criminals (see Karpman), Michael Stone based his analysis
+(1993) on the "annals of crime," concluding that psychopathy is defined by
+rebelliousness, aggressivity, mendacity, entitlement, and social
+isolation.[^132] Murderers specifically, according to him, showed hatred and
+impulsivity.[^132] Like many previous theorists, Stone claimed that psychopaths'
+symptoms were exacerbated by alcohol consumption and that they are not "amenable
+to therapeutic efforts;" despite this overall mundane rehashing, Stone retains a
+historical significance in being the first among the group depicted here to
+explicitly mentions "despotic bosses" who "make torture chambers of the
+workplace" as examples of psychopathy.[^132]
+
+[^132]: Millon et al., "Historical Conceptions...," 24.
+
 **Blackburn (1993)**
 
 **Cost & Widiger (1994)**
+
+aimed to conduct an objective study by means of statistical analysis rather than
+clinical surveys.[^70] They concluded with a five factor system for describing
+antisocial personality.[^70]
 
 **DSM-IV (1994)**
 
@@ -1742,6 +1740,8 @@ schizophrenic or manic episode.[^147]
 
 **Fitzpatrick (1995)**
 
+**Lilienfeld and Andrews (1996) PPI**
+
 **Eysenck (1998)**
 
 **Herpertz and Sass (2000)**
@@ -1751,6 +1751,10 @@ schizophrenic or manic episode.[^147]
 **Cooke and Michie (2001)**
 
 **Andrews and Bonta? (2003)**
+
+**Lilienfeld et al. (2005) PPI-R**
+
+**Patrick et al. (2009) TriPM**
 
 Evolutionary Theory and Psychopathy
 
@@ -1818,7 +1822,7 @@ scrutiny than those that simply seek to create a checklist for psychopathy. This
 is due to the concept of psychopathy itself being generally considered informal.
 
 [^16]:  See, for example, this report for the Axis II Work Group of the Task
-        Force on _DSM&mdash;IV_ (why does anyone let Hare talk about this?):
+        Force on _DSM&mdash;IV_:
 
     Robert D. Hare, Stephen D. Hart, and Timothy J. Harpur, "[Psychopathy
     and the _DSM&mdash;IV_ Criteria for Antisocial Personality
@@ -2356,7 +2360,7 @@ The time has come for a dimensional personality disorder diagnosis.[^154]
 [79]: https://commons.wikimedia.org/wiki/User:Esculapio/gallery
 [80]: https://www.hare.org/LilienfeldetalPDTRT2018.pdf
 [81]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1520904/
-[82]: https://emojipedia.org/apple/ios-6.0/fuel-pump/
+
 [83]: http://www.hma.co.nz/wp-content/uploads/2016/01/Chapter-7-Psychopathy-and-Risk-of-Violence.pdf
 [84]: https://www.hma.co.nz/resources/free-books/
 [85]: https://en.wikipedia.org/wiki/Timothy_Leary
