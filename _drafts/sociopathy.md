@@ -1711,7 +1711,7 @@ Following in the tradition of basing conceptualization of psychopathy on
 biographies of various criminals (see Karpman), Michael Stone based his analysis
 (1993) on the "annals of crime," concluding that psychopathy is defined by
 rebelliousness, aggressivity, mendacity, entitlement, and social
-isolation.[^132] Murderers specifically, according to him, showed hatred and
+isolation.[^132] Murderers, specifically, according to him, showed hatred and
 impulsivity.[^132] Like many previous theorists, Stone claimed that psychopaths'
 symptoms were exacerbated by alcohol consumption and that they are not "amenable
 to therapeutic efforts;" despite this overall mundane rehashing, Stone retains a
