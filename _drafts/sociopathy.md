@@ -1563,8 +1563,10 @@ list of taxonomic rather than dimensional descriptors.
 
 [^183]: Millon et al., "Historical Conceptions...," 25.
 
-Spitzer was also appointed as the chair of the APA's nosological task force in
-1974.[^157]
+1974 also saw the appointment of Spitzer as the chair of the APA's nosological
+task force, making him a central figure in the definitions used in the
+_DSM-III_.[^157] Due to his importance here, a brief discussion as to Spitzer's
+history before NIMH and work until death is warranted.
 
 [^157]: Pickersgill, "Standardising antisocial...," 544.
 
