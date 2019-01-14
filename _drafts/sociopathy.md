@@ -800,22 +800,6 @@ joined into the psychoanalysis in 1927, concluding that the delinquent behavior
 perceived among supposed psychopaths originated from "unfulfilled oral
 needs."[^56]
 
-**What the fuck was Reich's deal?!?**
-
-<https://en.wikipedia.org/wiki/Freudo-Marxism>
-
-<https://opus4.kobv.de/opus4-Fromm/frontdoor/index/index/year/2014/docId/26236>
-
-<https://www.marxist.com/marxism-psychoanalysis-wilhelm-reich.htm>
-
-<https://www.marxists.org/archive/brinton/1972/reich2.htm>
-
-<https://www.researchgate.net/publication/321187976>
-
-<https://thecharnelhouse.org/wp-content/uploads/2016/11/wilhelm-reich-sex-pol-essays-1929-1934.pdf>
-
-<http://www.lust-for-life.org/Lust-For-Life/ReichVersusTheSituationists/ReichVersusTheSituationists.htm>
-
 ### I-3. Operationalization
 
 While the works of [Eugen Kahn][50], one of Kraepelin's assistants[^60] who did
@@ -1482,8 +1466,6 @@ Criteria they had developed.[^174][^175]
 [^175]: Robert L. Spitzer, Jean Endicott, Eli Robins, "[Research Diagnostic
         Criteria][156]," _Archives of General Psychiatry_ 35 (Jun. 1978), 773.
 
-
-
 The basic concept of antisocial personality according to Spitzer et al. was
 described in the subsection for "Depressive Disorders Not Meeting the Full
 Criteria for Major Depressive Disorder" in the "Rationale for the Specific
@@ -1565,50 +1547,9 @@ list of taxonomic rather than dimensional descriptors.
 
 1974 also saw the appointment of Spitzer as the chair of the APA's nosological
 task force, making him a central figure in the definitions used in the
-_DSM-III_.[^157] Due to his importance here, a brief discussion as to Spitzer's
-history before NIMH and work until death is warranted.
+_DSM-III_.[^157]
 
 [^157]: Pickersgill, "Standardising antisocial...," 544.
-
-Aside from Emil Kraepelin, Spitzer was also influenced by Wilhelm Reich[^161]
-earlier in his career, particularly from his high school years on as he noted in
-an anecdote explaining his initially unpublished paper "An Examination of
-Wilhelm Reich's Demonstration of Orgone Energy."[^159] This paper, which was
-denied publication in the _American Journal of Psychiatry_ in 1953, attempted to
-duplicate the experiments described by Reich for the verification of what he
-called "orgone energy," failing to duplicate a small portion due to lack of
-available equipment and volunteers, and ultimately concluded that "careful
-examination of the data in no way proves or even hints at the existence of
-orgone energy."[^160]
-
-[^159]: Robert L. Spitzer, "[The Story of Robert L. Spitzer's Paper, 'An
-        Examination of Demonstrations of Wilhelm Reich's Orgone Energy,'][144]"
-        _The Scientific Review of Mental Health Practice_ 4, 1 (Summer 2005).
-
-[^160]: Robert L. Spitzer, "[An Examination of Demonstrations of Wilhelm Reich's
-        Orgone Energy,'][145]" _The Scientific Review of Mental Health Practice_
-        4, 1 (Summer 2005).
-
-[^161]: Wilhelm Reich is another character that pops up here and there
-        throughout the research for this section; his biography is absolutely
-        wild and while it is outside the scope of this work to discuss him any
-        further, reading into his life and works is heavily encouraged. It's a
-        tipsy turvy tale that includes Freud, Einstein, Marxism, the FBI, the
-        FDA, book burning, and dying in jail after being arrested for contempt
-        of court.
-
-Spitzer obit.
-<https://www.modernhealthcare.com/article/20151227/NEWS/312279997>
-
-<https://www.nytimes.com/2012/05/19/health/dr-robert-l-spitzer-noted-psychiatrist-apologizes-for-study-on-gay-cure.html>
-
-<https://www.psychologytoday.com/us/blog/side-effects/201601/the-problem-heroizing-robert-spitzer>
-
-<https://www.columbiapsychiatry.org/news/memoriam-robert-spitzer-md-friend-and-colleague>
-
-<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5101569/>
-
-**Millon, MCMI (1977)**
 
 The _DSM-III_ continued the influence of Lee Robins from the _DSM-II_ and in a
 much less superficial manner, moving towards the social deviance model for
@@ -1651,6 +1592,63 @@ ASPD based on a suggestion from Jenkins to create two subtypes: "socialized" and
 against the idea.[^156]
 
 [^162]: Pickersgill, "Standardising antisocial...," 549.
+
+Ultimately, the _DSM-III_, published in 1980, defined "301.70 Antisocial
+Personality Disorder" as:[^80]
+
+[^80]:  American Psychiatric Association, _Diagnostic and Statistical Manual of
+        Mental Disorders_ Third Edition (1980), 317-318.
+
+>   "_[A] Personality Disorder in which there are a history of continuous and
+    chronic antisocial behavior in which the rights of others are violated,
+    persistence into adult life of a pattern of antisocial behavior began before
+    the age of 15, and a failure to sustain good job performance over a period
+    of several years._"
+
+As with all other personality disorders in section 301, the _DSM-III_ also
+described associated features, impairment, complications, predisposing factors,
+age of onset, sex ratio, prevalence, familial pattern, differential diagnosis,
+and diagnostic criteria for Antisocial Personality Disorder. In this lattermost
+section, five main criteria are listed, two of which contain a set of various
+other criteria (here abbreviated):[^81]
+
+[^81]:  APA, _DSM-III_, 320-321.
+
+1.  Current age at least 18.
+2.  Onset before age 15 as indicated by a history of three or more of the
+    following before that age:
+    1.  truancy
+    2.  expulsion or suspension from school for misbehavior
+    3.  delinquency
+    4.  running away from home at least twice
+    5.  persistent lying
+    6.  repeated sexual intercourse in a casual relationship
+    7.  repeated drunkenness or substance abuse
+    8.  thefts
+    9.  vandalism
+    10. school grades below expectations
+    11. chronic violation of rules at home/school
+    12. initiation of fights
+3.  At least four of the following manifestations of the disorder since age 18
+    [each criterion is given further criteria for determination in the original
+    text]:
+    1.  inability to sustain consistent work behavior
+    2.  lack of ability to function as a responsible parent
+    3.  failure to respect social norms with respect to lawful behavior
+    4.  inability to maintain enduring attachment to a sexual partner
+    5.  irritability and aggressiveness
+    6.  failure to honor financial obligations
+    7.  failure to plan ahead, or impulsivity
+    8.  disregard for the truth
+    9.  recklessness
+4.  A pattern of continuous antisocial behavior in which the rights of others
+    are violated, with no intervening period of at least five years without
+    antisocial behavior between age 15 and the present time (except when the
+    individual was bedridden or confined in a hospital or penal institution).
+5.  Antisocial behavior is not due to either Severe Mental Retardation,
+    Schizophrenia or manic episodes.
+
+**Millon, MCMI (1977)**
 
 ### I-6. Standardization III: The PCL
 
@@ -1804,20 +1802,6 @@ Shit by Hare about his fucking PCL-R:
 
 <http://www.psychiatrictimes.com/articles/psychopathy-and-antisocial-personality-disorder-case-diagnostic-confusion>
 
-The PCL-R sucks actually:
-
-<https://forensicpsychologist.blogspot.com/2011/06/violence-risk-meta-meta-instrument.html>
-
-<https://www.sciencedirect.com/science/article/pii/S0272735810001947>
-
-<https://ac.els-cdn.com/S0924933816301894/1-s2.0-S0924933816301894-main.pdf?_tid=7052594b-1a69-4570-9a25-844e79e3f8e3&acdnat=1538177395_d7e44989425f4400dc2ee8280b548f82>
-
-<https://web.archive.org/web/20151119002546/https://www.ncjrs.gov/App/Publications/abstract.aspx?ID=204918>
-
-<https://www.npr.org/2011/05/26/136619689/can-a-test-really-tell-whos-a-psychopath>
-
-<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2817979/>
-
 While attempts to define ASPD do draw from the central idea of psychopathy,[^16]
 the attempts at formalization as a personality disorder are put under greater
 scrutiny than those that simply seek to create a checklist for psychopathy. This
@@ -1967,6 +1951,20 @@ holds we must describe said intentions.
 
 <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2242349/>
 
+The PCL-R sucks actually:
+
+<https://forensicpsychologist.blogspot.com/2011/06/violence-risk-meta-meta-instrument.html>
+
+<https://www.sciencedirect.com/science/article/pii/S0272735810001947>
+
+<https://ac.els-cdn.com/S0924933816301894/1-s2.0-S0924933816301894-main.pdf?_tid=7052594b-1a69-4570-9a25-844e79e3f8e3&acdnat=1538177395_d7e44989425f4400dc2ee8280b548f82>
+
+<https://web.archive.org/web/20151119002546/https://www.ncjrs.gov/App/Publications/abstract.aspx?ID=204918>
+
+<https://www.npr.org/2011/05/26/136619689/can-a-test-really-tell-whos-a-psychopath>
+
+<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2817979/>
+
 ## V. _The Conclusion_
 
 These terms, psychopathy and sociopathy, originate as _explanations of criminal
@@ -2007,6 +2005,9 @@ The time has come for a dimensional personality disorder diagnosis.[^154]
     Millon, et al. (New York: The Guilford Press, 1998).
 
 ## Appendix B. Bibliography
+
+-   American Psychiatric Association, _Diagnostic and Statistical Manual of
+    Mental Disorders_ Third Edition (1980).
 
 -   Philip Ash, "The Reliability of Psychiatric Diagnoses," _The Journal of
     Abnormal and Social Psychology_ 44, 2 (1949): 272-276.
