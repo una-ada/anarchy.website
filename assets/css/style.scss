@@ -8,6 +8,7 @@ $primary:   #444;
 $pq-width:  18rem;
 $secondary: white;
 $tertiary:  #983030;
+$tertiary-alt: #70c3ff;
 $width:     48rem;
 
 // Elements
@@ -193,6 +194,24 @@ thead th {
 }
 tr:nth-child(even) {
 	background: #f0f0f0;
+}
+
+html.dark {
+	background:	#111;
+	color: white;
+	a {
+		color: $tertiary-alt;
+	}
+	blockquote {
+		border-left: 2px solid white;
+	}
+	footer {
+		background: none;
+		outline: 1px solid white;
+	}
+	hr {
+		background: white;
+	}
 }
 
 hist {

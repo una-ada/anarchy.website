@@ -22,6 +22,8 @@ persons, gay and/or transgender persons, and possibly others not listed here.**
 
 **\[CW/TW: homophobia, transphobia, ableism, bigotry, eugenics, nazism\]**
 
+[TEST LINK](javascript:document.getElementsByTagName('html')[0].classList.add('dark'))
+
 - toc
 {:toc}
 
@@ -1593,7 +1595,7 @@ against the idea.[^156]
 
 [^162]: Pickersgill, "Standardising antisocial...," 549.
 
-Ultimately, the _DSM-III_, published in 1980, defined "301.70 Antisocial
+In the end, the _DSM-III_, published in 1980, defined "301.70 Antisocial
 Personality Disorder" as:[^80]
 
 [^80]:  American Psychiatric Association, _Diagnostic and Statistical Manual of
@@ -1648,7 +1650,44 @@ other criteria (here abbreviated):[^81]
 5.  Antisocial behavior is not due to either Severe Mental Retardation,
     Schizophrenia or manic episodes.
 
-**Millon, MCMI (1977)**
+Prior to the development of the _DSM-III_, Millon sought to create a
+questionnaire based on his framework for personality as described in his work
+_Modern Psychopathology_ stemming from a concern over independent attempts to do
+just that by various parties, resulting in the Millon Illinois Self-Report
+Inventory (MISRI) in 1972.[^24] As a personality inventory, the MISRI was not
+designed with the specific intent of diagnosing personality disorders, but of
+measuring personality in multiple dimensions (here called "scales"); however, an
+abnormal score on any given scale could be considered indicative of a
+disorder.[^24]
+
+[^24]:  James P. Choca and Seth D. Grossman, "Evolution of the Millon Clinical
+        Multiaxial Inventory," _Journal of Personality Assessment_ 97, 6 (2015),
+        542.
+
+This 150 item questionnaire was later, in 1977, expanded to cater to clinical
+uses by measuring psychiatric disorders rather than simply personality styles,
+becoming the Millon Clinical Multiaxial Inventory (MCMI).[^24] As the MCMI (and
+its predecessor, MISRI) was self reported, a necessary addition came in the form
+of a validity scale, questions added to determine the seriousness with which the
+participant was answering questions presented.[^24] There were 20 clinical
+scales in the MCMI, 11 of which shared names with _DSM-III_ Axis II diagnoses
+and the other nine closely resembling Axis I diagnoses,[^90] these similarities
+being deliberate choices by Millon to tie to work done on the _DSM-III_ into his
+inventory.[^48] The success of the MCMI as a measure of the _DSM-III_ was not
+all that significant when compared to existing methods such as the Minnesota
+Multiphasic Personality Inventory (MMPI);[^159] though the MCMI did surpass the
+MMPI in popularity, perhaps due to the age of the latter and the former's
+catering to trending conceptions in psychiatry at the time.[^160]
+
+[^90]:  Thomas A. Widiger, Janet B. W. Williams, and Rober L. Spitzer, "The MCMI
+        as a Measure of the DSM-III," _Journal of Personality Assessment_ 49, 4
+        (1985), 366.
+
+[^48]:  Widiger et al., "The MCMI as...," 368.
+
+[^159]: Widiger et al., "The MCMI as...," 377.
+
+[^160]: Choca and Grossman, "Evolution of the MCMI," 543.
 
 ### I-6. Standardization III: The PCL
 
@@ -1771,10 +1810,6 @@ PSYCHIATRY, SOCIOPATHY AND THE XYY CHROMOSOME SYNDROME
 Theodore Millon’s Contributions to Conceptualizing Personality Disorders
 
 <https://www.researchgate.net/publication/275217155_Theodore_Millon's_Contributions_to_Conceptualizing_Personality_Disorders>
-
-The MCMI as a Measure of DSM-III
-
-<http://sci-hub.tw/10.1207/s15327752jpa4904_4>
 
 PSYCHOPATHY A Clinical Construct Whose Time Has Come
 
@@ -2045,6 +2080,10 @@ The time has come for a dimensional personality disorder diagnosis.[^154]
 -   "[The Characters of Theophrastus,][22]" an eudæmonist, accessed Oct. 1,
     2018.
 
+-   James P. Choca and Seth D. Grossman, "Evolution of the Millon Clinical
+    Multiaxial Inventory," _Journal of Personality Assessment_ 97, 6 (2015):
+    541-549.
+
 -   Hervey M. Cleckley, _The Mask of Sanity_ 5<sup>th</sup> edition (1988).
 
 -   The Committee on Nomenclature and Statistics of the American Psychiatric
@@ -2271,6 +2310,10 @@ The time has come for a dimensional personality disorder diagnosis.[^154]
 
 -   Kurt Vonnegut, _A Man Without a Country_, ed. Daniel Simon, (New York: Seven
     Stories Press, 2005).
+
+-   Thomas A. Widiger, Janet B. W. Williams, and Rober L. Spitzer, "The MCMI
+    as a Measure of the DSM-III," _Journal of Personality Assessment_ 49, 4
+    (1985): 366-378.
 
 -   Nick J Wilson, "[Psychopathy and Risk of Violence: Assessment and
     Management,][83]" _Will they do it again? Assessing and Managing Risk,_ ed.
