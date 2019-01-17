@@ -4,7 +4,8 @@ author:
 - shtpostscarcity
 - whimworm
 description: >
-    Need to write a description.
+    We're not a history podcast and nobody actually knows what happened in Paris
+    in 1871.
 image: /assets/img/gas/paris.jpg
 layout: post-img
 permalink: /podcast/4/notes
@@ -14,6 +15,7 @@ title: "Goth Angel Sinners Pt. IV: <i>The Paris Commune</i> Notes"
 
 
  - Introduction:
+
    - L: _"Good Sextidi everyone and welcome to part four (4) of Goth Angel
      Sinners, the only podcast about anarchy, anarchists, and anarchism (and not
      about Lil Peep). I'm 'Leland'."_
@@ -21,11 +23,13 @@ title: "Goth Angel Sinners Pt. IV: <i>The Paris Commune</i> Notes"
    - T: _"and I'm @trewbot."_
    - L: _"Today we're continuing the tradition of not being a history podcast by
      talking about the Paris Commune in 1871."_
-   - C: We'll have a discussion with Nathan (who is in France and is French)
+   - C: ~~We'll have a discussion with Nathan (who is in France and is French)
      about the current happenings in France (the Yellow Vest stuff), so that'll
-     be partway through the episode between some other sections.
+     be partway through the episode between some other sections.~~
+
  - Yandex (Яндекс) is now the official search engine and browser of Goth Angel
    Sinners (Yandex please sponsor us).
+
  - Why did it happen? (Events leading up to the Paris Commune)
 
    ![](/assets/img/gas/4-graphics.gif)
@@ -60,7 +64,9 @@ title: "Goth Angel Sinners Pt. IV: <i>The Paris Commune</i> Notes"
      of the cannons
    - So now there's no central government and workers and radicalized soldiers
      are in charge of the city
+
  - What was the Paris Commune?
+
    - Paris Commune of 1790s (revolution) vs 1871
      - Neo-Jacobins as re-living height of revolution & basking in 1790s
        revisionism and repetition without critical evaluation of current
@@ -153,7 +159,9 @@ title: "Goth Angel Sinners Pt. IV: <i>The Paris Commune</i> Notes"
      Commune as moment of radicalisation vs much more frequent exile as
      radicalisation. Political exiles such as Michel exported together and
      radicalised by good comrades etc.
+
  - What's the deal with the ~ M a r x i s t s ~?
+
    - They view the Paris Commune as a working example of the Dictatorship of the
      Proletariat (DotP).
      - DotP is my favorite vocaloid producer (this is a funny joke).
@@ -175,7 +183,9 @@ title: "Goth Angel Sinners Pt. IV: <i>The Paris Commune</i> Notes"
      revolutionary action.
      - Particularly into the idea of the commune as dictatorship of the workers
        but deployed as a canard in practice later on.
+
  - What that calendar do tho?
+
    - It was developed during the original French Revolution but they used it
      during the Paris Commune because it's lit af and also secular or whatever.
    - Decimalization: everything based on 10s.
@@ -219,9 +229,12 @@ title: "Goth Angel Sinners Pt. IV: <i>The Paris Commune</i> Notes"
    - ![](/assets/img/gas/4-sextidi-3.gif)
    - ![](/assets/img/gas/4-sextidi-4.gif)
    - ![](/assets/img/gas/4-sextidi-5.gif)
+
  - Communard regret at not seizing and raising the banks recognised by Marx
    after the fact.
+
  - Predictions for 2050:
+
    - More domesticated raccoons
      - Evidence: raccoon emoji
      - No fall damage (just like cats)
@@ -231,7 +244,9 @@ title: "Goth Angel Sinners Pt. IV: <i>The Paris Commune</i> Notes"
    - "Audiophile" is a slur
    - Worship of Trewbot idols is widespread, they rub dicks on them.
    - Turkey joins the EU and leaves NATO.
+
  - _Further Reading_
+
    - <https://theanarchistlibrary.org/library/petr-kropotkin-the-commune-of-paris>
    - <https://theanarchistlibrary.org/library/michail-bakunin-the-paris-commune-and-the-idea-of-the-state>
    - <https://theanarchistlibrary.org/library/freedom-press-london-the-paris-commune#toc4>
