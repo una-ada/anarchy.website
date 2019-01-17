@@ -55,6 +55,9 @@ footer {
 footer a {
 	color: $secondary;
 }
+.footnote {
+	text-decoration: none;
+}
 .footnote::after {
 	content: "]";
 	vertical-align: top;
@@ -62,6 +65,9 @@ footer a {
 .footnote::before {
 	content: "[";
 	vertical-align: top;
+}
+.footnote:hover {
+	text-decoration: underline;
 }
 .footnotes {
 	column-count: 2;
