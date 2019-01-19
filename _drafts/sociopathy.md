@@ -1700,8 +1700,12 @@ Throughout the '70s, the classification of psychopathy continued to see usage in
 the psychiatric community despite its exclusion from the likes of the _DSM_ and
 the _ICD_; as other diagnoses were being given rigid and standardized
 definitions, a push began towards such a standard for psychopathy, among which a
-prominent member was [Robert D. Hare][139].[^155] **Hare's efforts led to the
-PCL etc etc...** Hare was heavily influenced by the work of Cleckley.[^155]
+prominent member was [Robert D. Hare][139].[^155]
+
+**He did some shit in 1976 or something...**
+
+Hare's efforts led to the Psychopathy Checklist (PCL), heavily influenced by the
+work of Cleckley,[^155] initially published in **I STILL DON'T KNOW..**
 
 [David Shapiro][136], in his _Autonomy and Rigid Character_ (1981), reasserted
 the antisocial nature of sadism on the basis of the degradation of the victim
