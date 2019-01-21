@@ -1702,10 +1702,29 @@ the _ICD_; as other diagnoses were being given rigid and standardized
 definitions, a push began towards such a standard for psychopathy, among which a
 prominent member was [Robert D. Hare][139].[^155]
 
-**He did some shit in 1976 or something...**
+In 1975, Hare and Daisy Schalling organized an Advanced Study Instituted (ASI)
+on psychopathy, funded by [NATO][82], that lasted 10 days in Les Arcs,
+France.[^161] The ASI would later be described by Hare as a "microcosm of the
+real academic and clinical world" with regards to the discussion of the
+construct, elaborating that said world contained "much armchair speculation and
+uninformed debate, but relatively little empirical research, about the nature of
+psychopathy."[^161]
 
-Hare's efforts led to the Psychopathy Checklist (PCL), heavily influenced by the
-work of Cleckley,[^155] initially published in **I STILL DON'T KNOW..**
+[^161]: Robert D. Hare, "Psychopathy: A Clinical Construct Whose Time Has Come,"
+        _Criminal Justice and Behavior_ 23, 1 (Mar. 1996), 26.
+
+There was little consensus achieved at the initial ASI,[^161] but by the time of
+the 20<sup>th</sup> anniversary, when another ASI was held in 1995, a much
+clearer definition of "psychopathy" was carved out.[^184] The arduous journey of
+these two decades began with the publication of _Psychopathic Behaviour
+Approaches to Research_ by Hare and Schalling in 1978 based on the proceedings
+from the ASI;[^184] this was soon followed by Hare's own attempt at
+operationalizing the construct of psychopathy, particularly influenced by the
+conceptions of Cleckley,[^155] in 1980.
+
+[^184]: Hare, "Psychopathy," 27.
+
+**I FEEL LIKE I NEED TO ACTUALLY DISCUSS WHAT THE FUCKING PCL WAS.**
 
 [David Shapiro][136], in his _Autonomy and Rigid Character_ (1981), reasserted
 the antisocial nature of sadism on the basis of the degradation of the victim
@@ -1713,6 +1732,15 @@ being the goal and motivator of the perpetrator (in opposition to Fromm's
 descriptions of sadistic personalities).[^153]
 
 [^153]: Millon et al., "Historical Conceptions...," 22.
+
+**Siever et al. (1985)**
+sought to define a biogenic origin of antisocial personality, concluding that
+impulsive behaviors go against social bounds therefore indicating a lack of
+social learning which is described as a "lack of critical arousal" and
+"disinhibited motoric reaction to various stimuli" (essentially meaning a
+decrease in premeditation for any given action).[^70]
+
+[^70]:  Millon et al., "Historical Conceptions...," 26.
 
 By the late '80s, the aforementioned denotation of "sexual psychopath" would
 have lost what little favor it had retained since its denunciation by Karpman
@@ -1730,16 +1758,6 @@ Cleckley's _Mask of Sanity_ (1988):[^7]
 
 [^7]:   Cleckley, _The Mask of Sanity_, 286.
 
-**Siever et al. (1985)**
-
-sought to define a biogenic origin of antisocial personality, concluding that
-impulsive behaviors go against social bounds therefore indicating a lack of
-social learning which is described as a "lack of critical arousal" and
-"disinhibited motoric reaction to various stimuli" (essentially meaning a
-decrease in premeditation for any given action).[^70]
-
-[^70]:  Millon et al., "Historical Conceptions...," 26.
-
 **Beck et al. (1990)**
 
 **Weiner (1991)**
@@ -1749,7 +1767,6 @@ decrease in premeditation for any given action).[^70]
 **ICD-10 (1992)**
 
 **Michael Stone (1993)**
-
 Following in the tradition of basing conceptualization of psychopathy on
 biographies of various criminals (see Karpman), Michael Stone based his analysis
 (1993) on the "annals of crime," concluding that psychopathy is defined by
@@ -1767,7 +1784,6 @@ workplace" as examples of psychopathy.[^132]
 **Blackburn (1993)**
 
 **Cost & Widiger (1994)**
-
 aimed to conduct an objective study by means of statistical analysis rather than
 clinical surveys.[^70] They concluded with a five factor system for describing
 antisocial personality.[^70]
@@ -2170,6 +2186,9 @@ The time has come for a dimensional personality disorder diagnosis.[^154]
     philosopher and psychiatrist,][24]" _History of Psychiatry_ 19, 2 (2008):
     202-214.
 
+-   Robert D. Hare, "Psychopathy: A Clinical Construct Whose Time Has Come,"
+    _Criminal Justice and Behavior_ 23, 1 (Mar. 1996): 25-54.
+
 -   Robert D. Hare, Stephen D. Hart, and Timothy J. Harpur, "[Psychopathy and
     the _DSM&mdash;IV_ Criteria for Antisocial Personality Disorder,][13]"
     _Journal of Abnormal Psychology_ 100, 3 (Aug. 1991): 391-398.
@@ -2410,7 +2429,7 @@ The time has come for a dimensional personality disorder diagnosis.[^154]
 [79]: https://commons.wikimedia.org/wiki/User:Esculapio/gallery
 [80]: https://www.hare.org/LilienfeldetalPDTRT2018.pdf
 [81]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1520904/
-
+[82]: https://en.wikipedia.org/wiki/NATO
 [83]: http://www.hma.co.nz/wp-content/uploads/2016/01/Chapter-7-Psychopathy-and-Risk-of-Violence.pdf
 [84]: https://www.hma.co.nz/resources/free-books/
 [85]: https://en.wikipedia.org/wiki/Timothy_Leary
