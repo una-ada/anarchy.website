@@ -1762,7 +1762,24 @@ Cleckley's _Mask of Sanity_ (1988):[^7]
 
 **Weiner (1991)**
 
-**Hare, PCL-R (1991)**
+The PCL was revised as the Psychopathy Checklist-Revised (PCL-R) in 1985, but
+not formally published until 1991.[^185] The PCL-R contains 20 clinical rating
+scales, each measured on a 3-point scale (0-2) resulting in a total score
+ranging from 0 to 40.[^185] These scales are split into two factors: the first
+factor pertaining to interpersonal and affective traits such as egocentricity,
+manipulativeness, and callousness; the second factor then relating to antisocial
+and unstable lifestyle, impulsiveness, and social deviation.[^185]
+
+[^185]: Hare, "Psychopathy," 30.
+
+Diagnoses of psychopathy by the standards of the PCL-R were much more exclusive
+than those of ASPD by the _DSM-III-R_, with the former applying to 15-25% of
+forensic populations and the latter to 50-75%.[^186] Those diagnosed with
+psychopathy typically also met the criteria for ASPD, whereas the reverse (those
+diagnosed with ASPD meeting the criteria for psychopathy) was significantly less
+likely.[^186]
+
+[^186]: Hare, "Psychopathy," 31.
 
 **ICD-10 (1992)**
 
@@ -1787,6 +1804,38 @@ workplace" as examples of psychopathy.[^132]
 aimed to conduct an objective study by means of statistical analysis rather than
 clinical surveys.[^70] They concluded with a five factor system for describing
 antisocial personality.[^70]
+
+In response to concerns that the PCL-R (which could take several hours to
+complete) was too long, a shorter version called the Psychopathy Checklist:
+Screening Version (PCL:SV) was developed from 1993 to 1995 with the support of
+the John D. and Catherin T. MacArthur Foundation.[^187] This new test shared the
+same basic structure as the PCL-R with a reduction from 20 items to 12.[^187]
+
+[^187]: Hare, "Psychopathy," 32.
+
+<https://www.researchgate.net/publication/232570257_Evaluating_the_Screening_Version_of_the_Hare_Psychopathy_Checklist-Revised_PCL_SV_An_Item_Response_Theory_Analysis>
+
+<https://www.researchgate.net/publication/312447998_Psychopathy_Checklist_Screening_Version_PCLSV>
+
+<https://psycnet.apa.org/record/1994-97083-004>
+
+<https://psycnet.apa.org/record/2000-03952-003>
+
+Traditionally, psychiatrists would avoid diagnosing adolescents in terms of
+psychopathy, with some definitions even explicitly excluding the idea, in part
+due to the difficulty of distinguishing the early indicators of psychopathy from
+the symptoms of conduct disorder, attention-deficit hyperactivity disorder, and
+oppositional defiant disorder.[^187] However, in 1994, [Paul J. Frick][159],
+Bridget S. O'Brien, Jane M. Wootton, and Keith McBurnett, established a modified
+version of the PCL-R, ~~called the Psychopathy Checklist: Youth Version (PCL:YV),
+for the purposes of analyzing the relationship between psychopathy and conduct
+in children aged 6-13 years old.~~[^187] Diagnoses based on the PCL:YV in
+adolescents were related to diagnoses of conduct disorder in a similar manner to
+the previously mentioned PCL-R and ASPD relationship.[^188]
+
+[^188]: Hare, "Psychopathy," 33.
+
+<https://sci-hub.tw/10.1037/0021-843x.103.4.700>
 
 **DSM-IV (1994)**
 
@@ -1826,6 +1875,8 @@ Why Use Evolutionary Theory To Describe Personality?
 PSYCHIATRY, SOCIOPATHY AND THE XYY CHROMOSOME SYNDROME
 
 <https://pdfs.semanticscholar.org/5949/3deda5e2f75d948c3f9da35713092dcb2bfd.pdf>
+
+<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2765815/>
 
 Theodore Millon’s Contributions to Conceptualizing Personality Disorders
 
@@ -2506,3 +2557,4 @@ The time has come for a dimensional personality disorder diagnosis.[^154]
 [156]: https://www3.nd.edu/~ghaeffel/Spitzeretal(1978).PDF
 [157]: https://pdfs.semanticscholar.org/18c3/f1fdb66442837bbe41b67f86270c433f38b4.pdf
 [158]: https://en.wikipedia.org/wiki/Lorna_Smith_Benjamin
+[159]: https://en.wikipedia.org/wiki/Paul_Frick
