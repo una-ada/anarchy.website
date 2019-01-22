@@ -1839,12 +1839,40 @@ the previously mentioned PCL-R and ASPD relationship.[^188]
 
 **DSM-IV (1994)**
 
-The _DSM-IV_ once again maintained the social deviance model seen in the
-_DSM-III_.[^141] Again, the ASPD criteria here require there to be some level of
-misconduct that isn't attributed to another underlying cause such as a
-schizophrenic or manic episode.[^147]
+In the process of the development of the _DSM-IV_, the APA conducted a multisite
+"Field Trial" for the ASPD criteria with the goal of creating a shorter list of
+symptoms for the definition.[^188] The result of this Trial was a 10 item list
+of criteria for what they referred to as Psychopathic Personality Disorder
+(PPD), drawing from the PCL:SV and the _ICD-10_ definition of Dissocial
+(or Dyssocial) Personality Disorder (DPD):[^188]
+
+1.  Lacks remorse
+2.  Lacks empathy
+3.  Deceitful and manipulative
+4.  Glib and superficial
+5.  Inflates and arrogant self-appraisal
+6.  Early behavior problems
+7.  Adult antisocial problems
+8.  Poor behavioral controls
+9.  Impulsive
+10. Irresponsible
+
+The _DSM-IV_, however, maintained the social deviance model seen in the
+_DSM-III_,[^141] largely excluding the PPD criteria as they did not
+significantly increase correlation between diagnosis of ASPD and self-reported
+measures of empathy, anxiety, and Machiavellianism.[^188] Again, the ASPD
+criteria here require there to be some level of misconduct that isn't attributed
+to another underlying cause such as a schizophrenic or manic episode.[^147]
 
 [^147]: Hildebrand, _Psychopathy..._, 12.
+
+While ASPD was deliberately separated from psychopathy in its development, the
+_DSM-IV_ regardless stated that "[ASPD] has also been referred to as
+psychopathy, sociopathy, or dyssocial personality disorder," allowing clinicians
+to more freely use the ASPD criteria as a means by which to diagnose
+psychopathy.[^189]
+
+[^189]: Hare, "Psychopathy," 34.
 
 **Fitzpatrick (1995)**
 
