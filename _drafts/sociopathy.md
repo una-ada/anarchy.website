@@ -1692,7 +1692,7 @@ catering to trending conceptions in psychiatry at the time.[^160]
 ### I-6. Standardization III: The PCL
 
 ![Robert D. Hare][127]
-Robert D. Hare is still alive.<br>_Source: [Wikimedia Commons][128], photo by
+Robert D. Hare<br>_Source: [Wikimedia Commons][128], photo by
 Stephen McCall._
 {: .pullquote .image .left}
 
@@ -1783,7 +1783,6 @@ likely.[^186]
 
 **ICD-10 (1992)**
 
-**Michael Stone (1993)**
 Following in the tradition of basing conceptualization of psychopathy on
 biographies of various criminals (see Karpman), Michael Stone based his analysis
 (1993) on the "annals of crime," concluding that psychopathy is defined by
@@ -1800,10 +1799,19 @@ workplace" as examples of psychopathy.[^132]
 
 **Blackburn (1993)**
 
-**Cost & Widiger (1994)**
-aimed to conduct an objective study by means of statistical analysis rather than
-clinical surveys.[^70] They concluded with a five factor system for describing
-antisocial personality.[^70]
+![Thomas A. Widiger][160]
+Thomas A. Widiger<br>_Source: [University of Kentucky][161]._
+{: .pullquote .image}
+
+In their 1994 paper titled "Personality and Personality Disorders," [Thomas A.
+Widiger][161] and [Paul T. Costa, Jr.][162] aimed to conduct an objective study
+by means of statistical analysis rather than clinical surveys.[^70] This work
+used a five factor system for describing antisocial personality;[^70]
+aptly called the [Five Factor Model][164] (FFM).[^190]
+
+[^190]: Thomas A. Widiger and Paul T. Costa, Jr., "[Personality and Personality
+        Disorders][163]," _Journal of Abnormal Psychology_ 103, 1 (Feb. 1994):
+        78-91.
 
 In response to concerns that the PCL-R (which could take several hours to
 complete) was too long, a shorter version called the Psychopathy Checklist:
@@ -1891,6 +1899,8 @@ psychopathy.[^189]
 **Lilienfeld et al. (2005) PPI-R**
 
 **Patrick et al. (2009) TriPM**
+
+**DSM-5 (2013)**
 
 Evolutionary Theory and Psychopathy
 
@@ -2413,6 +2423,10 @@ The time has come for a dimensional personality disorder diagnosis.[^154]
 -   Kurt Vonnegut, _A Man Without a Country_, ed. Daniel Simon, (New York: Seven
     Stories Press, 2005).
 
+-   Thomas A. Widiger and Paul T. Costa, Jr., "[Personality and Personality
+    Disorders][163]," _Journal of Abnormal Psychology_ 103, 1 (Feb. 1994):
+    78-91.
+
 -   Thomas A. Widiger, Janet B. W. Williams, and Rober L. Spitzer, "The MCMI
     as a Measure of the DSM-III," _Journal of Personality Assessment_ 49, 4
     (1985): 366-378.
@@ -2586,3 +2600,8 @@ The time has come for a dimensional personality disorder diagnosis.[^154]
 [157]: https://pdfs.semanticscholar.org/18c3/f1fdb66442837bbe41b67f86270c433f38b4.pdf
 [158]: https://en.wikipedia.org/wiki/Lorna_Smith_Benjamin
 [159]: https://en.wikipedia.org/wiki/Paul_Frick
+[160]: /assets/img/people/widiger.jpg
+[161]: https://psychology.as.uky.edu/users/widiger
+[162]: https://en.wikipedia.org/wiki/Paul_Costa_Jr
+[163]: https://www.researchgate.net/publication/232452116_Personality_and_Personality_Disorders
+[164]: https://en.wikipedia.org/wiki/Big_Five_personality_traits
