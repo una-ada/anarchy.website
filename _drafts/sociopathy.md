@@ -1673,21 +1673,27 @@ participant was answering questions presented.[^24] There were 20 clinical
 scales in the MCMI, 11 of which shared names with _DSM-III_ Axis II diagnoses
 and the other nine closely resembling Axis I diagnoses,[^90] these similarities
 being deliberate choices by Millon to tie to work done on the _DSM-III_ into his
-inventory.[^48] The success of the MCMI as a measure of the _DSM-III_ was not
-all that significant when compared to existing methods such as the Minnesota
+inventory.[^48][^191] The success of the MCMI as a measure of the _DSM-III_ was
+not all that significant when compared to existing methods such as the Minnesota
 Multiphasic Personality Inventory (MMPI);[^159] though the MCMI did surpass the
 MMPI in popularity, perhaps due to the age of the latter and the former's
 catering to trending conceptions in psychiatry at the time.[^160]
 
-[^90]:  Thomas A. Widiger, Janet B. W. Williams, and Rober L. Spitzer, "The MCMI
-        as a Measure of the DSM-III," _Journal of Personality Assessment_ 49, 4
-        (1985), 366.
+[^90]:  Thomas A. Widiger, Janet B. W. Williams, and Robert L. Spitzer, "The
+        MCMI as a Measure of the DSM-III," _Journal of Personality Assessment_
+        49, 4 (1985), 366.
 
 [^48]:  Widiger et al., "The MCMI as...," 368.
 
 [^159]: Widiger et al., "The MCMI as...," 377.
 
 [^160]: Choca and Grossman, "Evolution of the MCMI," 543.
+
+[^191]: Robert C. McMahon, "[The Millon Clinical Multiaxial Inventory: An
+        Introduction to Theory, Development, and Interpretation][165]," in _The
+        Millon Clinical Multiaxial Inventory: A Clinical Research Information
+        Synthesis_, ed. Robert J. Craig (Hillsdale, NJ: Lawrence Erlbaum
+        Associates, Publishers, 1993), 3.
 
 ### I-6. Standardization III: The PCL
 
@@ -1742,10 +1748,60 @@ decrease in premeditation for any given action).[^70]
 
 [^70]:  Millon et al., "Historical Conceptions...," 26.
 
-By the late '80s, the aforementioned denotation of "sexual psychopath" would
-have lost what little favor it had retained since its denunciation by Karpman
-and Cleckley, as described by this comment in the 5<sup>th</sup> edition of
-Cleckley's _Mask of Sanity_ (1988):[^7]
+The MCMI was revised in 1987, the revision then being called the MCMI-II, to
+adapt to changes between the _DSM-III_ and _DSM-III-R_ such as the addition of
+scales for aggressive/sadistic and self-defeating/masochistic personality
+prototypes and modifications to the scales for borderline and antisocial
+personalities and major depression.[^192] The revision also addressed research
+showing low correlation between MCMI scales and _DSM-III_ diagnoses.[^192] An
+effort to reduce noted overlaps between the scales in both the theory and
+criteria,[^192] though ultimately leading to the removal of some criteria meant
+to reflect the _DSM-III_ on the basis of a lack of ease with self-reporting,
+theoretical basis, or distinction between scales.[^193]
+
+[^192]: McMahon, "The MCMI: An Introduction...," 10.
+
+[^193]: McMahon, "The MCMI: An Introduction...," 11.
+
+Weights were also added to the MCMI-II items, something new compared to the
+first MCMI, allowing more significant items for a given scale to count more
+towards the overall score than less significant ones.[^194] This was in addition
+to already existing features of the test to allow for greater analysis of the
+answers given, such as the base rate scores which were also updated with this
+revision based on studies using the newly updated inventory;[^194] more notably,
+the interpretation of the base rates was changes, with them no longer being
+intended to be used for directly determining a diagnosis using the determined
+threshold but rather to be used as indicators of the most prevalent features of
+the personality of the patient to whom the test was administered.[^195]
+
+[^194]: McMahon, "The MCMI: An Introduction...," 12.
+
+[^195]: McMahon, "The MCMI: An Introduction...," 13.
+
+Antisocial personality in the MCMI-II, and in part in Millon's theory, was
+described by scale 6A (where scale 6B was dedicated to the new
+aggressive/sadistic scale)[^196] as an "actively independent" personality.[^197]
+Described in more detail as a focus on self fulfillment due to a distrust of
+others rather than narcissism, deriving security by countering an anticipated
+domination by others using manipulation and irresponsible and self serving
+behavior.[^197]
+
+[^196]: McMahon, "The MCMI: An Introduction...," 16.
+
+[^197]: McMahon, "The MCMI: An Introduction...," 15.
+
+A contrast between the self perception and the perception of others is also
+described, with a person who has an antisocial personality viewing themselves as
+a rational realist but seen by others as argumentative and
+uncompassionate.[^197] This description, focused on the core personality rather
+than behavior, does not necessitate criminality, and like other past conceptions
+states that many affected persons may actually be affluent within a society that
+rewards 'realism' and uses competition as a means of social mobility.[^197]
+
+By the late '80s, the previously discussed denotation of "sexual psychopath"
+would have lost what little favor it had retained since its denunciation by
+Karpman and Cleckley, as described by this comment in the 5<sup>th</sup> edition
+of Cleckley's _Mask of Sanity_ (1988):[^7]
 
 > "_When the first edition of this book was written it had for many years been
   customary to use the term sexual psychopath to designate homosexuals, sadists,
@@ -1882,6 +1938,8 @@ psychopathy.[^189]
 
 [^189]: Hare, "Psychopathy," 34.
 
+**MCMI-III (1994)**
+
 **Fitzpatrick (1995)**
 
 **Lilienfeld and Andrews (1996) PPI**
@@ -1901,6 +1959,8 @@ psychopathy.[^189]
 **Patrick et al. (2009) TriPM**
 
 **DSM-5 (2013)**
+
+**MCMI-IV (2015)**
 
 Evolutionary Theory and Psychopathy
 
@@ -2349,6 +2409,12 @@ The time has come for a dimensional personality disorder diagnosis.[^154]
 -   Henry Maudsley, M.D., "[Remarks on Crime and Criminals,][17]" _The British
     Journal of Mental Science_ 146, 34 (July 1888): 159-167.
 
+-   Robert C. McMahon, "[The Millon Clinical Multiaxial Inventory: An
+    Introduction to Theory, Development, and Interpretation][165]," in _The
+    Millon Clinical Multiaxial Inventory: A Clinical Research Information
+    Synthesis_, ed. Robert J. Craig (Hillsdale, NJ: Lawrence Erlbaum
+    Associates, Publishers, 1993).
+
 -   Theodore Millon, Erik Simonsen, and Morten Birket-Smith, "[Historical
     Conceptions of Psychopathy in the United States and Europe,][9]" in
     _Psychopathy: Antisocial, Criminal, and Violent Behavior,_ ed. Theodore
@@ -2605,3 +2671,4 @@ The time has come for a dimensional personality disorder diagnosis.[^154]
 [162]: https://en.wikipedia.org/wiki/Paul_Costa_Jr
 [163]: https://www.researchgate.net/publication/232452116_Personality_and_Personality_Disorders
 [164]: https://en.wikipedia.org/wiki/Big_Five_personality_traits
+[165]: https://books.google.com/books?id=uIaEKB-BggQC&pg=PA3#v=onepage&q&f=false
