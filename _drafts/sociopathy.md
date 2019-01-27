@@ -1751,9 +1751,10 @@ decrease in premeditation for any given action).[^70]
 The MCMI was revised in 1987, the revision then being called the MCMI-II, to
 adapt to changes between the _DSM-III_ and _DSM-III-R_ such as the addition of
 scales for aggressive/sadistic and self-defeating/masochistic personality
-prototypes and modifications to the scales for borderline and antisocial
+prototypes[^160] and modifications to the scales for borderline and antisocial
 personalities and major depression.[^192] The revision also addressed research
-showing low correlation between MCMI scales and _DSM-III_ diagnoses.[^192] An
+showing low correlation between MCMI scales and _DSM-III_ diagnoses,[^192] a
+correlation that became a higher focus for Millon with the MCMI-II.[^160] An
 effort to reduce noted overlaps between the scales in both the theory and
 criteria,[^192] though ultimately leading to the removal of some criteria meant
 to reflect the _DSM-III_ on the basis of a lack of ease with self-reporting,
@@ -1940,6 +1941,25 @@ psychopathy.[^189]
 
 **MCMI-III (1994)**
 
+Millon's research and theory continued to evolve through his career (up to
+contemporary times), eventually shifting to integrate evolutionary theory,
+linking the three basic accommodations of said theory: adaptation mode, survival
+aim, and replication strategies, with three polarities of personality:
+active-passive, pain-pleasure, and self-other respectively.[^198] Development of
+the third edition of the MCMI, the MCMI-III, would then be marked by attempts to
+implement this approach to personology into the test. This change in direction
+lead the MCMI-III to be criticized for diverging more than it converged with
+other conceptions of personality at the time, revoking the MCMI's key advantage
+of being in line with the diagnostics of the _DSM_.[^198]
+
+[^198]: Choca and Grossman, "Evolution of the MCMI," 544.
+
+Despite its success as a clinical instrument, there was a distinct downward
+trend in the amount of usage the MCMI saw in research from around the time of
+the MCMI-III onward.[^199]
+
+[^199]: Choca and Grossman, "Evolution of the MCMI," 545.
+
 **Fitzpatrick (1995)**
 
 **Lilienfeld and Andrews (1996) PPI**
@@ -1962,13 +1982,19 @@ psychopathy.[^189]
 
 **MCMI-IV (2015)**
 
+In the 3rd edition of _Disorders of Personality_, Millon introduced a category
+for "turbulent" personality in an attempt to rectify what he considered an issue
+of a lack of attention given to positive aspects in personality
+pathologies.[^199] This addition had some precedent in Kraepelin's description
+of "mania," generally pointing towards a maladaptive personality brought about
+through some manner of being overly adaptive.[^199] Another change to Millon's
+theories came about in a fundamental shift towards dimensional views rather than
+categorical ones, treating the pathologies he described as "severities" and
+"spectra" rather than "disorders" or "styles."[^199]
+
 Evolutionary Theory and Psychopathy
 
 <http://aglenn.people.ua.edu/uploads/1/4/1/8/14182546/glenn_avb_2011.pdf>
-
-Why Use Evolutionary Theory To Describe Personality?
-
-<https://www.millonpersonality.com/theory/core-components/EvolutionaryTheory.pdf>
 
 PSYCHIATRY, SOCIOPATHY AND THE XYY CHROMOSOME SYNDROME
 
