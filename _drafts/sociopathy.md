@@ -1943,7 +1943,7 @@ of criteria for what they referred to as Psychopathic Personality Disorder
 2.  Lacks empathy
 3.  Deceitful and manipulative
 4.  Glib and superficial
-5.  Inflates and arrogant self-appraisal
+5.  Inflated and arrogant self-appraisal
 6.  Early behavior problems
 7.  Adult antisocial problems
 8.  Poor behavioral controls
@@ -2408,7 +2408,7 @@ Dawson, Shane ([@shanedawson][112]), "Kati is my friend and i wanted our
 conversation to be relaxed and real. we both got comfortable and didn’t
 think everything through. but i think the music and b roll just enhanced
 everything which was 100% my fault. she didn’t know i was gonna do that.
-🏻❤️," Twitter, [Oct. 4, 2018][113].
+🙏🏻❤️," Twitter, [Oct. 4, 2018][113].
 {: .citation}
 
 Dawson, Shane ([@shanedawson][112]), "i’ve suffered from bulimia, body

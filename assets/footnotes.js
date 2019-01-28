@@ -100,8 +100,8 @@ _fnh = (FootNoteHover = {
 		return false;
 	},
 	close : function(){
-		if(this.isOpen){
-			this.isOpen = false;
+		if(_fnh.isOpen){
+			_fnh.isOpen = false;
             window.setTimeout(function(){_fnh.cards[_fnh.card].style.display = 'none';},500);
             _fnh.cards[_fnh.card].style.opacity = 0;
             _fnh.hovering = !1;
@@ -109,3 +109,6 @@ _fnh = (FootNoteHover = {
 		}
 	},
 });
+
+window.addEventListener('mousemove',_fnh.mousemove);
+window.addEventListener('scroll',()=>{_fnh.close()});
