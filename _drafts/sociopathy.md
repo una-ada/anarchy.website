@@ -1702,7 +1702,7 @@ the _ICD_; as other diagnoses were being given rigid and standardized
 definitions, a push began towards such a standard for psychopathy, among which a
 prominent member was [Robert D. Hare][139].[^155]
 
-In 1975, Hare and Daisy Schalling organized an Advanced Study Instituted (ASI)
+In 1975, Hare and Daisy Schalling organized an Advanced Study Institute (ASI)
 on psychopathy, funded by [NATO][82], that lasted 10 days in Les Arcs,
 France.[^161] The ASI would later be described by Hare as a "microcosm of the
 real academic and clinical world" with regards to the discussion of the
@@ -1813,6 +1813,13 @@ of Cleckley's _Mask of Sanity_ (1988):[^7]
 
 **Weiner (1991)**
 
+**PAI (1991)**
+
+**John F. Edens, Stephen D. Hart, Darryl W. Johnson, Judy K. Johnson, and Mark E.
+Olver, "Use of the Personality Assessment Inventory to assess psychopathy in
+offender populations," _Psychological Assessment_ 12, 2 (2000): 132-139.**
+<https://psycnet.apa.org/record/2000-03952-003>
+
 The PCL was revised as the Psychopathy Checklist-Revised (PCL-R) in 1985, but
 not formally published until 1991.[^185] The PCL-R contains 20 clinical rating
 scales, each measured on a 3-point scale (0-2) resulting in a total score
@@ -1867,33 +1874,40 @@ aptly called the [Five Factor Model][164] (FFM).[^190]
 In response to concerns that the PCL-R (which could take several hours to
 complete) was too long, a shorter version called the Psychopathy Checklist:
 Screening Version (PCL:SV) was developed from 1993 to 1995 with the support of
-the John D. and Catherin T. MacArthur Foundation.[^187] This new test shared the
-same basic structure as the PCL-R with a reduction from 20 items to 12.[^187]
+the John D. and Catherin T. MacArthur Foundation.[^187][^205] This new test
+shared the same basic structure as the PCL-R with a reduction from 20 items to
+12,[^187] retaining the essence of the PCL-R but removing the costly
+requirements of case history and interview information.[^201]
 
 [^187]: Hare, "Psychopathy," 32.
 
-**David J. Cooke, Christine Michie, Stephen D. Hart, and Robert D. Hare,
-"[Evaluating the Screening Version of the Hare Psychopathy
-Checklist&mdash;Revised (PCL:SV): An Item Response Theory Analysis][166],"
-_Psychological Assessment_ 11, 1 (Mar. 1999): 3-13.**
+[^205]: Stephen D. Hart, Robert D. Hare, and Adelle E. Forth, "Psychopathy as a
+        risk marker for violence: Development and validation of a screening
+        version of the revised Psychopathy Checklist," in _The John D. and
+        Catherin T. MacArthur Foundation series on mental health and
+        development. Violence and mental disorder: Developments in risk
+        assessment_, ed. J. Monahan and H. J. Steadman (Chicago: University of
+        Chicago Press, 1994), 81-98.
 
-**Kristopher J. Brazil and Adelle E. Forth, "[Psychopathy Checklist: Screening
-Version (PCL:SV)][167]," in _Encyclopedia of Personality and Individual
-Differences_, ed. Virgil Zeigler-Hill and Todd K. Shackelford (Springer
-International Publishing, 2016).**
+[^201]: David J. Cooke, Christine Michie, Stephen D. Hart, and Robert D. Hare,
+        "[Evaluating the Screening Version of the Hare Psychopathy
+        Checklist&mdash;Revised (PCL:SV): An Item Response Theory
+        Analysis][166]," _Psychological Assessment_ 11, 1 (Mar. 1999), 3.
 
-**Stephen D. Hart, Robert D. Hare, and Adelle E. Forth, "Psychopathy as a risk
-marker for violence: Development and validation of a screening version of the
-revised Psychopathy Checklist," in _The John D. and Catherin T. MacArthur
-Foundation series on mental health and development. Violence and mental
-disorder: Developments in risk assessment_, ed. J. Monahan and H. J. Steadman
-(Chicago: University of Chicago Press, 1994), 81-98.**
-<https://psycnet.apa.org/record/1994-97083-004>
+Being less thorough of a test, the PCL:SV is meant primarily as a _predictor_ of
+PCL-R scores, thus term "Screening Version," and has been shown to function well
+in this role[^202], with scores $\ge13$ and $\lt18$ being considered "possible
+psychopaths" with need for further review using the PCL-R and those $\ge18$
+being considered psychopaths outright.[^203][^204]
 
-**John F. Edens, Stephen D. Hart, Darryl W. Johnson, Judy K. Johnson, and Mark E.
-Olver, "Use of the Personality Assessment Inventory to assess psychopathy in
-offender populations," _Psychological Assessment_ 12, 2 (2000): 132-139.**
-<https://psycnet.apa.org/record/2000-03952-003>
+[^202]: Cooke et al., "Evaluating the Screening...," 9.
+
+[^203]: Cooke et al., "Evaluating the Screening...," 11.
+
+[^204]: Kristopher J. Brazil and Adelle E. Forth, "[Psychopathy Checklist:
+        Screening Version (PCL:SV)][167]," in _Encyclopedia of Personality and
+        Individual Differences_, ed. Virgil Zeigler-Hill and Todd K. Shackelford
+        (Springer International Publishing, 2016).
 
 Traditionally, psychiatrists would avoid diagnosing adolescents in terms of
 psychopathy, with some definitions even explicitly excluding the idea, in part
@@ -1913,6 +1927,8 @@ the previously mentioned PCL-R and ASPD relationship.[^188]
 "Psychopathy and Conduct Problems in Children," _Journal of Abnormal Psychology_
 103, 4 (1994): 700-707.**
 <https://sci-hub.tw/10.1037/0021-843x.103.4.700>
+
+### I-7. Continuation
 
 **DSM-IV (1994)**
 
@@ -1951,6 +1967,13 @@ psychopathy.[^189]
 
 [^189]: Hare, "Psychopathy," 34.
 
+**Hare DSM-IV**[^16]
+
+[^16]:  Robert D. Hare, Stephen D. Hart, and Timothy J. Harpur, "[Psychopathy
+        and the _DSM&mdash;IV_ Criteria for Antisocial Personality
+        Disorder,][13]" _Journal of Abnormal Psychology_ 100, 3 (Aug. 1991):
+        391-398.
+
 **MCMI-III (1994)**
 
 Millon's research and theory continued to evolve through his career (up to
@@ -1980,8 +2003,6 @@ the MCMI-III onward.[^199]
 
 **Herpertz and Sass (2000)**
 
-### I-7. Continuation
-
 **Cooke and Michie (2001)**
 
 **Andrews and Bonta? (2003)**
@@ -1989,6 +2010,8 @@ the MCMI-III onward.[^199]
 **Lilienfeld et al. (2005) PPI-R**
 
 **Patrick et al. (2009) TriPM**
+
+### I-8. Decategorization
 
 **DSM-5 (2013)**
 
@@ -2003,6 +2026,27 @@ through some manner of being overly adaptive.[^199] Another change to Millon's
 theories came about in a fundamental shift towards dimensional views rather than
 categorical ones, treating the pathologies he described as "severities" and
 "spectra" rather than "disorders" or "styles."[^199]
+
+**ICD-11 (Ongoing)**
+
+The full description of "6D11.2 Dissociality in personality disorder or
+personality difficulty" in the current draft of the ICD-11 is as follows:[^200]
+
+[^200]: World Health Organization, _International Statistical Classification of
+        Diseases and Related Health Problems_ 11th Revision (Geneva: World
+        Health Organization, 2018), [6D11.2][176].
+
+>   "_The core feature of the Dissociality trait domain is disregard for the
+    rights and feelings of others, encompassing both self-centeredness and lack
+    of empathy. Common manifestations of Dissociality, not all of which may be
+    present in a given individual at a given time, include: self-centeredness
+    (e.g., sense of entitlement, expectation of others’ admiration, positive or
+    negative attention-seeking behaviours, concern with one's own needs, desires
+    and comfort and not those of others); and lack of empathy (i.e.,
+    indifference to whether one’s actions inconvenience hurt others, which may
+    include being deceptive, manipulative, and exploitative of others, being
+    mean and physically aggressive, callousness in response to others'
+    suffering, and ruthlessness in obtaining one’s goals)._"
 
 **Andrea L. Glenn, Robert Kurzban, and Adrian Raine, "[Evolutionary Theory and
 Psychopathy][168]," _Aggression and Violent Behavior_ 16, 5 (Sep.-Oct. 2011):
@@ -2035,19 +2079,6 @@ Construct][174]," _Annual Review of Clinical Psychology_ 4 (Apr. 2008): 217-246.
 
 **Robert D. Hare, "[Psychopathy and Antisocial Personality Disorder: A Case of
 Diagnostic Confusion][175]," _Psychiatric Times_ 13, 4 (Feb. 1, 1996).**
-
-While attempts to define ASPD do draw from the central idea of psychopathy,[^16]
-the attempts at formalization as a personality disorder are put under greater
-scrutiny than those that simply seek to create a checklist for psychopathy. This
-is due to the concept of psychopathy itself being generally considered informal.
-
-[^16]:  See, for example, this report for the Axis II Work Group of the Task
-        Force on _DSM&mdash;IV_:
-
-    Robert D. Hare, Stephen D. Hart, and Timothy J. Harpur, "[Psychopathy
-    and the _DSM&mdash;IV_ Criteria for Antisocial Personality
-    Disorder,][13]" _Journal of Abnormal Psychology_ 100, 3 (Aug. 1991):
-    391-398.
 
 ## II. _The Distinction of "Sociopathy"_
 
@@ -2227,7 +2258,34 @@ The time has come for a dimensional personality disorder diagnosis.[^154]
 
 <p><center>𝖂𝖎𝖗 𝖑𝖊𝖇𝖊𝖓 𝖎𝖓 𝖊𝖎𝖓𝖊𝖗 𝕲𝖊𝖘𝖊𝖑𝖑𝖘𝖈𝖍𝖆𝖋𝖙.</center></p>
 
-## Appendix A. Further Reading
+## Appendix A. Acronyms
+
+| Acronym   | Meaning |
+| ---       | --- |
+| APA       | American Psychiatric Association |
+| APD       | Antisocial Personality Disorder |
+| ASI       | Advanced Study Institute |
+| ASPD      | Antisocial Personality Disorder |
+| DPD       | Dissocial/Dyssocial Personality Disorder |
+| _DSM_     | _Diagnostic and Statistical Manual of Mental Disorders_ |
+| FFM       | Five Factor Model |
+| _ICD_     | _International Statistical Classification of Diseases and Related Health Problems_ |
+| MCMI      | Millon Clinical Multiaxial Inventory |
+| MISRI     | Millon Illinois Self-Report Inventory |
+| MMPI      | Minnesota Multiphasic Personality Inventory |
+| NATO      | North Atlantic Treaty Organization |
+| NIMH      | National Institute for Mental Health |
+| NPD       | Narcissistic Personality Disorder |
+| PCL       | Psychopathy Checklist |
+| PCL-R     | Psychopathy Checklist&mdash;Revised |
+| PCL:SV    | Psychopathy Checklist: Screening Version |
+| PCL:YV    | Psychopathy Checklist: Youth Version |
+| PP        | Psychopathic Personalities |
+| PPD       | Psychopathic Personality Disorder |
+| RDC       | Research Diagnostic Criteria |
+| WHO       | World Health Organization |
+
+## Appendix B. Further Reading
 
 Jalava, Jarkko, "[Science of conscience: Metaphysics, morality, and
 rhetoric in psychopathy research,][18]" Ph.D. Dissertation, Simon Fraser
@@ -2240,7 +2298,7 @@ _Psychopathy: Antisocial, Criminal, and Violent Behavior,_ ed. Theodore
 Millon, et al. (New York: The Guilford Press, 1998).
 {: .citation}
 
-## Appendix B. Bibliography
+## Appendix C. Bibliography
 
 American Psychiatric Association, _Diagnostic and Statistical Manual of
 Mental Disorders_ Third Edition (1980).
@@ -2266,6 +2324,12 @@ the Brain,_][7] <sup>[(alt)][8]</sup> (Oxford: Blackwell, 2005).
 
 Bookchin, Murray, "[The Meaning of Confederalism,][14]" _Green Perspectives_
 20 (1990).
+{: .citation}
+
+Kristopher J. Brazil and Adelle E. Forth, "[Psychopathy Checklist: Screening
+Version (PCL:SV)][167]," in _Encyclopedia of Personality and Individual
+Differences_, ed. Virgil Zeigler-Hill and Todd K. Shackelford (Springer
+International Publishing, 2016).
 {: .citation}
 
 Bretherick, Diana, "[The 'born criminal'? Lombroso and the origins of modern
@@ -2310,6 +2374,12 @@ Association, The, _Diagnostic and Statistical Manual: Mental Disorders_
 Committee on Nomenclature and Statistics of the American Psychiatric
 Association, The, _Diagnostic and Statistical Manual: Mental Disorders_ Second
 Edition (Washington, D.C.: American Psychiatric Association Mental, 1968).
+{: .citation}
+
+David J. Cooke, Christine Michie, Stephen D. Hart, and Robert D. Hare,
+"[Evaluating the Screening Version of the Hare Psychopathy
+Checklist&mdash;Revised (PCL:SV): An Item Response Theory Analysis][166],"
+_Psychological Assessment_ 11, 1 (Mar. 1999): 3-13.
 {: .citation}
 
 Cottler, Linda B., Darrel A. Regier, John E. Helzer, Felton James Earls, J.
@@ -2408,6 +2478,14 @@ _Criminal Justice and Behavior_ 23, 1 (Mar. 1996): 25-54.
 Hare, Robert D., Stephen D. Hart, and Timothy J. Harpur, "[Psychopathy and
 the _DSM&mdash;IV_ Criteria for Antisocial Personality Disorder,][13]"
 _Journal of Abnormal Psychology_ 100, 3 (Aug. 1991): 391-398.
+{: .citation}
+
+Stephen D. Hart, Robert D. Hare, and Adelle E. Forth, "Psychopathy as a risk
+marker for violence: Development and validation of a screening version of the
+revised Psychopathy Checklist," in _The John D. and Catherin T. MacArthur
+Foundation series on mental health and development. Violence and mental
+disorder: Developments in risk assessment_, ed. J. Monahan and H. J. Steadman
+(Chicago: University of Chicago Press, 1994), 81-98.
 {: .citation}
 
 Henderson, D. K., _Psychopathic States_, (New York: W. W. Norton & Co.,
@@ -2622,7 +2700,7 @@ Criminology, 1880-1945,_ (Chapel Hill: The University of North Carolina
 Press, 2000).
 {: .citation}
 
-## Appendix C. Footnotes
+## Appendix D. Footnotes
 
 [1]: https://www.psychologytoday.com/us/basics/sociopathy
 [2]: https://www.psychologytoday.com/us/blog/evil-deeds/201707/is-it-narcissism-or-sociopathy
@@ -2799,3 +2877,4 @@ Press, 2000).
 [173]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3811085/
 [174]: http://www.hare.org/references/HareandNeumannARCP2008.pdf
 [175]: http://www.psychiatrictimes.com/articles/psychopathy-and-antisocial-personality-disorder-case-diagnostic-confusion
+[176]: https://icd.who.int/browse11/l-m/en#/http%3a%2f%2fid.who.int%2ficd%2fentity%2f1913158855

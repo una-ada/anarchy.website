@@ -119,6 +119,21 @@ hr + h2 {
 header {
 	margin-bottom: 2rem;
 }
+.hovercard {
+	background: #fff;
+	box-shadow: 0 5px 5px -3px rgba(0,0,0,.2), 0 8px 10px 1px rgba(0,0,0,.14), 0 3px 14px 2px rgba(0,0,0,.12);
+	display: none;
+	max-width: $width / 2;
+	padding: 10px;
+	position: fixed;
+	transition: opacity 0.5s;
+	-webkit-transition: opacity 0.5s;
+	z-index: 101;
+}
+.hovercard p {
+	font-size: small;
+	margin: 0;
+}
 html {
 	color: $primary;
 	font-size: 11pt;
