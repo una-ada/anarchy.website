@@ -22,8 +22,6 @@ persons, gay and/or transgender persons, and possibly others not listed here.**
 
 **\[CW/TW: homophobia, transphobia, ableism, bigotry, eugenics, nazism\]**
 
-[TEST LINK](javascript:document.getElementsByTagName('html')[0].classList.add('dark'))
-
 - toc
 {:toc}
 

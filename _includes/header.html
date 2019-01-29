@@ -1,3 +1,24 @@
 <header>
-    <a href="{{site.url}}">anarchy.website</a>
+    <script>
+        window.isDarkMode = false;
+        window.toggleDarkMode = function(){
+            if(isDarkMode){
+                isDarkMode = false;
+                document.getElementsByTagName('html')[0].classList.remove('dark');
+            } else {
+                isDarkMode = true;
+                document.getElementsByTagName('html')[0].classList.add('dark');
+            }
+        }
+    </script>
+    <table>
+        <tr>
+            <td>
+                <a href="{{site.url}}">anarchy.website</a>
+            </td>
+            <td style="text-align:right;">
+                <a id="darkModeButton" href="javascript:toggleDarkMode()">Toggle Dark Mode</a>
+            </td>
+        </tr>
+    </table>
 </header>
