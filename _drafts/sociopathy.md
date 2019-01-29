@@ -10,7 +10,7 @@ series: langandpsych
 tags: >
     history mental-illness psychology criminology psychiatry eugenics nosology
     epidemiology penology etiology pseudo-science teleology homophobia bigotry
-    transphobia personality-disorders
+    transphobia personality-disorders personology individual-differences
 title: The False Paragon of Evil
 ---
 
@@ -1689,7 +1689,7 @@ catering to trending conceptions in psychiatry at the time.[^160]
         Synthesis_, ed. Robert J. Craig (Hillsdale, NJ: Lawrence Erlbaum
         Associates, Publishers, 1993), 3.
 
-### I-6. Standardization III: The PCL
+### I-6. Standardization III: The PCL-R
 
 ![Robert D. Hare][127]
 Robert D. Hare<br>_Source: [Wikimedia Commons][128], photo by
@@ -1720,11 +1720,55 @@ these two decades began with the publication of _Psychopathic Behaviour
 Approaches to Research_ by Hare and Schalling in 1978 based on the proceedings
 from the ASI;[^184] this was soon followed by Hare's own attempt at
 operationalizing the construct of psychopathy, particularly influenced by the
-conceptions of Cleckley,[^155] in 1980.
+conceptions of Cleckley,[^155] published in a 1980 paper titled "A Research
+Scale for the Assessment of Psychopathy in Criminal Populations."[^207]
 
 [^184]: Hare, "Psychopathy," 27.
 
-**I FEEL LIKE I NEED TO ACTUALLY DISCUSS WHAT THE FUCKING PCL WAS.**
+[^207]: Robert D. Hare, "A Research Scale for the Assessment of Psychopathy in
+        Criminal Populations," _Personality and Individual Differences_, 1, 2
+        (1980): 111-119.
+
+This research scale, which would come to be called the Psychopathy Checklist
+(PCL), was initially derived from the 16-item criteria list proposed by
+Cleckley with modification done by Hare through a study on 143 white male
+prison inmates.[^208] The result was a 22-item checklist that retained a high
+correlation to its source[^209] (to such an extent that factor analysis would
+show it to have the same number of factors);[^210] those 22 items being:[^210]
+
+[^211]: Kristopher J. Brazil and Adelle E. Forth, "[Hare Psychopathy
+        Checklist][178]," in _Encyclopedia of Personality and Individual
+        Differences_, ed. Virgil Zeigler-Hill and Todd K. Shackelford (Springer
+        International Publishing, 2016).
+
+[^208]: Hare, "A Research Scale...," 112.
+
+[^209]: Hare, "A Research Scale...," 118.
+
+[^210]: Hare, "A Research Scale...," 115.
+
+1.  Glibness/superficial charm
+2.  Previous diagnosis as psychopath (or similar)
+3.  Egocentricity/grandiose sense of self-worth
+4.  Proneness to boredom/low frustration tolerance
+5.  Pathological lying and deception
+6.  Conning/lack of sincerity
+7.  Lack of remorse or guilt.
+8.  Lack of affect and emotional depth
+9.  Callous/lack of empathy
+10. Parasitic life-style
+11. Short-tempered/poor behavioral controls
+12. Promiscuous sexual relations
+13. Early behavior problems
+14. Lack of realistic, long-term goals
+15. Impulsivity
+16. Irresponsible behavior as parent
+17. Frequent marital relationships
+18. Juvenile delinquency
+19. Poor probation or parole risk
+20. Failure to accept responsibility for own actions
+21. Many types of offense
+22. Drug or alcohol abuse not direct cause of antisocial behavior
 
 [David Shapiro][136], in his _Autonomy and Rigid Character_ (1981), reasserted
 the antisocial nature of sadism on the basis of the degradation of the victim
@@ -1914,19 +1958,24 @@ psychopathy, with some definitions even explicitly excluding the idea, in part
 due to the difficulty of distinguishing the early indicators of psychopathy from
 the symptoms of conduct disorder, attention-deficit hyperactivity disorder, and
 oppositional defiant disorder.[^187] However, in 1994, [Paul J. Frick][159],
-Bridget S. O'Brien, Jane M. Wootton, and Keith McBurnett, established a modified
-version of the PCL-R, ~~called the Psychopathy Checklist: Youth Version (PCL:YV),
-for the purposes of analyzing the relationship between psychopathy and conduct
-in children aged 6-13 years old.~~[^187] Diagnoses based on the PCL:YV in
-adolescents were related to diagnoses of conduct disorder in a similar manner to
-the previously mentioned PCL-R and ASPD relationship.[^188]
+Bridget S. O'Brien, Jane M. Wootton, and Keith McBurnett, utilized a modified
+version of the PCL-R, for the purposes of analyzing the relationship between
+psychopathy and conduct in children aged 6-13 years old,[^187] with some success
+using factor analysis to show that such a test was capable of measuring two
+dimensions in children similar to those of psychopathy in adults according to
+the PCL-R.[^206]
+
+[^206]: Paul J. Frick, Bridget S. O'Brien, Jane M. Wootton, and Keith McBurnett,
+        "Psychopathy and Conduct Problems in Children," _Journal of Abnormal
+        Psychology_ 103, 4 (1994), 704.
+
+**FRICK ET AL TO THE PCL:YV???**
+
+Diagnoses based
+on the PCL:YV in adolescents were related to diagnoses of conduct disorder in a
+similar manner to the previously mentioned PCL-R and ASPD relationship.[^188]
 
 [^188]: Hare, "Psychopathy," 33.
-
-**Paul J. Frick, Bridget S. O'Brien, Jane M. Wootton, and Keith McBurnett,
-"Psychopathy and Conduct Problems in Children," _Journal of Abnormal Psychology_
-103, 4 (1994): 700-707.**
-<https://sci-hub.tw/10.1037/0021-843x.103.4.700>
 
 ### I-7. Continuation
 
@@ -2048,10 +2097,6 @@ personality difficulty" in the current draft of the ICD-11 is as follows:[^200]
     mean and physically aggressive, callousness in response to others'
     suffering, and ruthlessness in obtaining one’s goals)._"
 
-**Andrea L. Glenn, Robert Kurzban, and Adrian Raine, "[Evolutionary Theory and
-Psychopathy][168]," _Aggression and Violent Behavior_ 16, 5 (Sep.-Oct. 2011):
-371-380.**
-
 **David B. Saxe, "[Psychiatry, Sociopathy, and the XYY Chromosome Syndrome][169],"
 _Tulsa Law Review_ 6, 3 (1969): 243-256.**
 
@@ -2112,11 +2157,11 @@ between ASPD and NPD, both connotatively and clinically.[^3]
 [^3]:   Stephen A. Diamond Ph.D., "[Is It Narcissism or Sociopathy?,][2]"
         Psychology Today, Jul. 19, 2017.
 
----
+**Andrea L. Glenn, Robert Kurzban, and Adrian Raine, "[Evolutionary Theory and
+Psychopathy][168]," _Aggression and Violent Behavior_ 16, 5 (Sep.-Oct. 2011):
+371-380.**
 
 Descriptions of psychopathy:
-
-<http://www.thedivineconspiracy.org/Z5223H.pdf>
 
 <https://www.scribd.com/doc/27005161/The-Psychopath-Emotion-and-the-Brain>
 
@@ -2326,6 +2371,11 @@ Bookchin, Murray, "[The Meaning of Confederalism,][14]" _Green Perspectives_
 20 (1990).
 {: .citation}
 
+Brazil, Kristopher J. and Adelle E. Forth, "[Hare Psychopathy Checklist][178],"
+in _Encyclopedia of Personality and Individual Differences_, ed. Virgil
+Zeigler-Hill and Todd K. Shackelford (Springer International Publishing, 2016).
+{: .citation}
+
 Kristopher J. Brazil and Adelle E. Forth, "[Psychopathy Checklist: Screening
 Version (PCL:SV)][167]," in _Encyclopedia of Personality and Individual
 Differences_, ed. Virgil Zeigler-Hill and Todd K. Shackelford (Springer
@@ -2466,6 +2516,11 @@ Psychiatric Research][151]," _Archives of General Psychiatry_ 26, 1
 (Jan. 1972): 57-63.
 {: .citation}
 
+Frick, Paul J., Bridget S. O'Brien, Jane M. Wootton, and Keith McBurnett,
+"Psychopathy and Conduct Problems in Children," _Journal of Abnormal Psychology_
+103, 4 (1994): 700-707.
+{: .citation}
+
 Gutmann, Phillip, "[Julius Ludwig August Koch (1841-1908): Christian,
 philosopher and psychiatrist,][24]" _History of Psychiatry_ 19, 2 (2008):
 202-214.
@@ -2473,6 +2528,11 @@ philosopher and psychiatrist,][24]" _History of Psychiatry_ 19, 2 (2008):
 
 Hare, Robert D., "Psychopathy: A Clinical Construct Whose Time Has Come,"
 _Criminal Justice and Behavior_ 23, 1 (Mar. 1996): 25-54.
+{: .citation}
+
+Hare, Robert D. , "A Research Scale for the Assessment of Psychopathy in
+Criminal Populations," _Personality and Individual Differences_, 1, 2
+(1980): 111-119.
 {: .citation}
 
 Hare, Robert D., Stephen D. Hart, and Timothy J. Harpur, "[Psychopathy and
@@ -2878,3 +2938,4 @@ Press, 2000).
 [174]: http://www.hare.org/references/HareandNeumannARCP2008.pdf
 [175]: http://www.psychiatrictimes.com/articles/psychopathy-and-antisocial-personality-disorder-case-diagnostic-confusion
 [176]: https://icd.who.int/browse11/l-m/en#/http%3a%2f%2fid.who.int%2ficd%2fentity%2f1913158855
+[178]: https://www.researchgate.net/publication/318596156_Hare_Psychopathy_Checklist_PCL
