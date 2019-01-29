@@ -236,8 +236,14 @@ html.dark {
 		background: none;
 		outline: 1px solid white;
 	}
+	.hovercard {
+		background: #111;
+	}
 	hr {
 		background: white;
+	}
+	tr:nth-child(even) {
+		background: #222222;
 	}
 }
 

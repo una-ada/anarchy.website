@@ -1730,7 +1730,7 @@ Scale for the Assessment of Psychopathy in Criminal Populations."[^207]
         (1980): 111-119.
 
 This research scale, which would come to be called the Psychopathy Checklist
-(PCL), was initially derived from the 16-item criteria list proposed by
+(PCL)[^211], was initially derived from the 16-item criteria list proposed by
 Cleckley with modification done by Hare through a study on 143 white male
 prison inmates.[^208] The result was a 22-item checklist that retained a high
 correlation to its source[^209] (to such an extent that factor analysis would
@@ -1866,13 +1866,21 @@ offender populations," _Psychological Assessment_ 12, 2 (2000): 132-139.**
 
 The PCL was revised as the Psychopathy Checklist-Revised (PCL-R) in 1985, but
 not formally published until 1991.[^185] The PCL-R contains 20 clinical rating
-scales, each measured on a 3-point scale (0-2) resulting in a total score
-ranging from 0 to 40.[^185] These scales are split into two factors: the first
-factor pertaining to interpersonal and affective traits such as egocentricity,
-manipulativeness, and callousness; the second factor then relating to antisocial
-and unstable lifestyle, impulsiveness, and social deviation.[^185]
+scales (two having been removed from the initial PCL: "previous diagnosis as a
+psychopath or similar" and "drug or alcohol no direct cause of antisocial
+behavior")[^212], each measured on a 3-point scale (0-2) resulting in a total
+score ranging from 0 to 40.[^185] These scales are split into two factors: the
+first factor pertaining to interpersonal and affective traits such as
+egocentricity, manipulativeness, and callousness; the second factor then
+relating to antisocial and unstable lifestyle, impulsiveness, and social
+deviation.[^185]
 
 [^185]: Hare, "Psychopathy," 30.
+
+[^212]: Robert D. Hare, Timothy J. Harpur, A.R. Hakstian, Adelle E. Forth,
+        Stephen D. Hart, and Joseph P. Newman, "The Revised Psychopathy
+        Checklist: Reliability and Factor Structure," _Psychological Assessment:
+        A Journal of Consulting and Clinical Psychology_ 2, 3 (1990), 338.
 
 Diagnoses of psychopathy by the standards of the PCL-R were much more exclusive
 than those of ASPD by the _DSM-III-R_, with the former applying to 15-25% of
@@ -2530,9 +2538,15 @@ Hare, Robert D., "Psychopathy: A Clinical Construct Whose Time Has Come,"
 _Criminal Justice and Behavior_ 23, 1 (Mar. 1996): 25-54.
 {: .citation}
 
-Hare, Robert D. , "A Research Scale for the Assessment of Psychopathy in
+Hare, Robert D., "A Research Scale for the Assessment of Psychopathy in
 Criminal Populations," _Personality and Individual Differences_, 1, 2
 (1980): 111-119.
+{: .citation}
+
+Hare, Robert D., Timothy J. Harpur, A.R. Hakstian, Adelle E. Forth, Stephen D.
+Hart, and Joseph P. Newman, "The Revised Psychopathy Checklist: Reliability and
+Factor Structure," _Psychological Assessment: A Journal of Consulting and
+Clinical Psychology_ 2, 3 (1990): 338-341.
 {: .citation}
 
 Hare, Robert D., Stephen D. Hart, and Timothy J. Harpur, "[Psychopathy and
