@@ -421,7 +421,7 @@ the psychopathic mind."[^19] This should, if anything, be a massive red flag to
 the idea of psychopathy in general, given that phrenology is generally
 considered to be a completely useless field of pseudo science and will be
 discussed (along with physiognomy and craniography) in
-[Section III](#iii-the-pseudo-sciences).
+[Section III](#iii-the-pseudo-sciences-and-the-sciences).
 
 [^19]: Millon et al., "Historical Conceptions...," 5.
 
@@ -2058,7 +2058,9 @@ the MCMI-III onward.[^199]
 
 **Herpertz and Sass (2000)**
 
-**Cooke and Michie (2001)**
+**David J. Cooke and Christine Michie, "[Refining the Construct of Psychopathy:
+Towards a Hierarchical Model][186]," _Psychological Assessment_ 13, 2 (2001):
+171-188.** Notes P. 9.
 
 **Andrews and Bonta? (2003)**
 
@@ -2109,10 +2111,6 @@ _Tulsa Law Review_ 6, 3 (1969): 243-256.**
 **Kent A. Kiehl, "[A cognitive neuroscience perspective on psychopathy: Evidence
 for paralimbic system dysfunction][170]," _Psychiatry Research_ 142, 2-3 (2006):
 107-128.**
-
-**Aaron Pincus and Robert F. Krueger, "[Theodore Millon's Contributions to
-Conceptualizing Personality Disorders][171]," _Journal of Personality
-Assessment_ 97, 6 (Apr. 2015): 537-540.**
 
 **Martyn Pickersgill, "Between Soma and Society: Neuroscience and the Ontology of
 Psychopathy," _BioSocieties_ 4, 1 (Mar. 2009): 45-60.**
@@ -2186,13 +2184,14 @@ Mediated Psychopathy—A Critical Discourse Analysis of Newspaper Representation
 of Aggression:
 <http://www.kritike.org/journal/issue_8/paulsen_december2010.pdf>
 
-## III. _The Pseudo-Sciences_
+## III. _The Pseudo-Sciences and the Sciences_
 
 Earlier sections relied to various extents on the assumption that the reader is
 aware of what an assortment of outdated and pseudo-scientific fields entailed as
 well as the issues with said fields; this section then exists to clarify any
 confusion that would have resulted in the case of these assumptions being
-untrue.
+untrue, as well as establishing some needed background for understanding Section
+IV.
 
 ### III-1. Phrenology
 
@@ -2261,9 +2260,45 @@ variety, that the side effects of this "psychopathy project" far outweigh the
 intended consequences. However, to determine the extent to which this assertion
 holds we must describe said intentions.
 
-### IV-1. Predictive
+### IV-1. Construct
 
-### IV-2. Clinical
+**Jean-Pierre Guay, John Ruscio, Raymond A. Knight, and Robert D. Hare, "[A
+taxometric analysis of the latent structure of psychopathy: Evidence of
+dimensionality][179]," _Journal of Abnormal Psychology_ 116, 4 (Nov. 2007):
+701-716.** Notes, P. 5.
+
+**Kevin M. Williams, Delroy L. Paulhaus, and Robert D. Hare, "[Capturing the
+Four-Factor Structure of Psychopathy in College Students Via Self-Report][180],"
+_Journal of Personality Assessment_ 88, 2 (2007): 205-219.** Notes P. 6.
+
+**Katarzyna Uzieblo, Bruno Verschuere, Eva Van den Bussche, and Geert Crombez,
+"[The Validity of the Psychopathic Personality Inventory-Revised in a Community
+Sample][181]," _Assessment_ 17, 3 (Sep. 2010): 334-346.** Notes P. 7.
+
+**Craig S. Neumann, Melanie B. Malterer, and Joseph P. Newman, "[Factor
+Structure of the Psychopathic Personality Inventory (PPI): Findings from a Large
+Incarcerated Sample][182]," _Psychological Assessment_ 20, 2 (Jun. 2008):
+169-174.** Notes P. 8.
+
+**Melissa A. Hughes, Julie C. Stout, and Mairead C. Dolan, "[Concurrent Validity
+of the Psychopathic Personality Inventory-Revised and the Psychopathy Checklist:
+Screening Version in an Australian Offender Sample][183]," _Criminal Justice and
+Behavior_ 40, 7 (Jul. 2013): 802-813.**
+
+**Scott O. Lilienfeld, Sarah Francis Smith, Katheryn C. Sauvigné, Christopher J.
+Patrick, Laura E. Drislane, Robert D. Latzman, and Robert F. Krueger, "[Is
+Boldness Relevant to Psychopathic Personality? Meta-Analytic Relations With
+Non-Psychopathy Checklist-Based Measures of Psychopathy][184]," _Psychological
+Assessment_ 28, 10 (Oct. 2016): 1172-1185.**
+
+**Natalia L. Nikolava, "[The Psychopathic Personality Inventory-Revised:
+Evaluation of Its Psychometric Properties, Incremental Validity, and Moderating
+Effects of Gender in a Correctional Sample][185]," Dissertation, Simon Fraser
+University, Burnaby, British Columbia, 2013.**
+
+### IV-2. Predictive
+
+### IV-3. Clinical
 
 <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2242349/>
 
@@ -2280,6 +2315,8 @@ The PCL-R sucks actually:
 <https://www.npr.org/2011/05/26/136619689/can-a-test-really-tell-whos-a-psychopath>
 
 <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2817979/>
+
+### IV-4. Forensic?
 
 ## V. _The Conclusion_
 
@@ -2309,9 +2346,9 @@ The time has come for a dimensional personality disorder diagnosis.[^154]
 
 <p><center>𝖂𝖎𝖗 𝖑𝖊𝖇𝖊𝖓 𝖎𝖓 𝖊𝖎𝖓𝖊𝖗 𝕲𝖊𝖘𝖊𝖑𝖑𝖘𝖈𝖍𝖆𝖋𝖙.</center></p>
 
-## Appendix A. Acronyms
+## Appendix A. Abbreviations
 
-| Acronym   | Meaning |
+| Abbreviation | Meaning |
 | ---       | --- |
 | APA       | American Psychiatric Association |
 | APD       | Antisocial Personality Disorder |
@@ -2331,8 +2368,11 @@ The time has come for a dimensional personality disorder diagnosis.[^154]
 | PCL-R     | Psychopathy Checklist&mdash;Revised |
 | PCL:SV    | Psychopathy Checklist: Screening Version |
 | PCL:YV    | Psychopathy Checklist: Youth Version |
+| PD        | Personality Disorder |
 | PP        | Psychopathic Personalities |
 | PPD       | Psychopathic Personality Disorder |
+| PPI       | Psychopathic Personality Inventory |
+| PPI-R     | Psychopathic Personality Inventory&mdash;Revised |
 | RDC       | Research Diagnostic Criteria |
 | WHO       | World Health Organization |
 
@@ -2951,3 +2991,11 @@ Press, 2000).
 [175]: http://www.psychiatrictimes.com/articles/psychopathy-and-antisocial-personality-disorder-case-diagnostic-confusion
 [176]: https://icd.who.int/browse11/l-m/en#/http%3a%2f%2fid.who.int%2ficd%2fentity%2f1913158855
 [178]: https://www.researchgate.net/publication/318596156_Hare_Psychopathy_Checklist_PCL
+[179]: http://www.hare.org/references/GuayetalABN2007.pdf
+[180]: https://www.tandfonline.com/doi/pdf/10.1080/00223890701268074?needAccess=true
+[181]: https://www.researchgate.net/publication/40812484_The_Validity_of_the_Psychopathic_Personality_Inventory--Revised_in_a_Community_Sample
+[182]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2887679/
+[183]: https://www.researchgate.net/publication/258129294_Concurrent_Validity_of_The_Psychopathic_Personality_Inventory-Revised_and_The_Psychopathy_Checklist_Screening_Version_in_an_Australian_Offender_Sample
+[184]: http://latzmanlab.com/wp-content/uploads/2015/12/Lilienfeld-et-al-in-press-Boldness-meta.pdf
+[185]: http://summit.sfu.ca/item/12946
+[186]: https://pdfs.semanticscholar.org/92ea/84e3e443a8a659b4d279cacb1f9346b4fe0e.pdf
