@@ -2050,7 +2050,9 @@ the MCMI-III onward.[^199]
 
 [^199]: Choca and Grossman, "Evolution of the MCMI," 545.
 
-**Fitzpatrick (1995)**
+**Michael R. Levenson, Kent A. Kiehl, and Cory M. Fitzpatrick, "[Assessing
+Psychopathic Attributes in a Noninstitutionalized Population][187]," _Journal of
+Personality and Social Psychology_ 68, 1 (1995): 151-158.** Hildebrand P. 8.
 
 **Lilienfeld and Andrews (1996) PPI**
 
@@ -2058,11 +2060,33 @@ the MCMI-III onward.[^199]
 
 **Herpertz and Sass (2000)**
 
-**David J. Cooke and Christine Michie, "[Refining the Construct of Psychopathy:
-Towards a Hierarchical Model][186]," _Psychological Assessment_ 13, 2 (2001):
-171-188.** Notes P. 9.
+In a 2001 paper titled "Refining the Construct of Psychopathy: Towards a
+Hierarchical Model," David J. Cooke and Christine Michie challenged the then
+dominant two-factor model of the PCL-R,[^213] claiming said model was not
+sufficiently backed in its analysis.[^214] They asserted an alternative
+three-factor model[^215] which they derived from analysis over several studies
+including cross-validation with the PCL:SV,[^216] the Psychopathy Criterion Set
+(PCS),[^217] and the DSM-IV ASPD field trial.[^218]
 
-**Andrews and Bonta? (2003)**
+[^213]: David J. Cooke and Christine Michie, "[Refining the Construct of
+        Psychopathy: Towards a Hierarchical Model][186]," _Psychological
+        Assessment_ 13, 2 (2001), 171.
+
+[^214]: Cooke and Michie, "Refining the Construct...," 172.
+
+[^215]: Cooke and Michie, "Refining the Construct...," 174.
+
+[^216]: Cooke and Michie, "Refining the Construct...," 179.
+
+[^217]: Cooke and Michie, "Refining the Construct...," 180.
+
+[^218]: Cooke and Michie, "Refining the Construct...," 181.
+
+Their model firmly supported a view of psychopathy as a personality pathology
+rather than a descriptor of behavior, where criminality is a correlate of the
+syndrome rather than a requirement in its definition.[^219]
+
+[^219]: Cooke and Michie, "Refining the Construct...," 185.
 
 **Lilienfeld et al. (2005) PPI-R**
 
@@ -2422,7 +2446,7 @@ in _Encyclopedia of Personality and Individual Differences_, ed. Virgil
 Zeigler-Hill and Todd K. Shackelford (Springer International Publishing, 2016).
 {: .citation}
 
-Kristopher J. Brazil and Adelle E. Forth, "[Psychopathy Checklist: Screening
+Brazil, Kristopher J. and Adelle E. Forth, "[Psychopathy Checklist: Screening
 Version (PCL:SV)][167]," in _Encyclopedia of Personality and Individual
 Differences_, ed. Virgil Zeigler-Hill and Todd K. Shackelford (Springer
 International Publishing, 2016).
@@ -2472,7 +2496,12 @@ Association, The, _Diagnostic and Statistical Manual: Mental Disorders_ Second
 Edition (Washington, D.C.: American Psychiatric Association Mental, 1968).
 {: .citation}
 
-David J. Cooke, Christine Michie, Stephen D. Hart, and Robert D. Hare,
+Cooke, David J. and Christine Michie, "[Refining the Construct of Psychopathy:
+Towards a Hierarchical Model][186]," _Psychological Assessment_ 13, 2 (2001):
+171-188.
+{: .citation}
+
+Cooke, David J., Christine Michie, Stephen D. Hart, and Robert D. Hare,
 "[Evaluating the Screening Version of the Hare Psychopathy
 Checklist&mdash;Revised (PCL:SV): An Item Response Theory Analysis][166],"
 _Psychological Assessment_ 11, 1 (Mar. 1999): 3-13.
@@ -2999,3 +3028,4 @@ Press, 2000).
 [184]: http://latzmanlab.com/wp-content/uploads/2015/12/Lilienfeld-et-al-in-press-Boldness-meta.pdf
 [185]: http://summit.sfu.ca/item/12946
 [186]: https://pdfs.semanticscholar.org/92ea/84e3e443a8a659b4d279cacb1f9346b4fe0e.pdf
+[187]: https://www.researchgate.net/publication/15338539_Assessing_Psychopathic_Attributes_in_a_Noninstitutionalized_Population
