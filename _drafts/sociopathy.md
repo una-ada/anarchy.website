@@ -1853,8 +1853,6 @@ of Cleckley's _Mask of Sanity_ (1988):[^7]
 
 **Beck et al. (1990)**
 
-**Weiner (1991)**
-
 **PAI (1991)**
 
 **John F. Edens, Stephen D. Hart, Darryl W. Johnson, Judy K. Johnson, and Mark E.
@@ -1904,8 +1902,6 @@ explicitly mentions "despotic bosses" who "make torture chambers of the
 workplace" as examples of psychopathy.[^132]
 
 [^132]: Millon et al., "Historical Conceptions...," 24.
-
-**Blackburn (1993)**
 
 ![Thomas A. Widiger][160]
 Thomas A. Widiger<br>_Source: [University of Kentucky][161]._
@@ -2050,13 +2046,7 @@ the MCMI-III onward.[^199]
 
 [^199]: Choca and Grossman, "Evolution of the MCMI," 545.
 
-**Michael R. Levenson, Kent A. Kiehl, and Cory M. Fitzpatrick, "[Assessing
-Psychopathic Attributes in a Noninstitutionalized Population][187]," _Journal of
-Personality and Social Psychology_ 68, 1 (1995): 151-158.** Hildebrand P. 8.
-
 **Lilienfeld and Andrews (1996) PPI**
-
-**Eysenck (1998)**
 
 **Herpertz and Sass (2000)**
 
@@ -2319,6 +2309,10 @@ Assessment_ 28, 10 (Oct. 2016): 1172-1185.**
 Evaluation of Its Psychometric Properties, Incremental Validity, and Moderating
 Effects of Gender in a Correctional Sample][185]," Dissertation, Simon Fraser
 University, Burnaby, British Columbia, 2013.**
+
+**Michael R. Levenson, Kent A. Kiehl, and Cory M. Fitzpatrick, "[Assessing
+Psychopathic Attributes in a Noninstitutionalized Population][187]," _Journal of
+Personality and Social Psychology_ 68, 1 (1995): 151-158.** Hildebrand P. 8.
 
 ### IV-2. Predictive
 
