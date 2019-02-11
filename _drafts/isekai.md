@@ -1,6 +1,7 @@
 ---
 author: trewbot
 layout: post
+tags: isekai anime media-analysis
 title: Something about isekai.
 ---
 
