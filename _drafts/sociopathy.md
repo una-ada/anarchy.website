@@ -1860,6 +1860,11 @@ Olver, "Use of the Personality Assessment Inventory to assess psychopathy in
 offender populations," _Psychological Assessment_ 12, 2 (2000): 132-139.**
 <https://psycnet.apa.org/record/2000-03952-003>
 
+**Kevin S. Douglas, Stephen D. Hart, and P. Randall Kropp, "Validity of the
+Personality Assessment Inventory for Forensic Assessments," _International
+Journal of Offender Therapy ad Comparative Criminology_ 45, 2 (2001): 183-197.**
+<http://sci-hub.tw/10.1177/0306624X01452005>
+
 The PCL was revised as the Psychopathy Checklist-Revised (PCL-R) in 1985, but
 not formally published until 1991.[^185] The PCL-R contains 20 clinical rating
 scales (two having been removed from the initial PCL: "previous diagnosis as a
@@ -1979,7 +1984,7 @@ similar manner to the previously mentioned PCL-R and ASPD relationship.[^188]
 
 [^188]: Hare, "Psychopathy," 33.
 
-### I-7. Continuation
+### I-7. Standardization IV: The _DSM-IV_
 
 **DSM-IV (1994)**
 
@@ -2046,9 +2051,26 @@ the MCMI-III onward.[^199]
 
 [^199]: Choca and Grossman, "Evolution of the MCMI," 545.
 
-**Lilienfeld and Andrews (1996) PPI**
+### I-8. Self-Report Assessments
 
-**Herpertz and Sass (2000)**
+Tests like the MCMI and the MMPI provide some manner of self-report assessment
+of psychopathy, with the latter's "psychopathic deviate" scale existing since
+the '40s.[^220] Self-report assessment has the advantage in larger scale studies
+without the same costly requirements of guided interviews, but the previously
+mentioned tests are not focused on the measure of psychopathy and therefore
+include many items that would be extraneous in studies focused on the construct.
+Therein lies the purpose of tests like the Psychopathic Personality Inventory
+(PPI) developed by Scott O. Lilienfeld and Brian P. Andrews in 1996.[^221]
+
+[^220]: Kevin M. Williams, Delroy L. Paulhaus, and Robert D. Hare, "[Capturing
+        the Four-Factor Structure of Psychopathy in College Students Via
+        Self-Report][180]," _Journal of Personality Assessment_ 88, 2 (2007),
+        205.
+
+[^221]: Scott O. Lilienfeld and Brian P. Andrews, "Development and Preliminary
+        Validation of a Self-Report Measure of Psychopathic Personality Traits
+        in Noncriminal Population," _Journal of Personality Assessment_ 66, 3
+        (1996): 488-524.
 
 In a 2001 paper titled "Refining the Construct of Psychopathy: Towards a
 Hierarchical Model," David J. Cooke and Christine Michie challenged the then
@@ -2082,7 +2104,7 @@ syndrome rather than a requirement in its definition.[^219]
 
 **Patrick et al. (2009) TriPM**
 
-### I-8. Decategorization
+### I-9. Dimensional Models
 
 **DSM-5 (2013)**
 
@@ -2280,10 +2302,6 @@ holds we must describe said intentions.
 taxometric analysis of the latent structure of psychopathy: Evidence of
 dimensionality][179]," _Journal of Abnormal Psychology_ 116, 4 (Nov. 2007):
 701-716.** Notes, P. 5.
-
-**Kevin M. Williams, Delroy L. Paulhaus, and Robert D. Hare, "[Capturing the
-Four-Factor Structure of Psychopathy in College Students Via Self-Report][180],"
-_Journal of Personality Assessment_ 88, 2 (2007): 205-219.** Notes P. 6.
 
 **Katarzyna Uzieblo, Bruno Verschuere, Eva Van den Bussche, and Geert Crombez,
 "[The Validity of the Psychopathic Personality Inventory-Revised in a Community
@@ -2689,6 +2707,11 @@ Kropotkin, Peter, "[Law and Authority,][15]" _Kropotkin's Revolutionary
 Pamphlets_, ed. Roger N. Baldwin (Vanguard Press, 1927).
 {: .citation}
 
+Lilienfeld, Scott O. and Brian P. Andrews, "Development and Preliminary
+Validation of a Self-Report Measure of Psychopathic Personality Traits in
+Noncriminal Population," _Journal of Personality Assessment_ 66, 3 (1996):
+488-524.
+
 Lilienfeld, Scott O., Ashley L. Watts, Sarah Francis Smith, Christopher J.
 Patrick, and Robert D. Hare, "[Hervey Cleckley (1903–1984): Contributions to
 the Study of Psychopathy,][80]" _Personality Disorders: Theory, Research,
@@ -2824,6 +2847,10 @@ Widiger, Thomas A., Janet B. W. Williams, and Rober L. Spitzer, "The MCMI
 as a Measure of the DSM-III," _Journal of Personality Assessment_ 49, 4
 (1985): 366-378.
 {: .citation}
+
+Williams, Kevin M., Delroy L. Paulhaus, and Robert D. Hare, "[Capturing the
+Four-Factor Structure of Psychopathy in College Students Via Self-Report][180],"
+_Journal of Personality Assessment_ 88, 2 (2007): 205-219.
 
 Wilson, Nick J., "[Psychopathy and Risk of Violence: Assessment and
 Management,][83]" _Will they do it again? Assessing and Managing Risk,_ ed.
