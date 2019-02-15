@@ -2072,6 +2072,49 @@ Therein lies the purpose of tests like the Psychopathic Personality Inventory
         in Noncriminal Population," _Journal of Personality Assessment_ 66, 3
         (1996): 488-524.
 
+The PPI took the approach of traits over behaviors in its measurement,
+containing 187 items scored on a four-point Likert Scale (ranging from one as
+false to four as true).[^222] The resulting score yielded an overall psychopathy
+rating as well as eight lower order scales:[^222]
+
+[^222]: Natalia L. Nikolava, "[The Psychopathic Personality Inventory-Revised:
+        Evaluation of Its Psychometric Properties, Incremental Validity, and
+        Moderating Effects of Gender in a Correctional Sample][185],"
+        Dissertation, Simon Fraser University, Burnaby, British Columbia, 2013,
+        18.
+
+1.  Social potency
+2.  Fearlessness
+3.  Stress imunity
+4.  Machiavellian egocentrism
+5.  Impulsive nonconformity
+6.  Blame externalization
+7.  Carefree nonplanfulness
+8.  Coldheartedness
+
+The first three of these scales loaded onto the first factor, "Fearless
+Dominance", during an initial analysis, and the other five onto the second
+factor, "Impulsive Antisociality", which was later called "Self-Centered
+Impulsivity".[^222] Other analyses have suggested a three-factor model
+where "coldheartedness" is a separate factor on its own.[^227]
+
+[^227]: Craig S. Neumann, Melanie B. Malterer, and Joseph P. Newman, "[Factor
+        Structure of the Psychopathic Personality Inventory (PPI): Findings from
+        a Large Incarcerated Sample][182]," _Psychological Assessment_ 20, 2
+        (Jun. 2008): 169-174.
+
+Moderately high correlation has been found between PPI and PCL-R scores in
+samples of male offenders,[^223] as well as convergent validity with the
+relevant scales in the MCMI-III.[^224] However, some studies have shown the
+first factor to correlate with positive traits rather than neuroticism and
+more importantly with other measures of psychopathy.[^225]
+
+[^223]: Nikolava, "The PPI-R: Evaluation...," 20.
+
+[^224]: Nikolava, "The PPI-R: Evaluation...," 21.
+
+[^225]: Nikolava, "The PPI-R: Evaluation...," 22.
+
 In a 2001 paper titled "Refining the Construct of Psychopathy: Towards a
 Hierarchical Model," David J. Cooke and Christine Michie challenged the then
 dominant two-factor model of the PCL-R,[^213] claiming said model was not
@@ -2100,7 +2143,18 @@ syndrome rather than a requirement in its definition.[^219]
 
 [^219]: Cooke and Michie, "Refining the Construct...," 185.
 
-**Lilienfeld et al. (2005) PPI-R**
+A revised version of the PPI, called the Psychopathic Personality
+Inventory&mdash;Revised (PPI-R), was published by Lilienfeld et al. in 2005,
+aiming to lower the reading level of the test and to remove items that were
+deemed to have weak psychometric properties.[^226] The revision reduced the
+total number of items from 187 to 154, the score of which still resulted in a
+single psychopathy score with eight lower order scores of which "social potency"
+was replaced with "social influence" and "impulsive nonconformity" with
+"rebellious nonconformity."[^226] These scales are grouped into three factor
+scales similar to those of the PPI: Self-Centered Impulsivity, Fearless
+Dominance, and Coldheartedness.[^226]
+
+[^226]: Nikolava, "The PPI-R: Evaluation...," 24.
 
 **Patrick et al. (2009) TriPM**
 
@@ -2307,11 +2361,6 @@ dimensionality][179]," _Journal of Abnormal Psychology_ 116, 4 (Nov. 2007):
 "[The Validity of the Psychopathic Personality Inventory-Revised in a Community
 Sample][181]," _Assessment_ 17, 3 (Sep. 2010): 334-346.** Notes P. 7.
 
-**Craig S. Neumann, Melanie B. Malterer, and Joseph P. Newman, "[Factor
-Structure of the Psychopathic Personality Inventory (PPI): Findings from a Large
-Incarcerated Sample][182]," _Psychological Assessment_ 20, 2 (Jun. 2008):
-169-174.** Notes P. 8.
-
 **Melissa A. Hughes, Julie C. Stout, and Mairead C. Dolan, "[Concurrent Validity
 of the Psychopathic Personality Inventory-Revised and the Psychopathy Checklist:
 Screening Version in an Australian Offender Sample][183]," _Criminal Justice and
@@ -2322,11 +2371,6 @@ Patrick, Laura E. Drislane, Robert D. Latzman, and Robert F. Krueger, "[Is
 Boldness Relevant to Psychopathic Personality? Meta-Analytic Relations With
 Non-Psychopathy Checklist-Based Measures of Psychopathy][184]," _Psychological
 Assessment_ 28, 10 (Oct. 2016): 1172-1185.**
-
-**Natalia L. Nikolava, "[The Psychopathic Personality Inventory-Revised:
-Evaluation of Its Psychometric Properties, Incremental Validity, and Moderating
-Effects of Gender in a Correctional Sample][185]," Dissertation, Simon Fraser
-University, Burnaby, British Columbia, 2013.**
 
 **Michael R. Levenson, Kent A. Kiehl, and Cory M. Fitzpatrick, "[Assessing
 Psychopathic Attributes in a Noninstitutionalized Population][187]," _Journal of
@@ -2756,6 +2800,18 @@ Disorder][106]," _Mental Health Help with Kati Morton_, YouTube, 2014.
 
 Mozzarello, Paolo, "[Cesare Lombroso: an anthropologist between evolution
 and degeneration,][19]" _Functional Neurology_ 26, 2 (Apr-Jun 2011): 97-101.
+{: .citation}
+
+Neumann, Craig S., Melanie B. Malterer, and Joseph P. Newman, "[Factor
+Structure of the Psychopathic Personality Inventory (PPI): Findings from a Large
+Incarcerated Sample][182]," _Psychological Assessment_ 20, 2 (Jun. 2008):
+169-174.
+{: .citation}
+
+Nikolava, Natalia L., "[The Psychopathic Personality Inventory-Revised:
+Evaluation of Its Psychometric Properties, Incremental Validity, and Moderating
+Effects of Gender in a Correctional Sample][185]," Dissertation, Simon Fraser
+University, Burnaby, British Columbia, 2013.
 {: .citation}
 
 Partridge, George E., "Current Conceptions of Psychopathic Personality," _The
