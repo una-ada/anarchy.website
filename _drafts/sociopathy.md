@@ -2115,6 +2115,55 @@ more importantly with other measures of psychopathy.[^225]
 
 [^225]: Nikolava, "The PPI-R: Evaluation...," 22.
 
+While it is seemingly the most discussed, the PPI was not the first self-report
+assessment of psychopathy. Five years after the development of the PCL, in 1985,
+Hare created the Self-Report Psychopathy (SRP) scale,[^228] a 29-item assessment
+which was subsequently revised in 1989 as the 60-item SRP-II published by Hare
+along with colleagues Timothy J. Harpur and James F. Hemphill.[^229] Of the 60
+items, 31 were meant to describe the two-factor structure of psychopathy, with
+nine assigned to the interpersonal/affective factor, 13 to the social deviance
+factor, and nine to both;[^230] however, the scale ultimately failed to reflect
+the two-factor structure of the PCL.[^228][^231] Furthering its dissimilarity
+with the PCL, the SRP-II scale has a commonality with the PPI in that its first
+factor when a two-factor model is applied is negatively related to personality
+disorder symptoms (where they would be expected to correlate with narcissistic
+personality according to the PCL's structure).[^232]
+
+[^228]: Tess M. S. Neal and Martin Sellbom, "[Examining the Factor Structure of
+        the Hare Self-Report Psychopathy Scale][188]," _Journal of Personality
+        Assessment_ 94, 3 (2012), 244.
+
+[^229]: Kevin M. Williams and Delroy L. Paulhaus, "Factor structure of the
+        Self-Report Psychopathy scale (SRP-II) in non-forensic samples,"
+        _Personality and individual Differences_ 37, 4 (2004), 766.
+
+[^230]: Whitney S. Lester, "[The SRP-II as a Rich Source of Data on the
+        Psychopathic Personality][189]," Doctoral Thesis, University of Alabama,
+        Tuscaloosa, Alabama, 3.
+
+[^231]: Lester, "The SRP-II as a Rich Source...," 4.
+
+[^232]: Stephen D. Benning and Randall T. Salekin, "Convergent and Discriminant
+        Validity of Psychopathy Factors Assessed Via Self-Report: A Comparison
+        of Three Instruments," _Assessment_ 12, 3 (2005), 284
+
+Also predating the PPI, though only by a year as it was published in 1995, is
+the Levenson Self-Report Psychopathy Scale (LSRP), created by [Michael R.
+Levenson][190], [Kent A. Kiehl][191], and Cory M. Fitzpatrick.[^234]
+
+[^234]: Michael R. Levenson, Kent A. Kiehl, and Cory M. Fitzpatrick, "[Assessing
+        Psychopathic Attributes in a Noninstitutionalized Population][187],"
+        _Journal of Personality and Social Psychology_ 68, 1 (1995): 151-158.
+
+A noteworthy extension of the self-report assessments' intention of brevity can
+be found in that the SRP-II[^231] and the PPI were given abridged versions, with
+that of the latter being titled the Psychopathic Personality Inventory: Short
+Form (PPI:SF) and containing a mere 56 items scored on the Likert scale upon its
+publication in 1990.[^233] Predictably, the PPI:SF had weaker correlation with
+conceptually relevant criteria than did the PPI.[^226]
+
+[^233]: Nikolava, "The PPI-R: Evaluation...," 23.
+
 In a 2001 paper titled "Refining the Construct of Psychopathy: Towards a
 Hierarchical Model," David J. Cooke and Christine Michie challenged the then
 dominant two-factor model of the PCL-R,[^213] claiming said model was not
@@ -2143,6 +2192,8 @@ syndrome rather than a requirement in its definition.[^219]
 
 [^219]: Cooke and Michie, "Refining the Construct...," 185.
 
+**SRP-III?? (2003)**
+
 A revised version of the PPI, called the Psychopathic Personality
 Inventory&mdash;Revised (PPI-R), was published by Lilienfeld et al. in 2005,
 aiming to lower the reading level of the test and to remove items that were
@@ -2157,6 +2208,10 @@ Dominance, and Coldheartedness.[^226]
 [^226]: Nikolava, "The PPI-R: Evaluation...," 24.
 
 **Patrick et al. (2009) TriPM**
+
+**SRP-III... IV...? (2012)**
+
+Again the SRP was revised in 2012,
 
 ### I-9. Dimensional Models
 
@@ -2372,10 +2427,6 @@ Boldness Relevant to Psychopathic Personality? Meta-Analytic Relations With
 Non-Psychopathy Checklist-Based Measures of Psychopathy][184]," _Psychological
 Assessment_ 28, 10 (Oct. 2016): 1172-1185.**
 
-**Michael R. Levenson, Kent A. Kiehl, and Cory M. Fitzpatrick, "[Assessing
-Psychopathic Attributes in a Noninstitutionalized Population][187]," _Journal of
-Personality and Social Psychology_ 68, 1 (1995): 151-158.** Hildebrand P. 8.
-
 ### IV-2. Predictive
 
 ### IV-3. Clinical
@@ -2438,6 +2489,7 @@ The time has come for a dimensional personality disorder diagnosis.[^154]
 | _DSM_     | _Diagnostic and Statistical Manual of Mental Disorders_ |
 | FFM       | Five Factor Model |
 | _ICD_     | _International Statistical Classification of Diseases and Related Health Problems_ |
+| LSRP      | Levenson Self-Report Psychopathy Scale |
 | MCMI      | Millon Clinical Multiaxial Inventory |
 | MISRI     | Millon Illinois Self-Report Inventory |
 | MMPI      | Minnesota Multiphasic Personality Inventory |
@@ -2453,7 +2505,9 @@ The time has come for a dimensional personality disorder diagnosis.[^154]
 | PPD       | Psychopathic Personality Disorder |
 | PPI       | Psychopathic Personality Inventory |
 | PPI-R     | Psychopathic Personality Inventory&mdash;Revised |
+| PPI:SF    | Psychopathic Personality Inventory: Short Form |
 | RDC       | Research Diagnostic Criteria |
+| SRP       | Self-Report Psychopathy Scale |
 | WHO       | World Health Organization |
 
 ## Appendix B. Further Reading
@@ -2487,6 +2541,11 @@ Judgments and Ratings," _The American Journal of Psychiatry_ 119, 3 (Sep.
 
 Benjamin, Lorna Smith, "[Structural Analysis of Social Behavior][157],"
 _Psychological Review_ 81, 5 (1974): 392-425.
+{: .citation}
+
+Benning, Stephen D. and Randall T. Salekin, "Convergent and Discriminant
+Validity of Psychopathy Factors Assessed Via Self-Report: A Comparison of Three
+Instruments," _Assessment_ 12, 3 (2005): 270-289.
 {: .citation}
 
 Blair, James, Derek Mitchell, and Karina Blair, [_The Psychopath: Emotion and
@@ -2751,6 +2810,15 @@ Kropotkin, Peter, "[Law and Authority,][15]" _Kropotkin's Revolutionary
 Pamphlets_, ed. Roger N. Baldwin (Vanguard Press, 1927).
 {: .citation}
 
+Lester, Whitney S., "[The SRP-II as a Rich Source of Data on the Psychopathic
+Personality][189]," Doctoral Thesis, University of Alabama, Tuscaloosa, Alabama.
+{: .citation}
+
+Levenson, Michael R., Kent A. Kiehl, and Cory M. Fitzpatrick, "[Assessing
+Psychopathic Attributes in a Noninstitutionalized Population][187]," _Journal of
+Personality and Social Psychology_ 68, 1 (1995): 151-158.
+{: .citation}
+
 Lilienfeld, Scott O. and Brian P. Andrews, "Development and Preliminary
 Validation of a Self-Report Measure of Psychopathic Personality Traits in
 Noncriminal Population," _Journal of Personality Assessment_ 66, 3 (1996):
@@ -2800,6 +2868,11 @@ Disorder][106]," _Mental Health Help with Kati Morton_, YouTube, 2014.
 
 Mozzarello, Paolo, "[Cesare Lombroso: an anthropologist between evolution
 and degeneration,][19]" _Functional Neurology_ 26, 2 (Apr-Jun 2011): 97-101.
+{: .citation}
+
+Neal, Tess M. S. and Martin Sellbom, "[Examining the Factor Structure of the Hare
+Self-Report Psychopathy Scale][188]," _Journal of Personality Assessment_ 94, 3
+(2012): 244-253.
 {: .citation}
 
 Neumann, Craig S., Melanie B. Malterer, and Joseph P. Newman, "[Factor
@@ -2903,6 +2976,10 @@ Widiger, Thomas A., Janet B. W. Williams, and Rober L. Spitzer, "The MCMI
 as a Measure of the DSM-III," _Journal of Personality Assessment_ 49, 4
 (1985): 366-378.
 {: .citation}
+
+Williams, Kevin M. and Delroy L. Paulhaus, "Factor structure of the Self-Report
+Psychopathy scale (SRP-II) in non-forensic samples," _Personality and individual
+Differences_ 37, 4 (2004): 765-778.
 
 Williams, Kevin M., Delroy L. Paulhaus, and Robert D. Hare, "[Capturing the
 Four-Factor Structure of Psychopathy in College Students Via Self-Report][180],"
@@ -3106,3 +3183,7 @@ Press, 2000).
 [185]: http://summit.sfu.ca/item/12946
 [186]: https://pdfs.semanticscholar.org/92ea/84e3e443a8a659b4d279cacb1f9346b4fe0e.pdf
 [187]: https://www.researchgate.net/publication/15338539_Assessing_Psychopathic_Attributes_in_a_Noninstitutionalized_Population
+[188]: https://www.researchgate.net/publication/221728841_Examining_the_factor_structure_of_the_Hare_Self-Report_Psychopathy_SRP_Scale
+[189]: https://pdfs.semanticscholar.org/9586/6e735a759edc6619de9c921c07bf86a07931.pdf
+[190]: https://health.oregonstate.edu/people/rick-levenson
+[191]: http://kentkiehl.com/
