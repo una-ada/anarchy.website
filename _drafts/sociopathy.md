@@ -74,13 +74,14 @@ psychopath based on publicly displayed views or actions.
 
 <https://kdvr.com/2018/08/21/could-chris-watts-be-a-psychopath/>
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">You’re a
-literal psychopath <a href="https://twitter.com/hashtag/TrumpResign?src=hash&amp;ref_src=twsrc%5Etfw">#TrumpResign</a>
-<a href="https://t.co/jXBW2t1IHw">https://t.co/jXBW2t1IHw</a></p>&mdash; Dylan O&#39;Brien (@dylanobrien)
-<a href="https://twitter.com/dylanobrien/status/1076277567878037504?ref_src=twsrc%5Etfw">December
-22, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+<blockquote>
+    <p>You’re a literal psychopath
+        <a href="https://twitter.com/hashtag/TrumpResign?src=hash&amp;ref_src=twsrc%5Etfw">#TrumpResign</a>
+        <a href="https://t.co/jXBW2t1IHw">https://t.co/jXBW2t1IHw</a>
+    </p>
+    &mdash; Dylan O&#39;Brien (@dylanobrien)
+    <a href="https://twitter.com/dylanobrien/status/1076277567878037504?ref_src=twsrc%5Etfw">December 22, 2018</a>
+</blockquote>
 
 Perhaps more blatant an example of this as well as an explanation of some
 popular perceptions of "psychopathic personality" specifically is this passage
@@ -2149,18 +2150,26 @@ personality according to the PCL's structure).[^232]
 
 Also predating the PPI, though only by a year as it was published in 1995, is
 the Levenson Self-Report Psychopathy Scale (LSRP), created by [Michael R.
-Levenson][190], [Kent A. Kiehl][191], and Cory M. Fitzpatrick.[^234]
+Levenson][190], [Kent A. Kiehl][191], and Cory M. Fitzpatrick.[^234] The LSRP
+is, akin to the SRP, based on the PCL-R and its two-factor structure, though
+with the slight deviation in that the factors represent Karpman's distinction of
+primary and secondary psychopathy.[^235]
 
 [^234]: Michael R. Levenson, Kent A. Kiehl, and Cory M. Fitzpatrick, "[Assessing
         Psychopathic Attributes in a Noninstitutionalized Population][187],"
         _Journal of Personality and Social Psychology_ 68, 1 (1995): 151-158.
 
+[^235]: Joshua D. Miller, Eric T. Gaughan, and Lauren R. Pryor, "[The Levenson
+        Self-Report Psychopathy Scale: An Examination of the Psychopathic Traits
+        and Disorders Associated With the LSRP Factors][192]," _Assessment_ 15,
+        4 (Dec. 2008), 451.
+
 A noteworthy extension of the self-report assessments' intention of brevity can
 be found in that the SRP-II[^231] and the PPI were given abridged versions, with
 that of the latter being titled the Psychopathic Personality Inventory: Short
-Form (PPI:SF) and containing a mere 56 items scored on the Likert scale upon its
-publication in 1990.[^233] Predictably, the PPI:SF had weaker correlation with
-conceptually relevant criteria than did the PPI.[^226]
+Form (PPI:SF) and containing a mere 56 items scored on a four point Likert scale
+upon its publication in 1990.[^233] Predictably, the PPI:SF had weaker
+correlation with conceptually relevant criteria than did the PPI.[^226]
 
 [^233]: Nikolava, "The PPI-R: Evaluation...," 23.
 
@@ -2823,6 +2832,7 @@ Lilienfeld, Scott O. and Brian P. Andrews, "Development and Preliminary
 Validation of a Self-Report Measure of Psychopathic Personality Traits in
 Noncriminal Population," _Journal of Personality Assessment_ 66, 3 (1996):
 488-524.
+{: .citation}
 
 Lilienfeld, Scott O., Ashley L. Watts, Sarah Francis Smith, Christopher J.
 Patrick, and Robert D. Hare, "[Hervey Cleckley (1903–1984): Contributions to
@@ -2850,6 +2860,12 @@ Introduction to Theory, Development, and Interpretation][165]," in _The
 Millon Clinical Multiaxial Inventory: A Clinical Research Information
 Synthesis_, ed. Robert J. Craig (Hillsdale, NJ: Lawrence Erlbaum
 Associates, Publishers, 1993).
+{: .citation}
+
+Miller, Joshua D., Eric T. Gaughan, and Lauren R. Pryor, "[The Levenson
+Self-Report Psychopathy Scale: An Examination of the Psychopathic Traits and
+Disorders Associated With the LSRP Factors][192]," _Assessment_ 15, 4 (Dec.
+2008): 450-463.
 {: .citation}
 
 Millon, Theodore, Erik Simonsen, and Morten Birket-Smith, "[Historical
@@ -2980,10 +2996,12 @@ as a Measure of the DSM-III," _Journal of Personality Assessment_ 49, 4
 Williams, Kevin M. and Delroy L. Paulhaus, "Factor structure of the Self-Report
 Psychopathy scale (SRP-II) in non-forensic samples," _Personality and individual
 Differences_ 37, 4 (2004): 765-778.
+{: .citation}
 
 Williams, Kevin M., Delroy L. Paulhaus, and Robert D. Hare, "[Capturing the
 Four-Factor Structure of Psychopathy in College Students Via Self-Report][180],"
 _Journal of Personality Assessment_ 88, 2 (2007): 205-219.
+{: .citation}
 
 Wilson, Nick J., "[Psychopathy and Risk of Violence: Assessment and
 Management,][83]" _Will they do it again? Assessing and Managing Risk,_ ed.
@@ -3187,3 +3205,4 @@ Press, 2000).
 [189]: https://pdfs.semanticscholar.org/9586/6e735a759edc6619de9c921c07bf86a07931.pdf
 [190]: https://health.oregonstate.edu/people/rick-levenson
 [191]: http://kentkiehl.com/
+[192]: https://www.researchgate.net/publication/5370098_The_Levenson_Self-Report_Psychopathy_Scale
