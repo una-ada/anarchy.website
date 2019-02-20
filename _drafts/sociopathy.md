@@ -2063,7 +2063,7 @@ include many items that would be extraneous in studies focused on the construct.
 Therein lies the purpose of tests like the Psychopathic Personality Inventory
 (PPI) developed by Scott O. Lilienfeld and Brian P. Andrews in 1996.[^221]
 
-[^220]: Kevin M. Williams, Delroy L. Paulhaus, and Robert D. Hare, "[Capturing
+[^220]: Kevin M. Williams, Delroy L. paulhus, and Robert D. Hare, "[Capturing
         the Four-Factor Structure of Psychopathy in College Students Via
         Self-Report][180]," _Journal of Personality Assessment_ 88, 2 (2007),
         205.
@@ -2134,7 +2134,7 @@ personality according to the PCL's structure).[^232]
         the Hare Self-Report Psychopathy Scale][188]," _Journal of Personality
         Assessment_ 94, 3 (2012), 244.
 
-[^229]: Kevin M. Williams and Delroy L. Paulhaus, "Factor structure of the
+[^229]: Kevin M. Williams and Delroy L. paulhus, "Factor structure of the
         Self-Report Psychopathy scale (SRP-II) in non-forensic samples,"
         _Personality and individual Differences_ 37, 4 (2004), 766.
 
@@ -2201,7 +2201,38 @@ syndrome rather than a requirement in its definition.[^219]
 
 [^219]: Cooke and Michie, "Refining the Construct...," 185.
 
-**SRP-III?? (2003)**
+Regardless of the three-factor model proposed by Cooke and Michie, Hare expanded
+on the two-factor model's structure further with the second edition of the PCL-R
+in 2003, with four lower order facets[^238]: antisocial behavior, impulsive
+thrill-seeking, interpersonal manipulation, and cold affect;[^236] where the
+first two subdivide the first factor and the latter two the second.[^239]
+
+[^238]: Julie Blais and Mary B. Ritchie, "[Hare Psychopathy Checklist-Revised
+        (PCL-R)][199]," in _Encyclopedia of Personality and Individual
+        Differences_, ed. Virgil Zeigler-Hill and Todd K. Shackelford (Springer
+        International Publishing, 2016).
+
+[^236]: Kevin M. Williams, Craig Nathanson, and Delroy L. Paulhus, "[Structure
+        and Validity of the Self-Report Psychopathy Scale-III in Normal
+        Populations][193]," (Jan. 2003).
+
+[^239]: Shoba Sreenivasan, Sarah Cusworth Walker, Linda E. Weinberger, Patricia
+        Kirkish, and Thomas Garrick, "[Four-Facet PCL-R Structure and Cognitive
+        Functioning Among High Violent Criminal Offenders][200]," _Journal of
+        Personality Assessment_ 90, 2 (Apr. 2008), 197.
+
+![Delroy L. Paulhus][194]
+Delroy L. Paulhus<br>_Source: [University of British Columbia][195]._
+{: .pullquote .image .left}
+
+With the addition of the four-facet model, development on a third edition of the
+SRP, the SRP-III, began to address the lack of the antisocial behavior facet and
+to increase the number of items loading into the other three facets.[^236][^237]
+The desired structure was achieved in the initial 40-item version (31 items on
+which were found on the SRP-II)[^237] created in 2003 by [Kevin M.
+Williams][197], [Craig Nathanson][198], and [Delroy L. Paulhus][196].[^236]
+
+[^237]: Lester, "The SRP-II as a Rich Source...," 5.
 
 A revised version of the PPI, called the Psychopathic Personality
 Inventory&mdash;Revised (PPI-R), was published by Lilienfeld et al. in 2005,
@@ -2218,9 +2249,43 @@ Dominance, and Coldheartedness.[^226]
 
 **Patrick et al. (2009) TriPM**
 
-**SRP-III... IV...? (2012)**
+Development of the SRP-III continued through the '00s into the 2010s with a
+64-item (answered on a 5-point Likert-type scale resulting in a total score from
+64 to 320)[^241] written in 2012 by [Craig S. Neumann][202], Paulhus, and
+Hare.[^240] This version was designed to again follow the 4-facet model of the
+PCL-R, but like previous self-report assessments correlated well with factor 2's
+subdivisions (facets 3 and 4) but did not correlate significantly with those of
+factor 1 (facets 1 and 2).[^242] This period of the SRP was also when it gained
+its 28-item abridged version, the Self Report Psychopathy Scale-Short Form
+(SRP-SF),[^240] as well as a 19-item version adapted to multiple languages for
+international study called SRP-III-a or SRP-E (Experimental).[^243] Despite the
+heavy reduction in length, the latter of these abridged versions maintained the
+four-factor structure of the SRP.[^243]
 
-Again the SRP was revised in 2012,
+[^241]: Asle M. Sandvik, Anita L. Hansen, Marita Vik Kristensen, Bjørn Helge
+        Johnsen, Caroline Logan, and David Thornton, "Assessment of Psychopathy:
+        Inter-correlations between Psychopathy Checklist Revised, Comprehensive
+        Assessment of Psychopathic Personality – Institutional Rating Scale, and
+        Self-Report of Psychopathy Scale–III," _International Journal of
+        Forensic Mental Health_ 11, 4 (2012), 282.
+
+[^240]: Sarah Gordts, Kasia Uzieblo, Craig Neumann, Eva Van den Bussche, and
+        Gina Rossi, "[Validity of the Self-Report Psychopathy Scales (SRP-III
+        Full and Short Versions) in a Community Sample][201]," _Assessment_ 24,
+        3 (Apr. 2017): 308-325.
+
+[^242]: Sandvik et al., "Assessment of Psychopathy," 284.
+
+[^243]: Craig S. Neumann, David S. Schmitt, Rachel Carter, Iva Embley, and
+        Robert D. Hare, "Psychopathic Traits in Females and Males across the
+        Globe," _Behavioral Sciences & the Law_ 30, 5 (2012): 557-574.
+
+The current version of the SRP, the SRP-4, was published in 2016 by Paulhus,
+Neumann, and Hare.[^244]
+
+[^244]: Delroy L. Paulhus, Craig S. Neumann, and Robert D. Hare, _The SRP-4:
+        Self-Report Psychopathy Scale-Fourth Edition_ (Toronto, ON: Multi-Health
+        Systems, 2016).
 
 ### I-9. Dimensional Models
 
@@ -2561,6 +2626,12 @@ Blair, James, Derek Mitchell, and Karina Blair, [_The Psychopath: Emotion and
 the Brain,_][7] <sup>[(alt)][8]</sup> (Oxford: Blackwell, 2005).
 {: .citation}
 
+Blais, Julie and Mary B. Ritchie, "[Hare Psychopathy Checklist-Revised
+(PCL-R)][199]," in _Encyclopedia of Personality and Individual Differences_, ed.
+Virgil Zeigler-Hill and Todd K. Shackelford (Springer International Publishing,
+2016).
+{: .citation}
+
 Bookchin, Murray, "[The Meaning of Confederalism,][14]" _Green Perspectives_
 20 (1990).
 {: .citation}
@@ -2718,6 +2789,12 @@ Psychiatric Research][151]," _Archives of General Psychiatry_ 26, 1
 Frick, Paul J., Bridget S. O'Brien, Jane M. Wootton, and Keith McBurnett,
 "Psychopathy and Conduct Problems in Children," _Journal of Abnormal Psychology_
 103, 4 (1994): 700-707.
+{: .citation}
+
+Gordts, Sarah, Kasia Uzieblo, Craig Neumann, Eva Van den Bussche, and Gina Rossi,
+"[Validity of the Self-Report Psychopathy Scales (SRP-III Full and Short
+Versions) in a Community Sample][201]," _Assessment_ 24, 3 (Apr. 2017): 308-325.
+doi: 10.1177/1073191115606205
 {: .citation}
 
 Gutmann, Phillip, "[Julius Ludwig August Koch (1841-1908): Christian,
@@ -2897,6 +2974,12 @@ Incarcerated Sample][182]," _Psychological Assessment_ 20, 2 (Jun. 2008):
 169-174.
 {: .citation}
 
+Neumann, Craig S., David S. Schmitt, Rachel Carter, Iva Embley, and Robert D.
+Hare, "Psychopathic Traits in Females and Males across the Globe," _Behavioral
+Sciences & the Law_ 30, 5 (2012): 557-574.
+doi: 10.1002/bsl.2038
+{: .citation}
+
 Nikolava, Natalia L., "[The Psychopathic Personality Inventory-Revised:
 Evaluation of Its Psychometric Properties, Incremental Validity, and Moderating
 Effects of Gender in a Correctional Sample][185]," Dissertation, Simon Fraser
@@ -2908,6 +2991,11 @@ American Journal of Psychiatry_ 1, 87 (July, 1930): 53-99.
 {: .citation}
 
 ["-path,"][4] Wiktionary, accessed Sep. 27, 2018.
+{: .citation}
+
+Paulhus, Delroy L., Craig S. Neumann, and Robert D. Hare, _The SRP-4:
+Self-Report Psychopathy Scale-Fourth Edition_ (Toronto, ON: Multi-Health
+Systems, 2016).
 {: .citation}
 
 Pickersgill, Martyn, "[Standardising antisocial personality disorder: the
@@ -2933,6 +3021,15 @@ Rinn, John L., "Structure of Phenomenal Domains," _Psychological Review_
 
 Rush, Benjamin, [_Medical Inquiries and Observations, upon the Diseases of
 the Mind,_][27] (Philadelphia: Kimber & Richardson, 1812).
+{: .citation}
+
+Sandvik, Asle M., Anita L. Hansen, Marita Vik Kristensen, Bjørn Helge Johnsen,
+Caroline Logan, and David Thornton, "Assessment of Psychopathy:
+Inter-correlations between Psychopathy Checklist Revised, Comprehensive
+Assessment of Psychopathic Personality – Institutional Rating Scale, and
+Self-Report of Psychopathy Scale–III," _International Journal of Forensic Mental
+Health_ 11, 4 (2012): 280-288.
+doi: 10.1080/14999013.2012.746756
 {: .citation}
 
 Schaefer, Earl S., "Children's Reports of Parental Behavior: An
@@ -2970,6 +3067,12 @@ Spitzer, Robert L., Jean Endicott, Eli Robins, "[Research Diagnostic
 Criteria][156]," _Archives of General Psychiatry_ 35 (Jun. 1978), 773.
 {: .citation}
 
+Sreenivasan, Shoba, Sarah Cusworth Walker, Linda E. Weinberger, Patricia
+Kirkish, and Thomas Garrick, "[Four-Facet PCL-R Structure and Cognitive
+Functioning Among High Violent Criminal Offenders][200]," _Journal of
+Personality Assessment_ 90, 2 (Apr. 2008): 197-200.
+{: .citation}
+
 Steiner, Andy, "[Once landfill-bound, the U of M’s Benjamin Karpman Papers
 are a treasure trove of GLBT history,][56]" MinnPost, Jun. 19, 2017.
 {: .citation}
@@ -2993,12 +3096,17 @@ as a Measure of the DSM-III," _Journal of Personality Assessment_ 49, 4
 (1985): 366-378.
 {: .citation}
 
-Williams, Kevin M. and Delroy L. Paulhaus, "Factor structure of the Self-Report
+Williams, Kevin M., Craig Nathanson, and Delroy L. Paulhus, "[Structure and
+Validity of the Self-Report Psychopathy Scale-III in Normal Populations][193],"
+(Jan. 2003).
+{: .citation}
+
+Williams, Kevin M. and Delroy L. Paulhus, "Factor structure of the Self-Report
 Psychopathy scale (SRP-II) in non-forensic samples," _Personality and individual
 Differences_ 37, 4 (2004): 765-778.
 {: .citation}
 
-Williams, Kevin M., Delroy L. Paulhaus, and Robert D. Hare, "[Capturing the
+Williams, Kevin M., Delroy L. Paulhus, and Robert D. Hare, "[Capturing the
 Four-Factor Structure of Psychopathy in College Students Via Self-Report][180],"
 _Journal of Personality Assessment_ 88, 2 (2007): 205-219.
 {: .citation}
@@ -3206,3 +3314,13 @@ Press, 2000).
 [190]: https://health.oregonstate.edu/people/rick-levenson
 [191]: http://kentkiehl.com/
 [192]: https://www.researchgate.net/publication/5370098_The_Levenson_Self-Report_Psychopathy_Scale
+[193]: https://www.researchgate.net/publication/228539788_Structure_and_validity_of_the_self-report_psychopathy_scale-III_in_normal_populations
+[194]: /assets/img/people/paulhus.jpg
+[195]: https://psych.ubc.ca/profile/del-paulhus/
+[196]: https://en.wikipedia.org/wiki/Delroy_L._Paulhus
+[197]: http://www2.psych.ubc.ca/~dellab/PERSONNEL/Kevin/
+[198]: http://www2.psych.ubc.ca/~dellab/PERSONNEL/Craig/
+[199]: https://www.researchgate.net/publication/311611741_Psychopathy_Checklist-Revised_PCL-R
+[200]: https://www.researchgate.net/publication/5408507_Four-Facet_PCL-R_Structure_and_Cognitive_Functioning_Among_High_Violent_Criminal_Offenders
+[201]: http://www.vub.ac.be/KLEP/UserFiles/File/Papers%20Chapters%20%20Presentations/SRP2015Gordtsetal.pdf
+[202]: https://craigsneumann.weebly.com/about.html
