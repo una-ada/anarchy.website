@@ -4,7 +4,7 @@ thoglund:
         studying physics and mathematics at UW-River Falls.
     name: Trevor Hoglund
     email: trewbot@gmail.com
-    img: /assets/img/th.jpg
+    img: /assets/img/people/hoglund.jpg
     url: https://trewbot.github.io
 tjhoglund:
     add: 410 S. 3rd St., River Falls, WI 54016
@@ -17,7 +17,7 @@ tjhoglund:
     dept: Physics Department, University of Wisconsin - River Falls
     name: Trevor J. Hoglund
     email: trevor.hoglund@my.uwrf.edu
-    img: /assets/img/tjh.jpg
+    img: /assets/img/people/hoglund.jpg
     url: https://trewbot.github.io
 michaubr2:
     add: 410 S. 3rd St., River Falls, WI 54016
@@ -32,7 +32,7 @@ trewbot:
     name: Una J. Ada
     name-ru: Уна Жай Ада
     email: una@anarchy.website
-    img: /assets/img/me.jpg
+    img: /assets/img/people/ada.jpg
     url: https://anarchy.website
 shtpostscarcity:
     name: Chloe (Χλόη) Ross

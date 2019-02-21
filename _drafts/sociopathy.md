@@ -3191,7 +3191,7 @@ Press, 2000).
 [66]: https://www.youtube.com/watch?v=9bpkr91p2xY&list=PLDs0tNoNYTz1P3dO8m5Wdv0WE2lPTQSJm
 [67]: /assets/img/people/cleckley.jpg
 [68]: https://www.augusta.edu/library/greenblatt/archives/findaid/cleckley/hcleckley.htm
-[69]: /assets/img/people/birnbaum.jpeg
+[69]: /assets/img/people/birnbaum.jpg
 [70]: http://www.peoples.ru/science/psihology/birnbaum/
 [71]: /assets/img/people/schneider.jpg
 [72]: https://www.uni-ulm.de/med/med-medgeschichte/forschung/drittmittelprojekte/kurt-schneiders-1887-1967-korrespondenzen/
