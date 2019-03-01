@@ -2247,7 +2247,51 @@ Dominance, and Coldheartedness.[^226]
 
 [^226]: Nikolava, "The PPI-R: Evaluation...," 24.
 
-**Patrick et al. (2009) TriPM**
+The triarchic model of psychopathy was developed through a reinterpretation of
+historic psychopathy concepts to deviate from the hegemonic Hare PCL-R
+conceptualization, describing a concept of psychopathy that encompasses three
+phenotypic constructs: disinhibition, boldness, and meanness.[^247][^245]
+[Cristopher J. Patrick][204], the author of the initial Triarchic Psychopathy
+Measure (TriPM) in 2010, pointed out that Cleckley and his contemporaries
+focused on boldness over meanness and the _DSM_ on primarily disinhibition among
+these three constructs;[^245] in general, the boldness facet of the triarchic
+model has very inconsistent representation in inventories based on other models
+such as the PPI, SRP, and LSRP.[^248] The TriPM, which was referred to as "brief
+Triarchic scales" was split into three scales (as one would expect) with 20
+items dedicated to disinhibition and 19 for each of the other two, with items
+sourced from the PPI for boldness and the Externalizing Spectrum Inventory (ESI)
+for disinhibition and meanness.[^246] Work has also been done to measure the
+triarchic model using a subset of the Multidimensional Personality Questionnaire
+(MPQ),[^249] drawing items from its social potency, stress reaction, and harm
+avoidance scales for boldness,[^250] aggression and social closeness for
+meanness,[^250] and control, alienation, and stress reaction for
+disinhibition.[^251]
+
+[^247]: Christopher J. Patrick, Don C. Fowles, and Robert F. Krueger, "Triarchic
+        conceptualization of psychopathy: Development origins of disinhibition,
+        boldness, and meanness," _Development and Psychopathology_ 21, 3 (2009):
+        913-939.
+
+[^245]: Cristopher J. Patrick, "[Operationalizing the Triarchic
+        Conceptualization of Psychopathy: Preliminary Description of Brief
+        Scales for Assessment of Boldness, Meanness, and Disinhibition.][203]"
+        (2010), 2.
+
+[^248]: Laura E. Drislane, Cristopher J. Patrick, and Güler Arsal, "Clarifying
+        the Content Coverage of Differing Psychopathy Inventories Through
+        Reference to the Triarchic Psychopathy Measure," _Psychological
+        Assessment_ 26, 2 (2014): 350-362.
+
+[^246]: Patrick, "Operationalizing the Triarchic...," 5.
+
+[^249]: Sarah J. Brislin, Laura E. Drislane, Shannon Toney Smith, John F. Edens,
+        and Cristopher J. Patrick, "Development and Validation of Triarchic
+        Psychopathy Scales From the Multidimensional Personality Questionnaire,"
+        _Psychological Assessment_ 27, 3 (2015), 838.
+
+[^250]: Brislin et al., "Development and Validation...," 847.
+
+[^251]: Brislin et al., "Development and Validation...," 848.
 
 Development of the SRP-III continued through the '00s into the 2010s with a
 64-item (answered on a 5-point Likert-type scale resulting in a total score from
@@ -2561,12 +2605,14 @@ The time has come for a dimensional personality disorder diagnosis.[^154]
 | ASPD      | Antisocial Personality Disorder |
 | DPD       | Dissocial/Dyssocial Personality Disorder |
 | _DSM_     | _Diagnostic and Statistical Manual of Mental Disorders_ |
+| ESI       | Externalizing Spectrum Inventory |
 | FFM       | Five Factor Model |
 | _ICD_     | _International Statistical Classification of Diseases and Related Health Problems_ |
 | LSRP      | Levenson Self-Report Psychopathy Scale |
 | MCMI      | Millon Clinical Multiaxial Inventory |
 | MISRI     | Millon Illinois Self-Report Inventory |
 | MMPI      | Minnesota Multiphasic Personality Inventory |
+| MPQ       | Multidimensional Personality Questionnaire |
 | NATO      | North Atlantic Treaty Organization |
 | NIMH      | National Institute for Mental Health |
 | NPD       | Narcissistic Personality Disorder |
@@ -2582,6 +2628,7 @@ The time has come for a dimensional personality disorder diagnosis.[^154]
 | PPI:SF    | Psychopathic Personality Inventory: Short Form |
 | RDC       | Research Diagnostic Criteria |
 | SRP       | Self-Report Psychopathy Scale |
+| TriPM     | Triarchic Psychopathy Measure |
 | WHO       | World Health Organization |
 
 ## Appendix B. Further Reading
@@ -2649,6 +2696,13 @@ International Publishing, 2016).
 
 Bretherick, Diana, "[The 'born criminal'? Lombroso and the origins of modern
 criminology,][20]" History Extra, Oct. 9, 2016.
+{: .citation}
+
+Brislin, Sarah J., Laura E. Drislane, Shannon Toney Smith, John F. Edens, and
+Cristopher J. Patrick, "Development and Validation of Triarchic Psychopathy
+Scales From the Multidimensional Personality Questionnaire," _Psychological
+Assessment_ 27, 3 (2015): 838-851.
+doi: 10.1037/pas0000087
 {: .citation}
 
 Buchanan, Roderick D., "[Looking back: the controversial Hans Eysenck][94],"
@@ -2756,6 +2810,13 @@ Today, Jul. 19, 2017.
 Doblin, Rick, "[Dr. Leary's Concord Prison Experiment: A 34 Year Follow-Up
 Study][89]," _the Bulletin of the Multidisciplinary Association for
 Psychedelic Studies (MAPS)_ 9, 4 (Winter 1999/2000): 10-18.
+{: .citation}
+
+Drislane, Laura E., Cristopher J. Patrick, and Güler Arsal, "Clarifying the
+Content Coverage of Differing Psychopathy Inventories Through Reference to the
+Triarchic Psychopathy Measure," _Psychological Assessment_ 26, 2 (2014):
+350-362.
+doi: 10.1037/a0035152
 {: .citation}
 
 "[Drug Enforcement Administration (DEA) Years 1970-1975, The,][93]," _The
@@ -2984,6 +3045,18 @@ Nikolava, Natalia L., "[The Psychopathic Personality Inventory-Revised:
 Evaluation of Its Psychometric Properties, Incremental Validity, and Moderating
 Effects of Gender in a Correctional Sample][185]," Dissertation, Simon Fraser
 University, Burnaby, British Columbia, 2013.
+{: .citation}
+
+Patrick, Cristopher J., "[Operationalizing the Triarchic Conceptualization of
+Psychopathy: Preliminary Description of Brief Scales for Assessment of Boldness,
+Meanness, and Disinhibition.][203]" (2010).
+{: .citation}
+
+Patrick, Christopher J., Don C. Fowles, and Robert F. Krueger, "Triarchic
+conceptualization of psychopathy: Development origins of disinhibition,
+boldness, and meanness," _Development and Psychopathology_ 21, 3 (2009):
+913-939.
+doi: 10.1017/S0954579409000492
 {: .citation}
 
 Partridge, George E., "Current Conceptions of Psychopathic Personality," _The
@@ -3324,3 +3397,5 @@ Press, 2000).
 [200]: https://www.researchgate.net/publication/5408507_Four-Facet_PCL-R_Structure_and_Cognitive_Functioning_Among_High_Violent_Criminal_Offenders
 [201]: http://www.vub.ac.be/KLEP/UserFiles/File/Papers%20Chapters%20%20Presentations/SRP2015Gordtsetal.pdf
 [202]: https://craigsneumann.weebly.com/about.html
+[203]: https://www.semanticscholar.org/paper/Operationalizing-the-Triarchic-Conceptualization-of-Patrick/6fbc6d92e87c82d79e6620a22fcea0bd8fde588a
+[204]: https://psy.fsu.edu/faculty/patrickc/patrick.dp.php
