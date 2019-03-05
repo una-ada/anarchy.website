@@ -2333,6 +2333,23 @@ Neumann, and Hare.[^244]
 
 ### I-9. Dimensional Models
 
+In 2007, a survey was conducted with four hundred members of two international
+organizations for research on personality disorders: the Association for
+Research on Personality Disorders and the International Society for the Study of
+Personality Disorders;[^252] 80.2% of the participants expressed the opinion
+that personality disorders are better described as dimensions (or spectra) than
+as categories.[^253] The most supported model in the survey, with 69.5%
+agreement, was a mixed system of categories and dimensions.[^254]
+
+[^252]: David P. Bernstein, Cuneyt Iscan, and Jack Maser, "Opinions of
+        Personality Disorder Experts Regarding the _DSM-IV_ Personality
+        Disorders Classification System," _Journal of Personality Disorders_ 21,
+        5 (2007): 536-551.
+
+[^253]: Bernstein et al., "Opinions of Personality Disorder...," 542.
+
+[^254]: Bernstein et al., "Opinions of Personality Disorder...," 544.
+
 **DSM-5 (2013)**
 
 **MCMI-IV (2015)**
@@ -2667,6 +2684,12 @@ _Psychological Review_ 81, 5 (1974): 392-425.
 Benning, Stephen D. and Randall T. Salekin, "Convergent and Discriminant
 Validity of Psychopathy Factors Assessed Via Self-Report: A Comparison of Three
 Instruments," _Assessment_ 12, 3 (2005): 270-289.
+{: .citation}
+
+Bernstein, David P., Cuneyt Iscan, and Jack Maser, "Opinions of Personality
+Disorder Experts Regarding the _DSM-IV_ Personality Disorders Classification
+System," _Journal of Personality Disorders_ 21, 5 (2007): 536-551.
+doi: 10.1521/pedi.2007.21.5.536
 {: .citation}
 
 Blair, James, Derek Mitchell, and Karina Blair, [_The Psychopath: Emotion and
