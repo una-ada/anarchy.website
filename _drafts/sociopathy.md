@@ -6,12 +6,13 @@ description: >
 entry: 1
 layout: post
 license: BY-SA
+permalink: /fpoe-wd
 series: langandpsych
 tags: >
     history mental-illness psychology criminology psychiatry eugenics nosology
     epidemiology penology etiology pseudo-science teleology homophobia bigotry
     transphobia personality-disorders personology individual-differences
-title: The False Paragon of Evil
+title: The False Paragon of Evil [WD]
 ---
 
 **Content Warning/Trigger Warning: this article contains discussion and
@@ -1785,6 +1786,17 @@ decrease in premeditation for any given action).[^70]
 
 [^70]:  Millon et al., "Historical Conceptions...," 26.
 
+**DSM-III-R**
+
+As the _DSM-III_'s ASPD struggled to identify psychopathy among non-offenders
+due to its focus on criminality, attempts at refocusing the diagnosis towards a
+distinction of the ability (or lack thereof) to feel remorse were part of the
+revision process for the _Diagnostic and Statistical Manual of Mental Disorders
+(Third Edition - Revised)_ or _DSM-III-R_.[^255]
+
+[^255]: Cristina Crego and Thomas A. Widiger, "Psychopathy and the _DSM_,"
+        _Journal of Personality_ 83, 6 (2014): 665-677.
+
 The MCMI was revised in 1987, the revision then being called the MCMI-II, to
 adapt to changes between the _DSM-III_ and _DSM-III-R_ such as the addition of
 scales for aggressive/sadistic and self-defeating/masochistic personality
@@ -2786,6 +2798,11 @@ friends," _Social Psychiatry and Psychiatric Epidemiology_ 45, 7 (July
 2010): 681-693.
 {: .citation}
 
+Crego, Cristina and Thomas A. Widiger, "Psychopathy and the _DSM_," _Journal of
+Personality_ 83, 6 (2014): 665-677.
+doi: 10.1111/jopy.12115
+{: .citation}
+
 Crocq, Marc-Antoine, "[Milestones in the history of personality
 disorders,][33]" _Dialogues in Clinical Neuroscience_ 15, 2 (June 2013):
 147-153.
@@ -3217,7 +3234,7 @@ Criminology, 1880-1945,_ (Chapel Hill: The University of North Carolina
 Press, 2000).
 {: .citation}
 
-## Appendix D. Footnotes
+## Appendix D. Notes
 
 [1]: https://www.psychologytoday.com/us/basics/sociopathy
 [2]: https://www.psychologytoday.com/us/blog/evil-deeds/201707/is-it-narcissism-or-sociopathy
