@@ -2364,6 +2364,73 @@ agreement, was a mixed system of categories and dimensions.[^254]
 
 **DSM-5 (2013)**
 
+This preference for dimensionality over categories was shown in the development
+of the _DSM-5_, even as the relevant portions of the community had moved away
+from ASPD back to psychopathy[^256] (noted in particular by a stagnation in
+literature pertaining to the former).[^257] For instance, among the proposals
+for updates to the _DSM_ published in February 2010 by the American Psychiatric
+Association for comments[^258] was a "reformulation of personality
+disorders."[^259] This reformulation included a reduced set of five personality
+disorder types along with five severity levels from 0 (no impairment) to 4
+(extreme impairment).[^260]
+
+[^256]: Crego and Widiger, "Psychopathy and the _DSM_," 5.
+
+[^257]: Roger K. Blashfield and Vincent Intoccia, "Growth of the Literature on
+        the Topic of Personality Disorders," _American Journal of Psychiatry_
+        157, 3 (2000): 472-473.
+
+[^258]: Thomas A. Widiger, Steven Huprich, and John Clarkin, "[Proposals for
+        _DSM-5_: Introduction to Special Section of _Journal of Personality
+        Disorders_][205]," _Journal of Personality Disorders_ 25, 2 (2011): 135.
+
+[^259]: "[Personality and Personality Disorders][206]," American Psychiatric
+        Association, archived Feb. 15, 2010.
+
+[^260]: "[Levels of Personality Functioning][207]," American Psychiatric
+        Association, archived Feb. 15, 2010.
+
+The five types in this proposal, antisocial/psychopathic, avoidant, borderline,
+obsessive-compulsive, and schizotypal type,[^261] were reduced from the
+_DSM-IV_'s ten personality disorders based on high commorbidity between the
+previous set and were chosen specifically due to their high severity (impairment
+at work, social relationships, and leisure).[^262] Furthermore, the model
+included six high order trait domains with four to ten lower order facets for
+each,[^259] four of which are derived from the FFM (openness was not found to be
+strongly correlated with any personality disorders) with the other two
+(compulsivity and schizotypy) introduced for coverage of obsessive-compulsive
+and schizotypal personalities.[^263] In combination, the listed disorders and
+traits composed a "hybrid model," as test cases showed that the models increased
+the other's ability to predict medical outcomes this was determined as the best
+solution.[^262]
+
+[^261]: "[Personality Disorder Types][208]," American Psychiatric Association,
+        archived Feb. 13, 2010.
+
+[^262]: Andrew E. Skodol, "[Rationale for Proposing Five Specific Personality
+        Disorder Types][209]," American Psychiatric Association, archived Feb.
+        14, 2010.
+
+[^263]: Lee A. Clark and Robert F. Krueger, "[Rationale for a Six-Domain Trait
+        Dimensional Diagnostic System for Personality Disorder][210]," American
+        Psychiatric Association, archived Feb. 14, 2010.
+
+Psychopathy in this proposal (recommended to be dubbed "Antisocial/Psychopathic
+Type") used a prototype based on both disinhibition and meanness.[^262] The
+description of the disorder once again described a prototypical case of a power
+seeking individual who would manipulate and exploit others, acting aggressively
+and sadistically, often engaging in reckless behavior to satisfy a great need
+for pleasure.[^264] Criminality was also again used as an indicator with the
+line "[i]ndividuals with this disorder often engage in unlawful and criminal
+behavior and may abuse alcohol and drugs;"[^264] however, it was not included in
+the list of associated traits which were divided into two categories: antagonism
+(callousness, aggression, manipulativeness, hostility, deceitfulness, and
+narcissism) and disinhibition (irresponsibility, recklessness, and
+impulsivity).[^264]
+
+[^264]: "[301.7 Antisocial Personality Disorder][211]," American Psychiatric
+        Association, archived Feb. 15, 2010.
+
 **MCMI-IV (2015)**
 
 In the 3rd edition of _Disorders of Personality_, Millon introduced a category
@@ -2675,6 +2742,10 @@ Millon, et al. (New York: The Guilford Press, 1998).
 
 ## Appendix C. Bibliography
 
+"[301.7 Antisocial Personality Disorder][211]," American Psychiatric
+Association, archived Feb. 15, 2010.
+{: .citation}
+
 American Psychiatric Association, _Diagnostic and Statistical Manual of
 Mental Disorders_ Third Edition (1980).
 {: .citation}
@@ -2712,6 +2783,12 @@ Blais, Julie and Mary B. Ritchie, "[Hare Psychopathy Checklist-Revised
 (PCL-R)][199]," in _Encyclopedia of Personality and Individual Differences_, ed.
 Virgil Zeigler-Hill and Todd K. Shackelford (Springer International Publishing,
 2016).
+{: .citation}
+
+Blashfield, Roger K. and Vincent Intoccia, "Growth of the Literature on the
+Topic of Personality Disorders," _American Journal of Psychiatry_ 157, 3 (2000):
+472-473.
+doi: 10.1176/appi.ajp.157.3.472
 {: .citation}
 
 Bookchin, Murray, "[The Meaning of Confederalism,][14]" _Green Perspectives_
@@ -2764,6 +2841,11 @@ Journal of Epidemiology_ 2014: i19-i28.
 Choca, James P. and Seth D. Grossman, "Evolution of the Millon Clinical
 Multiaxial Inventory," _Journal of Personality Assessment_ 97, 6 (2015):
 541-549.
+{: .citation}
+
+Clark, Lee A. and Robert F. Krueger, "[Rationale for a Six-Domain Trait
+Dimensional Diagnostic System for Personality Disorder][210]," American
+Psychiatric Association, archived Feb. 14, 2010.
 {: .citation}
 
 Cleckley, Hervey M., _The Mask of Sanity_ 5<sup>th</sup> edition (1988).
@@ -3001,6 +3083,10 @@ Lester, Whitney S., "[The SRP-II as a Rich Source of Data on the Psychopathic
 Personality][189]," Doctoral Thesis, University of Alabama, Tuscaloosa, Alabama.
 {: .citation}
 
+"[Levels of Personality Functioning][207]," American Psychiatric Association,
+archived Feb. 15, 2010.
+{: .citation}
+
 Levenson, Michael R., Kent A. Kiehl, and Cory M. Fitzpatrick, "[Assessing
 Psychopathic Attributes in a Noninstitutionalized Population][187]," _Journal of
 Personality and Social Psychology_ 68, 1 (1995): 151-158.
@@ -3111,6 +3197,14 @@ Self-Report Psychopathy Scale-Fourth Edition_ (Toronto, ON: Multi-Health
 Systems, 2016).
 {: .citation}
 
+"[Personality and Personality Disorders][206]," American Psychiatric
+Association, archived Feb. 13, 2010.
+{: .citation}
+
+"[Personality Disorder Types][208]," American Psychiatric Association, archived
+Feb. 13, 2010.
+{: .citation}
+
 Pickersgill, Martyn, "[Standardising antisocial personality disorder: the
 social shaping of a psychiatric technology,][129]" _Sociology of Health &
 Wellness_ 34, 4 (May 2012): 544-559.
@@ -3154,6 +3248,10 @@ Inventory," _Child Development_ 36, 2 (Jun. 1965): 413-424.
 {: .citation}
 
 "[Scientist or showman?][92]" _Mail & Guardian_, Sep. 12, 1997.
+{: .citation}
+
+Skodol, Andew E., "[Rationale for Proposing Five Specific Personality Disorder
+Types][209]," American Psychiatric Association, archived Feb. 14, 2010.
 {: .citation}
 
 ["socio-,"][3] Wiktionary, accessed Sep. 27, 2018.
@@ -3202,6 +3300,12 @@ Stories Press, 2005).
 Widiger, Thomas A. and Paul T. Costa, Jr., "[Personality and Personality
 Disorders][163]," _Journal of Abnormal Psychology_ 103, 1 (Feb. 1994):
 78-91.
+{: .citation}
+
+Widiger, Thomas A., Steven Huprich, and John Clarkin, "[Proposals for
+_DSM-5_: Introduction to Special Section of _Journal of Personality
+Disorders_][205]," _Journal of Personality Disorders_ 25, 2 (2011): 135.
+doi: 10.1521/pedi.2011.25.2.135
 {: .citation}
 
 Widiger, Thomas A., Janet B. W. Williams, and Rober L. Spitzer, "The MCMI
@@ -3439,3 +3543,10 @@ Press, 2000).
 [202]: https://craigsneumann.weebly.com/about.html
 [203]: https://www.semanticscholar.org/paper/Operationalizing-the-Triarchic-Conceptualization-of-Patrick/6fbc6d92e87c82d79e6620a22fcea0bd8fde588a
 [204]: https://psy.fsu.edu/faculty/patrickc/patrick.dp.php
+[205]: https://www.ncbi.nlm.nih.gov/pubmed/21466246
+[206]: https://web.archive.org/web/20100213161551/http://www.dsm5.org/ProposedRevisions/Pages/PersonalityandPersonalityDisorders.aspx
+[207]: https://web.archive.org/web/20100215172651/http://www.dsm5.org/ProposedRevisions/pages/proposedrevision.aspx?rid=468
+[208]: https://web.archive.org/web/20100213161726/http://www.dsm5.org/ProposedRevisions/pages/proposedrevision.aspx?rid=469#
+[209]: https://web.archive.org/web/20100214100643/http://www.dsm5.org/ProposedRevisions/Pages/RationaleforProposingFiveSpecificPersonalityDisorderTypes.aspx
+[210]: https://web.archive.org/web/20100214113604/http://www.dsm5.org/ProposedRevisions/Pages/RationaleforaSix-DomainTraitDimensionalDiagnosticSystemforPersonalityDisorder.aspx
+[211]: https://web.archive.org/web/20100215165614/http://www.dsm5.org/ProposedRevisions/Pages/proposedrevision.aspx?rid=16#
