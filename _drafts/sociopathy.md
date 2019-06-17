@@ -12,7 +12,7 @@ tags: >
     history mental-illness psychology criminology psychiatry eugenics nosology
     epidemiology penology etiology pseudo-science teleology homophobia bigotry
     transphobia personality-disorders personology individual-differences
-title: The False Paragon of Evil [WD]
+title: The False Paragon of Evil (WD)
 ---
 
 **Content Warning/Trigger Warning: this article contains discussion and
@@ -2362,8 +2362,6 @@ agreement, was a mixed system of categories and dimensions.[^254]
 
 [^254]: Bernstein et al., "Opinions of Personality Disorder...," 544.
 
-**DSM-5 (2013)**
-
 This preference for dimensionality over categories was shown in the development
 of the _DSM-5_, even as the relevant portions of the community had moved away
 from ASPD back to psychopathy[^256] (noted in particular by a stagnation in
@@ -2392,7 +2390,7 @@ disorder types along with five severity levels from 0 (no impairment) to 4
 
 The five types in this proposal, antisocial/psychopathic, avoidant, borderline,
 obsessive-compulsive, and schizotypal type,[^261] were reduced from the
-_DSM-IV_'s ten personality disorders based on high commorbidity between the
+_DSM-IV_'s ten personality disorders based on high comorbidity between the
 previous set and were chosen specifically due to their high severity (impairment
 at work, social relationships, and leisure).[^262] Furthermore, the model
 included six high order trait domains with four to ten lower order facets for
@@ -2430,6 +2428,32 @@ impulsivity).[^264]
 
 [^264]: "[301.7 Antisocial Personality Disorder][211]," American Psychiatric
         Association, archived Feb. 15, 2010.
+
+In general, this proposed system retained some notion of prototype matching,
+though the listed traits could be used for the entirety of a diagnosis there
+were still narratives given which raised the concern of prototype matching being
+still used as the primary means of diagnosis, especially since it could be seen
+as overcomplicated to describe a patient using all 37 of the provided
+traits.[^265] For the sake of brevity not much more will be stated here to
+critique this initial proposal, those interested could further read Widiger's
+"[A Shaky Future for Personality Disorders][212]."[^266]
+
+[^265]: Thomas A. Widiger, "[A Shaky Future for Personality Disorders][212],"
+        _Personality Disorders: Theory, Research, and Treatment_ 2, 1 (2011),
+        55.
+
+[^266]: As with all these sources, I strongly recommend a _critical_ reading of
+        this work. Widiger rightly was appalled by the re-introduction of
+        prototype matching in the _DSM_, but also from the beginning on seems to
+        hold a double standard for empirical evidence between that which has
+        already found its way in and that which is being introduced. He also
+        displays significant concern over "coverage," and while admitting that
+        there is a generic personality disorder diagnosis for those that do not
+        fall into any of the five primary categories but have high scores among
+        a variety of the defined traits believes this is problematic in that it
+        does not leave a clear indicator on the patient's medical record. This
+        is, of course, a greater issue with the overreliance on medical labels
+        in the field than it is with the definitions themselves.
 
 **MCMI-IV (2015)**
 
@@ -3297,6 +3321,10 @@ Vonnegut, Kurt, _A Man Without a Country_, ed. Daniel Simon, (New York: Seven
 Stories Press, 2005).
 {: .citation}
 
+Widiger, Thomas A., "[A Shaky Future for Personality Disorders][212],"
+_Personality Disorders: Theory, Research, and Treatment_ 2, 1 (2011): 54-67.
+{: .citation}
+
 Widiger, Thomas A. and Paul T. Costa, Jr., "[Personality and Personality
 Disorders][163]," _Journal of Abnormal Psychology_ 103, 1 (Feb. 1994):
 78-91.
@@ -3550,3 +3578,4 @@ Press, 2000).
 [209]: https://web.archive.org/web/20100214100643/http://www.dsm5.org/ProposedRevisions/Pages/RationaleforProposingFiveSpecificPersonalityDisorderTypes.aspx
 [210]: https://web.archive.org/web/20100214113604/http://www.dsm5.org/ProposedRevisions/Pages/RationaleforaSix-DomainTraitDimensionalDiagnosticSystemforPersonalityDisorder.aspx
 [211]: https://web.archive.org/web/20100215165614/http://www.dsm5.org/ProposedRevisions/Pages/proposedrevision.aspx?rid=16#
+[212]: https://pdfs.semanticscholar.org/31ab/eb30be9b996c93ae8c5bc764e387e89d284d.pdf?_ga=2.80581015.1614569257.1552060105-1451320755.1550360628
