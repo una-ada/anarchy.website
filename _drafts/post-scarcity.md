@@ -114,8 +114,16 @@ title: "Goth Angel Sinners Pt. V: <i>Post-Scarcity</i> Notes"
             Removing this sector of the production would decrease the necessary
             yield giving more room for seeking ecological means of production.
     -   Housing[^d]
--   Thus, we return to the issue of distribution, free distribution as opposed to our contemporary manner which restricts access thru economic and geographic barriers.
-    -   Economics is meant as a field to manage the distribution of resources under the assumption that resources are either more scarce or precisely as scarce as demand; as this is based on prediction and estimate leaning towards underestimation, scarcity is “enforced” thru the deliberate lack of distribution to specific communities either due to their not meeting the expected conditions (production of wealth) or thru deliberate [sanctioning?], i.e. racism (see: food deserts).
+-   Thus, we return to the issue of distribution, free distribution as opposed
+    to our contemporary manner which restricts access thru economic and
+    geographic barriers.
+    -   Economics is meant as a field to manage the distribution of resources
+        under the assumption that resources are either more scarce or precisely
+        as scarce as demand; as this is based on prediction and estimate leaning
+        towards underestimation, scarcity is "enforced" thru the deliberate lack
+        of distribution to specific communities either due to their not meeting
+        the expected conditions (production of wealth) or thru deliberate
+        \[sanctioning?\], i.e. racism (see: food deserts).
 
 [^c]:   We had trouble tracking down exact numbers and sources on this claim,
         but are nonetheless confident in this statement.
