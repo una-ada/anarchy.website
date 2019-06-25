@@ -69,6 +69,48 @@ overwritten using plugins, which maybe they can. I think they can? I don't know,
 I should actually look these things up. Whatever, it's 03:30, I'll work on this
 s'more after work later.
 
+Alright, I'm back, work sucked but that's normal, it's Friday night and I'm
+scrolling thru source code again. (:
+
+In particular at the moment I'm trying to find what tells it how many days there
+are in a week, all I saw before was how to calculate a date a week after another
+date which should be easy enough to rewrite. In that "marker.ts" there was this
+on line 5:
+
+```typescript
+export const DAY_IDS = [ 'sun', 'mon', 'tue', 'wed', 'thu', 'fri', 'sat' ]
+```
+
+I'm assuming this constant will be used elsewhere so I've searched for it and
+found two files: "[common/table-utils.ts][13]" and
+"[component/date-rendering.ts][14]," both of which use it to create classes for
+DOM elements like so:
+
+```typescript
+classes.push('fc-' + DAY_IDS[date.getUTCDay()])
+```
+
+These all seem to be just used as defaults in case a full roster of classes for
+the date DOM element cannot be determined, which begs the question of how that
+is determined. The answer to which seems to be that it used a function called
+`getDayClasses(...)`. Of course, I was reading this from the "table-utils" and
+the function itself is actually contained in "date-rendering" so I'm gonna pick
+at that a bit. A cursory glance leads me to believe this might be a dead end,
+the `DAY_IDS` constant is used for any active day, otherwise it adds a class
+called `fc-disabled-day`; though it might be useful to look into the style for
+these and that one might be the easiest to track down. Maybe.
+
+The style, found in "[common/\_standard.scss][15]" is, in whole:
+
+```css
+.fc-unthemed .fc-disabled-day {
+  background: #d7d7d7;
+  opacity: .3;
+}
+```
+
+This is... relatively useless.
+
 [1]:    https://twitter.com/gthnglsnnrs
 [2]:    https://en.wikipedia.org/wiki/French_Republican_calendar
 [3]:    https://anchor.fm/gthnglsnnrs/episodes/Part-IV-The-Paris-Commune-e2viul
@@ -81,3 +123,6 @@ s'more after work later.
 [10]:   https://fullcalendar.io/docs
 [11]:   https://fullcalendar.io/docs/typescript
 [12]:   https://github.com/fullcalendar/fullcalendar/blob/5c271f1d0f603406530fed294b50315de3715055/src/core/datelib/marker.ts
+[13]:   https://github.com/fullcalendar/fullcalendar/blob/587922d8c018dd31be6ced0147fdb9f9d0c10241/src/core/common/table-utils.ts
+[14]:   https://github.com/fullcalendar/fullcalendar/blob/83ffa5a082a1749a58ae568134e487473d6cc432/src/core/component/date-rendering.ts
+[15]:   https://github.com/fullcalendar/fullcalendar/blob/c3db87d7b34dd53ae4c6ad24636b7d8573ce3116/src/core/common/_standard.scss

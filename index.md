@@ -50,7 +50,7 @@ projects, e.g. the "Monthly Screenplays" with [@punished_picnic][20] (f.k.a.
 @ruined_picnic) available from ["The Picnic Archive"][21].
 
 Posts related to Goth Angel Sinners on this site are tagged as [#podcast][9],
-including the notes on the latest episode: [Part IV: The Paris Commune][7]
+including the notes on the latest episode: [Part V: Post-Scarcity][7]
 
 [1]: https://anchor.fm/gthnglsnnrs
 [2]: https://anarchy.website/
@@ -58,7 +58,7 @@ including the notes on the latest episode: [Part IV: The Paris Commune][7]
 [4]: https://twitter.com/whimworm
 [5]: https://twitter.com/trewbot
 [6]: https://en.wikipedia.org/wiki/2017_Catalan_independence_referendum
-[7]: /podcast/4/notes
+[7]: /podcast/5/notes
 [8]: http://www.neighborsciencepodcast.com/
 [9]: /tag/#podcast
 [10]: /tag/#comedy
