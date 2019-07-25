@@ -203,6 +203,10 @@ sup {
 sup a {
 	vertical-align: top;
 }
+.tab {
+	display: inline-block;
+	width: 2em;
+}
 table {
 	border-collapse: collapse;
 	margin: 1em 0;
