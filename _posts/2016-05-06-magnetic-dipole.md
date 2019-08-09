@@ -1,5 +1,5 @@
 ---
-author: tjhoglund
+author: redacted
 layout: post
 title: Measuring a Magnetic Dipole via Harmonic Oscillation
 tags: school paper physics magnetism

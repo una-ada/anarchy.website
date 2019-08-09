@@ -1,5 +1,5 @@
 ---
-author: thoglund
+author: redacted
 layout: post
 title: Demethylation
 tags: short-story fiction school

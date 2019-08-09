@@ -1,5 +1,5 @@
 ---
-author: tjhoglund
+author: redacted
 layout: post
 title: UWRF ACM Student Chapter Bylaws
 tags: bylaws acm organization

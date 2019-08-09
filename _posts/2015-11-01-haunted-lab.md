@@ -1,5 +1,5 @@
 ---
-author: tjhoglund
+author: redacted
 entry: 8
 layout: post
 series: uwrfvoice

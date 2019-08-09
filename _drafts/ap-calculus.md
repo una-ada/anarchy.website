@@ -1,5 +1,5 @@
 ---
-author: tjhoglund
+author: redacted
 description: >
     (Spring, 2014) Do you like math? Of course you do, math is the basis of
     modern human understanding and logic, everybody loves it. Do you wish your

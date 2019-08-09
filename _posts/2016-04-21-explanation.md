@@ -1,5 +1,5 @@
 ---
-author: tjhoglund
+author: redacted
 layout: post
 tags: school physics
 ---

@@ -1,5 +1,5 @@
 ---
-author: tjhoglund
+author: redacted
 layout: post
 title: Playing an FPS on a Drawing Tablet
 tags: column

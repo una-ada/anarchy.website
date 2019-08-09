@@ -1,5 +1,5 @@
 ---
-author: tjhoglund
+author: redacted
 description: >
     (Spring, 2015) Learn about the ancient art of making art through the lens of
     the Judeo-Christian American military-industrial complex. Ever wondered what
