@@ -199,9 +199,11 @@ sup {
 	line-height: 1.2;
 	position: relative;
 	top: 0em;
+	font-size: 0.8em;
 }
 sup a {
 	vertical-align: top;
+	display: inline-flex;
 }
 .tab {
 	display: inline-block;
