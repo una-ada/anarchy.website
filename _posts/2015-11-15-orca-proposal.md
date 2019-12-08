@@ -5,7 +5,7 @@ title: ORCA National High Power Rocketry Competition Project Proposal
 tags: proposal research rocketry physics
 ---
 
-![ORCA](https://trewbot.github.io/assets/img/orca/olfp.png)
+![ORCA](https://una-ada.github.io/assets/img/orca/olfp.png)
 
 *This post was submitted to the University of Wisconsin-River Falls (UWRF)
 Undergraduate Research, Scholarly and Creative Activity (URSCA) department as

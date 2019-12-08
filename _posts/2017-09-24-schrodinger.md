@@ -32,7 +32,7 @@ Eventually, I did come across the idea of a
 efficiency enough to at least be able to render a low-poly ($600$ points)
 animation of the aforementioned sample function:
 
-<iframe src="https://trewbot.github.io/js/3/sinusoid.html"
+<iframe src="https://una-ada.github.io/js/3/sinusoid.html"
     style="border:0;outline:0;width:100%;height:300px;"></iframe>
 
 The proper rendering of this function, of course, requires the understanding
