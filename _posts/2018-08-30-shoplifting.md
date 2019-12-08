@@ -1,5 +1,5 @@
 ---
-author: trewbot
+author: una
 description: >
     A discussion on the idea that shoplifting has an effect on the employees of
     the store against which it is done.

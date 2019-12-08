@@ -1,5 +1,5 @@
 ---
-author: trewbot
+author: una
 description: >
     Following up from the first section, these notes will cover finding
     solutions to the Time Independent Schrödinger Equation in what is referred

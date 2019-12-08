@@ -1,5 +1,5 @@
 ---
-author: trewbot
+author: una
 layout: post
 license: BY-SA
 title: The False Paragon of Evil (Original Introduction Draft)

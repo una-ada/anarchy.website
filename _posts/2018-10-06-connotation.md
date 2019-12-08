@@ -1,5 +1,5 @@
 ---
-author: trewbot
+author: una
 layout: post
 tags: logic mathematics linguistics argumentation language
 title: Overreliance on Connotation

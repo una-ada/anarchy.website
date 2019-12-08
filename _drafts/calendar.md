@@ -1,5 +1,5 @@
 ---
-author: trewbot
+author: una
 layout: post
 tags: javascript programming blog calendars
 title: "Building a French Republican Calendar Implementation for JavaScript"

@@ -1,5 +1,5 @@
 ---
-author: trewbot
+author: una
 description: >
     Oops! I wrote another thing about death! This time rather than picking apart
     traditional descriptions of death, I'm going to be introducing a more modern

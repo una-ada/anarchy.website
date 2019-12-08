@@ -1,5 +1,5 @@
 ---
-author: trewbot
+author: una
 description: >
     There is a reasonably prevalent question in philosophy about whether or not
     a universal truth can exist. This can be expanded further to ask whether or

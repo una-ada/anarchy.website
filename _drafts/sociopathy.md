@@ -1,5 +1,5 @@
 ---
-author: trewbot
+author: una
 description: >
     An exploration into the history, validity, and social and philosophical
     implications of psychopathy, sociopathy, and related psychiatric concepts.

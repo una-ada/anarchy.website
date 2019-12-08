@@ -1,5 +1,5 @@
 ---
-author: trewbot
+author: una
 description: >
     A mod pack for building gay communes in the forest with your friends.
 license: BY-NC-SA

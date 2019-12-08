@@ -1,5 +1,5 @@
 ---
-author: trewbot
+author: una
 description: >
     This is a collection of various quotations I've stumbled across that I found
     to be interesting or well put. Some of them are brief and concise statements
