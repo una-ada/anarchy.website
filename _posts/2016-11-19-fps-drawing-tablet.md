@@ -87,4 +87,4 @@ than your mouse pad, table, or the cord on the mouse will let you, and you’ll
 need to lift the mouse and move it to a new zero point. With the tablet, such an
 issue does not exist. Other than that: no.
 
-_Trevor J Hoglund is a Physics Option I and Mathematics major with a minor in Computer Science, secretary of the UWRF Chapters of the Society of Physics Students and the Association for Computing Machinery, and treasurer of the Society for Undergraduate Research, Scholarly, and Creative Activity. He sleeps sometimes._
+_REDACTED is a Physics Option I and Mathematics major with a minor in Computer Science, secretary of the UWRF Chapters of the Society of Physics Students and the Association for Computing Machinery, and treasurer of the Society for Undergraduate Research, Scholarly, and Creative Activity. He sleeps sometimes._

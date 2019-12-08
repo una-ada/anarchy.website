@@ -10,15 +10,15 @@ logo: /assets/img/me.jpg
 markdown: kramdown
 plugins:
   - jekyll-seo-tag
-repository: trewbot/anarchy.website
+repository: una-ada/anarchy.website
 social:
   name: Una J. Ada
   links:
-    - https://github.com/trewbot
-    - https://twitter.com/trewbot
+    - https://github.com/una-ada
+    - https://twitter.com/una__ada
     - https://www.youtube.com/channel/UC4HsBGB0z0g77wVdrCssgIQ
 theme: jekyll-theme-minimal
 title: anarchy.website
 twitter:
-  username: trewbot
+  username: una__ada
 url: https://anarchy.website

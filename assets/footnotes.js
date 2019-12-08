@@ -1,6 +1,6 @@
 /**
  *  Footnote Hover Expand
- *  @author Una Ada (Trewbot) <trewbot@phene.co>
+ *  @author Una Ada <una@anarchy.website>
  *
  *  Most of this is taken from
  *      https://github.com/pheneco/menu/blob/master/menu.js

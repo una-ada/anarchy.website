@@ -90,5 +90,5 @@ I feel like this is turning into an unorganized rant, maybe that's fitting.
 
 To summarize:
 
-<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">My official statement on <a href="https://twitter.com/hashtag/copgate?src=hash">#copgate</a>:<br><br>Danny Fetonte retire bitch</p>&mdash; Trevor Hoglund 🏴 (@trewbot) <a href="https://twitter.com/trewbot/status/896134166105866240">August 11, 2017</a></blockquote>
+<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">My official statement on <a href="https://twitter.com/hashtag/copgate?src=hash">#copgate</a>:<br><br>Danny Fetonte retire bitch</p>&mdash; REDACTED 🏴 (@trewbot) <a href="https://twitter.com/trewbot/status/896134166105866240">August 11, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

@@ -1,6 +1,6 @@
 ---
 author:
-- trewbot
+- una
 - shtpostscarcity
 description: >
     In this first installment of the Goth Angel Sinners podcast, our hosts

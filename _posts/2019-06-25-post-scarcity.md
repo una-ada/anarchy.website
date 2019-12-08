@@ -1,6 +1,6 @@
 ---
 author:
-- trewbot
+- una
 - shtpostscarcity
 description: >
     A couple of sleep deprived losers try to explain the philosophical and

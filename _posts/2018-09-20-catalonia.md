@@ -1,6 +1,6 @@
 ---
 author:
-- trewbot
+- una
 - shtpostscarcity
 description: >
     Join our hosts @trewbot and Chloe in this second installment of the Goth

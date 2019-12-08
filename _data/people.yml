@@ -1,15 +1,5 @@
 redacted:
-    add: 410 S. 3rd St., River Falls, WI 54016
-    bio: >
-        [REDACTED] is a Physics Option I and Mathematics major with a
-        minor in Computer Science, secretary of the UWRF Chapters of the Society
-        of Physics Students and the Association for Computing Machinery, and
-        treasurer of the Society for Undergraduate Research, Scholarly, and
-        Creative Activity.
-    dept: Physics Department, University of Wisconsin - River Falls
     name: "&lsqb;REDACTED&rsqb;"
-    email: trewbot@gmail.com
-    img: /assets/img/people/redacted.jpg
     url: https://una-ada.github.io
 michaubr2:
     add: 410 S. 3rd St., River Falls, WI 54016
@@ -21,8 +11,9 @@ una:
         Absurdist, multiverse philosopher, self-theory anarchist, transhumanist
         (any pronouns).
     dept: Phene Co.
-    name: Una J. Ada
-    name-ru: Уна Жай Ада
+    name: Una Ada
+    name-jp: ウナ・エイダ
+    name-ru: Уна Ада
     email: una@anarchy.website
     img: /assets/img/people/ada.jpg
     url: https://anarchy.website
