@@ -1,15 +1,27 @@
 <header>
     <script>
-        window.isDarkMode = true;
-        window.toggleDarkMode = function(){
-            if(isDarkMode){
-                isDarkMode = false;
-                document.getElementsByTagName('html')[0].classList.remove('dark');
-            } else {
-                isDarkMode = true;
-                document.getElementsByTagName('html')[0].classList.add('dark');
+        window.localCookies = {};
+        (window.parseCookies = ()=>document.cookie.split(';').map(
+            x=>{
+                let y = x.split('=');
+                localCookies[y[0].trim()]=y[1]
             }
+        ))();
+        console.log(localCookies);
+        window.isDarkMode =
+            document.getElementsByTagName('html')[0].classList.contains('dark');
+        window.toggleDarkMode = function(){
+            document.getElementsByTagName('html')[0].classList[
+                (isDarkMode = !isDarkMode) ? 'add' : 'remove'
+            ]('dark');
+            document.cookie = `dark=${isDarkMode}; path=/;`;
+            parseCookies();
         }
+        if(localCookies.dark == null){
+            document.cookie = `dark=${isDarkMode}; path=/; expires=${new Date(+new Date()+32e9).toUTCString()}; `;
+            parseCookies();
+        }
+        else if(isDarkMode !== eval(localCookies.dark)) toggleDarkMode();
     </script>
     <table>
         <tr>

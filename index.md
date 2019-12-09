@@ -2,8 +2,8 @@
 layout: index
 ---
 
-Welcome to **Anarchy.Website**, a site built as a 'blog' and archive by Una J.
-Ada (a.k.a. [@trewbot][5]) for hosting their written content. While the name of
+Welcome to **Anarchy.Website**, a site built as a 'blog' and archive by Una
+Ada for hosting their written content. While the name of
 the site implies a focus on anarchism, no such restriction exists, with much of
 the content here being [comedic fiction][10] or [notes][11] from classes.
 
@@ -14,7 +14,7 @@ the content here being [comedic fiction][10] or [notes][11] from classes.
 {: .pullquote .image}
 
 [Goth Angel Sinners][1] (abbr: 🥀👼🗡) is a podcast about anarchy, anarchists,
-and anarchism; hosted by [Una "Trewbot" Ada][2], [Chloe (Χλόη) Ross][3], and
+and anarchism; hosted by [Una Ada][2], [Chloe (Χλόη) Ross][3], and
 [Leland (@whimworm)][4]. The podcast is currently hosted on [anchor.fm][1].
 
 Episodes of the podcast (called "parts") are meant to be released regularly on
@@ -34,8 +34,8 @@ near death of the project.
 Nearly a year later, on July 9, 2018, the podcast [Neighbor Science][8] (then
 hosted by [Ryan Salisbury][14] and [Pieter de Beer][15]) hosted a ["Bloc
 Party"][17] to explain what the titular concept of the podcast meant, having on
-two guests to aid in the task: Trewbot and Chloe (Χλόη). After this special,
-Trew and Chloe decided the whole thing would have been better with just the two
+two guests to aid in the task: Una and Chloe (Χλόη). After this special,
+Una and Chloe decided the whole thing would have been better with just the two
 of them, thus revitalizing the concept of a podcast (co-)hosted by the former.
 
 This new podcast was built on the framework of NTF (namely by simply renaming
@@ -45,7 +45,7 @@ Sinners," a pluralized reference to the unreleased project by the late
 [Lil Peep][18] (RIP Lil Peep).
 
 The third episode ([Part III: Spiderman 3][19]) saw the introduction of a third
-co-host, [Leland (@whimworm)][4], who had collaborated with Trewbot on past
+co-host, [Leland (@whimworm)][4], who had collaborated with Una on past
 projects, e.g. the "Monthly Screenplays" with [@punished_picnic][20] (f.k.a.
 @ruined_picnic) available from ["The Picnic Archive"][21].
 
@@ -56,7 +56,6 @@ including the notes on the latest episode: [Part V: Post-Scarcity][7]
 [2]: https://anarchy.website/
 [3]: https://never-work.com/
 [4]: https://twitter.com/whimworm
-[5]: https://twitter.com/trewbot
 [6]: https://en.wikipedia.org/wiki/2017_Catalan_independence_referendum
 [7]: /podcast/5/notes
 [8]: http://www.neighborsciencepodcast.com/
