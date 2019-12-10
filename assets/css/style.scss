@@ -48,6 +48,7 @@ div:target {
 }
 .emoji { // Twemoji style
 	height:1rem;
+	width:1rem;
 }
 footer {
 	background: $primary;
@@ -143,7 +144,7 @@ img, video {
 	max-width: 100%;
 }
 li, p {
-	line-height: 1.5rem;
+	line-height: 1.6rem;
 	text-align: justify;
 }
 p>span.MathJax_SVG {
@@ -232,6 +233,43 @@ tr:nth-child(even) {
 	background: #f0f0f0;
 }
 
+// Ruby
+ruby {
+	display: inline-table;
+	vertical-align: 0.9rem;
+	margin-top: -0.25rem;
+}
+ruby * {
+	display: inline;
+	line-height: 1;
+	text-indent: 0;
+	text-align: center;
+	white-space: nowrap;
+}
+ruby > * {
+	display: table-row-group;
+}
+ruby > rt, ruby rtc {
+	display: table-header-group;
+	font-size: 60%;
+}
+ruby rtc + rtc {
+	display: table-footer-group;
+}
+ruby rbc > *, ruby rtc > * {
+	display: table-cell;
+}
+ruby rtc > *[rbspan] {
+	display: table-caption;
+}
+ruby rp {
+	display: none;
+}
+rtc > rt[rbspan] {
+	column-span: attr(rbspan);
+}
+
+// Dark Mode
 html.dark {
 	background:	#111;
 	color: white;
@@ -260,6 +298,7 @@ html.dark {
 	}
 }
 
+// Note color coding
 hist {
 	color: #4d8;
 }
