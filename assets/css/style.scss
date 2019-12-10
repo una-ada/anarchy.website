@@ -3,6 +3,21 @@
 
 @import 'prism.css';
 
+// Fonts
+@font-face {
+	font-family: 'M+1';
+	src: url('/assets/fonts/mplus-1-regular-sub.eot');
+	src: url('/assets/fonts/mplus-1-regular-sub.eot?#iefix') format('embedded-opentype'),
+	url('/assets/fonts/mplus-1-regular-sub.woff') format('woff'),
+	url('/assets/fonts/mplus-1-regular-sub.ttf') format('truetype');
+}
+@font-face {
+	font-family: 'M+1M';
+	src: url('/assets/fonts/mplus-1m-regular-sub.eot');
+	src: url('/assets/fonts/mplus-1m-regular-sub.eot?#iefix') format('embedded-opentype'),
+	url('/assets/fonts/mplus-1m-regular-sub.woff') format('woff'),
+	url('/assets/fonts/mplus-1m-regular-sub.ttf') format('truetype');
+}
 
 $primary:   #444;
 $pq-width:  18rem;
@@ -38,7 +53,11 @@ body {
 	text-indent: -2em;
 }
 code {
-	font-family: monospace;
+	background: #eee;
+	border-radius: 0.2rem;
+}
+code, pre {
+	font-family: 'M+1M', 'M+1', monospace;
 }
 center * {
 	text-align: center !important;
@@ -138,7 +157,7 @@ header {
 }
 html {
 	color: $primary;
-	font-size: 11pt;
+	font-size: 12pt;
 }
 img, video {
 	max-width: 100%;
@@ -156,6 +175,9 @@ pre {
 	overflow: auto;
 	padding: 1rem !important;
 	tab-size: 4;
+	code {
+		background: none !important;
+	}
 }
 .preview {
 	margin: 3rem 0;
@@ -278,6 +300,9 @@ html.dark {
 	}
 	blockquote {
 		border-left: 2px solid white;
+	}
+	code {
+		background: #222;
 	}
 	footer {
 		background: none;

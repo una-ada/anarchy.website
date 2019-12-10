@@ -352,7 +352,7 @@ provided by W3 does not work here).
 Is this good enough? Is this fine? It looks better than when I started, it's an
 improvement in that sense... but is it enough?
 
->   こんいちわ、元気？内はげんきではありません。内は寂しい。今日は漢字について話したいです。いいえ、あなたと話したいです。内は<ruby><rbc><rb>悲</rb></rbc><rtc><rt>かな</rt></rtc></ruby>しいです。
+>   こんにちわ、元気？内はげんきではありません。内は寂しい。今日は漢字について話したいです。いいえ、あなたと話したいです。内は<ruby><rbc><rb>悲</rb></rbc><rtc><rt>かな</rt></rtc></ruby>しいです。
 
 Initial tests with the block above show there are issues with vertical alignment
 that need addressing, it's aligning to the top of the text line, so the block
@@ -452,6 +452,8 @@ kind of blurred in my thoughts. For instance, what I'm going to be doing here
 will be in part creating a system for selecting content based on language, i18n,
 and also creating the content to be served per some given languages, l10n.
 
+### フォント
+
 Before doing anything too fancy, I want to once again address something that's
 been glaringly obvious to me while writing this all out: there is no monospace
 font defined in my stylesheet. This never really bothered me because my system
@@ -495,7 +497,128 @@ while and I should get some sleep. おやすみ❣
 
 <br><center>～ S L E E P ～ B R E A K ～</center><br>
 
-<https://www.ibm.com/plex/languages/>
+こんにちは,[^34] let's find some fucking fonts. A decent candidate would be
+IBM's [Plex][27]; aesthetically it's alright, it has a decent [roster of
+languages][28] which will supposedly include Japanese in 2020 or 2021... so I'd
+be playing the long game on something I'm not totally in love with.[^35]
+
+[^34]:  2019年12月10日, also notice how I'm saying こんにちは instead of おはよう.
+        That's right, I actually got some sleep.
+
+[^35]:  Also this site is a bit much, like wow. Oh and [fuck IBM][29].
+
+Fun thing I noticed while searching: Google Fonts now has [Noto Serif JP][30]. I
+believe this is [the same][31] as [Source Han Serif][32] which I've been getting
+thru TypeKit for this site. Probably just going to keep that as it is.[^36]
+
+[^36]:  It would be convenient to have everything served through one simple
+        system like Google Fonts. For instance, TypeKit uses JavaScript to load
+        the fonts, this means no CJK support for noscript. _But_ the reason it
+        uses JS for CJK is so that it only loads the necessary amount of the
+        font for that page. Truly a difficult decision here... could possibly
+        attempt to do a backup. YES. A `<noscript>` style include!?!?
+
+Continuing to search through i18n options, I stumbled on [a patch for
+Blender][33] that is meant to help display international glyphs in console... of
+course what use is a Blender path on a website? None, but it's a lead. The notes
+mention a few fonts, such as [DejaVu Mono][34] and more importantly [M+1M
+Regular][35]. Now M+ is a massive font family, something like 40+ different
+variations in style and weight, plus a bunch of language support. Relevant to
+narrow this variety down is obviously that we want monospace, at least within
+the Latin characters. Of the 7 Latin fonts within M+, 3 of them are considered
+fixed-halfwidth, i.e. each Latin character will be half the width of a Japanese
+character. These three are M+ M Type-1, M+ M Type-2, and M+ MN Type-1; the
+"Type-\*" refers to the main division of these fonts: -2 is a somewhat standard
+design, with all the curves and fancy stuff whereas -1 reduces much of this to
+straight lines whenever possible. Obviously we're going to want Type-1 then,
+since we're focused on simplicity for monospace. The question then becomes M or
+MN? What's the difference here? Well to quote directly now:[^37]
+
+[^37]:  <https://mplus-fonts.osdn.jp/about-en.html#multistyle-2>
+
+>   _"M+ M emphasize the balance of natural letterform and high legibility.
+    [...] M+ MN Type-1 is aimed as a new distinctive design for a terminal font
+    specialized to programming."_
+
+So that's what it says. But actually, [looking at it][36], I don't like its $ or
+its &amp;. That all narrows it down to M+ M Type-1! 🥳🎉
+
+Now to do some actual implementation.
+
+The easy solution as usual would just be to use Google Fonts... but their early
+access only has [M+1p][37]. Sad face. So look's like I'll be downloading the
+files and doing some custom code. Installing web fonts is... simply put, a huge
+pain in the ass. Generally you have an Embedded OpenType (`.eot`), Web Open Font
+Format (`.woff`), and TrueType (`.ttf`) files all loaded in by the CSS, like:
+
+```css
+@font-face {
+    font-family: 'My Font';
+    src: url('../fonts/my-font.eot');
+    src: url('../fonts/my-font.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/my-font.woff') format('woff'),
+    url('../fonts/my-font.ttf') format('truetype');
+}
+```
+
+I'm sure, as implied by the `#iefix` bit, this is something to do with
+cross-platform compatibility, but also it requires all three formats whereas the
+[download][38] on the M+ site merely gives you the `.ttf`. Perhaps that's where
+the [`/webfonts`][39] directory comes in... though it seems to have less
+coverage glyph-wise, it's still probably my best bet. Of course they do provide
+their own CSS to serve these from their own site, but that requires serving ALL
+of the `basic_latin/` folder and ALL of the `general_j/` folder.
+
+I just tried this on my local build, to see how everything looks, and I'm
+noticing a slight issue with `t` and `f` where the horizontal stroke looks too
+thick. This goes away when zooming in even one level, so it's just a sizing
+issue. Now, I've been struggling with the text size this whole time, see I was
+never comfortable with anything larger than 11pt on here, as I felt that it was
+too imposing on the screen; but with all this addition of ruby text and now this
+issue, I'm now inclined to up it to 12pt.[^38] Also, I previously had no styling
+to distinguish `<code>` from the rest of the text, as it was usually obvious due
+to context or the font choice, but now with this font being fairly similar
+(though with the fundamental difference of not being proportional) to the copy
+style I should do _something_ at the very least. This will of course mean a
+simple background color, and a little bit of rounding to soften it.
+
+[^38]:  Since nearly all the styling on this site is in relative units, I don't
+        really need to adjust anything when I change the font size, yay! Of
+        course it might be better to use the system font size so that people can
+        adjust it in their browser settings for accessibility. At the moment I'm
+        doing something like this:
+
+    ```css
+    html {font-size: 12pt;}
+    h1   {font-size: 2.5em;}
+    ```
+
+    I.e. setting my own definition for `1em`.
+
+```css
+code {
+    background: #eee;
+    border-radius: 0.2rem;
+}
+html.dark code {
+    background: #222;
+}
+```
+
+Back to the main topic, I downloaded the necessary fonts, added some
+`@font-face` code to my stylesheet. I think we're all good here now.[^39] Should
+probably test how the widths look, so here:
+
+[^39]:  I do think I should put up some licensing information somewhere when I
+        do things like this, so probably going to make some sort of `/about` to
+        explain all the libraries and such that are used on this site.
+
+```markup
+<ruby>
+    <rbc><rb>地</rb><rb>域</rb><rb>化</rb></rbc>
+    <rtc><rt>ち</rt><rt>いき</rt><rt>か</rt></rtc>
+</ruby>
+```
 
 <https://learn.cloudcannon.com/jekyll/date-formatting/>
 
@@ -638,3 +761,16 @@ path=/;';`[^24] line into our `toggleDarkMode` function and we're golden.
 [24]:   https://github.com/una-ada/anarchy.website/blob/master/_includes/header.html
 [25]:   https://kramdown.gettalong.org/quickref.html#block-attributes
 [26]:   https://www.w3.org/TR/ruby/#fig1.9
+[27]:   https://www.ibm.com/plex/
+[28]:   https://www.ibm.com/plex/languages/
+[29]:   https://en.wikipedia.org/wiki/IBM_during_World_War_II
+[30]:   https://fonts.google.com/specimen/Noto+Serif+JP
+[31]:   https://en.wikipedia.org/wiki/Source_Han_Serif
+[32]:   https://source.typekit.com/source-han-serif/
+[33]:   https://developer.blender.org/T34373
+[34]:   https://dejavu-fonts.github.io/
+[35]:   https://mplus-fonts.osdn.jp/
+[36]:   https://mplus-fonts.osdn.jp/design.html#mplus_mn1
+[37]:   https://googlefonts.github.io/japanese/#mplus1p
+[38]:   https://osdn.net/projects/mplus-fonts/releases/62344
+[39]:   http://mplus-fonts.osdn.jp/webfonts/
