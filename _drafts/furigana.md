@@ -4,6 +4,7 @@ description: >
     Sleep deprived ranting about ruby text, internationalization, localization,
     CSS3 support, monospace fonts, and some other stuff. Does this count as
     documentation? Am I doing a documentation here?
+lang: ja
 layout: post
 subtitle: Furigana and Localization on <i>Anarchy</i>.Website
 tags: localization programming blog web-dev
@@ -620,7 +621,151 @@ probably test how the widths look, so here:
 </ruby>
 ```
 
-<https://learn.cloudcannon.com/jekyll/date-formatting/>
+Also went and cleaned up my TypeKit font selection, forgot for some reason that
+Noto Sans was on there (even though it's already loaded with Google Fonts) and
+that I had Source Han Serif Regular which is actually never used since the serif
+style is only used for titles which are all bold.
+
+### テキスト
+
+This part should be easy. Take any text strings in the template for the site and
+replace them with localization strings. Easy as 1, 2, 3...
+
+Ok, so some of the template looks like this:[^40]
+
+[^40]:  This is written in Liquid, I just straight up put template code into my
+        post and assumed for god knows what reason that it would just display
+        as regular code. To be honest I had no idea how to escape this, I tried
+        backslashes before the tags, in the tags, after the tags, eventually
+        just Googled it and [someone said `literal` was the tag][41] which is
+        long and boring, luckily the [real tag is `raw`][40]. 🥵💦
+
+{% raw %}
+```
+You may share
+{% unless page.license contains "ND" %}
+    and/or modify
+{% endunless %}
+this work
+{% if page.license == "ZERO" %} unconditionally*.
+{% else %}
+    so long as your usage meets the following conditions: proper
+    credit must be given to the original author in a way that
+    does not imply endorsement from the licensor,
+    {% if page.license contains "NC" %}
+        the work is not used for any commercial purposes,
+    {% endif %}
+    {% if page.license contains "ND" %}
+        no modifications are done to the work,
+    {% else %}
+        there must be some indication if changes were made,
+    {% endif %}
+    {% if page.license contains "SA" %}
+        any modified version of the work is distributed under
+        the same license as the original,
+    {% endif %}
+    and a link to the license must be provided*.
+{% endif %}
+```
+{% endraw %}
+
+But really, that shouldn't be too bad, it's not like it's heavily dependent on
+the grammar remaining constant cross-linguistically. How's this: much of this is
+essentially shorthand, replacing specific parts of text under certain conditions
+rather than just rewriting the whole text. But also... I don't really know how
+to write this in Japanese _anyway_ so there's that issue too. I mean, it's just
+a rewritten version of the license descriptions, so there's probably
+translations for most of it somewhere.
+
+Well, anyway, let's start with something simpler:
+
+{% raw %}
+```markup
+<div class="byline">
+    {%if page.author%}
+        By
+        {%for author in page.author%}
+            {%assign auth = site.data.people[author]%}
+            {%if forloop.last == true and forloop.length > 1%}and{%endif%}
+            {%if auth.url%}<a href="{{auth.url}}">{%endif%}
+            {{auth.name}}
+            {%if auth.url%}</a>{%endif%}
+            {%unless forloop.length == 2 and forloop.index == 1%},{%endunless%}
+        {%endfor%}
+    {%endif%}
+    {{page.date|date:'%B %d, %Y'}}
+</div>
+```
+{% endraw %}
+
+This sucks because there are no ternary operators. Ok, ok, let's get it. First
+thought is to offload this all into a separate file. That way everything for
+localization can be handled in one place. Really wishing I could just do this
+all in JavaScript at this point... template strings 🤤.[^42] In theory this
+should end up looking like this:
+
+[^42]:  I've also been pretty salty about not being able to do mixins... though
+        it seems that might be possible using {%raw%}`{% include mixin.html
+        foo="bar" %}`{%endraw%}. Just some food for thought.
+
+{% raw %}
+```markup
+<div class="byline">
+    {{l10n.authors}} {{l10n.date}}
+</div>
+```
+{% endraw %}
+
+Flip a coin,[^41] decided on doing the date first. First we need to somehow
+declare an array called `l10n`... how? So, [you can't initialize arrays][42], a
+good start here. I fucking hate this language. I hate it so much. It makes me
+angry ever time I try typing a fucking `%`, when I have to add separate escape
+tags that are 9-12 characters long just to talk about it, when I try doing some
+basic fucking thing like make my own object, or even my own array. Jesus fucking
+christ I hate this. Anyway I guess they're just gonna be `l10n_authors` and
+`l10n_date` now.
+
+[^41]:  Literally decided I'd start with this two days ago, but y'know it sounds
+        better to say it was random since I don't have a real reason.
+
+General format here is just going to be a massive [case structure][43]. So here
+it is with the first example, [date formatting][44]:
+
+{% raw %}
+```
+{% case page.lang %}
+{% when 'ja' %}
+    {%- capture l10n_date -%}
+        {{ page.date | date: '%Y年%m月%d日' }}
+    {%- endcapture -%}
+{% else %}
+    {%- capture l10n_date -%}
+        {{ page.date | date: '%B %d, %Y' }}
+    {%- endcapture -%}
+{% endcase %}
+```
+{% endraw %}
+
+Also threw a little [whitespace control][45] in there, hopefully to reduce the
+complete illegibility of some of my template outputs, lol. Now it's mostly just
+a matter of going through and systematically writing translations for every text
+string used in my theme.
+
+Should note that `capture` is only used for these more templated variables, for
+just regular text it's a simple:
+
+{% raw %}
+```
+{%- assign l10n_tags = 'このポストのタグは' -%}
+```
+{% endraw %}
+
+Also, since I'll be adding a `lang` variable to the front matter, might as well
+actually use it in the `<html lang="*">` thing. This requires having a default
+though, which of course will be `en`. Other than that, I suppose that's it... I
+just have to finish translating the footer which will take a while, but it's not
+like I'm going to blog about trying to understand [the Japanese version of a
+Creative Commons license page][46].
 
 ## クッキー
 
@@ -774,3 +919,10 @@ path=/;';`[^24] line into our `toggleDarkMode` function and we're golden.
 [37]:   https://googlefonts.github.io/japanese/#mplus1p
 [38]:   https://osdn.net/projects/mplus-fonts/releases/62344
 [39]:   http://mplus-fonts.osdn.jp/webfonts/
+[40]:   https://github.com/Shopify/liquid/wiki/Liquid-for-Designers#raw
+[41]:   https://github.com/Shopify/liquid/issues/6#issuecomment-368073
+[42]:   https://help.shopify.com/en/themes/liquid/basics/types#array
+[43]:   https://github.com/Shopify/liquid/wiki/Liquid-for-Designers#case-statement
+[44]:   https://learn.cloudcannon.com/jekyll/date-formatting/
+[45]:   https://shopify.github.io/liquid/basics/whitespace/
+[46]:   https://creativecommons.org/licenses/by-sa/4.0/deed.ja
