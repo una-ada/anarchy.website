@@ -1,0 +1,55 @@
+{% case page.lang %}
+{% when 'ja' %}
+    {%- capture l10n_authors -%}
+        {%- if page.author -%}
+            {%- for author in page.author -%}
+                {%- assign auth = site.data.people[author] -%}
+                {%- if auth.url -%}
+                    <a href="{{auth.url}}">
+                {%- endif -%}
+                {%- if auth.name_ja -%}
+                    {{ auth.name_ja }}
+                {%- else -%}
+                    {{ auth.name }}
+                {%- endif -%}
+                {%- if auth.url -%}
+                    </a>
+                {%- endif -%}
+                、
+            {%- endfor -%}
+        {%- endif -%}
+    {%- endcapture -%}
+    {%- assign l10n_dark = 'ダークモード' -%}
+    {%- capture l10n_date -%}
+        {{ page.date | date: '%Y年%m月%d日' }}
+    {%- endcapture -%}
+    {%- assign l10n_tags = 'このポストのタグは' -%}
+{% else %}
+    {%- capture l10n_authors -%}
+        {%- if page.author -%}
+            By&nbsp;
+            {%- for author in page.author -%}
+                {%- assign auth = site.data.people[author] -%}
+                {%- if forloop.last == true and forloop.length > 1 -%}
+                    and&nbsp;
+                {%- endif -%}
+                {%- if auth.url -%}
+                    <a href="{{auth.url}}">
+                {%- endif -%}
+                {{ auth.name }}
+                {%- if auth.url -%}
+                    </a>
+                {%- endif -%}
+                {%- unless forloop.length == 2 and forloop.index == 1 -%}
+                    ,
+                {%- endunless -%}
+                &nbsp;
+            {%- endfor -%}
+        {%- endif -%}
+    {%- endcapture -%}
+    {%- assign l10n_dark = 'Toggle Dark Mode' -%}
+    {%- capture l10n_date -%}
+        {{ page.date | date: '%B %d, %Y' }}
+    {%- endcapture -%}
+    {%- assign l10n_tags = 'This post is tagged as' -%}
+{% endcase %}

@@ -1,11 +1,10 @@
 <footer>
     {% if page.tags %}
-        <p>This post is tagged as:
-            {% assign sorttags = page.tags | sort %}
-            {% for tag in sorttags %}
-                {% capture tag_name %}{{ tag }}{% endcapture %}
-                <a href="/tag/#{{ tag_name }}">{{ tag_name }}</a>
-            {% endfor %}
+        <p>{{l10n_tags}}:&nbsp;
+            {%- assign sorttags = page.tags | sort -%}
+            {%- for tag in sorttags -%}
+                <a href="/tag/#{{ tag }}">{{ tag }}</a>&nbsp;
+            {%- endfor -%}
         </p>
     {% endif %}
     <center>

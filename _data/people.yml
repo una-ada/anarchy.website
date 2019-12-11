@@ -12,8 +12,8 @@ una:
         (any pronouns).
     dept: Phene Co.
     name: Una Ada
-    name-jp: ウナ・エイダ
-    name-ru: Уна Ада
+    name_ja: ウナ・エイダ
+    name_ru: Уна Ада
     email: una@anarchy.website
     img: /assets/img/people/ada.jpg
     url: https://anarchy.website

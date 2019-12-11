@@ -1,5 +1,10 @@
 <!doctype html>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" class="dark">
+<html
+    xmlns="http://www.w3.org/1999/xhtml"
+    xml:lang="{{ page.lang | default: 'en' }}"
+    lang="{{ page.lang | default: 'en' }}"
+    class="dark"
+>
 {%include head.html%}
 <body>
     {%include header.html%}
@@ -14,15 +19,7 @@
         <h3 class="subtitle">{{page.subtitle}}</h3>
     {%endif%}
     <div class="byline">
-        {%if page.author%}
-            By
-            {%for author in page.author%}
-                {%assign auth = site.data.people[author]%}
-                {%if forloop.last == true and forloop.length > 1%}and{%endif%}
-                {%if auth.url%}<a href="{{auth.url}}">{%endif%}{{auth.name}}{%if auth.url%}</a>{%endif%}{%unless forloop.length == 2 and forloop.index == 1%},{%endunless%}
-            {%endfor%}
-        {%endif%}
-        {{page.date|date:'%B %d, %Y'}}
+        {{ l10n_authors }}{{ l10n_date }}
     </div>
     <div class="content">
         {{content}}
