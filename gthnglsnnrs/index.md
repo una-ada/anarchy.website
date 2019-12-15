@@ -47,6 +47,11 @@ projects, e.g. the "Monthly Screenplays" with [@punished_picnic][20] (f.k.a.
 Posts related to Goth Angel Sinners on this site are tagged as [#podcast][9],
 including the notes on the latest episode: [Part V: Post-Scarcity][7]
 
+{% assign relevant = site.posts | where: "series","gthnglsnnrs" %}
+{%- for post in relevant limit:7 -%}
+    {%- include preview.html post=post -%}
+{%- endfor -%}
+
 [1]: https://anchor.fm/gthnglsnnrs
 [2]: https://anarchy.website/
 [3]: https://never-work.com/
