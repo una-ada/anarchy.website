@@ -6,9 +6,12 @@ description: >
     A couple of sleep deprived losers try to explain the philosophical and
     ecological necessity and implications of post-scarcity as a quote unquote
     economic mode.
+entry: V Notes
 image: /assets/img/gas/postscarcity.jpg
-layout: post-img
-permalink: /podcast/5/notes
+layout: post
+permalink: /gthnglsnnrs/5/notes
+replace_title: true
+series: gthnglsnnrs
 tags: podcast notes outline collaboration
 title: "Goth Angel Sinners Pt. V: <i>Post-Scarcity</i> Notes"
 ---

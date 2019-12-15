@@ -11,10 +11,25 @@
     {%if page.series%}
         {%assign ser = site.data.series[page.series]%}
         <div class="series">
-            {%if ser.url%}<a href="{{ser.url}}">{%endif%}<em>{{ser.title}}</em>{%if ser.url%}</a>{%endif%}{%if ser.set%} {{ser.set}} {{page.set}},{%endif%} {%if ser.entry%}{{ser.entry}} {%endif%}{{page.entry}}
+            {%- if ser.url -%}<a href="{{ser.url}}">{%- endif -%}
+                <em>{{ser.title}}</em>
+            {%- if ser.url -%}</a>{%- endif -%}
+            &nbsp;&ndash;&nbsp;
+            {%- if ser.set -%}{{ser.set}} {{page.set}},&nbsp;{%- endif -%}
+            {%- if ser.entry -%}{{ser.entry}}&nbsp;{%- endif -%}{{page.entry}}
         </div>
     {%endif%}
-    <h1>{{page.title}}</h1>
+    {%- if page.image and page.replace_title -%}
+        <img class="title-card" alt="{{page.title | strip_html}}" src="{{page.image}}"/>
+    {%- else -%}
+        <h1><!-- Sometimes strip_html simply isn't enough (like ruby text) -->
+            {%- if page.stylized_title -%}
+                {{page.stylized_title}}
+            {%- else -%}
+                {{page.title}}
+            {%- endif -%}
+        </h1>
+    {%- endif -%}
     {%if page.subtitle%}
         <h3 class="subtitle">{{page.subtitle}}</h3>
     {%endif%}

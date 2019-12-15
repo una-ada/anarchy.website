@@ -1,9 +1,30 @@
+acmmin:
+    abbr: UWRF ACM
+    entry: Meeting
+    title: UWRF ACM Chapter
+    type: series
 atil:
     abbr: ATIL
     entry: Issue
     title: All That Is Left
     type: publication
     url: https://atil.xyz/
+gthnglsnnrs:
+    abbr: 🥀👼🗡
+    entry: Part
+    title: Goth Angel Sinners
+    type: series
+    url: /gthnglsnnrs/
+hakkenteki:
+    entry: Ch.
+    set: Vol.
+    title: Hakkenteki
+    title_ja: >
+        <ruby>
+            <rtc><rt>はっ</rt><rt>けん</rt><rt>てき</rt></rtc>
+            <rbc><rb>発</rb><rb>見</rb><rb>的</rb>
+        </ruby>
+    type: series
 langandpsych:
     abbr: Iss in Lang & Psych
     entry: Part
@@ -15,8 +36,3 @@ uwrfvoice:
     title: Student Voice
     type: publication
     url: https://uwrfvoice.com/
-acmmin:
-    abbr: UWRF ACM
-    entry: Meeting
-    title: UWRF ACM Chapter
-    type: series

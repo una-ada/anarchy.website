@@ -6,9 +6,12 @@ author:
 description: >
     We're not a history podcast and nobody actually knows what happened in Paris
     in 1871.
+entry: IV Notes
 image: /assets/img/gas/paris.jpg
-layout: post-img
-permalink: /podcast/4/notes
+layout: post
+permalink: /gthnglsnnrs/4/notes
+replace_title: true
+series: gthnglsnnrs
 tags: podcast notes outline collaboration
 title: "Goth Angel Sinners Pt. IV: <i>The Paris Commune</i> Notes"
 ---

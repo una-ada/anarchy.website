@@ -8,9 +8,12 @@ description: >
     extremely controversial topic that is the morality of shoplifting. Join us
     for this exciting discussion about loss prevention, optimization, morality,
     and absentee ownership.
+entry: I Notes
 image: /assets/img/gas/shoplifting.jpg
-layout: post-img
-permalink: /podcast/1/notes
+layout: post
+permalink: /gthnglsnnrs/1/notes
+replace_title: true
+series: gthnglsnnrs
 tags: podcast notes outline collaboration
 title: "Goth Angel Sinners Pt. I: <i>Shoplifting</i> Notes"
 ---

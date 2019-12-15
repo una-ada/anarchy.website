@@ -7,9 +7,12 @@ description: >
     Angel Sinners podcast for an interview with senatorial candidate Jae Em
     Carico and discussions about the CNT, Revolutionary Catalonia, the Spanish
     Civil War, and the 2017 Catalan Independence Referendum.
+entry: II Notes
 image: /assets/img/gas/catalonia.jpg
-layout: post-img
-permalink: /podcast/2/notes
+layout: post
+permalink: /gthnglsnnrs/2/notes
+replace_title: true
+series: gthnglsnnrs
 tags: podcast notes outline collaboration
 title: "Goth Angel Sinners Pt. II: <i>Catalonia</i> Notes"
 ---
