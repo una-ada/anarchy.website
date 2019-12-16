@@ -113,20 +113,33 @@ footer a {
 h1, h2, h3, h4 {
 	font-family:'mencken-std','source-han-serif-japanese',serif;
 	font-weight: 700;
+	code {
+		background: none !important;
+		line-height: 1;
+	}
 }
 h1 a, h2 a, h3 a, h4 a{
 	text-decoration: none;
 }
 h1 {
-	font-size: 2.5em;
+	font-size: 2.5rem;
 	margin: 0.5rem 0;
+	ruby {
+		vertical-align: 2.25rem;
+	}
 }
 h2 {
 	font-size: 2em;
 	margin-top: 3em;
+	ruby {
+		vertical-align: 1.8rem;
+	}
 }
 h3 {
 	font-size: 1.5em;
+	ruby {
+		vertical-align: 1.35rem;
+	}
 }
 hr {
 	background: $primary;
@@ -237,8 +250,32 @@ table {
 	margin: 1em 0;
 	width: 100%;
 }
+table.sidebar {
+	border: 1px solid $primary;
+	float: right;
+	font-size: 0.8rem;
+	font-weight: normal;
+	margin-left: 1rem;
+	text-align: left;
+	td {
+		vertical-align: top;
+		padding: 0.2rem;
+	}
+	thead {
+		font-size: 1rem;
+	}
+	th {
+		border-bottom: 1px solid $primary;
+		font-weight: normal;
+		text-align: center;
+	}
+	tr.tsection {
+		text-align: center;
+	}
+	width: $pq-width;
+}
 thead {
-	font-family: 'Noto Sans', sans-serif;
+	font-family: 'Noto Sans', 'source-han-sans-japanese', sans-serif;
 	font-weight: bold;
 }
 thead td,
@@ -253,6 +290,10 @@ thead th {
 }
 tr:nth-child(even) {
 	background: #f0f0f0;
+}
+tr.tsection {
+	background: none !important;
+	border: 1px solid $primary;
 }
 
 // Ruby
@@ -318,8 +359,17 @@ html.dark {
 	pre {
 		background: #111;
 	}
+	table.sidebar {
+		border: 1px solid white !important;
+		th {
+			border-bottom: 1px solid white !important;
+		}
+	}
 	tr:nth-child(even) {
 		background: #181818;
+	}
+	tr.tsection {
+		border: 1px solid white !important;
 	}
 }
 
@@ -340,7 +390,7 @@ twitterwidget, twitter-widget {
 
 // Mobile and print
 @media print, screen and (max-width: $width + $pq-width) {
-	.pullquote	{
+	.pullquote {
 		float: none !important;
 		margin: 0 auto !important;
 	}
@@ -349,13 +399,19 @@ twitterwidget, twitter-widget {
 		width: 100%;
 	}
 }
-@media print, screen and (max-width: $width) {
+@media print, screen and (max-width: $width + 2rem) {
 	body {
 		margin: 1.5rem 1rem !important;
 		position: static;
 		width: auto !important;
 		text-align: left;
 	}
+}
+@media print, screen and (max-width: $pq-width * 2) {
+	.sidebar {
+	   float: none !important;
+	   margin: 0 auto !important;
+   }
 }
 @media print, screen and (max-width: 500px){
 	.footnotes {
