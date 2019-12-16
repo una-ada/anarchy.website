@@ -27,6 +27,22 @@
         <tr>
             <td>
                 <a href="{{site.url}}">anarchy.website</a>
+                {%- if page.series -%}
+                    {%- assign series = site.data.series[page.series] -%}
+                    {%- if series.type == "series" -%}
+                        &nbsp;/&nbsp;
+                        {%- if series.url -%}<a href="{{series.url}}">{%- endif -%}
+                            {{ series.title }}
+                        {%- if series.url -%}</a>{%- endif -%}
+                        {%- if page.entry -%}
+                            &nbsp;/&nbsp;
+                            {%- if series.entry -%}
+                                {{ series.entry }}&nbsp;
+                            {%- endif -%}
+                            {{ page.entry }}
+                        {%- endif -%}
+                    {%- endif -%}
+                {%- endif -%}
             </td>
             <td style="text-align:right;">
                 <a id="darkModeButton" href="javascript:toggleDarkMode()">{{l10n_dark}}</a>

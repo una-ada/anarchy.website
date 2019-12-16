@@ -2,7 +2,7 @@ acmmin:
     abbr: UWRF ACM
     entry: Meeting
     title: UWRF ACM Chapter
-    type: series
+    type: other
 atil:
     abbr: ATIL
     entry: Issue
@@ -16,7 +16,6 @@ gthnglsnnrs:
     type: series
     url: /gthnglsnnrs/
 hakkenteki:
-    entry: Ch.
     title: Hakkenteki
     title_ja: >
         <ruby>
