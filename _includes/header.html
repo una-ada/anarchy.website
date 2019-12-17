@@ -22,6 +22,9 @@
             parseCookies();
         }
         else if(isDarkMode !== eval(localCookies.dark)) toggleDarkMode();
+        document.addEventListener('keypress',e=>{
+            if(e.keyCode == 68 && e.shiftKey) toggleDarkMode();
+        });
     </script>
     <table>
         <tr>
@@ -45,7 +48,8 @@
                 {%- endif -%}
             </td>
             <td style="text-align:right;">
-                <a id="darkModeButton" href="javascript:toggleDarkMode()">{{l10n_dark}}</a>
+                <a id="darkModeButton" href="javascript:toggleDarkMode()"
+                    title="Shift+D">{{l10n_dark}}</a>
             </td>
         </tr>
     </table>
