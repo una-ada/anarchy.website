@@ -76,9 +76,12 @@ footer {
 	margin: 4rem 0 0 0;
 	min-height: 50vh;
 	padding: 1rem;
-}
-footer a {
-	color: $secondary;
+	a {
+		color: $secondary;
+	}
+	code {
+		background: none !important;
+	}
 }
 .footnote {
 	text-decoration: none;
