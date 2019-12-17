@@ -371,7 +371,20 @@ html.dark {
 	tr.tsection {
 		border: 1px solid white !important;
 	}
+	.light-mode-only {
+		display: none;
+	}
+	.dark-mode-only {
+		display: block;
+	}
 }
+.light-mode-only {
+	display: block;
+}
+.dark-mode-only {
+	display: none;
+}
+
 
 // Note color coding
 hist {
