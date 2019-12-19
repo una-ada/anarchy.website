@@ -35,9 +35,13 @@
     {%if page.subtitle%}
         <h3 class="subtitle">{{page.subtitle}}</h3>
     {%endif%}
-    <div class="byline">
-        {{ l10n_authors }}{{ l10n_date }}
-    </div>
+    {%- if page.author and page.date -%}
+        <div class="byline">
+            {{ l10n_authors }}{{ l10n_date }}
+        </div>
+    {%- else -%}
+        <hr/>
+    {%- endif -%}
     <div class="content">
         {{content}}
     </div>

@@ -222,6 +222,14 @@ pre {
 	font-size: 1rem;
 	font-weight: normal;
 }
+.signature {
+	display: block;
+	text-align: right;
+	width: 100%;
+}
+.section-break {
+	margin-top: 6rem;
+}
 small {
 	font-size: 0.8rem;
 	text-align: justify;
@@ -260,6 +268,7 @@ table.sidebar {
 	font-size: 0.8rem;
 	font-weight: normal;
 	margin-left: 1rem;
+	margin-top: 0;
 	text-align: left;
 	td {
 		vertical-align: top;
