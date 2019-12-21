@@ -19,6 +19,12 @@
 	url('/assets/fonts/mplus-1m-regular-sub.ttf') format('truetype');
 }
 
+$copy-font: 'Noto Sans', 'source-han-sans-japanese', sans-serif;
+$mono-font: 'M+1M', 'M+1', monospace;
+$title-font: 'mencken-std', 'source-han-serif-japanese', serif;
+
+// Colors and sizes
+$line-height: 1.6;
 $primary:   #444;
 $pq-width:  18rem;
 $secondary: white;
@@ -40,7 +46,7 @@ blockquote p {
 	margin:0.5rem 0;
 }
 body {
-	font-family:'Noto Sans', 'source-han-sans-japanese', sans-serif;
+	font-family: $copy-font;
 	margin: 1.5rem auto 0 auto;
 	width: $width;
 }
@@ -57,13 +63,28 @@ code {
 	border-radius: 0.2rem;
 }
 code, pre {
-	font-family: 'M+1M', 'M+1', monospace;
+	font-family: $mono-font;
 }
 center * {
 	text-align: center !important;
 }
 div:target {
 	background: #eee;
+}
+.dropcap::first-letter {
+	float: left;
+	font-family: $title-font;
+	font-weight: bold;
+	font-size: $line-height * 2rem;
+	line-height: 1em;
+	margin-bottom: -1rem;
+	padding-right: 0.5rem;
+	text-transform: uppercase;
+}
+.dropcap span:first-child {
+	font-family: $title-font;
+	font-weight: bold;
+	text-transform: uppercase;
 }
 .emoji { // Twemoji style
 	height:1rem;
@@ -114,7 +135,7 @@ footer {
 	margin: 0;
 }
 h1, h2, h3, h4 {
-	font-family:'mencken-std','source-han-serif-japanese',serif;
+	font-family: $title-font;
 	font-weight: 700;
 	line-height: 1.2em;
 	code {
@@ -128,22 +149,13 @@ h1 a, h2 a, h3 a, h4 a{
 h1 {
 	font-size: 2.5rem;
 	margin: 0.5rem 0;
-	ruby {
-		vertical-align: 2.25rem;
-	}
 }
 h2 {
 	font-size: 2em;
 	margin-top: 3em;
-	ruby {
-		vertical-align: 1.8rem;
-	}
 }
 h3 {
 	font-size: 1.5em;
-	ruby {
-		vertical-align: 1.35rem;
-	}
 }
 hr {
 	background: $primary;
@@ -180,7 +192,7 @@ img, video {
 	max-width: 100%;
 }
 li, p {
-	line-height: 1.6rem;
+	line-height: $line-height;
 	text-align: justify;
 }
 p>span.MathJax_SVG {
@@ -312,8 +324,8 @@ tr.tsection {
 // Ruby
 ruby {
 	display: inline-table;
-	vertical-align: 0.9rem;
-	margin-top: -0.25rem;
+	vertical-align: 0.95em;
+	margin-top: -0.25em;
 }
 ruby * {
 	display: inline;
