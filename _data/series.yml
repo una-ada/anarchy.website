@@ -16,13 +16,17 @@ gthnglsnnrs:
     type: series
     url: /gthnglsnnrs/
 hakkenteki:
+    abbr: HKT
     title: Hakkenteki
-    title_ja: >
+    title_ja: 発見的
+    title_stylized: >
         <ruby>
-            <rtc><rt>はっ</rt><rt>けん</rt><rt>てき</rt></rtc>
-            <rbc><rb>発</rb><rb>見</rb><rb>的</rb>
+            <rtc>はっけんてき</rtc>
+            <rbc>『発見的』</rbc>
+            <rtc>Hakkenteki</rtc>
         </ruby>
     type: series
+    url: /hakkenteki/
 langandpsych:
     abbr: Iss in Lang & Psych
     entry: Part

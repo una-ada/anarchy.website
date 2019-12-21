@@ -195,6 +195,29 @@ li, p {
 	line-height: $line-height;
 	text-align: justify;
 }
+.navigation {
+	margin-top: 6rem;
+	width: 100%;
+	.navigation-caption {
+		text-align: center;
+		width: 100%;
+	}
+	.navigation-previous {
+		text-align: right;
+		width: 48%;
+	}
+	.navigation-center {
+		text-align: center;
+		width: 4%;
+	}
+	.navigation-next {
+		text-align: left;
+		width: 48%;
+	}
+	table {
+		margin: 0;
+	}
+}
 p>span.MathJax_SVG {
 	margin-bottom: -1em !important;
 }
