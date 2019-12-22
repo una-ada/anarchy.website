@@ -56,20 +56,9 @@
     {% if page.license %}
         <p>&ldquo;{{page.title | default: site.github.repository_name}}&rdquo;
             {% if page.license == "ZERO" or page.license contains "BY" %}
-                is licensed under a
-        <a
-    href="https://creativecommons.org/licenses/{{page.license|downcase}}/{%if page.license=="ZERO"%}1.0{%else%}4.0{%endif%}/">
-                    Creative Commons
-                    {% if page.license == "ZERO" %}
-                        CC0 1.0 Universal Public Domain Dedication
-                    {% else %}
-                    {% if page.license contains "BY"
-                    %}Attribution{% endif %}{% if page.license contains "NC"
-                    %}-NonCommercial{% endif %}{% if page.license contains "ND"
-                    %}-NoDerivatives{% endif %}{% if page.license contains "SA"
-                    %}-ShareAlike{% endif %} 4.0 International License
-                    {% endif %}
-                </a>.
+                is licensed under <a
+                    href="https://creativecommons.org/licenses/{{page.license|downcase}}/{%if page.license=="ZERO"%}1.0{%else%}4.0{%endif%}/"
+                >{{l10n_license}}</a>.
                 You may share
                 {% unless page.license contains "ND" %}
                     and/or modify
@@ -151,7 +140,5 @@
         TWITTER, TWEET, RETWEET and the Twitter logo are trademarks of Twitter,
         Inc. or its affiliates
     </p>
-    <p>
-        * This is not legal advice.
-    </p>
+    <p>{{l10n_disclaim}}</p>
 </footer>

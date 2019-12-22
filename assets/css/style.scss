@@ -93,7 +93,8 @@ div:target {
 footer {
 	background: $primary;
 	color: $secondary;
-	font-size: 10pt;
+	font-size: 14px;
+	font-family: $mono-font;
 	margin: 4rem 0 0 0;
 	min-height: 50vh;
 	padding: 1rem;
@@ -102,6 +103,10 @@ footer {
 	}
 	code {
 		background: none !important;
+	}
+	p {
+		line-height: 1.2;
+		text-align: left;
 	}
 }
 .footnote {
@@ -196,26 +201,25 @@ li, p {
 	text-align: justify;
 }
 .navigation {
+	display: flex;
 	margin-top: 6rem;
 	width: 100%;
-	.navigation-caption {
-		text-align: center;
-		width: 100%;
-	}
 	.navigation-previous {
 		text-align: right;
-		width: 48%;
+		flex: 0 1 50%;
+		order: -1;
 	}
 	.navigation-center {
 		text-align: center;
-		width: 4%;
+		flex: 1 0 0;
+		order: 0;
+		padding: 0 0.5rem;
+		white-space: nowrap;
 	}
 	.navigation-next {
 		text-align: left;
-		width: 48%;
-	}
-	table {
-		margin: 0;
+		flex: 0 1 50%;
+		order: 1;
 	}
 }
 p>span.MathJax_SVG {

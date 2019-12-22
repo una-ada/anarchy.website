@@ -5,26 +5,23 @@
     {%- assign prev = series_posts | where: "series_index", prev_index | first -%}
     {%- assign next = series_posts | where: "series_index", next_index | first -%}
     <div class="navigation">
-        <div class="navigation-caption">
+        <div class="navigation-previous">
+            {%- if prev -%}
+                <a href="{{prev.url}}">{{prev.title}}</a>　&larr; {{l10n_prev}}
+            {%- endif -%}</div>
+        <div class="navigation-center">
             {%- if ser.url -%}<a href="{{ser.url}}">{%- endif -%}
-                {{ser.title_stylized}}
+                {%- if ser.title_stylized -%}
+                    {{ser.title_stylized}}
+                {%- else -%}
+                    {{ser.title}}
+                {%- endif -%}
             {%- if ser.url -%}</a>{%- endif -%}
         </div>
-        {%- if prev or next -%}
-        <table>
-            <tr>
-                <td class="navigation-previous">
-                    {%- if prev -%}
-                        <a href="{{prev.url}}">{{prev.title}}</a>　&larr;
-                    {%- endif -%}</td>
-                <td class="navigation-center">&bull;</td>
-                <td class="navigation-next">
-                    {%- if next -%}
-                        &rarr;　<a href="{{next.url}}">{{next.title}}</a>
-                    {%- endif -%}
-                </td>
-            </tr>
-        </table>
-        {%- endif -%}
+        <div class="navigation-next">
+            {%- if next -%}
+                {{l10n_next}} &rarr;　<a href="{{next.url}}">{{next.title}}</a>
+            {%- endif -%}
+        </div>
     </div>
 {%- endif -%}

@@ -30,12 +30,11 @@
         <tr>
             <td>
                 <a href="{{site.url}}">anarchy.website</a>
-                {%- if page.series -%}
-                    {%- assign series = site.data.series[page.series] -%}
+                {%- if series -%}
                     {%- if series.type == "series" -%}
                         &nbsp;/&nbsp;
                         {%- if series.url -%}<a href="{{series.url}}">{%- endif -%}
-                            {{ series.title }}
+                            {{ l10n_series }}
                         {%- if series.url -%}</a>{%- endif -%}
                         {%- if page.entry -%}
                             &nbsp;/&nbsp;

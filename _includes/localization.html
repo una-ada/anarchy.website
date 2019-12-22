@@ -1,3 +1,7 @@
+{%- if page.series -%}
+    {%- assign series = site.data.series[page.series] -%}
+{%- endif -%}
+
 {% case page.lang %}
 {% when 'ja' %}
     {%- capture l10n_authors -%}
@@ -23,7 +27,44 @@
     {%- capture l10n_date -%}
         {{ page.date | date: '%Y年%m月%d日' }}
     {%- endcapture -%}
+    {%- assign l10n_next = '次' -%}
+    {%- assign l10n_prev = '前' -%}
+    {%- capture l10n_series -%}
+        {%- if series.title_ja -%}
+            {{ series.title_ja }}
+        {%- else -%}
+            {{ series.title }}
+        {%- endif -%}
+    {%- endcapture -%}
     {%- assign l10n_tags = 'このポストのタグは' -%}
+
+    {%- capture l10n_disclaim -%}
+        ※これは<ruby>
+            <rtc><rt>べんごし</rt><rt></rt><rt>そうだん</rt></rtc>
+            <rbc><rb>弁護士</rb><rb>に</rb><rb>相談</rb></rbc>
+        </ruby>ではありません。
+    {%- endcapture -%}
+    {%- capture l10n_license -%}
+        Creative Commons&nbsp;
+        {%- if page.license == "ZERO" -%}
+            CC0 1.0 全世界
+        {%- else -%}
+        {%- if page.license contains "BY" -%}
+            表示
+        {%- endif -%}
+        {%- if page.license contains "NC" -%}
+            &nbsp;- 非営利
+        {%- endif -%}
+        {%- if page.license contains "ND" -%}
+            &nbsp;- 改変禁止
+        {%- endif -%}
+        {%- if page.license contains "SA" -%}
+            &nbsp;- 継承
+        {%- endif -%}
+            &nbsp;4.0 国際
+        {%- endif -%}
+    {%- endcapture -%}
+
 {% else %}
     {%- capture l10n_authors -%}
         {%- if page.author -%}
@@ -51,5 +92,30 @@
     {%- capture l10n_date -%}
         {{ page.date | date: '%B %d, %Y' }}
     {%- endcapture -%}
-    {%- assign l10n_tags = 'This post is tagged as' -%}
+    {%- assign l10n_next = 'Next' -%}
+    {%- assign l10n_prev = 'Prev' -%}
+    {%- assign l10n_series = series.title -%}
+    {%- assign l10n_tags = 'This post is tagged' -%}
+
+    {%- assign l10n_disclaim = '*This is not legal advice.' -%}
+    {%- capture l10n_license -%}
+        Creative Commons&nbsp;
+        {%- if page.license == "ZERO" -%}
+            CC0 1.0 Universal
+        {%- else -%}
+        {%- if page.license contains "BY" -%}
+            Attribution
+        {%- endif -%}
+        {%- if page.license contains "NC" -%}
+            -NonCommercial
+        {%- endif -%}
+        {%- if page.license contains "ND" -%}
+            -NoDerivatives
+        {%- endif -%}
+        {%- if page.license contains "SA" -%}
+            -ShareAlike
+        {%- endif -%}
+            &nbsp;4.0 International
+        {%- endif -%}
+    {%- endcapture -%}
 {% endcase %}
