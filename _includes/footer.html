@@ -3,8 +3,8 @@
         <p>{{l10n_tags}}:&nbsp;
             {%- assign sorttags = page.tags | sort -%}
             {%- for tag in sorttags -%}
-                <a href="/tag/#{{ tag }}">{{ tag }}</a>&nbsp;
-            {%- endfor -%}
+                <a href="/tag/#{{ tag }}">{{ tag }}</a>
+            {% endfor %}
         </p>
     {% endif %}
     <center>

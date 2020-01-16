@@ -46,7 +46,19 @@
         {{content}}
     </div>
     {%- include navigation.html -%}
-    <script>twemoji.parse(document.body)</script>
+    <script>twemoji.parse(document.body, {
+        callback: function(icon, op, variant){
+            switch(icon){
+                case '203c':    // Double exclamation
+                case '2640':    // Female sign
+                case '2642':    // Male sign
+                case '26a7':    // Transgender sign
+                case '3030':    // Wavy dash
+                    return false;
+            }
+            return ''.concat(op.base, op.size, '/', icon, op.ext);
+        }
+    })</script>
     {%include footer.html%}
 </body>
 </html>

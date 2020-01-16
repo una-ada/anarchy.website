@@ -24,7 +24,7 @@ $mono-font: 'M+1M', 'M+1', monospace;
 $title-font: 'mencken-std', 'source-han-serif-japanese', serif;
 
 // Colors and sizes
-$line-height: 1.6;
+$line-height: 1.7;
 $primary:   #444;
 $pq-width:  18rem;
 $secondary: white;
@@ -36,6 +36,9 @@ $width:     48rem;
 a {
 	text-decoration: underline;
 	color: $tertiary;
+}
+a ruby rb, a ruby rbc {
+	text-decoration: underline;
 }
 blockquote {
 	border-left: 2px solid $primary;
@@ -65,8 +68,17 @@ code {
 code, pre {
 	font-family: $mono-font;
 }
+.centered,
 center * {
 	text-align: center !important;
+}
+.dialogue {
+	td {
+		width: 40%;
+	}
+	td:first-child {
+		width: 20%;
+	}
 }
 div:target {
 	background: #eee;
@@ -87,8 +99,17 @@ div:target {
 	text-transform: uppercase;
 }
 .emoji { // Twemoji style
-	height:1rem;
-	width:1rem;
+	height:1em;
+	vertical-align: -0.1em;
+	width:1em;
+}
+.extra-tl {
+	td:first-child {
+		width: 15%;
+	}
+	td {
+		width: calc(85% / 3);
+	}
 }
 footer {
 	background: $primary;
@@ -161,6 +182,7 @@ h2 {
 }
 h3 {
 	font-size: 1.5em;
+	margin-top: 2em;
 }
 hr {
 	background: $primary;
@@ -177,8 +199,9 @@ header {
 	background: #fff;
 	box-shadow: 0 5px 5px -3px rgba(0,0,0,.2), 0 8px 10px 1px rgba(0,0,0,.14), 0 3px 14px 2px rgba(0,0,0,.12);
 	display: none;
+	font-size: 0.8rem;
 	max-width: $width / 2;
-	padding: 10px;
+	padding: 1em;
 	position: fixed;
 	transition: opacity 0.5s;
 	-webkit-transition: opacity 0.5s;
@@ -301,6 +324,11 @@ table {
 	margin: 1em 0;
 	width: 100%;
 }
+td, th {
+	line-height: $line-height;
+	padding: 0.3rem;
+	vertical-align: initial;
+}
 table.sidebar {
 	border: 1px solid $primary;
 	float: right;
@@ -319,9 +347,6 @@ table.sidebar {
 	th {
 		border-bottom: 1px solid $primary;
 		font-weight: normal;
-		text-align: center;
-	}
-	tr.tsection {
 		text-align: center;
 	}
 	width: $pq-width;
@@ -346,6 +371,7 @@ tr:nth-child(even) {
 tr.tsection {
 	background: none !important;
 	border: 1px solid $primary;
+	text-align: center;
 }
 
 // Ruby
@@ -366,6 +392,7 @@ ruby > * {
 }
 ruby > rt, ruby rtc {
 	display: table-header-group;
+	font-family: $mono-font;
 	font-size: 60%;
 }
 ruby rtc + rtc {
