@@ -393,7 +393,12 @@ ruby > * {
 ruby > rt, ruby rtc {
 	display: table-header-group;
 	font-family: $mono-font;
-	font-size: 60%;
+	font-size: 50%;
+}
+h1, h2, h3, h4 {
+	ruby > rt, ruby rtc {
+		font-family: $title-font;
+	}
 }
 ruby rtc + rtc {
 	display: table-footer-group;
