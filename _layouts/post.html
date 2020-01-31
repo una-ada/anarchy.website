@@ -47,7 +47,12 @@
     </div>
     {%- include navigation.html -%}
     <script>twemoji.parse(document.body, {
+        //  Use SVG emojis
+        folder: 'svg',
+        ext: '.svg',
         callback: function(icon, op, variant){
+            //  Emoji rendering exclusions
+            //  (mostly text-like symbols that are better handled by the font)
             switch(icon){
                 case '203c':    // Double exclamation
                 case '2640':    // Female sign
