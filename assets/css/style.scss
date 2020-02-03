@@ -74,6 +74,7 @@ center * {
 }
 .dialogue {
 	td {
+		padding: 0 0.3rem !important;
 		width: 40%;
 	}
 	td:first-child {
@@ -366,7 +367,7 @@ thead th {
 	width: #{$width + $pq-width};
 }
 tr:nth-child(even) {
-	background: #f0f0f0;
+	background: #fff0f8;
 }
 tr.tsection {
 	background: none !important;
@@ -378,6 +379,7 @@ tr.tsection {
 ruby {
 	display: inline-table;
 	vertical-align: 0.95em;
+	margin-bottom: -0.25em;
 	margin-top: -0.25em;
 }
 ruby * {

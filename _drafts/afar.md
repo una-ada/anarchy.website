@@ -277,7 +277,11 @@ To give a few examples of this characterization for reference:
 
 ### 1.1 オンリーセンス・オンライン
 
-『オンリーセンス・オンライン』(_Only Sense Online_; abbr. _OSO_) deals
+『<ruby>
+    <rtc><rt>&nbsp;</rt></rtc>
+    <rbc><rb>オンリー</rb><rb>センス</rb><rb>・</rb><rb>オンライン</rb></rbc>
+    <rtc><rt>onrii</rt><rt>sensu</rt><rt></rt><rt>onrain</rt></rtc>
+</ruby>』(_Only Sense Online_; abbr. _OSO_) deals
 with the topic of gender rather passingly, so there isn't too much to discuss
 in terms of ideas put forward by it. Nonetheless, it isn't as if there's
 _nothing_, and finding arbitrary reason to discuss decent works is far from
@@ -292,7 +296,11 @@ Game (VRMMORPG, or just VRMMO)[^44]
 
 ### 1.2 ネト充のススメ
 
-『ネト充のススメ』(_Net-juu no susume_)
+『<ruby>
+    <rtc><rt></rt><rt>じゅう</rt><rt></rt><rt></rt></rtc>
+    <rbc><rb>ネト</rb><rb>充</rb><rb>の</rb><rb>ススメ</rb></rbc>
+    <rtc><rt>neto</rt><rt>juu</rt><rt>no</rt><rt>susume</rt></rtc>
+</ruby>』
 
 <https://myanimelist.net/anime/36038/Net-juu_no_Susume>
 
@@ -366,7 +374,11 @@ I don't want to hear it. I'm not a girl.
 
 Starting off with a series that doesn't entirely fit the category, but does
 include a trope or two worth mentioning here as well as some other relevant
-ideas.『暗殺教室』(_Assassination Classroom_) is a generally lighthearted
+ideas.『<ruby>
+    <rtc><rt>あんさつ</rt><rt>きょうしつ</rt></rtc>
+    <rbc><rb>暗殺</rb><rb>教室</rb></rbc>
+    <rtc><rt>ansatsu</rt><rt>kyoushitsu</rt></rtc>
+</ruby>』(_Assassination Classroom_) is a generally lighthearted
 series despite consistently touching on topics such as assassination (as per
 the title), social stratification, and emotional abuse. While there is
 definitely much to say on the former two topics, the lattermost is what's
@@ -472,11 +484,22 @@ do this. Please stop worshipping abusers, even fictional ones.
 
 ### 2.2 狼少年は今日も嘘を重ねる
 
-『狼少年は今日も嘘を重ねる』(_The Boy Who Cried Wolf Tells Another Lie Today_)
+『<ruby>
+    <rtc><rt>おおかみ</rt><rt>しょうねん</rt><rt></rt><rt>きょう</rt><rt></rt>
+        <rt>うそ</rt><rt></rt><rt>かさ</rt><rt></rt></rtc>
+    <rbc><rb>狼</rb><rb>少年</rb><rb>は</rb><rb>今日</rb><rb>も</rb>
+        <rb>嘘</rb><rb>を</rb><rb>重</rb><rb>ねる</rb></rbc>
+    <rtc><rt>ookami</rt><rt>shounen</rt><rt>wa</rt><rt>kyou</rt><rt>mo</rt>
+        <rt>uso</rt><rt>o</rt><rt>kasa</rt><rt>neru</rt></rtc>
+</ruby>』(_The Boy Who Cried Wolf Tells Another Lie Today_)
 
 ### 2.3 絶対服従ゲーム
 
-『絶対服従ゲーム』(_Absolute Obedience Game_) is a regrettably short (four
+『<ruby>
+    <rtc><rt>ぜったい</rt><rt>ふくじゅう</rt><rt></rt></rtc>
+    <rbc><rb>絶対</rb><rb>服従</rb><rb>ゲーム</rb></rbc>
+    <rtc><rt>zettai</rt><rt>fukujuu</rt><rt>geimu</rt></rtc>
+</ruby>』(_Absolute Obedience Game_) is a regrettably short (four
 chapters) series. It falls within the typical format of the protagonist being
 initially obligated to crossdress, in this case it was the decision of the
 student council president using his one off ability to impose a school rule,
@@ -484,7 +507,11 @@ and growing to show reluctance when finally given an out.
 
 ### 2.4 ひめゴト
 
-『ひめゴト』(_Secret Princess_) is another manga that employs the student
+『<ruby>
+    <rtc><rt>&nbsp;</rt></rtc>
+    <rbc><rb>ひめ</rb><rb>ゴト</rb></rbc>
+    <rtc><rt>hime</rt><rt>goto</rt></rtc>
+</ruby>』(_Secret Princess_) is another manga that employs the student
 council's orders model, though from a slightly different direction. The
 titular-ish <ruby><rtc>ありかわ</rtc><rbc>有川</rbc></ruby>ひめ (Arikawa Hime)
 is plagued by debt piled up by his parents in his name and the debt collectors
@@ -648,46 +675,6 @@ p. 554 REX Ch. 24
 
 febri ch. 3 that one meme
 
----
-
--   **佃煮 のりお, ひめゴト(1), 一迅社〈わぁい!コミックス〉
-    (2013年2月19日発売).**<br/>
-    Tsukudani, Norio, _Himegoto_ 1, Ichijinsha (Feb. 19, 2013).
-    -   _Himegoto_ 1-9, WAaI! 7-11 (2011-2012).
-    -   _Himegoto+_ 1-4, WAaI! Maholo 1-3 (2012).
--   **佃煮 のりお, ひめゴト(2), 一迅社〈IDコミックス わぁい!コミックス〉
-    (2014年4月19日発売).**<br/>
-    Tsukudani, Norio, _Himegoto_ 2, Ichijinsha (Apr. 19, 2014).
-    -   _Himegoto_ 10-14, WAaI! 12-15 (2013).
-    -   _Himegoto+_ 5-7, WAaI! Maholo 4-6 (2013).
-    -   _Himegoto_ 1-3, Comic REX.
--   **佃煮 のりお, ひめゴト(3), 一迅社〈IDコミックス わぁい!コミックス〉
-    (2014年7月19日発売).**<br/>
-    Tsukudani, Norio, _Himegoto_ 3, Ichijinsha (Jul. 19, 2014).
-    -   _Himegoto_ 15-16, WAaI!.
-    -   _Himegoto_ 4-10, Comic REX.
--   **佃煮 のりお, ひめゴト(4), 一迅社〈IDコミックス わぁい!コミックス〉
-    (2014年11月27日発売).**<br/>
-    佃煮のりお, ひめゴト(4) 特装版, 一迅社〈REXコミックス〉
-    (2014年11月27日発売).<br/>
-    Tsukudani, Norio, _Himegoto_ 4, Ichijinsha (Nov. 27, 2014).
-    -   _Himegoto_ 11-15, Comic REX.
-    -   _Himegoto_ 1-2, Febri.
-    -   _Bangai-hen: Oshiete! Hime-senpai_, Josou Shounen Anothology Comic
-        (2014)
-    -   _Bangai-hen: Oshiete! Mittan Iinchou_, Josou Shounen Anthology Comic
-        (2014)
--   **佃煮 のりお, ひめゴト(5), 一迅社〈IDコミックス わぁい!コミックス〉
-    (2015年4月27日発売).**<br/>
-    Tsukudani, Norio, _Himegoto_ 5, Ichijinsha (Apr. 27, 2015).
-    -   _Himegoto_ 16-22, Comic REX.
-    -   _Himegoto_ 3-5, Febri.
--   **佃煮 のりお, ひめゴト(6), 一迅社〈IDコミックス わぁい!コミックス〉
-    (2015年7月27日発売).**<br/>
-    Tsukudani, Norio, _Himegoto_ 6, Ichijinsha (Jul. 27, 2015).
-    -   _Himegoto_ 6-7, Febri.
-    -   _Himegoto_ 23-28, Comic REX.
-
 <https://myanimelist.net/manga/32833/-/moreinfo>
 
 <https://en.wikipedia.org/wiki/Himegoto#Manga>
@@ -696,7 +683,11 @@ febri ch. 3 that one meme
 
 ### 2.5 まよチキ!
 
-『まよチキ!』(_mayo chiki!_) is one of the few notable <ruby><rt>だんそう</rt>
+『<ruby>
+    <rtc><rt>&nbsp;</rt></rtc>
+    <rbc><rb>まよ</rb><rb>チキ!</rb></rbc>
+    <rtc><rt>mayo</rt><rt>chiki</rt></rtc>
+</ruby>』 is one of the few notable <ruby><rt>だんそう</rt>
 <rb>男装</rb></ruby> (_dansou_) works, that is works in which a main character
 is a girl dressing in men's clothing. The title isn't given an English
 translation since it simply doesn't translate; it is actually an abbreviation of
@@ -706,9 +697,11 @@ chikin na ore to_, "The Hesitant Butler and Myself the Chicken").
 
 ### 2.6 青春×機関銃
 
-『<ruby><rtc><rt>あおはる</rt><rt></rt><rt>きかんじゅう</rt></rtc><rbc>
-<rb>青春</rb><rb>×</rb><rb>機関銃</rb></rbc></ruby>』(_aoharu x kikanjuu_,
-"Aoharu x Machinegun").
+『<ruby>
+    <rtc><rt>あおはる</rt><rt></rt><rt>きかんじゅう</rt></rtc>
+    <rbc><rb>青春</rb><rb>×</rb><rb>機関銃</rb></rbc>
+    <rtc><rt>aoharu</rt><rt></rt><rt>kikanjuu</rt></rtc>
+</ruby>』(_Aoharu x Machinegun_).
 
 サバゲー (_sabagei_, survival games)
 
@@ -850,6 +843,12 @@ likely seen the memes (or the _doujinshis_).
 
 ### おとこのこ妻
 
+『<ruby>
+    <rtc><rt></rt><rt>つま</rt></rtc>
+    <rbc><rb>おとこのこ</rb><rb>妻</rb></rbc>
+    <rtc><rt>otokonoko</rt><rt>tsuma</rt></rtc>
+</ruby>』(_My Wife is a Man_) ← I hate this translation
+
 <ruby><rtc><rt>かみよし</rt><rt>こう</rt></rtc><rbc><rb>神吉</rb>
 <rb>幸</rb></rbc></ruby> (Kamiyoshi Kou)
 
@@ -875,9 +874,12 @@ likely seen the memes (or the _doujinshis_).
 
 ### あまちんは自称♂
 
-『あまちんは<ruby><rtc><rt>じしょう</rt><rt>おす</rt></rtc><rbc><rb>自称</rb>
-<rb>♂</rb></rbc></ruby>』(_ama-chin wa jishou osu_, "Ama-chin is a
-self-proclaimed boy") is a difficult work to discuss here for a few reasons.
+『<ruby>
+    <rtc><rt></rt><rt></rt><rt>じしょう</rt><rt>おす</rt></rtc>
+    <rbc><rb>あまちん</rb><rb>は</rb><rb>自称</rb><rb>♂</rb></rbc>
+    <rtc><rt>amachin</rt><rt>wa</rt><rt>jishou</rt><rt>osu</rt></rtc>
+</ruby>』(_Ama-chin is a
+self-proclaimed boy_) is a difficult work to discuss here for a few reasons.
 Let's start with the name, the「♂」at the end for instance. There are cases
 where the title is simply translated to "Ama-chin is self-proclaimed ♂," which
 may be valid if not a bit undescriptive. If, however, we were to consider the
@@ -904,8 +906,11 @@ for context, say "boy" rather than "male" or even "man."
 
 ### ひみつの悪魔ちゃん
 
-『ひみつの<ruby><rtc>あくま</rtc><rbc>悪魔</rbc></ruby>ちゃん』(_himitsu no
-akuma-chan_, "The Secret Devil-chan") exemplifies many of the issues with trends
+『<ruby>
+    <rtc><rt></rt><rt></rt><rt>あくま</rt><rt></rt></rtc>
+    <rbc><rb>ひみつ</rb><rb>の</rb><rb>悪魔</rb><rb>ちゃん</rb></rbc>
+    <rtc><rt>himitsu</rt><rt>no</rt><rt>akuma</rt><rt>chan</rt></rtc>
+</ruby>』(_The Secret Devil-chan_) exemplifies many of the issues with trends
 in _otokonoko_ works and even of the term "trap" to an extent. It starts out
 with our protagonist, <ruby><rtc><rt>くろさき</rt><rt>そう</rt></rtc><rbc>
 <rb>黒﨑</rb><rb>総</rb></rbc></ruby> (Kurosaki Sou), summoning a devil to take
@@ -1029,8 +1034,12 @@ initiative.
 
 ### ボクの下僕になぁれっ!
 
-『ボクの<ruby><rtc>げぼく</rtc><rbc>下僕</rbc></ruby>になぁれっ!』(_boku no
-geboku ni nare!_, "Be my servant!")
+『<ruby>
+    <rtc><rt></rt><rt></rt><rt>げぼく</rt></rtc>
+    <rbc><rb>ボク</rb><rb>の</rb><rb>下僕</rb><rb>に</rb><rb>なぁれっ!</rb>
+        </rbc>
+    <rtc><rt>boku</rt><rt>no</rt><rt>geboku</rt><rt>ni</rt><rt>nare</rt></rtc>
+</ruby>』(_"Be my servant!_)
 
 ## 4. 性転換 I: 転生
 
@@ -1087,8 +1096,11 @@ this is like, a list??:
 
 ### 4.1 幼女戦記
 
-『<ruby><rtc><rt>ようじょ</rt><rt>せんき</rt></rtc><rbc><rb>幼女</rb>
-<rb>戦記</rb></rbc></ruby>』(_youjo senki_, Saga of Tanya the Evil[^52]) is a
+『<ruby>
+    <rtc><rt>ようじょ</rt><rt>せんき</rt></rtc>
+    <rbc><rb>幼女</rb><rb>戦記</rb></rbc>
+    <rtc><rt>youjo</rt><rt>senki</rt></rtc>
+</ruby>』(_Saga of Tanya the Evil_[^52]) is a
 series that doesn't focus too much on the gender aspects. There are essentially
 just justifications for the setting and character design in that regard, but the
 driving ideas of the story center more around critiques of human resources and
@@ -1130,10 +1142,18 @@ manga
 
 ### 4.2 転生したらスライムだった件
 
-『<ruby><rtc><rt>てんせい</rt><rt></rt><rt>けん</rt></rtc><rbc><rb>転生</rb>
-<rb>したらスライムだった</rb><rb>件</rb></rbc></ruby>』(_tensei shitara suraimu
-datta ken_, "That time I got reincarnated as a slime";
-abbreviated「転スラ」(_TenSura_))
+『<ruby>
+    <rtc><rt>てんせい</rt><rt></rt><rt></rt><rt></rt>
+        <rt>けん</rt></rtc>
+    <rbc><rb>転生</rb><rb>したら</rb><rb>スライム</rb><rb>だった</rb><rb>件</rb>
+        </rbc>
+    <rtc><rt>tensei</rt><rt>shitara</rt><rt>Slime</rt><rt>datta</rt>
+        <rt>ken</rt></rtc>
+</ruby>』(_That time I got reincarnated as a slime_; abbreviated「<ruby>
+    <rtc><rt>てん</rt></rtc>
+    <rbc><rb>転</rb><rb>スラ</rb></rbc>
+    <rtc><rt>Ten</rt><rt>Sura</rt></rtc>
+</ruby>」)
 
 <https://www.pixiv.net/en/artworks/76985856>
 
@@ -1162,9 +1182,13 @@ novel was not read beforehand.*
 
 This one definitely doesn't fall under the "recommended" category; with quite
 the litany of problems it is difficult to read as anything beyond softcore porn.
-The premise of 『サキュバスに<ruby><rtc>てんせい</rtc><rbc>転生</rbc>
-</ruby>したのでミルクをしぼります』(_sakyubasu ni tensei shita node miruku o
-shiborimasu_, "I reincarnated as a succubus so I'll squeeze out milk") is a
+The premise of 『<ruby>
+    <rtc><rt></rt><rt></rt><rt>てんせい</rt></rtc>
+    <rbc><rb>サキュバス</rb><rb>に</rb><rb>転生</rb><rb>した</rb>
+        <rb>ので</rb><rb>ミルク</rb><rb>を</rb><rb>しぼります</rb></rbc>
+    <rtc><rt>Succubus</rt><rt>ni</rt><rt>tensei</rt><rt>shita</rt>
+        <rt>node</rt><rt>Milk</rt><rt>o</rt><rt>shiborimasu</rt></rtc>
+</ruby>』(_I reincarnated as a succubus so I'll squeeze out milk_) is a
 fairly typical _isekai_ setup where the main character, <ruby><rtc>
 <rt>ほうらい</rt><rt>りいち</rt></rtc><rbc><rb>蓬莱</rb><rb>利一</rb>
 </rbc></ruby> (Hourai Riichi), is ran over and sent to the afterlife. The
@@ -1195,7 +1219,11 @@ be like and why.
 "Makoto, say..."
 {: .centered}
 
-『ヒナちゃんチェンジ』(_hina-chan chenji_, "Hina-chan Change") is, frankly,
+『<ruby>
+    <rtc><rt>&nbsp;</rt></rtc>
+    <rbc><rb>ヒナ</rb><rb>ちゃん</rb><rb>チェンジ</rb></rbc>
+    <rtc><rt>Hina</rt><rt>chan</rt><rt>Change</rt></rtc>
+</ruby>』(_Hina-chan Change_) is, frankly,
 painful to read. The "psychological" tag it's often given really isn't just for
 show.
 
@@ -1251,14 +1279,21 @@ Do not reply to **cishet** commenters.
 
 ### お兄ちゃんはおしまい!
 
-『お<ruby><rtc>にい</rtc><rbc>兄</rbc></ruby>ちゃんはおしまい!』(_oniichan wa
-oshimai!_, "Onii-chan is done for!")
+『<ruby>
+    <rtc><rt></rt><rt>にい</rt></rtc>
+    <rbc><rb>お</rb><rb>兄</rb><rb>ちゃん</rb><rb>は</rb><rb>おしまい!</rb>
+        </rbc>
+    <rtc><rt>o</rt><rt>nii</rt><rt>chan</rt><rt>wa</rt><rt>oshimai</rt></rtc>
+</ruby>』(_Onii-chan is done for!_)
 
 ### 女装男子のつくりかた<sup>18+</sup>
 
-『<ruby><rtc><rt>じょそう</rt><rt>だんし</rt></rtc><rbc><rb>女装</rb>
-<rb>男子</rb></rbc></ruby>のつくりかた』(_josou danshi no tsukurikata_, "Recipe
-for a crossdressing boy") is a rather misleading title. It's difficult to
+『<ruby>
+    <rtc><rt>じょそう</rt><rt>だんし</rt></rtc>
+    <rbc><rb>女装</rb><rb>男子</rb><rb>の</rb><rb>つくりかた</rb></rbc>
+    <rtc><rt>josou</rt><rt>danshi</rt><rt>no</rt><rt>tsukurikata</rt></rtc>
+</ruby>』(_Recipe
+for a crossdressing boy_) is a rather misleading title. It's difficult to
 categorize this work along with others because it is quite literally step by
 step force feminization. The technical requirements for「女装男子」(_josou
 danshi_) are, if anything, that a boy (_danshi_) crossdress as a girl (_josou_),
@@ -1284,7 +1319,11 @@ Japanese
 
 ### まじとら!
 
-『まじとら!』(_maji tora!_, "Magical Trans!")
+『<ruby>
+    <rtc><rt>&nbsp;</rt></rtc>
+    <rbc><rb>まじ</rb><rb>とら!</rb></rbc>
+    <rtc><rt>maji</rt><rt>tora</rt></rtc>
+</ruby>』(_Magical Trans!_)
 
 ## 6. トランスジェンダー
 
@@ -1296,8 +1335,11 @@ _Sometimes_ there is actual trans representation.
 "It's been a year, Yuu-kun."
 {: .centered}
 
-『<ruby><rtc>きょうかい</rtc><rbc>境界</rbc></ruby>のないセカイ』(_kyoukai no
-nai sekai_, "Borderless World") is a transhumanist fantasy world where at the
+『<ruby>
+    <rtc><rt>きょうかい</rt></rtc>
+    <rbc><rb>境界</rb><rb>の</rb><rb>ない</rb><rb>セカイ</rb></rbc>
+    <rtc><rt>kyoukai</rt><rt>no</rt><rt>nai</rt><rt>sekai</rt></rtc>
+</ruby>』(_Borderless World_) is a transhumanist fantasy world where at the
 age of 18 you can get extremely effective SRS (Sex Reassignment Surgery)
 completely covered by insurance.
 
@@ -1339,9 +1381,18 @@ Author:
 
 ### カノジョになりたい君と僕
 
-『カノジョになりたい<ruby><rtc><rt>きみ</rt><rt></rt><rt>ぼく</rt></rtc><rbc>
-<rb>君</rb><rb>と</rb><rb>僕</rb></rbc></ruby>』(_kanojo ni naritai kimi to
-boku_, "The Woman You Are and Me"; abbreviated「カノ僕」(_KanoBoku_))
+『<ruby>
+    <rtc><rt></rt><rt></rt><rt></rt><rt>きみ</rt><rt></rt>
+        <rt>ぼく</rt></rtc>
+    <rbc><rb>カノジョ</rb><rb>に</rb><rb>なりたい</rb><rb>君</rb><rb>と</rb>
+        <rb>僕</rb></rbc>
+    <rtc><rt>kanojo</rt><rt>ni</rt><rt>naritai</rt><rt>kimi</rt><rt>to</rt>
+        <rt>boku</rt></rtc>
+</ruby>』(_The Woman You Are and Me_; abbr.「<ruby>
+    <rtc><rt></rt><rt>ぼく</rt></rtc>
+    <rbc><rb>カノ</rb><rb>僕</rb></rbc>
+    <rtc><rt>Kano</rt><rt>Boku</rt></rtc>
+</ruby>」)
 
 <https://ganma.jp/kanoboku>
 
@@ -1353,11 +1404,19 @@ boku_, "The Woman You Are and Me"; abbreviated「カノ僕」(_KanoBoku_))
 "I'm... not a boy or a girl!!!"
 {: .centered}
 
-We're finally going to talk about『<ruby><rtc>ふかかい</rtc><rbc>不可解</rbc>
-</ruby>なぼくのすべてを』(_fukakai na boku no subete o_, "My mysterious[^34]
-everything"; abbreviated「不可ぼく」(_FukaBoku_))‼
+We're finally going to talk about『<ruby>
+    <rtc><rt>ふかかい</rt></rtc>
+    <rbc><rb>不可解</rb><rb>な</rb><rb>ぼく</rb><rb>の</rb><rb>すべて</rb>
+        <rb>を</rb></rbc>
+    <rtc><rt>fukakai</rt><rt>na</rt><rt>boku</rt><rt>no</rt><rt>subete</rt>
+        <rt>o</rt></rtc>
+</ruby>』(_My mysterious[^34] everything_; abbr.「<ruby>
+    <rtc><rt>ふか</rt></rtc>
+    <rbc><rb>不可</rb><rb>ぼく</rb></rbc>
+    <rtc><rt>Fuka</rt><rt>Boku</rt></rtc>
+</ruby>」)‼
 
-[^34]:  「不可解」(_fukakai_) can be translated a few ways here:
+[^34]:  「不可解」can be translated a few ways here:
         incomprehensible, mysterious, enigmatic, baffling, etc. "Mysterious"
         was chosen here as it sounds best in a title. I should note this may
         also be personal bias, as the other translations imply it is completely
