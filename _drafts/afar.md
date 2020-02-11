@@ -1,55 +1,82 @@
 ---
 author: una
 description: >
-    Let's talk about anime, manga, light novels, crossdressing, reincarnation,
-    pronouns, being trans, and more!
+    A collection of short reviews of anime and manga (plus some light novels)
+    with themes of gender expression and identity, accompanied by discussion of
+    the linguistics and social norms therein.
 lang: ja
 layout: post
+subtitle: A Collection of Short Reviews
 tags: >
     adult-content anime crossdressing gender japanese lgbt linguistics manga
     media reincarnation transgender
-    アニメ 異性装 女装 男装 男の娘 オカマ ホモ ゲイ マンガ 転生
-    トランスジェンダー
 title: Assigned Female at Rebirth
 ---
 
-We need to talk about gender. Specifically we need to talk about the portrayal
-of gender in so-call "genderbending" stories. Obviously this is very complicated
-due to both gender and media being very complex, and so to get the general point
-across we're going to talk about this mostly through the use of categorization
-and examples. The examples will be included in the category which most
-accurately fits the main character of the story; this is just for consistency
-since many works will include characters with a wide variety of identities.
-Sadly, the focus here will be mostly on AMAB (Assigned Male At Birth) characters
-due to both higher frequency in media and the author's own bias in media
-consumption. I, <ruby><rtc>ウナ</rtc><rbc>海</rbc></ruby> (Una), would like to
-extend my apologies as the author to any non-AMAB readers for this oversight.
+We need to talk about gender. Specifically, we need to talk about the portrayal
+of gender in so-called "gender bending" stories. This is a broad category, which
+is in part due to the nature of categorization and how it forces one to simplify
+the themes and ideas of a work down into easily indexed labels. To that end, a
+clarification is needed: we will be discussing works whose overall themes are
+those that pertain to gender identity and expression for the most part, with a
+few here and there that only deal with said ideas passingly or in small sections
+compared to the length of the work overall. A fitting format for this discussion
+is a bit hard to pin down; as a bit of a compromise that deals with the variety
+of the content here, the format here will be short reviews with a focus on
+gender, each categorized by common genres, with each category being its own
+section that is introduced with a discussion on the general ideas thereof.
 
-There are also some necessary meta/tangential topics, pertaining to translations
-and linguistics, as well as general confusion about tags and categorization of
-media.
+The reviews will be a bit more meta than typical reviews, including tangents
+into the language used, the translations, the production, and the reception of
+various communities. It is necessary to point out that fiction may be a window
+into another world, but it does not exist outside of context. Whether it is an
+anime, a manga, or a novel, everything is both created and consumed by people in
+the real world. Ideas have effects, people's perception of the world around them
+and how they interact with it can be changed by the media with which they
+engage.
 
-Oh, and we're totally going to be talking about へんたい (_hentai_). There won't
-be any images or embeds of any sort so feel free to read this in public, but
-this is your official Adult Content warning. Any section discussing a _hentai_
-work or links to adult content will be marked with "<sup>18+</sup>"
+Of course, media can affect people more than just making them think or feel, and
+so a few warnings are in order.
 
-Yet another warning before we get going: there are a couple uncensored slurs
-here so keep that in mind.
+First, the representation here will be a bit unbalanced, with a noticeable bias
+towards characters assigned male at birth (AMAB). This is due to general social
+perception, available media, as well as a bit of the author's own bias here. I,
+<ruby><rtc>ウナ</rtc><rbc>海</rbc></ruby> (Una), would like to extend my
+apologies to any non-AMAB readers for this. Some care was taken to ensure there
+was as much balance as was viable in writing this, but the contrast still
+stands.
 
-Ok, ok, ok, _one_ more thing before we really kick this off, I swear. It would
-be bad form to discuss works based solely off translations! Especially when we
-are specifically talking about terminology, personality, pronouns, and the like!
-As such I had to acquire raws of a decent amount of manga to complete this
-article, and while people will upload translations left and right on the
-internet, you rarely find the originals as easily (plus why not support the
-authors when talking about their work). What I'm saying is, every time you see
-some quoted dialogue with a 日本語 column, just think that cost me five or six
-dollars to find! I'm poor so this takes quite a toll on my wallet, but anything
-for good quality content I say \*hmph\*. With that in mind, if you could drop a
-couple dollars in my Cash App, $unaada, that would be much appreciated! (If you
-do want to donate but can't use Cash App, just shoot me an email at `una [at]
-anarchy [dot] website` and we'll see what works best for you.[^33])
+Next, we will be talking about hentai, pornographic content. A good portion of
+the audience is probably already aware of this, but the treatment of gender
+non-conformity and such in porn is quite different than in other media; in some
+ways the former acts as a more extreme version of the latter and it others it is
+entirely different. There won't be any images or embeds for these words, so do
+feel free to read this in public. Since this is split into distinct sections for
+each work discussed, any section specifically about adult content will be
+conveniently marked with "<sup>18+</sup>" in the title, same for any links to
+age restricted sites.
+
+Similarly, there are some other things that aren't necessarily "adult content"
+that will be denoted at the beginning of the relevant section. These include but
+are not limited to sexual assault, abuse, and various bigotries.
+
+Finally, as language is an important part of this discussion, a good amount of
+slurs will be brought up in both Japanese and English. These slurs are not
+censored here for the sake of clarity and discussion.
+
+_One more_ thing before we dive right into the first section. Since, again,
+there will be a lot of discussion of language, we can't just talk about
+translations, we need the original text. This is especially relevant in terms of
+terminology, personality, pronouns, etc. To that end, I, as the author, went to
+some lengths to acquire original releases of much of the media reviewed. This is
+not always free, and it's a good idea to support the authors when talking about
+their work in any case. What I'm saying is, every time you see some quoted
+dialogue with a 日本語 column, just think that cost me five or six dollars to
+find! I'm poor so this takes quite a toll on my wallet, but anything for good
+quality content I say \*hmph\*. With that in mind, if you could drop a couple
+dollars in my Cash App, $unaada, that would be much appreciated! (If you do want
+to donate but can't use Cash App, just shoot me an email at `una [at] anarchy
+[dot] website` and we'll see what works best for you.[^33])
 
 [^33]:  I do have a PayPal, but I won't list it publicly as it uses my legal
         name (i.e. my deadname at the moment). Also, my podcast has a
