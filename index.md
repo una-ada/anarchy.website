@@ -1,11 +1,27 @@
 ---
-layout: index
+layout: post
+title: >
+    <i>Anarchy.</i>Websiteへようこそ!
 ---
 
-Welcome to **Anarchy.Website**, a site built as a 'blog' and archive by Una
-Ada for hosting their written content. While the name of
-the site implies a focus on anarchism, no such restriction exists, with much of
-the content here being [comedic fiction][10] or [notes][11] from classes.
+Welcome to <em>Anarchy.</em>Website, a blog and archive created by <ruby>
+    <rtc><rt>エイダ</rt><rt></rt><rt>ウナ</rt></rtc>
+    <rbc><rb>永田</rb><rb>&nbsp;</rb><rb>海</rb></rbc>
+</ruby> (Una Ada). Herein lies articles on a variety of topics, ranging from
+linguistics to history, from gender issues to anime, and from programming to
+physics. Despite the name this site is not exclusively about anarchism, but the
+content here is primarily written through the lens of anarchy.
 
-[10]: /tag/#comedy
-[11]: /tag/#notes
+## Recent
+
+Here are the seven latest articles published to this site, in reverse
+chronological order (newest first), for a full list of every article check out
+the [archive][1].
+
+{% for post in site.posts limit:7 %}
+    {%- include preview.html post=post -%}
+{% endfor %}
+
+**[More posts &rarr;][1]**
+
+[1]:    /archive
