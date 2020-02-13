@@ -4,7 +4,7 @@ description: >
     A collection of short reviews of anime and manga (plus some light novels)
     with themes of gender expression and identity, accompanied by discussion of
     the linguistics and social norms therein.
-lang: ja
+lang: en
 layout: post
 subtitle: A Collection of Short Reviews
 tags: >
@@ -111,7 +111,7 @@ some works to maybe talk about,,,?
     -   one of them w a whole bunch of lgbt rep
 -   Wandering Son
 
-## 1. ネカマ/ネナベ
+## 1. ネカマ/ネナベ (Gaming)
 
 The content of this first section is fairly basic in terms of gender identity
 issues, but the linguistics are pretty complicated, so it's worth having an
@@ -333,7 +333,7 @@ Game (VRMMORPG, or just VRMMO)[^44]
 
 <https://www.mangaupdates.com/series.html?id=119335>
 
-## 2. 異性装
+## 2. 異性装 (Crossdressing)
 
 Moving on to crossdressing, <ruby><rtc>いせいそう</rtc><rbc>異性装</rbc></ruby>
 (_iseisou_), as we'll sort of work our way from breaking gender norms to
@@ -772,7 +772,7 @@ Tachibana uses「立花」(Tachibana) in first person statements.
 
 <https://magazine.jp.square-enix.com/gfantasy/story/aoharu/>
 
-## 3. 男の娘
+## 3. 男の娘 (Femboy)
 
 Let's just get this out of the way, "trap" is a slur. The
 term「<ruby><rtc>おとこのこ</rtc><rbc>男の娘</rbc></ruby>」(_otokonoko_) is
@@ -1068,7 +1068,7 @@ initiative.
     <rtc><rt>boku</rt><rt>no</rt><rt>geboku</rt><rt>ni</rt><rt>nare</rt></rtc>
 </ruby>』(_"Be my servant!_)
 
-## 4. 性転換 I: 転生
+## 4. 性転換【第１部】転生 (Reincarnation)
 
 We've now reached the origin of the joke in the title "Assigned Female at
 Rebirth," which also happens to have been the inspiration for this work as a
@@ -1236,7 +1236,7 @@ be like and why.
 
 [^4]: It's free to read but you do need to have a ニコニコ (_niconico_) account.
 
-## 5. 性転換 II: 〇体化
+## 5. 性転換【第２部】〇〇体化 (Transformation)
 
 ### ヒナちゃんチェンジ<sup>CW</sup>
 
@@ -1352,7 +1352,7 @@ Japanese
     <rtc><rt>maji</rt><rt>tora</rt></rtc>
 </ruby>』(_Magical Trans!_)
 
-## 6. トランスジェンダー
+## 6. トランスジェンダー (Transgender)
 
 _Sometimes_ there is actual trans representation.
 
@@ -1423,7 +1423,7 @@ Author:
 
 <https://ganma.jp/kanoboku>
 
-## 7. Xジェンダー
+## 7. Xジェンダー (Non-Binary)
 
 ### 不可解なぼくのすべてを
 
@@ -1478,11 +1478,7 @@ good look at what they mean in the context.
 ||⋯あ<br/>あるけど⋯<br/>(中学の時<br/>オカマと呼ばれ)|...Y-<br/>Yeah, I have...<br/>(Someone called me a<br/>fag in junior high...)
 {: .dialogue}
 
-## 7.5
-
-Welcome to the bonus section!
-
-## Footnotes
+## 8. 脚注 (Footnotes)
 
 [1]:    https://www.pixiv.net/en/tags/%E7%94%B7%E3%81%AE%E5%A8%98/artworks?s_mode=s_tag
 [2]:    https://nhentai.net/tag/tomgirl/
