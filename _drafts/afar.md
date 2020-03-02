@@ -1068,6 +1068,8 @@ initiative.
     <rtc><rt>boku</rt><rt>no</rt><rt>geboku</rt><rt>ni</rt><rt>nare</rt></rtc>
 </ruby>』(_"Be my servant!_)
 
+### FEMBOY FRIEND<sup>18+</sup>
+
 ## 4. 性転換【第１部】転生 (Reincarnation)
 
 We've now reached the origin of the joke in the title "Assigned Female at
@@ -1236,7 +1238,24 @@ be like and why.
 
 [^4]: It's free to read but you do need to have a ニコニコ (_niconico_) account.
 
-## 5. 性転換【第２部】〇〇体化 (Transformation)
+## 5. 性転換【第２部】〇〇体化 (Transform)
+
+### けんぷファー
+
+I'm going to start this one off in first person, because the only reason it's
+really included at all is fairly personal. Generally, most works in this article
+have been either recent or had a significant cultural impact, this one doesn't
+really fit into either camp there.『<ruby>
+    <rtc>&nbsp;</rtc>
+    <rbc>けんぷファー</rbc>
+    <rtc>kenpufaa</rtc>
+</ruby>』(_Kämpfer_) was something I was into some time in high school, before
+I was really aware of my own gender identity (or lack thereof); it's not
+particularly profound in that regard, but it's part of the fact that I was
+perhaps more interested in gender-bending anime than a cis person might be. In
+short, this is pretty much just me being nostalgic. Along those same lines, a
+fun note here is that this was actually my first "magical girl" show, I never
+saw Sailor Moon on TV like many weebs of this generation, lol.
 
 ### ヒナちゃんチェンジ<sup>CW</sup>
 
@@ -1351,6 +1370,35 @@ Japanese
     <rbc><rb>まじ</rb><rb>とら!</rb></rbc>
     <rtc><rt>maji</rt><rt>tora</rt></rtc>
 </ruby>』(_Magical Trans!_)
+
+### 突然女の子になったので、俺のおっぱい揉んでみませんか？<sup>18+</sup>
+
+「せめて夢の中でくらい⋯　いい思いしたいよ⋯」<br/>
+"At least in my dreams... I can have happy thoughts..."
+{: .centered}
+
+『<ruby>
+    <rtc><rt>とつぜん</rt><rt>おんなのこ</rt><rt></rt><rt></rt><rt></rt>
+        <rt></rt><rt>おれ</rt><rt></rt><rt></rt><rt>もんで</rt>
+        <rt></rt></rtc>
+    <rbc><rb>突然</rb><rb>女の子</rb><rb>に</rb><rb>なった</rb>
+        <rb>ので、</rb><rb>俺</rb><rb>の</rb><rb>おっぱい</rb><rb>揉んで</rb>
+        <rb>みませんか？</rb></rbc>
+    <rtc><rt>totsuzen</rt><rt>onnanoko</rt><rt>ni</rt><rt>natta</rt>
+        <rt>node,</rt><rt>ore</rt><rt>no</rt><rt>oppai</rt><rt>monde</rt>
+        <rt>mimasenka?</rt></rtc>
+</ruby>』(_Since I've Abruptly Turned into a Girl, Won't You Fondle My Boobs?_)
+is something of a prototypical _nyotaika_ h-manga. The series is notable in that
+firstly it is a series at all, a good amount of similar works are one-shots, and
+that it has 24 chapters thus far. Not to mention the author's name, <ruby>
+    <rtc><rt>ながた</rt></rtc>
+    <rbc><rb><strong>永田</strong></rb><rb>まりあ</rb></rbc>
+    <rtc><rt>Nagata</rt><rt>Maria</rt></rtc>
+</ruby>, uses the same _kanji_ as I use, <ruby>
+    <rtc><rt>エイダ</rt><rt>ウナ</rt></rtc>
+    <rbc><rb><strong>永田</strong></rb><rb>海</rb></rbc>
+    <rtc><rt>Ada</rt><rt>Una</rt></rtc>
+</ruby>; so I couldn't just not bring that up at some point.
 
 ## 6. トランスジェンダー (Transgender)
 
