@@ -60,7 +60,7 @@ contributor to the development of the Electromagnetic Defense System on Mars
 and continues to work as a mid-level technician maintaining the System. Though
 their thesis _Planetary Field Stimulation and its Defense Applications_ was the
 foundation for the System's architecture, Inoue was not selected for the EM
-Defense Command due to discrimination for their non-binary identity.
+Defense Command.
 
 As a technician, Inoue continues development of large scale quantum field
 simulations. This research aids in continued updates to the System, but has also
@@ -97,16 +97,16 @@ having them inherit an executive role when they came of age.
 
 16 entered school, 19 received BS, 22 finished PhD
 
-At the age of 17, Inoue came out to their parents about their
-non-binary/transgender identity and intent to transition. Their father reacted
-harshly and both of their parents cut ties, kicking Inoue out of their home.
-URDV did not include student housing with tuition, and as a student Inoue was
-unable to afford the cost of what housing was available, forcing them to squat
-in an unused level of one of the school's dormitories. Inoue has noted that
-their mother was not as taken aback by this even as their father, but did not
-stop him from pushing them away, likely capitulating to pressures from her
-family whom still scorned her for her marriage and may have completely cut her
-out had she accepted Inoue. Despite all this, Inoue kept their family name.
+At the age of 17, Inoue came out to their parents about their identity and
+intent to transition. Their father reacted harshly and both of their parents
+cut ties, kicking Inoue out of their home. URDV did not include student housing
+with tuition, and as a student Inoue was unable to afford the cost of what
+housing was available, forcing them to squat in an unused level of one of the
+school's dormitories. Inoue has noted that their mother was not as taken aback
+by this even as their father, but did not stop him from pushing them away,
+likely capitulating to pressures from her family whom still scorned her for her
+marriage and may have completely cut her out had she accepted Inoue. Despite
+all this, Inoue kept their family name.
 
 Inoue took the name Юлия (Yulia) as the feminine form of their given name,
 Джулиус (Julius), keeping the unique Cyrillic and kanji stylization of their

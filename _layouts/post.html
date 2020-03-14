@@ -13,11 +13,15 @@
         {%- unless ser.type == "series" -%}
         <div class="series">
             {%- if ser.url -%}<a href="{{ser.url}}">{%- endif -%}
-                <em>{{ser.title}}</em>
+                {%- unless ser.no_em -%}<em>{%- endunless -%}
+                  {{ser.title}}
+                {%- unless ser.no_em -%}</em>{%- endunless -%}
             {%- if ser.url -%}</a>{%- endif -%}
-            &nbsp;&ndash;&nbsp;
-            {%- if ser.set -%}{{ser.set}} {{page.set}},&nbsp;{%- endif -%}
-            {%- if ser.entry -%}{{ser.entry}}&nbsp;{%- endif -%}{{page.entry}}
+            {%- if page.entry -%}
+              &nbsp;&ndash;&nbsp;
+              {%- if ser.set -%}{{ser.set}} {{page.set}},&nbsp;{%- endif -%}
+              {%- if ser.entry -%}{{ser.entry}}&nbsp;{%- endif -%}{{page.entry}}
+            {%- endif -%}
         </div>
         {%- endunless -%}
     {%- endif -%}

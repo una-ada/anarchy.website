@@ -1238,7 +1238,7 @@ be like and why.
 
 [^4]: It's free to read but you do need to have a ニコニコ (_niconico_) account.
 
-## 5. 性転換【第２部】〇〇体化 (Transform)
+## 5. 性転換【第２部】〇〇体化 (Transformation)
 
 ### けんぷファー
 
