@@ -4,9 +4,9 @@ title: >
     <i>Anarchy.</i>Websiteへようこそ!
 ---
 
-Welcome to <em>Anarchy.</em>Website, a blog and archive created by <ruby>
-    <rtc><rt>エイダ</rt><rt></rt><rt>ウナ</rt></rtc>
-    <rbc><rb>永田</rb><rb>&nbsp;</rb><rb>海</rb></rbc>
+Welcome to <em>Anarchy.</em>Website, a blog and archive created by エイダ <ruby>
+    <rtc>うな</rtc>
+    <rbc>海</rbc>
 </ruby> (Una Ada). Herein lies articles on a variety of topics, ranging from
 linguistics to history, from gender issues to anime, and from programming to
 physics. Despite the name this site is not exclusively about anarchism, but the
