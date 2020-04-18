@@ -13,6 +13,35 @@ tags: >
 title: Assigned Female at Rebirth
 ---
 
+- toc
+{:toc}
+
+---
+
+some works to maybe talk about,,,?
+
+-   [Flower Flower](https://www.mangaupdates.com/series.html?id=14983)
+    -   something abt some royal girl falling in love w a princess?
+-   [Smells Like Green Spirit](https://www.mangaupdates.com/series.html?id=72788)
+    -   homophobia, bullying, etc
+-   [Kono Koi ni Mirai wa nai](https://www.mangaupdates.com/series.html?id=136978)
+    -   p sure this ones just trans???
+-   [Kakumei no Hi](https://www.mangaupdates.com/series.html?id=792)
+    -   this is the one that's all like "turns out ur genetically female" ugh
+-   [Asuka Hybrid](https://www.mangaupdates.com/series.html?id=46224)
+    -   p normal nyotaika
+-   [Genderless Danshi ni Ai sarete imasu.](https://www.mangaupdates.com/series.html?id=147063)
+-   [Boku to Boku](https://www.mangaupdates.com/series.html?id=76666)
+-   [Boy Skirt](https://www.mangaupdates.com/series.html?id=116884)
+    -   actually better than i expected going in
+-   [Yugamira](https://www.mangaupdates.com/series.html?id=137094)
+    -   "trap x reverse trap" hate these words
+-   Shimanami Tasogare / Our Dreams at Dusk
+    -   one of them w a whole bunch of lgbt rep
+-   Wandering Son
+
+## Introduction
+
 We need to talk about gender. Specifically, we need to talk about the portrayal
 of gender in so-called "gender bending" stories. This is a broad category, which
 is in part due to the nature of categorization and how it forces one to simplify
@@ -84,34 +113,7 @@ to donate but can't use Cash App, just shoot me an email at `una [at] anarchy
         that; I might make a Patreon for my writing _if_ I keep up on my plan
         to write somewhat regularly (weekly fiction and monthly non-fiction).
 
-- toc
-{:toc}
-
----
-
-some works to maybe talk about,,,?
-
--   [Flower Flower](https://www.mangaupdates.com/series.html?id=14983)
-    -   something abt some royal girl falling in love w a princess?
--   [Smells Like Green Spirit](https://www.mangaupdates.com/series.html?id=72788)
-    -   homophobia, bullying, etc
--   [Kono Koi ni Mirai wa nai](https://www.mangaupdates.com/series.html?id=136978)
-    -   p sure this ones just trans???
--   [Kakumei no Hi](https://www.mangaupdates.com/series.html?id=792)
-    -   this is the one that's all like "turns out ur genetically female" ugh
--   [Asuka Hybrid](https://www.mangaupdates.com/series.html?id=46224)
-    -   p normal nyotaika
--   [Genderless Danshi ni Ai sarete imasu.](https://www.mangaupdates.com/series.html?id=147063)
--   [Boku to Boku](https://www.mangaupdates.com/series.html?id=76666)
--   [Boy Skirt](https://www.mangaupdates.com/series.html?id=116884)
-    -   actually better than i expected going in
--   [Yugamira](https://www.mangaupdates.com/series.html?id=137094)
-    -   "trap x reverse trap" hate these words
--   Shimanami Tasogare / Our Dreams at Dusk
-    -   one of them w a whole bunch of lgbt rep
--   Wandering Son
-
-## 1. ネカマ/ネナベ (Gaming)
+## I. ネカマ/ネナベ (Gaming)
 
 The content of this first section is fairly basic in terms of gender identity
 issues, but the linguistics are pretty complicated, so it's worth having an
@@ -302,7 +304,7 @@ To give a few examples of this characterization for reference:
 
 <https://myanimelist.net/anime/31404/Netoge_no_Yome_wa_Onnanoko_ja_Nai_to_Omotta>
 
-### 1.1 オンリーセンス・オンライン
+### I-1. オンリーセンス・オンライン
 
 『<ruby>
     <rtc><rt>&nbsp;</rt></rtc>
@@ -321,7 +323,7 @@ Game (VRMMORPG, or just VRMMO)[^44]
         throughout and I'm not going to type out the meaning for every section
         where it's relevant. 😅
 
-### 1.2 ネト充のススメ
+### I-2. ネト充のススメ
 
 『<ruby>
     <rtc><rt></rt><rt>じゅう</rt><rt></rt><rt></rt></rtc>
@@ -333,7 +335,7 @@ Game (VRMMORPG, or just VRMMO)[^44]
 
 <https://www.mangaupdates.com/series.html?id=119335>
 
-## 2. 異性装 (Crossdressing)
+## II. 異性装 (Crossdressing)
 
 Moving on to crossdressing, <ruby><rtc>いせいそう</rtc><rbc>異性装</rbc></ruby>
 (_iseisou_), as we'll sort of work our way from breaking gender norms to
@@ -385,7 +387,7 @@ by the class imagining a particularly feminine boy in their class in a maid
 uniform or something along those lines. This sort of thing really isn't our
 focus per se, but it's important enough to discuss one or two examples.
 
-### 2.1 暗殺教室
+### II-1. 暗殺教室
 
 <https://ansatsukyoshitsu.fandom.com/wiki/Characters>
 
@@ -509,7 +511,7 @@ s2e10 ill lay off on teasing you, immediately makes him crossdress again
 As an aside, a few people have claimed Shiro is their favorite character. Do not
 do this. Please stop worshipping abusers, even fictional ones.
 
-### 2.2 狼少年は今日も嘘を重ねる
+### II-2. 狼少年は今日も嘘を重ねる
 
 『<ruby>
     <rtc><rt>おおかみ</rt><rt>しょうねん</rt><rt></rt><rt>きょう</rt><rt></rt>
@@ -520,7 +522,7 @@ do this. Please stop worshipping abusers, even fictional ones.
         <rt>uso</rt><rt>o</rt><rt>kasa</rt><rt>neru</rt></rtc>
 </ruby>』(_The Boy Who Cried Wolf Tells Another Lie Today_)
 
-### 2.3 絶対服従ゲーム
+### II-3. 絶対服従ゲーム
 
 『<ruby>
     <rtc><rt>ぜったい</rt><rt>ふくじゅう</rt><rt></rt></rtc>
@@ -532,7 +534,7 @@ initially obligated to crossdress, in this case it was the decision of the
 student council president using his one off ability to impose a school rule,
 and growing to show reluctance when finally given an out.
 
-### 2.4 ひめゴト
+### II-4. ひめゴト
 
 『<ruby>
     <rtc><rt>&nbsp;</rt></rtc>
@@ -708,7 +710,7 @@ febri ch. 3 that one meme
 
 <http://www.ichijinsha.co.jp/special/rex/himegoto/>
 
-### 2.5 まよチキ!
+### II-5. まよチキ!
 
 『<ruby>
     <rtc><rt>&nbsp;</rt></rtc>
@@ -722,7 +724,7 @@ translation since it simply doesn't translate; it is actually an abbreviation of
 </ruby>とチキンな<ruby><rt>おれ</rt><rb>俺</rb></ruby>と」(_mayoeru shitsuji to
 chikin na ore to_, "The Hesitant Butler and Myself the Chicken").
 
-### 2.6 青春×機関銃
+### II-6. 青春×機関銃
 
 『<ruby>
     <rtc><rt>あおはる</rt><rt></rt><rt>きかんじゅう</rt></rtc>
@@ -772,7 +774,7 @@ Tachibana uses「立花」(Tachibana) in first person statements.
 
 <https://magazine.jp.square-enix.com/gfantasy/story/aoharu/>
 
-## 3. 男の娘 (Femboy)
+## III. 男の娘 (Femboy)
 
 Let's just get this out of the way, "trap" is a slur. The
 term「<ruby><rtc>おとこのこ</rtc><rbc>男の娘</rbc></ruby>」(_otokonoko_) is
@@ -858,7 +860,7 @@ you don't know, and that's fine. If you're trying to broadly categorize because
 you're insecure about your heterosexuality then please don't project this onto
 others.
 
-### 3.1 Fate/Apocrypha
+### III-1. Fate/Apocrypha
 
 We'll start with 『<ruby><rtc><rt>フェイト</rt><rt></rt><rt>アポクリファ</rt>
 </rtc><rbc><rb>Fate </rb><rb>/</rb><rb>Apocrypha</rb></rbc></ruby>』for this
@@ -868,7 +870,14 @@ likely seen the memes (or the _doujinshis_).
 <ruby><rtc>くろ</rtc><rbc>黒</rbc></ruby>のライダー (_kuro no raidaa_, Rider of Black)
 アストルフォ
 
-### おとこのこ妻
+ASTOLFO NEVER ACTUALLY IDENTIFIES AS MALE AND HAVING A DICK DOESN'T DE FACTO
+MAKE SOMEONE A MAN AND THERE'S LITERALLY NOTHING INDICATING ANY GENDER FOR THEM
+AT BEST THERE'S THEIR HISTORICAL INSPIRATION WHICH SURE AS HELL MEANS SOMETHING
+IN FATE DOESN'T IT _KING_ ARTHUR FUCK THIS AND FUCK YOU.
+
+ALSO PRONOUNS ARE NOT GENDER YOU FUCKING PLEBS.
+
+### III-2. おとこのこ妻
 
 『<ruby>
     <rtc><rt></rt><rt>つま</rt></rtc>
@@ -899,7 +908,7 @@ likely seen the memes (or the _doujinshis_).
 |**幸**|奇遇だな。<br/>オレもおとこだ。|What a coincidence.<br/>So am I.
 {: .dialogue}
 
-### あまちんは自称♂
+### III-3. あまちんは自称♂
 
 『<ruby>
     <rtc><rt></rt><rt></rt><rt>じしょう</rt><rt>おす</rt></rtc>
@@ -931,7 +940,7 @@ for context, say "boy" rather than "male" or even "man."
 
 <https://comic.pixiv.net/works/4106>
 
-### ひみつの悪魔ちゃん
+### III-4. ひみつの悪魔ちゃん
 
 『<ruby>
     <rtc><rt></rt><rt></rt><rt>あくま</rt><rt></rt></rtc>
@@ -1059,7 +1068,7 @@ initiative.
 
 <https://terrenceswiff.wordpress.com/2016/08/03/himitsu-no-akuma-chan/>
 
-### ボクの下僕になぁれっ!
+### III-5. ボクの下僕になぁれっ!
 
 『<ruby>
     <rtc><rt></rt><rt></rt><rt>げぼく</rt></rtc>
@@ -1068,9 +1077,9 @@ initiative.
     <rtc><rt>boku</rt><rt>no</rt><rt>geboku</rt><rt>ni</rt><rt>nare</rt></rtc>
 </ruby>』(_"Be my servant!_)
 
-### FEMBOY FRIEND<sup>18+</sup>
+### III-6. FEMBOY FRIEND<sup>18+</sup>
 
-## 4. 性転換【第１部】転生 (Reincarnation)
+## IV. 性転換【第１部】転生 (Reincarnation)
 
 We've now reached the origin of the joke in the title "Assigned Female at
 Rebirth," which also happens to have been the inspiration for this work as a
@@ -1123,7 +1132,7 @@ this is like, a list??:
 
 <https://dic.pixiv.net/a/%E5%85%AC%E5%BC%8F%E5%A5%B3%E4%BD%93%E5%8C%96>
 
-### 4.1 幼女戦記
+### IV-1. 幼女戦記
 
 『<ruby>
     <rtc><rt>ようじょ</rt><rt>せんき</rt></rtc>
@@ -1169,7 +1178,7 @@ manga
 
 <https://comic-walker.com/contents/detail/KDCW_KS04000025010000_68/>
 
-### 4.2 転生したらスライムだった件
+### IV-2. 転生したらスライムだった件
 
 『<ruby>
     <rtc><rt>てんせい</rt><rt></rt><rt></rt><rt></rt>
@@ -1204,7 +1213,7 @@ manga
 
 「いや、性別がない。無性だって。」s1e9
 
-### サキュバスに転生したのでミルクをしぼります
+### IV-3. サキュバスに転生したのでミルクをしぼります
 
 *Note: this section was written based on the manga adaptation, the source light
 novel was not read beforehand.*
@@ -1238,9 +1247,9 @@ be like and why.
 
 [^4]: It's free to read but you do need to have a ニコニコ (_niconico_) account.
 
-## 5. 性転換【第２部】〇〇体化 (Transformation)
+## V. 性転換【第２部】〇〇体化 (Transformation)
 
-### けんぷファー
+### V-1. けんぷファー
 
 I'm going to start this one off in first person, because the only reason it's
 really included at all is fairly personal. Generally, most works in this article
@@ -1257,7 +1266,7 @@ short, this is pretty much just me being nostalgic. Along those same lines, a
 fun note here is that this was actually my first "magical girl" show, I never
 saw Sailor Moon on TV like many weebs of this generation, lol.
 
-### ヒナちゃんチェンジ<sup>CW</sup>
+### V-2. ヒナちゃんチェンジ<sup>CW</sup>
 
 **Content warning:** _this section contains discussion about sexual assault._
 
@@ -1323,7 +1332,7 @@ Hide **cishet** discussions.
 Ignore **cishet** comments.
 Do not reply to **cishet** commenters.
 
-### お兄ちゃんはおしまい!
+### V-3. お兄ちゃんはおしまい!
 
 『<ruby>
     <rtc><rt></rt><rt>にい</rt></rtc>
@@ -1332,7 +1341,7 @@ Do not reply to **cishet** commenters.
     <rtc><rt>o</rt><rt>nii</rt><rt>chan</rt><rt>wa</rt><rt>oshimai</rt></rtc>
 </ruby>』(_Onii-chan is done for!_)
 
-### 女装男子のつくりかた<sup>18+</sup>
+### V-4. 女装男子のつくりかた<sup>18+</sup>
 
 『<ruby>
     <rtc><rt>じょそう</rt><rt>だんし</rt></rtc>
@@ -1363,7 +1372,7 @@ Japanese
 -   Pixiv: <https://www.pixiv.net/en/artworks/72059950>
 -   EH: <https://e-hentai.org/g/1328791/e5637b888c/>
 
-### まじとら!
+### V-5. まじとら!
 
 『<ruby>
     <rtc><rt>&nbsp;</rt></rtc>
@@ -1371,7 +1380,7 @@ Japanese
     <rtc><rt>maji</rt><rt>tora</rt></rtc>
 </ruby>』(_Magical Trans!_)
 
-### 突然女の子になったので、俺のおっぱい揉んでみませんか？<sup>18+</sup>
+### V-6. 突然女の子になったので、俺のおっぱい揉んでみませんか？<sup>18+</sup>
 
 「せめて夢の中でくらい⋯　いい思いしたいよ⋯」<br/>
 "At least in my dreams... I can have happy thoughts..."
@@ -1400,11 +1409,11 @@ that it has 24 chapters thus far. Not to mention the author's name, <ruby>
     <rtc><rt>Ada</rt><rt>Una</rt></rtc>
 </ruby>; so I couldn't just not bring that up at some point.
 
-## 6. トランスジェンダー (Transgender)
+## VI. トランスジェンダー (Transgender)
 
 _Sometimes_ there is actual trans representation.
 
-### 境界のないセカイ
+### VI-1. 境界のないセカイ
 
 「一年ぶりだね　湧くんっ♪」<br/>
 "It's been a year, Yuu-kun."
@@ -1454,7 +1463,7 @@ Author:
 
 <https://comic-walker.com/viewer/?tw=2&dlcl=ja&cid=KDCW_KS01000008010001_68>
 
-### カノジョになりたい君と僕
+### VI-2. カノジョになりたい君と僕
 
 『<ruby>
     <rtc><rt></rt><rt></rt><rt></rt><rt>きみ</rt><rt></rt>
@@ -1471,9 +1480,9 @@ Author:
 
 <https://ganma.jp/kanoboku>
 
-## 7. Xジェンダー (Non-Binary)
+## VII. Xジェンダー (Non-Binary)
 
-### 不可解なぼくのすべてを
+### VII-1. 不可解なぼくのすべてを
 
 「ぼくはっ　男でも女でもないっ!!!」<br/>
 "I'm... not a boy or a girl!!!"
@@ -1526,7 +1535,7 @@ good look at what they mean in the context.
 ||⋯あ<br/>あるけど⋯<br/>(中学の時<br/>オカマと呼ばれ)|...Y-<br/>Yeah, I have...<br/>(Someone called me a<br/>fag in junior high...)
 {: .dialogue}
 
-## 8. 脚注 (Footnotes)
+## Appendix A. 脚注 (Footnotes)
 
 [1]:    https://www.pixiv.net/en/tags/%E7%94%B7%E3%81%AE%E5%A8%98/artworks?s_mode=s_tag
 [2]:    https://nhentai.net/tag/tomgirl/

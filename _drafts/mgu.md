@@ -17,6 +17,18 @@ title: 魔法少女の労働組合
         <rt>kumiai</rt></rtc>
 </ruby>」(The Magical Girls' Union)
 
+## I. _Conditions_
+
+## II. _Organization_
+
+### II-1. ケンプファー
+
+## III. _Insurrection_
+
+### III-1. 魔法少女まどか☆マギカ
+
+## IV. _Meta_
+
 Personally, I think it would be more than rude to discuss working conditions
 depicted within a work without ever so much as mentioning the conditions under
 which it was created.
