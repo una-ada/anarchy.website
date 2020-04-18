@@ -1,3 +1,10 @@
+---
+author: una
+layout: post
+tags: psychology marxism freudo-marxism wilhelm-reich
+title: Wilhelm Reich and Freudo-Marxism
+---
+
 **What the fuck was Reich's deal?!?**
 
 <https://en.wikipedia.org/wiki/Freudo-Marxism>
