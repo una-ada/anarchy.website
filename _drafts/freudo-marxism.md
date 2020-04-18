@@ -1,5 +1,9 @@
 ---
 author: una
+description: >
+    A tangent on psychiatric historiography: the Marxist interpretations of
+    Freudian psychology, Wilhelm Reich, and other superficially relevant topics
+    from the 20th century.
 layout: post
 tags: psychology marxism freudo-marxism wilhelm-reich
 title: Wilhelm Reich and Freudo-Marxism
