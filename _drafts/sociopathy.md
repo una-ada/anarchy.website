@@ -6,14 +6,14 @@ description: >
 entry: 1
 layout: post
 license: BY-SA
-permalink: /fpoe-wd
+permalink: /paragon
 series: langandpsych
 tags: >
     history mental-illness psychology criminology psychiatry eugenics nosology
     epidemiology penology etiology pseudo-science teleology homophobia bigotry
     transphobia personality-disorders personology individual-differences
     historiography
-title: The False Paragon of Evil (WD)
+title: Paragon
 ---
 
 **Content Warning/Trigger Warning: this article contains discussion and

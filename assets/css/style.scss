@@ -46,7 +46,7 @@ blockquote {
 	padding-left: 1rem;
 }
 blockquote p {
-	margin:0.5rem 0;
+	margin: 0.5rem 0;
 }
 body {
 	font-family: $copy-font;
@@ -67,6 +67,9 @@ code {
 }
 code, pre {
 	font-family: $mono-font;
+}
+#content {
+	min-height: 50vh;
 }
 .centered,
 center * {

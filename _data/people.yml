@@ -2,25 +2,24 @@ redacted:
     name: "&lsqb;REDACTED&rsqb;"
     url: https://una-ada.github.io
 michaubr2:
-    add: 410 S. 3rd St., River Falls, WI 54016
     dept: Physics Department, University of Wisconsin - River Falls
     name: Benjamin Michaud
     email: benjamin.michaud@my.uwrf.edu
 una:
     bio: >
         Absurdist, anarchist. No pronouns.
-    name: Una N. Ada
-    name_ja: エイダ 海
-    name_ru: Уна Ада
     email: una@anarchy.website
     img: /assets/img/people/ada.jpg
+    name: Una Noa Ada
+    name_ja: 海
+    name_ko: 우나 노아 에이다
+    name_ru: Уна Ада
     url: https://anarchy.website
 shtpostscarcity:
     email: chloe@anarchy.website
-    name: Chloe (Χλόη) Ross
+    name: Chloe
+    name_el: Χλόη
     url: https://never-work.com/
-nestor:
-    name: ＮＥＳＴＯＲ マックニャー
 whimworm:
-    name: Leland (@whimworm)
+    name: Leland
     url: https://twitter.com/whimworm

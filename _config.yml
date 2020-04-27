@@ -12,13 +12,13 @@ plugins:
   - jekyll-seo-tag
 repository: una-ada/anarchy.website
 social:
-  name: Una J. Ada
+  name: Una Noa Ada
   links:
     - https://github.com/una-ada
-    - https://twitter.com/una__ada
+    - https://twitter.com/unasareyou
     - https://www.youtube.com/channel/UC4HsBGB0z0g77wVdrCssgIQ
 theme: jekyll-theme-minimal
 title: anarchy.website
 twitter:
-  username: una__ada
+  username: unasareyou
 url: https://anarchy.website
