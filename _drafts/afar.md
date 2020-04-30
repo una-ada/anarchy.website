@@ -93,25 +93,7 @@ Finally, as language is an important part of this discussion, a good amount of
 slurs will be brought up in both Japanese and English. These slurs are not
 censored here for the sake of clarity and discussion.
 
-_One more_ thing before we dive right into the first section. Since, again,
-there will be a lot of discussion of language, we can't just talk about
-translations, we need the original text. This is especially relevant in terms of
-terminology, personality, pronouns, etc. To that end, I, as the author, went to
-some lengths to acquire original releases of much of the media reviewed. This is
-not always free, and it's a good idea to support the authors when talking about
-their work in any case. What I'm saying is, every time you see some quoted
-dialogue with a 日本語 column, just think that cost me five or six dollars to
-find! I'm poor so this takes quite a toll on my wallet, but anything for good
-quality content I say \*hmph\*. With that in mind, if you could drop a couple
-dollars in my Cash App, $unaada, that would be much appreciated! (If you do want
-to donate but can't use Cash App, just shoot me an email at `una [at] anarchy
-[dot] website` and we'll see what works best for you.[^33])
-
-[^33]:  I do have a PayPal, but I won't list it publicly as it uses my legal
-        name (i.e. my deadname at the moment). Also, my podcast has a
-        [Patreon](https://www.patreon.com/gthnglsnnrs), if you'd like to do
-        that; I might make a Patreon for my writing _if_ I keep up on my plan
-        to write somewhat regularly (weekly fiction and monthly non-fiction).
+[^33]
 
 ## I. ネカマ/ネナベ (Gaming)
 
