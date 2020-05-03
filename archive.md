@@ -1,3 +1,7 @@
 ---
-layout: archive
+layout: default
 ---
+
+{%- for post in site.posts -%}
+    {%- include preview.html post=post -%}
+{%- endfor -%}
