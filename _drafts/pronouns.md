@@ -45,7 +45,7 @@ This is equally valid, but has a significantly different tone to it, coming off
 as emphatic and mocking. This is more or less foreshadowing a lot of issues we
 will be running into as we discuss alternative grammar styles: connotative tone.
 A lot of tone in language, despite what the "people don't talk face-to-face
-anymore" crows will try selling you, comes from word choice and sentence
+anymore" crowd will try selling you, comes from word choice and sentence
 structure. Vocal tone, while similarly expressive, primarily works in tandem
 with this, while a dissonance between the two types adds a level of depth to
 expression.
@@ -62,7 +62,13 @@ Context, Antecedents, Binding
 
 ### I-4. &c.
 
-Demonstrative, Indefinite, Relative
+Demonstrative, Relative, Interrogative, Indefinite
+
+### I-5. Expletives
+
+Like in "**it** is raining" (suck my dick, Chomsky).
+
+Dummy pronouns? Do they count?
 
 ## II. Identity
 
@@ -70,17 +76,14 @@ This topic gets its own section. The other section is about the function of
 pronouns in grammar and basic linguistics, this one is about the function in
 culture.
 
-## II-X. Neo-Pronouns
+### II-X. Neo-Pronouns
 
-Consider, "who/whom" as pronouns.
+>   Using "who/whom" pronouns is grammatically consistent and perfectly valid.
 
-<blockquote class="twitter-tweet">
-    <p lang="en" dir="ltr">
-        &quot;Nooo~! You can&#39;t just force interrogative pronouns to emulate their relative form regardless of context to act as third personal pronouns!!&quot; I hear you shouting already, but nonetheless, I start pulling indefinite pronouns out of my pockets.
-    </p>&mdash; una (@unasareyou)
-    <a href="https://twitter.com/unasareyou/status/1256702524733652993?ref_src=twsrc%5Etfw">May 2, 2020</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+>   "Nooo~! You can't just force interrogative pronouns to emulate their
+    relative form regardless of context to act as third personal pronouns!!" I
+    hear you shouting already, but nonetheless, I start pulling indefinite
+    pronouns out of my pockets.
 
 ## III. Languages "Without" Pronouns
 
@@ -102,14 +105,17 @@ sometimes.
 ### IV-X. Trivial Solutions
 
 What if just not? Like, always use the full noun?
-
-### IV-X. Expletives
-
-Like in "**it** is raining" (suck my dick, Chomsky).
-
-Dummy pronouns? Do they count?
-
 Existential clauses?
+
+### IV-X. Inflection
+
+Breaking repetition by inflecting.
+
+Saša -> Sa/Saš
+
+Saša isn't feeling well, have you talked to Saš lately?
+
+Sa drinks Sas Ovaltine.
 
 ## V. English Without Pronouns
 
