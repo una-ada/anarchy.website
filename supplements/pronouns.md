@@ -31,8 +31,8 @@ title: Supplement A
 </colgroup>
 <thead class="r1">
     <th colspan="3">Person/Gender</th>
-    <th>Subject</th>
-    <th>Object</th>
+    <th>Nominative (Subject)</th>
+    <th>Oblique (Object)</th>
     <th>Dependent Possessive (Determiner)</th>
     <th>Independent Possessive</th>
     <th>Reflexive</th>
@@ -139,14 +139,137 @@ title: Supplement A
     <td>you mob</td>
 </tr>
 <tr>
-    <td rowspan="5">Third</td>
-    <td rowspan="4">Singular</td>
+    <td rowspan="23">Third</td>
+    <td rowspan="22">Singular</td>
     <td>Epicene</td>
     <td>they</td>
     <td>them</td>
     <td>their</td>
     <td>theirs</td>
     <td>themselves, themself</td>
+</tr>
+<tr>
+   <td markdown="span" rowspan="3">
+
+   Derived Neutral[^3]
+
+   </td>
+    <td>she/he</td>
+    <td>him/her</td>
+    <td>his/her</td>
+    <td>his/hers</td>
+    <td rowspan="2">him/herself</td>
+</tr>
+<tr>
+    <td>s/he</td>
+    <td>him/r</td>
+    <td>his/r</td>
+    <td>his/rs</td>
+</tr>
+<tr>
+    <td>'e</td>
+    <td>h'</td>
+    <td>'s</td>
+    <td>'rs</td>
+   <td markdown="span">
+
+   h'/h'self[^2]
+
+   </td>
+</tr>
+<tr>
+   <td markdown="span" rowspan="14">
+
+   Proposed Neutral[^4]
+
+   </td>
+    <td>e</td>
+    <td>em</td>
+    <td colspan="2">es</td>
+    <td>emself</td>
+</tr>
+<tr>
+    <td>E</td>
+    <td>Em</td>
+    <td>Eir</td>
+    <td>Eirs</td>
+    <td>Emself</td>
+</tr>
+<tr>
+    <td>ey</td>
+    <td>em</td>
+    <td>eir</td>
+    <td>eirs</td>
+    <td>eirself</td>
+</tr>
+<tr>
+    <td>hu</td>
+    <td>hum</td>
+    <td colspan="2">hus</td>
+    <td>humself</td>
+</tr>
+<tr>
+    <td>peh</td>
+    <td>pehm</td>
+    <td colspan="2">peh's</td>
+    <td>pehself</td>
+</tr>
+<tr>
+    <td colspan="3">per</td>
+    <td>pers</td>
+    <td>perself</td>
+</tr>
+<tr>
+    <td colspan="2">thon</td>
+    <td colspan="2">thons</td>
+    <td>thonself</td>
+</tr>
+<tr>
+    <td>ve</td>
+    <td>ver</td>
+    <td colspan="2">vis</td>
+    <td>verself</td>
+</tr>
+<tr>
+    <td>xe</td>
+    <td>xem</td>
+    <td>xyr</td>
+    <td>xyrs</td>
+    <td>xemself</td>
+</tr>
+<tr>
+    <td rowspan="3">ze</td>
+    <td>mer</td>
+    <td>zer</td>
+    <td>zers</td>
+    <td>zemself</td>
+</tr>
+<tr>
+    <td>zir, zem</td>
+    <td>zir, zes</td>
+    <td>zirs, zes</td>
+    <td>zirself, zemself</td>
+</tr>
+<tr style="height:2em;">
+    <td colspan="2" rowspan="2">hir</td>
+    <td rowspan="2">hirs</td>
+    <td rowspan="2">hirself</td>
+</tr>
+<tr>
+    <td>sie</td>
+</tr>
+<tr>
+    <td>zhe</td>
+    <td>zhim</td>
+    <td>zher</td>
+    <td>zhers</td>
+    <td>zhimself</td>
+</tr>
+<tr>
+    <td>Regional Neutral</td>
+    <td>Yo</td>
+    <td>yo</td>
+    <td colspan="3"></td>
 </tr>
 <tr>
     <td>Feminine</td>
@@ -176,8 +299,40 @@ title: Supplement A
     <td>theirs</td>
     <td>themselves</td>
 </tr>
+<tr>
+    <td rowspan="2">Generic</td>
+    <td colspan="2">Formal</td>
+    <td colspan="2">one</td>
+    <td colspan="2">one's</td>
+    <td>oneself</td>
+</tr>
+<tr>
+    <td colspan="2">Informal</td>
+    <td colspan="2">you</td>
+    <td colspan="2">your</td>
+    <td>yourself</td>
+</tr>
+<tr>
+    <td colspan="3">Relative</td>
+    <td>who</td>
+    <td>whom, who</td>
+    <td colspan="2">whose</td>
+    <td></td>
+</tr>
 </table>
 
 ## Footnotes
 
-[^1]: Before vowels.
+[^1]:   Before vowels.
+
+[^2]:   What is the point of the slash when one could simply do "h'self"? 'Tis
+        truly a mystery.
+
+[^3]:   The term "Derived" here is used to refer to sets that are derived
+        from traditional pronouns. These could be considered canonical in that
+        they are created from the "standard" inventory, though their actual
+        usage is inconsistently implemented (and also cringe).
+
+[^4]:   The term "Proposed" here is used for those sets that have been proposed
+        as gender neutral alternatives, but there is little implementation of
+        them as such.
