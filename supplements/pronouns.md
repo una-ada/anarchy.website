@@ -139,8 +139,28 @@ title: Supplement A
     <td>you mob</td>
 </tr>
 <tr>
-    <td rowspan="23">Third</td>
-    <td rowspan="22">Singular</td>
+    <td rowspan="41">Third</td>
+    <td rowspan="40">Singular</td>
+    <td>Neuter</td>
+    <td colspan="2">it</td>
+    <td colspan="2">its</td>
+    <td>itself</td>
+</tr>
+<tr>
+    <td>Feminine</td>
+    <td>she</td>
+    <td colspan="2">her</td>
+    <td>hers</td>
+    <td>herself</td>
+</tr>
+<tr>
+    <td>Masculine</td>
+    <td>he</td>
+    <td>him</td>
+    <td colspan="2">his</td>
+    <td>himself</td>
+</tr>
+<tr>
     <td>Epicene</td>
     <td>they</td>
     <td>them</td>
@@ -231,14 +251,14 @@ title: Supplement A
     <td>verself</td>
 </tr>
 <tr>
-    <td>xe</td>
+    <td>xe(y)</td>
     <td>xem</td>
     <td>xyr</td>
     <td>xyrs</td>
     <td>xemself</td>
 </tr>
 <tr>
-    <td rowspan="3">ze</td>
+    <td rowspan="3">ze, zie</td>
     <td>mer</td>
     <td>zer</td>
     <td>zers</td>
@@ -269,27 +289,128 @@ title: Supplement A
     <td>Regional Neutral</td>
     <td>Yo</td>
     <td>yo</td>
-    <td colspan="3"></td>
+   <td colspan="2" markdown="span">
+
+   _yos_[^5]
+
+   </td>
+    <td><em>yosself</em></td>
 </tr>
 <tr>
-    <td>Feminine</td>
-    <td>she</td>
-    <td colspan="2">her</td>
-    <td>hers</td>
-    <td>herself</td>
+   <td rowspan="18" markdown="span">
+
+   Observed[^6]
+
+   </td>
+    <td>ae</td>
+    <td colspan="2">aer</td>
+    <td>aers</td>
+    <td>aerself</td>
 </tr>
 <tr>
-    <td>Masculine</td>
-    <td>he</td>
-    <td>him</td>
-    <td colspan="2">his</td>
-    <td>himself</td>
+    <td>fae</td>
+    <td colspan="2">faer</td>
+    <td>faers</td>
+    <td>faerself</td>
 </tr>
 <tr>
-    <td>Neuter</td>
-    <td colspan="2">it</td>
-    <td colspan="2">its</td>
-    <td>itself</td>
+    <td>fey</td>
+    <td>fem</td>
+    <td>feir</td>
+    <td>feirs</td>
+    <td>feirself</td>
+</tr>
+<tr>
+    <td>jee</td>
+    <td>jem</td>
+    <td>jeir</td>
+    <td>jeirs</td>
+    <td>jemself</td>
+</tr>
+<tr>
+    <td colspan="2">kit</td>
+    <td colspan="2">kits</td>
+    <td>kitself</td>
+</tr>
+<tr>
+    <td>ne</td>
+    <td>nem</td>
+    <td>nir</td>
+    <td>nirs</td>
+    <td>nemself</td>
+</tr>
+<tr>
+    <td>se</td>
+    <td>sim</td>
+    <td>ser</td>
+    <td>sers</td>
+    <td>serself</td>
+</tr>
+<tr>
+    <td>shi</td>
+    <td colspan="2">hir</td>
+    <td>hirs</td>
+    <td>hirself</td>
+</tr>
+<tr>
+    <td>si</td>
+    <td colspan="2">hyr</td>
+    <td>hyrs</td>
+    <td>hyrself</td>
+</tr>
+<tr>
+    <td rowspan="2">ve</td>
+    <td>ver</td>
+    <td colspan="2">vis</td>
+    <td>verself</td>
+</tr>
+<tr>
+    <td>vem</td>
+    <td>vir</td>
+    <td>virs</td>
+    <td>vemself</td>
+</tr>
+<tr>
+    <td rowspan="3">vi</td>
+    <td colspan="2">ver</td>
+    <td>vers</td>
+    <td>verself</td>
+</tr>
+<tr>
+    <td rowspan="2">vim</td>
+    <td>vir</td>
+    <td>virs</td>
+    <td rowspan="2">vimself</td>
+</tr>
+<tr>
+    <td>vim</td>
+    <td>vims</td>
+</tr>
+<tr>
+    <td>xie</td>
+    <td colspan="2">xer</td>
+    <td>xers</td>
+    <td>xerself</td>
+</tr>
+<tr>
+    <td>xey</td>
+    <td>xem</td>
+    <td>xeir</td>
+    <td>xeirs</td>
+    <td>xemself</td>
+</tr>
+<tr>
+    <td>zee</td>
+    <td>zed</td>
+    <td>zeta</td>
+    <td>zetas</td>
+    <td>zedself</td>
+</tr>
+<tr>
+    <td>zme</td>
+    <td colspan="2">zmyr</td>
+    <td>zmyrs</td>
+    <td>zmyrself</td>
 </tr>
 <tr>
     <td colspan="2">Plural</td>
@@ -336,3 +457,11 @@ title: Supplement A
 [^4]:   The term "Proposed" here is used for those sets that have been proposed
         as gender neutral alternatives, but there is little implementation of
         them as such.
+
+[^5]:   <https://pronoun.is/yo>
+
+[^6]:   This section is for pronoun sets that have no specific proposals for
+        usage (as far as I know) but are still adopted by individuals for their
+        own use. The list is mostly taken from [Pronoun Island][1].
+
+[1]:    https://pronoun.is/
