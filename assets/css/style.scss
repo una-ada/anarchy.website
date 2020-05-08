@@ -517,6 +517,10 @@ twitterwidget, twitter-widget {
    }
 }
 @media print, screen and (max-width: 500px){
+	.content {
+		overflow: scroll;
+		width: 100%;
+	}
 	.footnotes {
 		column-count: auto;
 	}
