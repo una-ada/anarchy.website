@@ -137,19 +137,6 @@ that further in Section II.
 Let's just discuss the "standard Modern English" inventory of personal pronouns
 like so:
 
-| Person     | Subject | Object | Determiner | Ind. Possessive | Reflexive |
-|------------|:-------:|:------:|:----------:|:---------------:|:---------:|
-| **First**  | I       | me     | my         | mine            | myself    |
-| Plural     | we      | us     | our        | ours            | ourselves |
-| **Second** | you     | you    | your       | yours           | yourself  |
-| Plural     | you     | you    | your       | yours           | yourselves|
-| **Third**  |         |        |            |                 |           |
-| Epicene    | they    | them   | their      | theirs          | themself  |
-| Fem.       | she     | her    | her        | hers            | herself   |
-| Masc.      | he      | him    | his        | his             | himself   |
-| Neuter     | it      | it     | its        | its             | itself    |
-| Plural     | they    | them   | their      | theirs          | themselves|
-
 Now, a few things will immediately stick out to anyone that actually speaks
 English here. The layperson will, for one, notice "informal" pronouns missing.
 It would frankly be prescriptivist to not include those, not to mention the
@@ -174,13 +161,19 @@ Like in "**it** is raining" (suck my dick, Chomsky).
 
 Dummy pronouns? Do they count?
 
-## II. Identity
+## II. Philosophy
 
 This topic gets its own section. The other section is about the function of
 pronouns in grammar and basic linguistics, this one is about the function in
 culture.
 
-### II-X. Neo-Pronouns
+### II-X. Ontology
+
+<https://en.wikipedia.org/wiki/Charles_Sanders_Peirce>
+
+<https://plato.stanford.edu/entries/peirce/>
+
+### II-X. Identity
 
 <blockquote class="twitter-tweet">
     <p lang="en" dir="ltr">
