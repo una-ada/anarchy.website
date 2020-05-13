@@ -6,6 +6,7 @@ description: >
     pronouns? Wouldn't, even if such an act were possible, the words become at
     the very least awkward?
 layout: post
+permalink: /implicitus
 subtitle: English Without Pronouns
 tags: linguistics pronouns grammar topic-focus
 title: Implicitus
