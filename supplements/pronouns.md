@@ -531,7 +531,11 @@ Test[^22][^23][^24]
         them as such.
 
     The list is taken from the [Wikipedia page on third-person pronouns][2], and
-    as such may be incomplete.
+    as such may be incomplete. A more complete list of proposals throughout
+    history can be found in [A Chronology of Gender-Neutral and Nonbinary
+    Pronouns][13] from _What's Your Pronoun?: Beyond He and She_, or a similar
+    but shorter list from the same author, Dennis Baron, "[The Epicene
+    Pronouns: A Chronology of the Word That Failed][14]" ([alt][15])
 
 [^5]:   <https://pronoun.is/yo>
 
@@ -593,7 +597,9 @@ Test[^22][^23][^24]
 [^10]:  Yes, the original contains a $\TeX$ pun. Yes, the formatting isn't
         entirely correct here, this document is not written entirely in
         $\LaTeX$ and is using MathJax to approximate the original (which is
-        probably also why these logos are italicized, they should not be).
+        probably also why these logos are italicized, they should not be). But
+        at least I managed to recreate it to some extent, get fucked [John
+        Williams][12].
 
 [^11]:  🙄.
 
@@ -842,3 +848,7 @@ Test[^22][^23][^24]
 [9]:    https://askanonbinary.tumblr.com/post/70717402524
 [10]:   https://neopronounfaq.tumblr.com/post/185595241964
 [11]:   https://books.google.com/books?id=kxU_AAAAYAAJ&lpg=PA48-IA3&ots=LZ1dYWBbxY&dq=The%20Critic%2C%20Aug.%202%2C%201884&pg=PA55#v=onepage&q&f=false
+[12]:   https://web.archive.org/web/20050204202027/http://www.aetherlumina.com/gnp/references.html
+[13]:   https://www.google.com/books/edition/What_s_Your_Pronoun_Beyond_He_and_She/SCqfDwAAQBAJ?hl=en&gbpv=1&dq=A%20Chronology%20of%20Gender-Neutral%20and%20Nonbinary%20Pronouns&pg=PT150&printsec=frontcover
+[15]:   https://web.archive.org/web/20041208215716/http://www2.english.uiuc.edu:80/baron/essays/epicene.htm
+[14]:   https://linguistlist.org/issues/3/3-282.html
