@@ -4,6 +4,8 @@ layout: default
 
 # Goth Angel Sinners
 
+Links: [Anchor.fm][1], [SoundCloud][23], [Twitter][16].
+
 [![Goth Angel Sinners][22]][1]
 **Figure 1.** The Goth Angel Sinners podcast title card.
 {: .pullquote .image}
@@ -71,3 +73,4 @@ including the notes on the latest episode: [Part V: Post-Scarcity][7]
 [20]: https://twitter.com/punished_picnic
 [21]: https://medium.com/@ruinedpicnic/the-picnic-archive-cd2751818964
 [22]: /assets/img/gas/title.jpg
+[23]: https://soundcloud.com/gthnglsnnrs
