@@ -68,9 +68,6 @@ code {
 code, pre {
 	font-family: $mono-font;
 }
-#content {
-	min-height: 50vh;
-}
 .centered,
 center * {
 	text-align: center !important;
@@ -529,6 +526,9 @@ twitterwidget, twitter-widget {
 	}
 }
 @media print {
+	.content {
+		overflow: auto;
+	}
 	html {
 		background: white;
 	}

@@ -599,7 +599,7 @@ Test[^22][^23][^24]
         $\LaTeX$ and is using MathJax to approximate the original (which is
         probably also why these logos are italicized, they should not be). But
         at least I managed to recreate it to some extent, get fucked [John
-        Williams][12].
+        Williams][12]. (No $\TeX$ joke has ever been funny)
 
 [^11]:  🙄.
 

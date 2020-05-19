@@ -8,7 +8,9 @@ description: >
 layout: post
 permalink: /implicitus
 subtitle: English Without Pronouns
-tags: linguistics pronouns grammar topic-focus
+tags: >
+    linguistics pronouns grammar topic-focus ontology philosophy anaphora
+    binding gender declension inflection pronominal expletives epicene
 title: Implicitus
 ---
 
@@ -38,7 +40,7 @@ people not to use any pronouns. I can throw "no pronouns" in my bio, a few will
 understand that here and there, but it's hard to assert around people who
 struggle to even handle "they/them." I did _eventually_ do that, back in April,
 during a bit of breakdown in which I essentially decided to just drop the act
-and stop pretending I cared about being convenient for other. Human interaction
+and stop pretending I cared about being convenient for others. Human interaction
 requires effort of both parties regardless, so why not assert who you really
 are?
 
@@ -95,12 +97,18 @@ Simply put, pronouns are words used to replace nouns. In a generic case, the
 pronoun is used in a spot one could otherwise have stated a noun. For example,
 take the following statement:
 
->   _Alex doesn't sleep at night, **she** just sits in bed and cries._
+$$
+\text{Alex doesn't sleep at night, }\pmb{she}
+\text{ just sits in bed and cries.}\tag1
+$$
 
 Here, "she" is acting in the place of restating "Alex;" alternatively, we could
 say:
 
->   _Alex doesn't sleep at night, **Alex** just sits in bed and cries._
+$$
+\text{Alex doesn't sleep at night, }\pmb{Alex}
+\text{ just sits in bed and cries.}\tag2
+$$
 
 This is equally valid, but has a significantly different tone to it, coming off
 as emphatic and mocking. This is more or less foreshadowing a lot of issues we
@@ -111,19 +119,19 @@ structure. Vocal tone, while similarly expressive, primarily works in tandem
 with this, while a dissonance between the two types adds a level of depth to
 expression.
 
-The simplicity here is going to break down quite a bit, but that is really to be
-expected when discussing language. This way of referring to pronouns almost
-makes it sounds mathematical, logical... which grammar can be seen sort of akin
-to a programming language. Here, we're basically saying "pronouns are variables"
-and calling it at that. So, let's dig deeper into it, shall we?
+...
 
-### I-1. Personal
+Personal pronouns are perhaps the most relevant among pronouns in general to the
+discussion at hand and so will be the primary focus in regards to examples of pronouns' functions. These are pronouns which refer to a grammatical person, which are typically[^2] divided into three categories: first, the speaker; second, the one spoken to; and third, separate from the previous two.
 
-As per the zeitgeist, personal pronouns are likely what first comes to mind when
-discussing pronouns as a whole. Y'know, the whole "pronouns in bio" bit and the
-general reduction of the term "pronouns" as a whole to simply "preferred
-pronouns." The concept of preference here is a bit flimsy, but we'll discuss
-that further in Section II.
+[^2]:   Some languages distinguish between proximate and obviative third
+        persons, essentially a hierarchy of relevance to the topic (or
+        "salience") where the former is more topical than the latter; the
+        obviate third person is sometimes considered a "fourth person."
+
+    Alternatively, "fourth person" could refer to generics, e.g. "one" in
+    English. In other languages this may also be considered "zero person" as it
+    leaves the referrent open (i.e. the person is unspecified).
 
 <https://en.wikipedia.org/wiki/Personal_pronoun>
 
@@ -135,30 +143,15 @@ that further in Section II.
 
 <https://www.grammarly.com/blog/personal-pronouns/>
 
-Let's just discuss the "standard Modern English" inventory of personal pronouns
-like so:
-
-Now, a few things will immediately stick out to anyone that actually speaks
-English here. The layperson will, for one, notice "informal" pronouns missing.
-It would frankly be prescriptivist to not include those, not to mention the
-archaic forms still used here and there. However, this would turn out to be a
-lengthy list, so anyone interested can check out the [supplementary file][2].
-
-### I-2. Gender
+[supplementary file][2].
 
 Gender is sycophancy. Epicenity is liberalism. Abolition is necessary.
 
-### I-3. Anaphora
-
-Context, Antecedents, Binding
-
-### I-4. &c.
+Anaphora. Context, Antecedents, Binding
 
 Demonstrative, Relative, Interrogative, Indefinite
 
-### I-5. Expletives
-
-Like in "**it** is raining" (suck my dick, Chomsky).
+Expletives. Like in "**it** is raining" (suck my dick, Chomsky).
 
 Dummy pronouns? Do they count?
 
@@ -168,13 +161,9 @@ This topic gets its own section. The other section is about the function of
 pronouns in grammar and basic linguistics, this one is about the function in
 culture.
 
-### II-X. Ontology
-
 <https://en.wikipedia.org/wiki/Charles_Sanders_Peirce>
 
 <https://plato.stanford.edu/entries/peirce/>
-
-### II-X. Identity
 
 <blockquote class="twitter-tweet">
     <p lang="en" dir="ltr">
@@ -190,29 +179,23 @@ culture.
 
 <https://en.wikipedia.org/wiki/Spivak_pronoun>
 
-## III. Languages "Without" Pronouns
+## III. Interlingual
 
 East Asian languages, mostly.
 
 Some linguists argue that Japanese pronouns are not grammatically pronouns. I
 don't remember the source on this, and it's kind of prescriptivist?
 
-### III-X. Topic and Comment
-
 Topic and comment. Topic-prominence. Etc.
 
-## IV. Avoiding Pronouns in English
+## IV. Avoidance
 
 Tip-toeing around using pronouns as much as possible. Like, wording statements
 to avoid needing to say a pronoun... this can be kind of dehumanizing,
 sometimes.
 
-### IV-X. Trivial Solutions
-
 What if just not? Like, always use the full noun?
 Existential clauses?
-
-### IV-X. Inflection
 
 Breaking repetition by inflecting.
 
@@ -222,7 +205,7 @@ Saša isn't feeling well, have you talked to Saš lately?
 
 Sa drinks Sas Ovaltine.
 
-## V. English Without Pronouns
+## V. Abolition
 
 Trying to make it sound natural. Or just giving up on that and forcing it? We'll
 see how it goes, lol.
@@ -233,11 +216,10 @@ away with? Even tho they're so poetic or whatever?
 Talking about the prospect of complete abolition here. Can we just not have any
 pronouns in English?
 
-### V-X. The Pronominal Compromise
-
-
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8">
 </script>
+
+## Footnotes
 
 [1]:    https://anarchy.website/2020/02/07/update.html
 [2]:    /supplements/pronouns
