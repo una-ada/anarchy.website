@@ -2,9 +2,6 @@
 layout: post
 license: BY-ND
 series: hakkenteki
-stylized_title: >
-    ようこそ<ruby><rtc>はっけんてき</rtc><rbc>『発見的』</rbc>
-    <rtc>Hakkenteki</rtc></ruby>へ!
 title: 発見的 (Hakkenteki)
 ---
 

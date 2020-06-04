@@ -1419,7 +1419,7 @@ completely covered by insurance.
 ||基本的人権に<br/>性別選択の自由が<br/>加えられた事は<br/>社会科で習って<br/>知っていた|so the ability to<br/>choose sex<br/>was added to<br/>our basic human rights.
 {: .dialogue}
 
-This is the author's first non-H work.
+... This is the author's first non-H work.
 The original publication was canceled ): but it was moved to a new publisher,
 Kadokawa's <ruby><rtc>しょうねん</rtc><rbc>少年</rbc></ruby>エース (Shounen Ace)
 

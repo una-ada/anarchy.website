@@ -4,7 +4,7 @@ title: >
     <i>Anarchy.</i>Websiteへようこそ!
 ---
 
-Welcome to <em>Anarchy.</em>Website, a blog and archive created by Una N. Ada.
+Welcome to <em>Anarchy.</em>Website, a blog and archive created by Una Ada.
 Herein lies articles on a variety of topics, ranging from linguistics to
 history, from gender issues to anime, and from programming to physics. Despite
 the name this site is not exclusively about anarchism, but the content here is

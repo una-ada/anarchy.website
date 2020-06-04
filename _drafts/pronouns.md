@@ -14,14 +14,32 @@ tags: >
 title: Implicitus
 ---
 
+<!-- Maybe one day I'll act like I care and add this to the stylesheet. -->
+<style>
+    thead.r1, col.c1 {
+        background: #fff0f8;
+    }
+    thead.r1 th, table.t1 td {
+        border: 1px solid #888;
+        text-align: center;
+        vertical-align: middle;
+    }
+    thead.r1 th {
+        vertical-align: bottom !important;
+    }
+    html.dark thead.r1, html.dark col.c1 {
+        background: #181818;
+    }
+</style>
+
 - toc
 {:toc}
 
-## Introduction
+## Preface
 
 As with most of what I write, I have a bit of a vested interest in this topic,
 perhaps even more so as this one has a bit less of an abstract relationship to
-myself. Specifically, I've has a notable discomfort the past few years with
+myself. Specifically, I've had a notable discomfort the past few years with
 attempting to assert myself as "non-binary" and using "they/them" pronouns. I
 don't really hold the entire concept there in contempt, but I'm not really
 comfortable with catch-all categories, they give me this feeling of being
@@ -53,17 +71,10 @@ are?
         like "well, if I'm not particularly comfortable with any pronouns, I'll
         just go with any/all."
 
-<blockquote class="twitter-tweet">
-    <p lang="en" dir="ltr">
-        Held myself back from too much for too long; if all desire keeps being
-        locked away there'll be nothing left to feel. So, I'm, at the very
-        least, admitting I don't care for "they/them" or any other pronouns.
-        Don't use pronouns for me. If that's difficult, get over it.
-    </p>&mdash; una (@unasareyou)
-    <a href="https://twitter.com/unasareyou/status/1247178038019796994">
-        April 6, 2020
-    </a>
-</blockquote>
+>   Held myself back from too much for too long; if all desire keeps being
+    locked away there'll be nothing left to feel. So, I'm, at the very
+    least, admitting I don't care for "they/them" or any other pronouns.
+    Don't use pronouns for me. If that's difficult, get over it. &mdash; Una
 
 This is, of course, a nice statement and all, but it kind of neglects those who
 might be well meaning but simply ill informed; also, just the concept of trying
@@ -88,7 +99,7 @@ If you don't like linguistic discussions on their own, you can just think of
 this as an annotated short story... though I cannot promise the story on its own
 will be very good.
 
-## I. Pronouns
+## I. Introduction to Pronouns
 
 First off, it's important that everyone is on the same page regarding the basics
 here. So, what exactly is a pronoun?
@@ -121,8 +132,7 @@ expression.
 
 ...
 
-Personal pronouns are perhaps the most relevant among pronouns in general to the
-discussion at hand and so will be the primary focus in regards to examples of pronouns' functions. These are pronouns which refer to a grammatical person, which are typically[^2] divided into three categories: first, the speaker; second, the one spoken to; and third, separate from the previous two.
+Personal pronouns are perhaps the most relevant among pronouns in general to the discussion at hand and so will be the primary focus in regards to examples of pronouns' functions. These are pronouns which refer to a grammatical person, which are typically[^2] divided into three categories: first, the speaker; second, the one spoken to; and third, separate from the previous two.
 
 [^2]:   Some languages distinguish between proximate and obviative third
         persons, essentially a hierarchy of relevance to the topic (or
@@ -131,19 +141,78 @@ discussion at hand and so will be the primary focus in regards to examples of pr
 
     Alternatively, "fourth person" could refer to generics, e.g. "one" in
     English. In other languages this may also be considered "zero person" as it
-    leaves the referrent open (i.e. the person is unspecified).
+    leaves the referent open (i.e. the person is unspecified).
 
-<https://en.wikipedia.org/wiki/Personal_pronoun>
+...
 
-<https://en.wikipedia.org/wiki/English_personal_pronouns>
+Here we have the so-called Standard English inventory of personal pronouns, a
+more complete list can be found in [Supplement A][2]:
 
-<https://en.wikipedia.org/wiki/You>
+<br/>
 
-<https://en.wikipedia.org/wiki/Third-person_pronoun#English>
+<table class="t1">
+    <colgroup>
+        <col span="3" class="c1"/>
+        <col span="5" style="width:16%;"/>
+    </colgroup>
+    <thead class="r1">
+        <th colspan="3"></th>
+        <th>Subject</th><th>Object</th>
+        <th>Possessive</th><th>Independent Possessive</th>
+        <th>Reflexive</th>
+    </thead><tr>
+        <td rowspan="2">First</td>
+        <td colspan="2">Singular</td>
+        <td>I</td><td>me</td>
+        <td>my</td><td>mine</td>
+        <td>myself</td>
+    </tr><tr>
+        <td colspan="2">Plural</td>
+        <td>we</td><td>us</td>
+        <td>our</td><td>ours</td>
+        <td>ourselves</td>
+    </tr><tr>
+        <td colspan="3">Second</td>
+        <td colspan="2">you</td>
+        <td>your</td><td>yours</td>
+        <td>yourself</td>
+    </tr><tr>
+        <td rowspan="5">Third</td>
+        <td rowspan="4">Singular</td>
+        <td>Epicene</td>
+        <td>they</td><td>them</td>
+        <td>their</td><td>theirs</td>
+        <td>themselves, themself</td>
+    </tr><tr>
+        <td>Feminine</td>
+        <td>she</td><td colspan="2">her</td>
+        <td>hers</td>
+        <td>herself</td>
+    </tr><tr>
+        <td>Masculine</td>
+        <td>he</td><td>him</td>
+        <td colspan="2">his</td>
+        <td>himself</td>
+    </tr><tr>
+        <td>Neuter</td>
+        <td colspan="2">it</td>
+        <td colspan="2">its</td>
+        <td>itself</td>
+    </tr><tr>
+        <td colspan="2">Plural</td>
+        <td>they</td><td>them</td>
+        <td>their</td><td>theirs</td>
+        <td>themselves</td>
+    </tr>
+</table>
 
-<https://www.grammarly.com/blog/personal-pronouns/>
+**TABLE 1.** Standard English pronoun inventory.
 
-[supplementary file][2].
+<br/>
+
+...
+
+We may also note the use of the term "epicene" in **TABLE 1** for the singular third person pronoun "they." To distinguish this from "gender neutral," we require a bit further explanation on what gender means in the context of grammar, specifically.
 
 Gender is sycophancy. Epicenity is liberalism. Abolition is necessary.
 
@@ -155,7 +224,7 @@ Expletives. Like in "**it** is raining" (suck my dick, Chomsky).
 
 Dummy pronouns? Do they count?
 
-## II. Philosophy
+## II. Philosophical Considerations
 
 This topic gets its own section. The other section is about the function of
 pronouns in grammar and basic linguistics, this one is about the function in
@@ -179,16 +248,7 @@ culture.
 
 <https://en.wikipedia.org/wiki/Spivak_pronoun>
 
-## III. Interlingual
-
-East Asian languages, mostly.
-
-Some linguists argue that Japanese pronouns are not grammatically pronouns. I
-don't remember the source on this, and it's kind of prescriptivist?
-
-Topic and comment. Topic-prominence. Etc.
-
-## IV. Avoidance
+## III. Canonical Solutions
 
 Tip-toeing around using pronouns as much as possible. Like, wording statements
 to avoid needing to say a pronoun... this can be kind of dehumanizing,
@@ -205,7 +265,16 @@ Saša isn't feeling well, have you talked to Saš lately?
 
 Sa drinks Sas Ovaltine.
 
-## V. Abolition
+## IV. Topic and Comment
+
+East Asian languages, mostly.
+
+Some linguists argue that Japanese pronouns are not grammatically pronouns. I
+don't remember the source on this, and it's kind of prescriptivist?
+
+Topic and comment. Topic-prominence. Etc.
+
+## V. English Without Pronouns
 
 Trying to make it sound natural. Or just giving up on that and forcing it? We'll
 see how it goes, lol.
