@@ -8,6 +8,11 @@ tags: column
 *This post was submitted to [Student Voice](https://uwrfvoice.com) but not
 published, for some reason.*
 
+**Update Jun. 4, 2020:** Since apparently people have actually been trying to
+read this article, let me just point out that tablets frequently have a "mouse
+mode" where they will act like track pads, use that. Also cleaned up some of
+the text a bit.
+
 Let’s say you have a drawing tablet for your computer, like, one with no screen
 and a pen. I don’t really care why or how you do, but let’s say you do. You can
 use it as a mouse, move the cursor around, click on things, takes a bit to get
@@ -15,7 +20,7 @@ used to but it can be done. So you get the bright idea to use your computer for
 the one thing computers are designed for: play video games.
 
 Now, don’t get me wrong, playing games with a drawing tablet isn’t inherently
-crazy. In fact, some games are pretty popular to play like this. You may notice
+silly. In fact, some games are pretty popular to play like this. You may notice
 that games where you move the mouse around to click on different things are
 quite easy to do this with. But point-and-click adventures are a thing of the
 past and Osu! is for weeaboos, you want to play a First Person Shooter (FPS)
@@ -23,8 +28,7 @@ because you are a Real Gamer (RG). Obviously, unlike me, you have a ton of these
 games installed on your computer and don’t need to shuffle through your
 installed programs to finally settle on The Stanley Parable as the only game
 with a first person perspective you have with which to test this.  You then open
-up one of those games just to have your view tweak around sporadically like it’s
-on meth or something.
+up one of those games just to have your view jump around sporadically.
 
 “What is this bizarre behavior I am observing, and how can I circumvent it in
 order to achieve the truly enjoyable experience of playing my favorite video
@@ -32,7 +36,7 @@ game with my drawing tablet?!” you would retort. In fact, upon interviewing a
 random sample of students, Joe Peichel, a Computer Science major, went so far as
 to say “I have this problem all the time. It’s the worst!”
 
-“Is this even possible, Trevor?” people would ask at this point. Well, I’m glad
+“Is this even possible, ████?” people would ask at this point. Well, I’m glad
 you asked. This question has bothered the greatest minds of user interfaces for
 millennia, and I’m here to answer it for you. Let us begin with the basics: what
 is mouse movement and how do these games handle it?
@@ -87,4 +91,7 @@ than your mouse pad, table, or the cord on the mouse will let you, and you’ll
 need to lift the mouse and move it to a new zero point. With the tablet, such an
 issue does not exist. Other than that: no.
 
-_REDACTED is a Physics Option I and Mathematics major with a minor in Computer Science, secretary of the UWRF Chapters of the Society of Physics Students and the Association for Computing Machinery, and treasurer of the Society for Undergraduate Research, Scholarly, and Creative Activity. He sleeps sometimes._
+_████ is a Physics Option I and Mathematics major with a minor in Computer
+Science, secretary of the UWRF Chapters of the Society of Physics Students and
+the Association for Computing Machinery, and treasurer of the Society for
+Undergraduate Research, Scholarly, and Creative Activity. He sleeps sometimes._
