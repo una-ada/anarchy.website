@@ -24,7 +24,7 @@ title: links
 [4]: https://coub.com/jisa-tsu "Coub"
 [5]: https://soundcloud.com/jisa_tsu "SoundCloud"
 [6]: https://steamcommunity.com/id/unasareyou "Steam"
-[7]: https://twitter.com/unasareyou "Twitter"
+[7]: https://twitter.com/unaxiii "Twitter"
 [8]: https://bandcamp.com/una_ada "Bandcamp"
 [9]: https://myanimelist.net/profile/unasareyou "MyAnimeList"
 [0]: https://www.youtube.com/channel/UCqk_-WJiBionWuh8wmmVrmw "YouTube"
