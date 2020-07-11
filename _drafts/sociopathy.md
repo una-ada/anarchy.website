@@ -22,8 +22,6 @@ pseudo-scientific ideas that can be and have been actively harmful with regards
 to people with mental illnesses, mentally (and sometimes physically) disabled
 persons, gay and/or transgender persons, and possibly others not listed here.**
 
-**\[CW/TW: homophobia, transphobia, ableism, bigotry, eugenics, nazism\]**
-
 - toc
 {:toc}
 
@@ -110,20 +108,14 @@ less the same fashion.
 
 ### I-1. Conception
 
-Prior to the 19<sup>th</sup> century, it was thoroughly believed that the mind
-and reason were one in the same, this concept came into question with [Philippe
-Pinel][25] who described certain cases he studied as "insanity without delirium"
-(_manie sans délire_).[^20] He described this idea further as retaining reason
-and understanding while being controlled by some unknown and powerful emotional
-force. [Benjamin Rush][26][^34] in 1812 and [James Cowles Prichard][28] in 1835
-furthered this
-concept to more specifically pertain to morality, the latter credited with the
-formalization of "moral insanity." This imposition of moral positions on a
-previously morally neutral concept was eventually criticized by [Daniel Hack
-Tuke][29]
-in 1892, proposing the terminology be changed to "inhibitory insanity" to
-realign the concept to Pinel's original conception of an emotional affection
-that drives a person regardless of conscious reasoning.[^21]
+Early approaches to understanding the mind and illnesses thereof were rooted in a dualistic idea of the material and immaterial (rather than the more modern materialistic approaches of anatomy and physiology) where the soul could both affect and be affected by the body. Herein originated ideas such as demonic possession as a source of illnesses, which would be pushed aside during the enlightenment as those modern concepts began taking root.[^82]
+
+[^82]:  Henry Werlinder, _Psychopathy: A History of the Concepts_ (Stockholm:
+        Almqwist & Wiksell International, 1978), 17.
+
+[Insert French Revolution here.]
+
+Prior to the 19<sup>th</sup> century, it was thoroughly believed that the mind and reason were one in the same, this concept came into question with [Philippe Pinel][25] who described certain cases he studied as "insanity without delirium" (_manie sans délire_).[^20] He described this idea further as retaining reason and understanding while being controlled by some unknown and powerful emotional force. [Benjamin Rush][26][^34] in 1812 and [James Cowles Prichard][28] in 1835 furthered this concept to more specifically pertain to morality, the latter credited with the formalization of "moral insanity." This imposition of moral positions on a previously morally neutral concept was eventually criticized by [Daniel Hack Tuke][29] in 1892, proposing the terminology be changed to "inhibitory insanity" to realign the concept to Pinel's original conception of an emotional affection that drives a person regardless of conscious reasoning.[^21]
 
 [^20]: Millon et al., "Historical Conceptions...," 4.
 
