@@ -25,7 +25,7 @@ persons, gay and/or transgender persons, and possibly others not listed here.**
 - toc
 {:toc}
 
-## Introduction
+## Preface
 
 _Purged original intro. Rewrite after other sections complete._
 
