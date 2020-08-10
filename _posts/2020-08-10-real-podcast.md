@@ -14,5 +14,5 @@ tags: podcast notes outline collaboration
 title: "Goth Angel Sinners Pt. VI: <i>A Real Podcast</i> Notes"
 ---
 
-!(Washington QAnon Candidate Reports Portland Mutual Aid Organization to FBI for
-Giving Away Flour)[/assets/img/discourse.jpg]
+![Washington QAnon Candidate Reports Portland Mutual Aid Organization to FBI for
+Giving Away Flour](/assets/img/discourse.jpg)
