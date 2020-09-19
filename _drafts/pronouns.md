@@ -89,7 +89,8 @@ characters. While the temptation exists to use the generic cast of characters
 used in cryptography (Alice, Bob, Eve, etc.), it would be more fun and exemplary
 of certain issues with the discussed linguistics to use our own less culturally
 cemented characters. To that end, I'll be using a variety of gender neutral
-names: Alex, Beau, Saša, and Yuki.
+names: $\text{Alex}$, $\text{Beau}$, $\text{Sa}\check{\text{s}}\text{ha}$, and
+$\text{Yuki}$.
 
 These characters will have various genders throughout the implied narrative and
 in the end they all live together as a happy little polycule in an anarchist
@@ -99,40 +100,185 @@ If you don't like linguistic discussions on their own, you can just think of
 this as an annotated short story... though I cannot promise the story on its own
 will be very good.
 
-## I. Introduction to Pronouns
+## I. _Introduction to Pronouns_
 
-First off, it's important that everyone is on the same page regarding the basics
-here. So, what exactly is a pronoun?
+For the sake of having a common basis here, such that further discussion on
+particular details goes smoother going forward, let's start with basic English
+grammar. From there we can discuss the function of pronouns within said grammar before diving into the specifics of personal pronouns and their declension.
 
-Simply put, pronouns are words used to replace nouns. In a generic case, the
-pronoun is used in a spot one could otherwise have stated a noun. For example,
-take the following statement:
+### I-1. English Grammar
+
+Beginning with linguistic typology, specifically word order, as a means to define the general form of English sentences within the context of languages as a whole: the constituent word order for clauses in English is _Subject-Verb-Object_ (SVO). _Constituent_ here refers to words and phrases that perform a singular function within the grammar's structure; for instance a _subject_ defines who or what the sentence is about, _verb_ the action or state of the sentence, and _object_ the argument[^3] of the verb. These are, of course, very superficial definitions, and more depth will be added as necessary when discussing the details of their function going forward.
+
+[^3]:   "Argument" is used here for the sake of brevity. While this beginning
+        section attempts to be as introductory as possible, there are very few
+        terms that will accurately describe the function of an object. In this
+        case, one can read "argument" in the same manner as one would in terms
+        of computer programming, some variable that is sent to a function to be
+        acted upon or otherwise used in its operation.
 
 $$
-\text{Alex doesn't sleep at night, }\pmb{she}
-\text{ just sits in bed and cries.}\tag1
+\underset{\text{subj.}}{\text{Beau}} \;
+\underset{\text{verb}}{\text{hates}} \;
+\underbrace{\text{the loneliness}}_{\text{obj.}}.
+\tag1
 $$
 
-Here, "she" is acting in the place of restating "Alex;" alternatively, we could
-say:
+English primarily holding to an SVO word order is peculiar in that while English is generally considered a Germanic language by its origin and vocabulary, members of the Germanic language family usually use _Verb Second_ (V2) word order, wherein the verb is preceded by exactly one constituent. Take, for example, the following phrases in German.[^7]
+
+[^7]:   English grammar notations are used in all examples within this article;
+        however, in German grammar the terms _Linke Satzklammer_ (left bracket)[^8] and _Rechte Satzklammer_ (right bracket) are used respectively for the auxiliary (aux.) and verb, _Mittelfeld_ (central field) for the contents of the main clause, and _Vorfeld_ (first field) and _Nachfeld_ (final field) for subordinate clauses preceding and following the main clause.
+
+    Per this terminology, in main clauses the finite verb constitutes the Linke Satzklammer and the non-finite verb the Rechte Satzklammer; whereas in embedded clauses the conjunction is in the Linke and the verb in the Rechte, with any finite form following and non-finite forms.
+
+[^8]:   The English equivalents listed here are not literal translations, which
+        would be left sentence bracket, right sentence bracket, middle field,
+        before field, and after field respectively.
+
+$$\begin{align}
+\underset{\text{subj.}}{\text{Er}}&\;
+\underset{\text{aux.}}{\mathbf{hat}}\;
+\underset{\text{obj.}}{\text{dich}}\;
+\underset{\text{adv.}}{\text{nicht}}\;
+\underset{\text{verb}}{\mathit{angerufen}}.
+\tag2\\
+\underbrace{\text{Sobald er Zeit hat}}_{\text{prep.}}&\;
+\underset{\text{aux.}}{\mathbf{wird}}\;
+\underset{\text{subj.}}{\text{er}}\;
+\underset{\text{obj.}}{\text{dich}}\;
+\underset{\text{verb}}{\mathit{anrufen}}.
+\tag3
+\end{align}$$
+
+In many cases, this is indistinguishable from SVO, since SV implies the verb is second; however, SVO only describes the relative position of subject, verb, and object, without describing positions for any other elements in the sentence, such as adverbials. V2, on the other hand, describes the position of only the verb (such that all other phrases and words within the sentence must move to ensure that it is always second) and so can be seen more as a constraint than a full word order. Continuing in German, specifically, consider:
+
+$$\begin{align}
+\underset{\text{subj.}}{\text{Alex}}&\;
+\underset{\text{verb}}{\mathbf{schreibt}}\;
+\underbrace{\text{im Internet}}_{\text{preposition}}\;
+\underset{\text{object}}{\text{Beitr}\ddot{\text{a}}\text{ge}}.
+\tag{4a}\label{4a}\\
+\underset{\text{object}}{\text{Beitr}\ddot{\text{a}}\text{ge}}&\;
+\underset{\text{verb}}{\mathbf{schreibt}}\;
+\underset{\text{subj.}}{\text{Alex}}\;
+\underbrace{\text{im Internet}}_{\text{preposition}}.
+\tag{4b}\\
+\underbrace{\text{Im Internet}}_{\text{preposition}}&\;
+\underset{\text{verb}}{\mathbf{schreibt}}\;
+\underset{\text{subj.}}{\text{Alex}}\;
+\underset{\text{object}}{\text{Beitr}\ddot{\text{a}}\text{ge}}.
+\tag{4c}
+\end{align}$$
+
+While each of these examples meet the V2 requirement and are valid sentences in German,[^9] example $\eqref{4a}$ in particular has the familiar SVO word order whereas the others do not. Directly translating this first example will clearly show, however, that the word order is not entirely natural in English:
+
+[^9]:   Bold claim coming from someone who got bored of showing up to German
+        class in college and eventually just dropped it altogether. Shoutout to
+        the girl who sat next to me, she was nice 🥰.
 
 $$
-\text{Alex doesn't sleep at night, }\pmb{Alex}
-\text{ just sits in bed and cries.}\tag2
+\underset{\text{subj.}}{\text{Alex}}\;
+\underset{\text{verb}}{\mathbf{writes}}\;
+\underbrace{\text{on the internet}}_{\text{preposition}}\;
+\underset{\text{object}}{\text{posts}}.
+\tag5
 $$
 
-This is equally valid, but has a significantly different tone to it, coming off
-as emphatic and mocking. This is more or less foreshadowing a lot of issues we
-will be running into as we discuss alternative grammar styles: connotative tone.
-A lot of tone in language, despite what the "people don't talk face-to-face
-anymore" crowd will try selling you, comes from word choice and sentence
-structure. Vocal tone, while similarly expressive, primarily works in tandem
-with this, while a dissonance between the two types adds a level of depth to
-expression.
+This brings forward a minor issue with the aforementioned descriptions of word order; as these descriptors are intended as broad categorizations of languages, they do not fully clarify the order of other constituents. In this example, the prepositional phrase "on the internet" is a (locative) adverbial adjunct[^5] which modified the verb "writes" which is itself a _transitive verb_ as it has an object ("posts"). Typically, with a transitive verb, English grammar dictates that adverb phrases either precede the subject or follow the object:
+
+[^5]:   Adjunct phrases are those which are not structurally integral to the
+        statement, i.e. they are not predicates or arguments of the verb, but
+        nonetheless add information pertaining to the clause. Notably, locative
+        phrases may act as such, e.g. in the sentence "the cat sits _in the
+        corner_," the latter half is an adjunct phrase.  _Valency theory_
+        delves deeper into the distinctions stated here.
+
+$$\begin{align}
+\underset{\text{subj.}}{\text{Alex}}\;
+\underset{\text{verb}}{\text{writes}}\;
+\underset{\text{object}}{\text{posts}}\;
+\underbrace{\mathbf{on\,the\,internet}}_{\text{adjunct}}.
+\tag{6a}\\
+\underbrace{\mathbf{On\,the\,internet}}_{\text{adjunct}},\;
+\underset{\text{subj.}}{\text{Alex}}\;
+\underset{\text{verb}}{\text{writes}}\;
+\underset{\text{object}}{\text{posts}}.
+\tag{6b}
+\end{align}$$
+
+Word order typology is, of course, not prescriptive but rather an attempt to describe the most common or default word order of a language. For instance, following the verb second constraint in English can produce the following sentences:
+
+$$\begin{align}
+\underset{\text{adj.}}{\text{Who}}&\;
+\underset{\text{aux.}}{\mathbf{can}}\;
+\underset{\text{subj.}}{\text{Yuki}}\;
+\underset{\text{verb}}{\mathit{love}}?
+\tag7\label{7}\\
+\underset{\text{adj.}}{\text{Such}}&\;
+\underset{\text{verb}}{\mathbf{was}}\;
+\underbrace{\text{their sadness}}_{\text{subject}}.
+\tag8\label{8}\\
+\underbrace{\text{Behind the screen}}_{\text{adjunct}}&\;
+\underset{\text{verb}}{\mathbf{stared}}\;
+\underbrace{\text{many eyes}}_{\text{subject}}.
+\tag9\label{9}
+\end{align}$$
+
+None of these use subject-object-verb word order, yet each of them is easily intelligible English, order can be ignored for style or historical phrases. In the latter case, the aforementioned V2 order is typical, again due to English's Germanic origins.
+
+However, in the former case, that of stylistic deviation from the typical word order, the term _anastrophe_ is used. Anastrophe (from the Greek "ἀναστροφή," a turning around) is then considered a _figure of speech_, a deviation from typical language for effect. More specifically it is a _scheme_,[^4] a variation on sequence, which here brings emphasis to the words whose position in the statement is abnormal. _Subject-verb inversion_ is a common form, one which may be most obvious in its usage as a style, which as the name implies involved "inverting" the positions of the subject and verb phrases. This can then be divided into the categories of locative, directive, quotative, and copular inversions.
+
+[^4]:   Figures of speech can be classified into two broad categories: schemes
+        and tropes. The former varies the sequence of words (i.e. literary devices concerned with syntax), such as alliteration, ellipsis, mimesis, parallelism, syncope, or tautology. The latter adds further meaning to the words used (i.e. literary devices concerned with semantics), such as allusion, allegory, cliché, euphemism, irony, or puns. Inversions are seemingly syntactic devices, but often in English function semantically, e.g. in questions (see the following discussion on subject-auxiliary inversions).
+
+With the exception of the lattermost group, each of these is of little interest in terms of further discussion. Locative inversion shifts an adjunct phrase which would typically follow a finite verb[^6] to a position preceding said verb. As this places a single adjunct phrase before the verb, sentences following such a structure follow V2 word order, a vestige from older English grammar.
+
+[^6]:   Finite verbs are likely to be what one thinks of when considering verbs
+        in general, they have a subject and can act as the root of an
+        _independent clause_ (that is, a clause which can stand alone as a
+        complete statement). Typically, these contain information about the
+        sentence such as gender (though not usually the case in English),
+        number, tense, voice, &c.
+
+$$\begin{align}
+\underset{\text{noun}}{\text{Beau}} \;
+\underset{\text{verb}}{\text{cried}} &\;
+\underbrace{\mathbf{in\,the\,corner}}_{\text{adjunct}}.
+\tag{Xa}\\
+\underbrace{\mathbf{In\,the\,corner}}_{\text{adjunct}} &\;
+\underset{\text{verb}}{\text{cried}} \;
+\underset{\text{noun}}{\text{Beau}}.
+\tag{Xb}
+\end{align}$$
 
 ...
 
-Personal pronouns are perhaps the most relevant among pronouns in general to the discussion at hand and so will be the primary focus in regards to examples of pronouns' functions. These are pronouns which refer to a grammatical person, which are typically[^2] divided into three categories: first, the speaker; second, the one spoken to; and third, separate from the previous two.
+$$\begin{align}
+\underset{\text{noun}}{\text{The squirrel}} \;
+\underset{\text{verb}}{\text{fell}} &\;
+\underbrace{\mathbf{out\,of\,the\,tree}}_{\text{adjunct}}.
+\tag{Xa}\\
+\underbrace{\mathbf{Out\,of\,the\,tree}}_{\text{adjunct}} &\;
+\underset{\text{verb}}{\text{fell}} \;
+\underset{\text{noun}}{\text{the squirrel}}.
+\tag{Xb}
+\end{align}$$
+
+On the other hand, some deviations of word order are not considered deviations at all as they serve a specific purpose in the grammar; namely, _subject-auxiliary inversion_ is a form of inversion typically considered distinct from subject-verb inversion and usually used in English to denote a sentence as interrogative. Here _auxiliary_ refers to specific types of verbs which are functional in regards to syntax rather than holding semantic meaning on their own. Generally, these verbs are used in conjunction with other verbs, thus the term "auxiliary," and are usually forms of "do," "have," "be," and modal verbs such as "can."
+
+<https://en.wikipedia.org/wiki/Negative_inversion>
+
+... Copula
+
+### I-2. Pronominal Phrases
+
+### I-3. Personal Pronouns
+
+Personal pronouns are perhaps the most relevant among pronouns in general to
+the discussion at hand and so will be the primary focus in regards to examples
+of pronouns' functions. These are pronouns which refer to a grammatical person,
+which are typically[^2] divided into three categories: first, the speaker;
+second, the one spoken to; and third, separate from the previous two.
 
 [^2]:   Some languages distinguish between proximate and obviative third
         persons, essentially a hierarchy of relevance to the topic (or
@@ -212,7 +358,10 @@ more complete list can be found in [Supplement A][2]:
 
 ...
 
-We may also note the use of the term "epicene" in **TABLE 1** for the singular third person pronoun "they." To distinguish this from "gender neutral," we require a bit further explanation on what gender means in the context of grammar, specifically.
+We may also note the use of the term "epicene" in **TABLE 1** for the singular
+third person pronoun "they." To distinguish this from "gender neutral," we
+require a bit further explanation on what gender means in the context of
+grammar, specifically.
 
 Gender is sycophancy. Epicenity is liberalism. Abolition is necessary.
 
@@ -224,7 +373,7 @@ Expletives. Like in "**it** is raining" (suck my dick, Chomsky).
 
 Dummy pronouns? Do they count?
 
-## II. Philosophical Considerations
+## II. _Philosophical Considerations_
 
 This topic gets its own section. The other section is about the function of
 pronouns in grammar and basic linguistics, this one is about the function in
@@ -248,7 +397,7 @@ culture.
 
 <https://en.wikipedia.org/wiki/Spivak_pronoun>
 
-## III. Canonical Solutions
+## III. _Canonical Solutions_
 
 Tip-toeing around using pronouns as much as possible. Like, wording statements
 to avoid needing to say a pronoun... this can be kind of dehumanizing,
@@ -265,7 +414,7 @@ Saša isn't feeling well, have you talked to Saš lately?
 
 Sa drinks Sas Ovaltine.
 
-## IV. Topic and Comment
+## IV. _Topic and Comment_
 
 East Asian languages, mostly.
 
@@ -274,7 +423,10 @@ don't remember the source on this, and it's kind of prescriptivist?
 
 Topic and comment. Topic-prominence. Etc.
 
-## V. English Without Pronouns
+Polysyndeton / asyndeton / syndeton.
+<https://en.wikipedia.org/wiki/Polysyndeton>
+
+## V. _English Without Pronouns_
 
 Trying to make it sound natural. Or just giving up on that and forcing it? We'll
 see how it goes, lol.

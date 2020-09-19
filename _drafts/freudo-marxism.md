@@ -62,3 +62,11 @@ Spitzer obit.
 <https://www.columbiapsychiatry.org/news/memoriam-robert-spitzer-md-friend-and-colleague>
 
 <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5101569/>
+
+"psychohistorical materialism" ?!?!?! wtf
+
+<https://point-of-departure.org/Point-Of-Departure/Point-Of-Departure-entry.htm>
+
+<http://dialectics.org/Welcome.html>
+
+christopher94523

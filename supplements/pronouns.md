@@ -632,7 +632,8 @@ Test[^22][^23][^24]
 
     >   The short story is that, at some point back in '91 (hmm, has it really
         been 10 years? yikes...) when I was overhauling the `pronoun_sub` code
-        - what's now `$gender_utils` was duplicated in about 10 different places and this offended me - I needed to test it out and so I created
+        - what's now `$gender_utils` was duplicated in about 10 different
+        places and this offended me - I needed to test it out and so I created
         a bunch of extra, fake 'genders'. And when I was done, I left them in
         place, figuring that just having the usual male/female/neuter was
         boring, anyway. The Spivak set was something I half-remembered from a
