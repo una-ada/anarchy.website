@@ -27,6 +27,11 @@ hakkenteki:
         </ruby>
     type: series
     url: /hakkenteki/
+implicitus:
+    entry: Supplement
+    title: Implicitus
+    type: other
+    url: /implicitus
 langandpsych:
     abbr: Iss in Lang & Psych
     entry: Part

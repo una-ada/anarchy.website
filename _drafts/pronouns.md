@@ -108,7 +108,7 @@ grammar. From there we can discuss the function of pronouns within said grammar 
 
 ### I-1. English Grammar
 
-Beginning with linguistic typology, specifically word order, as a means to define the general form of English sentences within the context of languages as a whole: the constituent word order for clauses in English is _Subject-Verb-Object_ (SVO). _Constituent_ here refers to words and phrases that perform a singular function within the grammar's structure; for instance a _subject_ defines who or what the sentence is about, _verb_ the action or state of the sentence, and _object_ the argument[^3] of the verb. These are, of course, very superficial definitions, and more depth will be added as necessary when discussing the details of their function going forward.
+Beginning with linguistic typology, specifically word order, as a means to define the general form of English sentences within the context of languages as a whole: the constituent word order for clauses in English is **Subject-Verb-Object** (SVO). **Constituent** here refers to words and phrases that perform a singular function within the grammar's structure; for instance a **subject** defines who or what the sentence is about, **verb** the action or state of the sentence, and **object** the argument[^3] of the verb. These are, of course, very superficial definitions, and more depth will be added as necessary when discussing the details of their function going forward.
 
 [^3]:   "Argument" is used here for the sake of brevity. While this beginning
         section attempts to be as introductory as possible, there are very few
@@ -124,10 +124,10 @@ $$
 \tag1
 $$
 
-English primarily holding to an SVO word order is peculiar in that while English is generally considered a Germanic language by its origin and vocabulary, members of the Germanic language family usually use _Verb Second_ (V2) word order, wherein the verb is preceded by exactly one constituent. Take, for example, the following phrases in German.[^7]
+English primarily holding to an SVO word order is peculiar in that while English is generally considered a Germanic language by its origin and vocabulary, members of the Germanic language family usually use **Verb Second** (V2) word order, wherein the verb is preceded by exactly one constituent. Take, for example, the following phrases in German:[^7]
 
 [^7]:   English grammar notations are used in all examples within this article;
-        however, in German grammar the terms _Linke Satzklammer_ (left bracket)[^8] and _Rechte Satzklammer_ (right bracket) are used respectively for the auxiliary (aux.) and verb, _Mittelfeld_ (central field) for the contents of the main clause, and _Vorfeld_ (first field) and _Nachfeld_ (final field) for subordinate clauses preceding and following the main clause.
+        however, in German grammar the terms **Linke Satzklammer** (left bracket)[^8] and **Rechte Satzklammer** (right bracket) are used respectively for the auxiliary (aux.) and verb, **Mittelfeld** (central field) for the contents of the main clause, and **Vorfeld** (first field) and **Nachfeld** (final field) for subordinate clauses preceding and following the main clause.
 
     Per this terminology, in main clauses the finite verb constitutes the Linke Satzklammer and the non-finite verb the Rechte Satzklammer; whereas in embedded clauses the conjunction is in the Linke and the verb in the Rechte, with any finite form following and non-finite forms.
 
@@ -184,14 +184,14 @@ $$
 \tag5
 $$
 
-This brings forward a minor issue with the aforementioned descriptions of word order; as these descriptors are intended as broad categorizations of languages, they do not fully clarify the order of other constituents. In this example, the prepositional phrase "on the internet" is a (locative) adverbial adjunct[^5] which modified the verb "writes" which is itself a _transitive verb_ as it has an object ("posts"). Typically, with a transitive verb, English grammar dictates that adverb phrases either precede the subject or follow the object:
+This brings forward a minor issue with the aforementioned descriptions of word order; as these descriptors are intended as broad categorizations of languages, they do not fully clarify the order of other constituents. In this example, the prepositional phrase "on the internet" is a (locative) adverbial adjunct[^5] which modified the verb "writes" which is itself a **transitive verb** as it has an object ("posts"). Typically, with a transitive verb, English grammar dictates that adverb phrases either precede the subject or follow the object:
 
 [^5]:   Adjunct phrases are those which are not structurally integral to the
         statement, i.e. they are not predicates or arguments of the verb, but
         nonetheless add information pertaining to the clause. Notably, locative
         phrases may act as such, e.g. in the sentence "the cat sits _in the
-        corner_," the latter half is an adjunct phrase.  _Valency theory_
-        delves deeper into the distinctions stated here.
+        corner_," the latter half is an adjunct phrase.  Valency theory delves
+        deeper into the distinctions stated here.
 
 $$\begin{align}
 \underset{\text{subj.}}{\text{Alex}}\;
@@ -224,18 +224,18 @@ $$\begin{align}
 \tag9\label{9}
 \end{align}$$
 
-None of these use subject-object-verb word order, yet each of them is easily intelligible English, order can be ignored for style or historical phrases. In the latter case, the aforementioned V2 order is typical, again due to English's Germanic origins.
+None of these use subject-object-verb word order, yet each of them is easily intelligible English, order can be ignored for style or as vestiges of historic grammar. In the latter case, the aforementioned V2 order is fairly typical, again due to English's Germanic origins. Note example $\eqref{7}$ as such a case.
 
-However, in the former case, that of stylistic deviation from the typical word order, the term _anastrophe_ is used. Anastrophe (from the Greek "ἀναστροφή," a turning around) is then considered a _figure of speech_, a deviation from typical language for effect. More specifically it is a _scheme_,[^4] a variation on sequence, which here brings emphasis to the words whose position in the statement is abnormal. _Subject-verb inversion_ is a common form, one which may be most obvious in its usage as a style, which as the name implies involved "inverting" the positions of the subject and verb phrases. This can then be divided into the categories of locative, directive, quotative, and copular inversions.
+However, in the former case, that of stylistic deviation from the typical word order, the term **anastrophe** is used. Anastrophe (from the Greek "ἀναστροφή," a turning around) is then considered a **figure of speech**, a deviation from typical language for effect. More specifically it is a **scheme**,[^4] a variation on sequence, which here brings emphasis to the words whose position in the statement is abnormal. **Subject-verb inversion** is a common form, one which may be most obvious in its usage as a style, which as the name implies involves "inverting" the positions of the subject and verb phrases. This can then be divided into the categories of locative, directive, copular, and quotative inversions.
 
 [^4]:   Figures of speech can be classified into two broad categories: schemes
         and tropes. The former varies the sequence of words (i.e. literary devices concerned with syntax), such as alliteration, ellipsis, mimesis, parallelism, syncope, or tautology. The latter adds further meaning to the words used (i.e. literary devices concerned with semantics), such as allusion, allegory, cliché, euphemism, irony, or puns. Inversions are seemingly syntactic devices, but often in English function semantically, e.g. in questions (see the following discussion on subject-auxiliary inversions).
 
-With the exception of the lattermost group, each of these is of little interest in terms of further discussion. Locative inversion shifts an adjunct phrase which would typically follow a finite verb[^6] to a position preceding said verb. As this places a single adjunct phrase before the verb, sentences following such a structure follow V2 word order, a vestige from older English grammar.
+The first two of these categories are of little interest in terms of further discussion. **Locative inversion** shifts an adjunct phrase which would typically follow a **finite verb**[^6] to a position preceding said verb. As this places a single adjunct phrase before the verb, sentences following such a structure follow V2 word order; again, a vestige from older English grammar.
 
 [^6]:   Finite verbs are likely to be what one thinks of when considering verbs
         in general, they have a subject and can act as the root of an
-        _independent clause_ (that is, a clause which can stand alone as a
+        **independent clause** (that is, a clause which can stand alone as a
         complete statement). Typically, these contain information about the
         sentence such as gender (though not usually the case in English),
         number, tense, voice, &c.
@@ -244,31 +244,119 @@ $$\begin{align}
 \underset{\text{noun}}{\text{Beau}} \;
 \underset{\text{verb}}{\text{cried}} &\;
 \underbrace{\mathbf{in\,the\,corner}}_{\text{adjunct}}.
-\tag{Xa}\\
+&&\text{Regular syntax}\tag{11a}\\
 \underbrace{\mathbf{In\,the\,corner}}_{\text{adjunct}} &\;
 \underset{\text{verb}}{\text{cried}} \;
 \underset{\text{noun}}{\text{Beau}}.
-\tag{Xb}
+&&\text{Locative inversion}\tag{11b}
 \end{align}$$
 
-...
+Similarly, **directive inversions** involve the same swapping of an adjunct phrase to the front position, with the distinction that the verb expresses movement in regards to the location given by the adjunct. For further clarity, **motion verbs** are verbs which explicitly state the movement of some object, where said object is the subject of their clause, e.g. _come_ and _go_. Furthermore, on **prepositions**,[^10] where locative adjuncts would use prepositions such as _in_ or _at_ to indicate a static location, the prepositions used here will typically specify the direction in which the verb is taking place, e.g. _into_ or _out of_.
+
+[^10]:  Prepositions are words which express some relation (spatial: _in_,
+        _above_, _under_, &c.; temporal: _before_, _during_, _after_, &c.; or thematic:[^11] _of_, _for_, &c.) between one noun phrase (that being their complement) and another noun phrase. This more broadly defines **adpositions**, of which preposition is a subcategory defined by their position before (pre-) their complement; however, since the vast majority of English adpositions are prepositions, the latter term is typically used. For further discussion on this, see [Supplement B][3].
+
+[^11]:  Thematic relations is a somewhat generic term for the "roles" a noun
+        phrase can play with respect to the action of the statement, technically the former two categories (spatial and temporal) are subcategories hereof.
 
 $$\begin{align}
-\underset{\text{noun}}{\text{The squirrel}} \;
-\underset{\text{verb}}{\text{fell}} &\;
-\underbrace{\mathbf{out\,of\,the\,tree}}_{\text{adjunct}}.
-\tag{Xa}\\
-\underbrace{\mathbf{Out\,of\,the\,tree}}_{\text{adjunct}} &\;
-\underset{\text{verb}}{\text{fell}} \;
-\underset{\text{noun}}{\text{the squirrel}}.
-\tag{Xb}
+\underset{\text{noun}}{\text{Beau}} \;
+\underset{\text{verb}}{\text{came}} &\;
+\underbrace{\mathbf{into\,the\,room}}_{\text{adjunct}}.
+&&\text{Regular syntax.}\tag{12a}\\
+\underbrace{\mathbf{Into\,the\,room}}_{\text{adjunct}} &\;
+\underset{\text{verb}}{\text{came}} \;
+\underset{\text{noun}}{\text{Beau}}.
+&&\text{Directive inversion.}\tag{12b}\\
 \end{align}$$
 
-On the other hand, some deviations of word order are not considered deviations at all as they serve a specific purpose in the grammar; namely, _subject-auxiliary inversion_ is a form of inversion typically considered distinct from subject-verb inversion and usually used in English to denote a sentence as interrogative. Here _auxiliary_ refers to specific types of verbs which are functional in regards to syntax rather than holding semantic meaning on their own. Generally, these verbs are used in conjunction with other verbs, thus the term "auxiliary," and are usually forms of "do," "have," "be," and modal verbs such as "can."
+While _came_ does not require an argument, it is somewhat typical for a specification of the origin or the destination of the subject to be included with its usage, especially given the euphemistic usage of the term. As such, here is another example to further highlight the role of the prepositional phrase as an adjunct rather than an argument of the verb:
+
+$$\begin{align}
+\underset{\text{noun}}{\text{Yuki}} \;
+\underset{\text{verb}}{\text{fell}} &\;
+\underbrace{\mathbf{out\,of\,the\,chair}}_{\text{adjunct}}.
+&&\text{Regular syntax.}\tag{13a}\\
+\underbrace{\mathbf{Out\,of\,the\,chair}}_{\text{adjunct}} &\;
+\underset{\text{verb}}{\text{fell}} \;
+\underset{\text{noun}}{\text{Yuki}}.
+&&\text{Directive inversion.}\tag{13b}
+\end{align}$$
+
+... copular
+
+<https://en.wikipedia.org/wiki/Inverse_copular_constructions>
+
+**Quotative inversion** is perhaps one of the more common cases of subject-verb inversion, at least in literary contexts. Contrasting the previous examples, only the subject and verb are moved in this case, with a **direct quote**, a literal quote from a person which is contained in quotation marks (as opposed to an **indirect quote** which would not be contained as such and only paraphrases what was actually said), maintaining its initial position after the inversion:
+
+$$\begin{align}
+\underset{\text{quote}}{\text{“Fuck,”}}&\;
+\underset{\text{subj.}}{\text{Yuki}}\;
+\underset{\text{verb}}{\mathbf{groaned}}.
+&&\text{Regular syntax.}\tag{14a}\\
+\underset{\text{quote}}{\text{“Fuck,”}}&\;
+\underset{\text{verb}}{\mathbf{groaned}}\;
+\underset{\text{subj.}}{\text{Yuki}}.
+&&\text{Quotative inversion.}\tag{14b}
+\end{align}$$
+
+The structure of indirect quotes, however, does not lend itself to this inversion. Here, the quote is a **content clause**,[^12] a subordinate clause which provides "content" for the main clause. Such clauses typically begin with a **relative adverb** (_when_, _where_, _how_, or _why_) or a **relative pronoun** (_who_/_whom_,[^13] _whoever_/_whomever_, _whose_, _that_, _what_ or _which_) making them similar to **relative clauses** and **adverbial clauses** which act as adjectives and adverbs respectively, except that the content clause instead acts as a noun. That being the case, we can identify them by whether or not the whole clause can be replaced with a single pronoun (i.e. _this_ or _that_), a concept that will be discussed further in the next section. As a more technical distinction, the relative adverbs and pronouns are not technically "relative" here,[^14] but rather they are **subordinating conjunctions** (or **conjunctive adverbs**) as they are joining a subordinate/dependent clause to an independent clause. _That_ is one of the more interesting subordinating conjunctions in that it is frequently omitted and its usage implied:[^15]
+
+[^12]:  Content clauses can also be called "noun clauses," since the whole
+        clause itself acts as a noun phrase.
+
+[^13]:  The distinction between _who_ and _whom_ is formally dependent on the
+        position in the sentence, the former in the subject and the latter in the predicate; however, informally _who_ is almost always used.
+
+[^14]:  Relativizers (such as relative adverbs and pronouns when they are part
+        of a relative clause) are a means to join modifying information to the main clause, i.e. the relative clause is relative to some referent in the main clause.
+
+[^15]:  Please clap (the joke is the usage of _that_ in this sentence).
+
+$$\begin{align}
+\underset{\text{subj.}}{\text{Beau}}\;
+\underset{\text{verb}}{\text{said}}&\;
+\overbrace{
+    \underset{\text{conj.}}{\mathbf{that}}\;
+    \underset{\text{subj.}}{\mathbf{she}}\;
+    \underset{\text{verb}}{\mathbf{was}}\;
+    \underset{\text{adj.}}{\mathbf{hungry}}
+}^{\text{content clause}}.
+&&\text{With conjunction.}\tag{16a}\\
+\underset{\text{subj.}}{\text{Beau}}\;
+\underset{\text{verb}}{\text{said}}&\;
+\overbrace{
+    \underset{\text{subj.}}{\mathbf{she}}\;
+    \underset{\text{verb}}{\mathbf{was}}\;
+    \underset{\text{adj.}}{\mathbf{hungry}}
+}^{\text{content clause}}.
+&&\text{Without conjunction.}\tag{16b}
+\end{align}$$
+
+indirect questions
+
+$$
+\underset{\text{subj.}}{\text{Yuki}}\;
+\underset{\text{verb}}{\text{asked}}\;
+\overbrace{
+    \underset{\text{int.}}{\mathbf{why}}\;
+    \underset{\text{subj.}}{\mathbf{Beau}}\;
+    \underset{\text{verb}}{\mathbf{was}}\;
+    \underbrace{\mathbf{in\;his\;room}}_{\text{prep. phrase}}
+}^{\text{content clause}}.\tag{15}
+$$
+
+On the other hand, some deviations of word order are not considered deviations at all as they serve a specific purpose in the grammar; namely, **subject-auxiliary inversion** is a form of inversion typically considered distinct from subject-verb inversion and usually used in English to denote a sentence as interrogative. Here **auxiliary** refers to specific types of verbs which are functional in regards to syntax rather than holding semantic meaning on their own. Generally, these verbs are used in conjunction with other verbs, thus the term "auxiliary," and are usually forms of "do," "have," "be," and modal verbs such as "can."
+
+<https://en.wikipedia.org/wiki/Subject%E2%80%93auxiliary_inversion>
+
+<https://en.wikipedia.org/wiki/English_auxiliaries_and_contractions>
+
+<https://en.wikipedia.org/wiki/Do-support>
 
 <https://en.wikipedia.org/wiki/Negative_inversion>
 
-... Copula
+<https://en.wikipedia.org/wiki/Predicative_expression>
 
 ### I-2. Pronominal Phrases
 
@@ -444,3 +532,4 @@ pronouns in English?
 
 [1]:    https://anarchy.website/2020/02/07/update.html
 [2]:    /supplements/pronouns
+[3]:    /supplements/grammar

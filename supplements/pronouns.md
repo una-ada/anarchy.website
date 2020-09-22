@@ -1,7 +1,8 @@
 ---
+entry: A
 layout: post
-subtitle: English Personal Pronouns
-title: Supplement A
+series: implicitus
+title: English Personal Pronouns
 ---
 
 <style>
