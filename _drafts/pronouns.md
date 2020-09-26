@@ -121,8 +121,10 @@ $$
 \underset{\text{subj.}}{\text{Beau}} \;
 \underset{\text{verb}}{\text{hates}} \;
 \underbrace{\text{the loneliness}}_{\text{obj.}}.
-\tag1
+\tag1\label{1}
 $$
+
+A quick note on terminology, $\eqref{1}$ can also be divided into two parts: subject and **predicate**. While this analysis is not entirely relevant to the typology currently being discussed, it will be useful going forward: the predicate is essentially the part of the sentence that is not the subject, it describes some state of or action involving the subject.
 
 English primarily holding to an SVO word order is peculiar in that while English is generally considered a Germanic language by its origin and vocabulary, members of the Germanic language family usually use **Verb Second** (V2) word order, wherein the verb is preceded by exactly one constituent. Take, for example, the following phrases in German:[^7]
 
@@ -306,7 +308,7 @@ The structure of indirect quotes, however, does not lend itself to this inversio
         clause itself acts as a noun phrase.
 
 [^13]:  The distinction between _who_ and _whom_ is formally dependent on the
-        position in the sentence, the former in the subject and the latter in the predicate; however, informally _who_ is almost always used.
+        position in the sentence, the former in the subject and the latter in the predicate; however, informally _who_ is almost always used. Of course, the same applies to the pair _whoever_ and _whomever_.
 
 [^14]:  Relativizers (such as relative adverbs and pronouns when they are part
         of a relative clause) are a means to join modifying information to the main clause, i.e. the relative clause is relative to some referent in the main clause.
@@ -333,7 +335,25 @@ $$\begin{align}
 &&\text{Without conjunction.}\tag{16b}
 \end{align}$$
 
-indirect questions
+The content clause is dependent on the main clause, "Beau said," but also provides an explanation as to what was being said, i.e. it's subordinate; this is a case where it is necessary to acknowledge English is an **analytic language**, one which uses helper words and word order to denote the relationship between the words, rather than inflection. If we were to apply a simple inversion to this statement, swapping the subject, _Beau_, and the object, the noun clause _that she was hungry_, we would be left with the following sentence:
+
+$$
+\underbrace{\text{That she was hungry}}_{\text{content clause}}\;
+\underset{\text{verb}}{\text{said}}\;
+\underset{\text{subj.}}{\text{Beau}}.\tag{16c}\label{16c}
+$$
+
+Note that this sounds very unnatural, and even in literary contexts it is unlikely one would write a sentence as such, especially if the preceding _that_ were to be dropped. Because this is an uncommon sentence structure, and because quotative inversion is itself much more common, one might assume in spoken English that this is a direct quote of Beau saying "that she was hungry." The next section (I-2.) will further discuss another issue here: the definition of the _she_, which becomes unclear when the predicate precedes the subject. This is not, however, the case for all content clauses, as they act as nouns:
+
+$$
+\underbrace{\text{Whatever happened}}_{\text{content clause}}\;
+\underset{\text{verb}}{\text{scared}}\;
+\underset{\text{obj.}}{\text{Yuki}}.\tag{17}
+$$
+
+Since, unlike $\eqref{16c}$, this preserves the SVO word order, there is no confusion as to the function of each clause.
+
+Expanding on indirect quotes, **indirect questions** are similarly constructed, but with the content clause being interrogative (thus also being called **interrogative content clauses**); typically such clauses are headed by an interrogative pronoun (_what_, _who_, _why_, &c.), making them indirect forms of **_wh_-** or **non-polar questions** as they are asking for some information whose form is specified by the choice of interrogative word (_what_ asks for a thing, _who_ a person, _why_ a reason, &c.):
 
 $$
 \underset{\text{subj.}}{\text{Yuki}}\;
@@ -343,8 +363,24 @@ $$
     \underset{\text{subj.}}{\mathbf{Beau}}\;
     \underset{\text{verb}}{\mathbf{was}}\;
     \underbrace{\mathbf{in\;his\;room}}_{\text{prep. phrase}}
-}^{\text{content clause}}.\tag{15}
+}^{\text{indirect question}}.\tag{18}
 $$
+
+However, they can also take on the form of **yes-no** or **polar questions** (questions whose answers are either "yes" or "no") then taking the word _if_ as their head:
+
+$$
+\underset{\text{subj.}}{\text{He}}\;
+\underset{\text{verb}}{\text{asked}}\;
+\overbrace{
+    \underset{\text{int.}}{\mathbf{if}}\;
+    \underset{\text{subj.}}{\mathbf{she}}\;
+    \underset{\text{aux.}}{\mathbf{had}}\;
+    \underset{\text{verb}}{\mathbf{thought}}\;
+    \underbrace{\mathbf{of\;knocking}}_{\text{prep. phrase}}
+}^{\text{indirect question}}.\tag{19}
+$$
+
+direct questions -> analytically necessary inversion
 
 On the other hand, some deviations of word order are not considered deviations at all as they serve a specific purpose in the grammar; namely, **subject-auxiliary inversion** is a form of inversion typically considered distinct from subject-verb inversion and usually used in English to denote a sentence as interrogative. Here **auxiliary** refers to specific types of verbs which are functional in regards to syntax rather than holding semantic meaning on their own. Generally, these verbs are used in conjunction with other verbs, thus the term "auxiliary," and are usually forms of "do," "have," "be," and modal verbs such as "can."
 
@@ -359,6 +395,15 @@ On the other hand, some deviations of word order are not considered deviations a
 <https://en.wikipedia.org/wiki/Predicative_expression>
 
 ### I-2. Pronominal Phrases
+
+Anaphora. Context, Antecedents, Binding
+
+Demonstrative, Relative, Interrogative, Indefinite
+
+Expletives. Like in "**it** is raining" (suck my dick, Chomsky).
+-> content clauses <https://en.wikipedia.org/wiki/Content_clause>
+
+Dummy pronouns? Do they count?
 
 ### I-3. Personal Pronouns
 
@@ -452,14 +497,6 @@ require a bit further explanation on what gender means in the context of
 grammar, specifically.
 
 Gender is sycophancy. Epicenity is liberalism. Abolition is necessary.
-
-Anaphora. Context, Antecedents, Binding
-
-Demonstrative, Relative, Interrogative, Indefinite
-
-Expletives. Like in "**it** is raining" (suck my dick, Chomsky).
-
-Dummy pronouns? Do they count?
 
 ## II. _Philosophical Considerations_
 
