@@ -4,12 +4,12 @@ author:
 - shtpostscarcity
 description: >
 
-entry: VI Notes
+entry: VII Notes
 layout: post
-permalink: /gthnglsnnrs/6/notes
+permalink: /gthnglsnnrs/7/notes
 series: gthnglsnnrs
 tags: podcast notes outline collaboration
-title: "Goth Angel Sinners Pt. VI: <i>Oscar Wilde</i> + キルラキル Notes"
+title: "Goth Angel Sinners Pt. VII: <i>Oscar Wilde</i> + キルラキル Notes"
 ---
 
 ## Introduction

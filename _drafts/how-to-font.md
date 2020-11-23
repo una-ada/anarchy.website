@@ -66,9 +66,15 @@ file with a draft of your design.
 
 ## IV. Import
 
+accents > duplicate spacing characters as combining characters > automatically build accented characters > can manually adjust positioning and scale
+
+some require overlaps > unlink references > remove overlap in menu > may require manually editing the curves > join points by dragging on top of each other (drag away first)
+
 ## V. Metrics
 
 ## VI. Validation
+
+self intersect: try merging points that are close together > will change the extrema which can be fixed automatically > will need to set control points to integers again
 
 ## VII. Export
 

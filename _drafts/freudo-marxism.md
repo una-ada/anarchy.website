@@ -25,6 +25,8 @@ title: Wilhelm Reich and Freudo-Marxism
 
 <http://www.lust-for-life.org/Lust-For-Life/ReichVersusTheSituationists/ReichVersusTheSituationists.htm>
 
+<http://library.nothingness.org/articles/SI/en/display/243>
+
 Aside from Emil Kraepelin, Spitzer was also influenced by Wilhelm Reich[^161]
 earlier in his career, particularly from his high school years on as he noted in
 an anecdote explaining his initially unpublished paper "An Examination of

@@ -2,7 +2,7 @@
 author: una
 layout: post
 tags: death philosophy suicide
-title: An Update on Death
+title: More Notes on Death
 ---
 
 A few years ago, I wrote two pieces on the concept of death, "[Fear and Death][1]" and "[Death isn't real and neither are you][2]," which were at the time coming from a place of desperately coping with a concept that we, the living, have never been able to fully experience. Of course, I've not since died, and so that fundamental perspective has not changed much. What is different now is that there have been a number of times, perhaps more so than not at this point, where my desire for death has screamed louder than my fear of it.
