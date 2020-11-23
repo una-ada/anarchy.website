@@ -81,6 +81,9 @@
                 {%- if auth.url -%}
                     </a>
                 {%- endif -%}
+                {%- if auth.pronouns -%}
+                    &nbsp;<span class="dimmed">({{auth.pronouns}})</span>
+                {%- endif -%}
                 {%- unless forloop.length == 2 and forloop.index == 1 -%}
                     ,
                 {%- endunless -%}

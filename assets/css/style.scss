@@ -81,6 +81,9 @@ center * {
 		width: 20%;
 	}
 }
+.dimmed {
+	opacity: 0.7;
+}
 div:target {
 	background: #eee;
 }
@@ -224,6 +227,9 @@ img, video {
 li, p {
 	line-height: $line-height;
 	text-align: justify;
+}
+.MathJax {
+	vertical-align: text-bottom;
 }
 .navigation {
 	display: flex;
