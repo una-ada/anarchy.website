@@ -1,13 +1,17 @@
-<div class="preview" data-tags="{{ post.tags }}">
-    <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
-    <p>
+{% assign all = "X" | split: "" %}
+<div
+    class="preview"
+    data-tags="{{ post.tags | concat: all | join: ', ' }}"
+>
+    <a class="preview-title" href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
+    <p class="preview-description">
         {% if post.description %}
             {{ post.description }}
         {% else %}
             {{ post.content | strip_html | truncatewords:75}}
         {% endif %}
     </p>
-    <p>
+    <p class="preview-tags">
         <a href="{{ post.url }}">{{post.date|date:'%B %d, %Y'}}</a>,
         tags:
         {% assign sorttags = post.tags | sort %}

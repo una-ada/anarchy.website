@@ -3,8 +3,10 @@ layout: default
 ---
 
 <h1>Tag: </h1>
-<i>This page requires JavaScript! I'm way too lazy to write a static page for
-every single tag on this site.</i>
+<i>
+    This page <strong>requires JavaScript!</strong> I'm way too lazy to write a
+    static page for every single tag on this site.
+</i>
 
 {% for post in site.posts %}
     {% include preview.html post=post %}
@@ -18,7 +20,7 @@ function handleTag(){
         pvs = document.getElementsByClassName('preview');
     document.getElementsByTagName('h1')[0].innerText = "Tag: " + tag;
     for(let i of pvs)
-        i.style.display = ~i.getAttribute('data-tags').indexOf(tag)
+        i.style.display = ~i.getAttribute('data-tags').indexOf(tag+", ")
                         ? ''
                         : 'none';
 }

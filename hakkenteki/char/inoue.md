@@ -88,10 +88,11 @@ Despite all this, Vasily's position in the Inoue company was kept simply as a
 district manager. Shizuko was cut off from the family's funds and left to live
 off Vasily's salary. When Yulia was born, this situation remained for the most
 part; however, since they were assigned male at birth, Shizuko petitioned her
-family to allow Inoue to inherit the position in the company Shizuko husband
-would have had she agreed to an arranged marriage. This arrangement was
-ultimately approved, and so Shizuko and Vasily raised Inoue with the intent of
-having them inherit an executive role when they came of age.
+family to allow Inoue to inherit the position in the company originally
+intended for Shizuko's husband would have had she agreed to an arranged
+marriage. This arrangement was ultimately approved, and so Shizuko and Vasily
+raised Inoue with the intent of having them inherit an executive role when they
+came of age.
 
 ### University
 
