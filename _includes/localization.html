@@ -72,7 +72,7 @@
             {%- for author in page.author -%}
                 {%- assign auth = site.data.people[author] -%}
                 {%- if forloop.last == true and forloop.length > 1 -%}
-                    and&nbsp;
+                    and&#32;
                 {%- endif -%}
                 {%- if auth.url -%}
                     <a href="{{auth.url}}">
@@ -82,12 +82,12 @@
                     </a>
                 {%- endif -%}
                 {%- if auth.pronouns -%}
-                    &nbsp;<span class="dimmed">({{auth.pronouns}})</span>
+                    &#32;<span class="dimmed">({{auth.pronouns}})</span>
                 {%- endif -%}
                 {%- unless forloop.length == 2 and forloop.index == 1 -%}
                     ,
                 {%- endunless -%}
-                &nbsp;
+                &#32;
             {%- endfor -%}
         {%- endif -%}
     {%- endcapture -%}

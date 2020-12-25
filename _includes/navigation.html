@@ -1,27 +1,68 @@
-{%- if page.series and page.series_index -%}
-    {%- assign series_posts = site.posts | where: "series", page.series -%}
-    {%- capture prev_index -%}{{page.series_index | minus: 1}}{%- endcapture -%}
-    {%- capture next_index -%}{{page.series_index | plus:  1}}{%- endcapture -%}
-    {%- assign prev = series_posts | where: "series_index", prev_index | first -%}
-    {%- assign next = series_posts | where: "series_index", next_index | first -%}
-    <div class="navigation">
-        <div class="navigation-previous">
-            {%- if prev -%}
-                <a href="{{prev.url}}">{{prev.title}}</a>　&larr; {{l10n_prev}}
-            {%- endif -%}</div>
-        <div class="navigation-center">
-            {%- if ser.url -%}<a href="{{ser.url}}">{%- endif -%}
-                {%- if ser.title_stylized -%}
-                    {{ser.title_stylized}}
+{%- if paginator or page.series and page.series_index -%}
+    {%- if paginator -%}
+        {%- assign prev = paginator.previous_page -%}
+        {%- assign next = paginator.next_page -%}
+    {%- else -%}
+        {%- assign series_posts = site.posts | where: "series", page.series -%}
+        {%- capture prev_index -%}{{page.series_index | minus: 1}}{%- endcapture -%}
+        {%- capture next_index -%}{{page.series_index | plus:  1}}{%- endcapture -%}
+        {%- assign prev = series_posts | where: "series_index", prev_index | first -%}
+        {%- assign next = series_posts | where: "series_index", next_index | first -%}
+    {%- endif -%}
+    <div class="navigation {% if paginator %}navigation_pagination{% endif %}">
+        <div class="navigation__arrows">
+            <div class="navigation__previous">
+                {%- if prev -%}
+                    {%- if paginator -%}
+                        <a href="{{paginator.previous_page_path}}">
+                            Page {{paginator.previous_page}}
+                        </a>
+                    {%- else -%}
+                        <a href="{{prev.url}}">{{prev.title}}</a>
+                    {%- endif -%}
+                    &#32;&larr; {{l10n_prev}}
+                {%- endif -%}</div>
+            <div class="navigation__center">
+                {%- if paginator -%}
+                    &bull;
                 {%- else -%}
-                    {{ser.title}}
+                    {%- if ser.url -%}<a href="{{ser.url}}">{%- endif -%}
+                        {%- if ser.title_stylized -%}
+                            {{ser.title_stylized}}
+                        {%- else -%}
+                            {{ser.title}}
+                        {%- endif -%}
+                    {%- if ser.url -%}</a>{%- endif -%}
                 {%- endif -%}
-            {%- if ser.url -%}</a>{%- endif -%}
+            </div>
+            <div class="navigation__next">
+                {%- if next -%}
+                    {{l10n_next}} &rarr;&#32;
+                    {%- if paginator -%}
+                        <a href="{{paginator.next_page_path}}">
+                            Page {{paginator.next_page}}
+                        </a>
+                    {%- else -%}
+                        <a href="{{next.url}}">{{next.title}}</a>
+                    {%- endif -%}
+                {%- endif -%}
+            </div>
         </div>
-        <div class="navigation-next">
-            {%- if next -%}
-                {{l10n_next}} &rarr;　<a href="{{next.url}}">{{next.title}}</a>
-            {%- endif -%}
-        </div>
+        {%- if paginator -%}
+            <div class="navigation__list">
+                {%- for page in (1..paginator.total_pages) -%}
+                    {%- if page == paginator.page -%}
+                        <em>{{ page }}</em>
+                    {%- elsif page == 1 -%}
+                        <a href="{{ '/' | relative_url }}">{{ page }}</a>
+                    {%- else -%}
+                        <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
+                    {%- endif -%}
+                    {%- unless forloop.last -%}
+                        <div class="tab_half"></div>
+                    {%- endunless -%}
+                {%- endfor -%}
+            </div>
+        {%- endif -%}
     </div>
 {%- endif -%}

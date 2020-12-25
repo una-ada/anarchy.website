@@ -8,11 +8,14 @@ kramdown:
 lang: en_US
 logo: /assets/img/me.jpg
 markdown: kramdown
+paginate: 10
+paginate_path: /archive/:num
 plugins:
   - jekyll-seo-tag
+  - jekyll-paginate
 repository: una-ada/anarchy.website
 social:
-  name: Una Noa Ada
+  name: Una Ada
   links:
     - https://github.com/una-ada
     - https://twitter.com/unaxiii

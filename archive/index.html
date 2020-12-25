@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: post
+title: Archive
 ---
 
-{%- for post in site.posts -%}
+{%- for post in paginator.posts -%}
     {%- include preview.html post=post -%}
 {%- endfor -%}

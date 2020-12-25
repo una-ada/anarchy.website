@@ -27,23 +27,34 @@
     {%- if page.image and page.replace_title -%}
         <img class="title-card" alt="{{page.title | strip_html}}" src="{{page.image}}"/>
     {%- else -%}
-        <h1><!-- Sometimes strip_html simply isn't enough (like ruby text) -->
+        <h1 {% unless page.author and page.date %}
+            class="title_alone"
+        {% endunless %}><!-- Sometimes strip_html simply isn't enough (like ruby text) -->
             {%- if page.stylized_title -%}
                 {{page.stylized_title}}
             {%- else -%}
                 {{page.title}}
             {%- endif -%}
+            {%- if paginator -%}
+                , {{ paginator.page }} of {{ paginator.total_pages }}
+            {%- endif -%}
         </h1>
+        {%- unless page.author and page.date -%}
+            <hr />
+        {%- endunless -%}
     {%- endif -%}
-    {%if page.subtitle%}
-        <h3 class="subtitle">{{page.subtitle}}</h3>
-    {%endif%}
-    {%- if page.author and page.date -%}
+    {%- if page.subtitle -%}
+        <h3 class="subtitle">{{ page.subtitle }}</h3>
+    {%- endif -%}
+    {%- if page.image and page.replace_title and page.author and page.date -%}
         <div class="byline">
             {{ l10n_authors }}{{ l10n_date }}
         </div>
     {%- else -%}
-        <hr/>
+        {% include divider_fancy.html byline=true %}
+    {%- endif -%}
+    {%- if paginator -%}
+        {%- include navigation.html -%}
     {%- endif -%}
     <div class="content">
         {{content}}

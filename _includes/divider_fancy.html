@@ -1,0 +1,62 @@
+<div class="divider {% if include.byline %}divider_byline{% endif %}">
+    <div class="divider_fancy">
+        <img class="divider_fancy__left divider_light" src="/assets/img/snake__head-up-left.svg" />
+        <img class="divider_fancy__left divider_dark" src="/assets/img/snake-white__head-up.svg" />
+        <div class="divider_fancy__middle">
+            {% if include.byline and page.author and page.date %}
+                <div class="divider_fancy__byline">
+                    {{ l10n_authors }}{{ l10n_date }}
+                </div>
+                {% if page.author.first %}
+                    {%if page.author.size <= 3 %}
+                        {% assign temp = page.author.size | times: 2 %}
+                        {% assign chainNum = 8 | minus: temp %}
+                    {% else %}
+                        {% assign chainNum = 0 %}
+                    {% endif %}
+                {% else %}
+                    {% assign chainNum = 5 %}
+                {% endif %}
+            {% else %}
+                {% assign chainNum = 8 %}
+            {% endif %}
+            {% for i in (1..chainNum) %}
+                <div class="divider_fancy__segment">
+                    <img class="divider_light" src="/assets/img/snake__link.svg" />
+                    <img class="divider_dark" src="/assets/img/snake-white__link.svg" />
+                </div>
+            {% endfor %}
+        </div>
+        <img class="divider_fancy__right divider_light" src="/assets/img/snake__tail-down.svg" />
+        <img class="divider_fancy__right divider_dark" src="/assets/img/snake-white__tail-down.svg" />
+    </div>
+    <div class="divider_fallback">
+        {% if include.byline and page.author and page.date %}
+            <div class="divider__byline">
+                {{ l10n_authors }}{{ l10n_date }}
+            </div>
+            {% if page.author.first %}
+                {%if page.author.size <= 2 %}
+                    {% assign temp = page.author.size | times: 2 %}
+                    {% assign chainNum = 5 | minus: temp %}
+                {% else %}
+                    {% assign chainNum = 0 %}
+                {% endif %}
+            {% else %}
+                {% assign chainNum = 3 %}
+            {% endif %}
+        {% else %}
+            <img class="divider__left divider_light" src="/assets/img/snake__head-flat.svg" />
+            <img class="divider__left divider_dark" src="/assets/img/snake-white__head-flat.svg" />
+            {% assign chainNumAlt = 5 %}
+        {% endif %}
+        {% for i in (1..chainNum) %}
+            <div class="divider__segment">
+                <img class="divider_light" src="/assets/img/snake__link.svg" />
+                <img class="divider_dark" src="/assets/img/snake-white__link.svg" />
+            </div>
+        {% endfor %}
+        <img class="divider__right divider_light" src="/assets/img/snake__tail-flat.svg" />
+        <img class="divider__right divider_dark" src="/assets/img/snake-white__tail-flat.svg" />
+    </div>
+</div>

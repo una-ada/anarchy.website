@@ -178,7 +178,7 @@ h1 a, h2 a, h3 a, h4 a{
 }
 h1 {
 	font-size: 2.5rem;
-	margin: 0.5rem 0;
+	margin: 0;
 }
 h2 {
 	font-size: 2em;
@@ -230,28 +230,6 @@ li, p {
 }
 .MathJax {
 	vertical-align: text-bottom;
-}
-.navigation {
-	display: flex;
-	margin-top: 6rem;
-	width: 100%;
-	.navigation-previous {
-		text-align: right;
-		flex: 0 1 50%;
-		order: -1;
-	}
-	.navigation-center {
-		text-align: center;
-		flex: 1 0 0;
-		order: 0;
-		padding: 0 0.5rem;
-		white-space: nowrap;
-	}
-	.navigation-next {
-		text-align: left;
-		flex: 0 1 50%;
-		order: 1;
-	}
 }
 p>span.MathJax_SVG {
 	margin-bottom: -1em !important;
@@ -310,7 +288,7 @@ sub {
 	bottom: -0.3em;
 }
 .subtitle {
-	margin: 0.5rem 0;
+	margin: 0 0 0.5rem 0;
 }
 sup {
 	vertical-align: top;
@@ -326,6 +304,10 @@ sup a {
 .tab {
 	display: inline-block;
 	width: 2em;
+}
+.tab_half {
+	display: inline-block;
+	width: 1em;
 }
 table {
 	border-collapse: collapse;
@@ -425,6 +407,166 @@ rtc > rt[rbspan] {
 	column-span: attr(rbspan);
 }
 
+// New BEM stuff
+
+.divider {
+	height: 1em;
+	// margin: 1em 0;
+	position: relative;
+	width: 100%;
+	.divider_normal {
+		height: 1em;
+		display: flex;
+		.divider_dark {
+			display: none;
+		}
+	}
+	.divider_fallback {
+		height: 1em;
+		display: none;
+		.divider_dark {
+			display: none;
+		}
+	}
+	.divider_fancy {
+		height: 1em;
+		.divider_dark {
+			display: none;
+		}
+		.divider_fancy__left {
+			bottom: 0;
+			height: 6em;
+			left: -2.75em;
+			position: absolute;
+			width: 2.25em;
+		}
+		.divider_fancy__middle {
+			align-items: stretch;
+			display: flex;
+			.divider_fancy__segment {
+				flex: 2 0;
+				height: 1em;
+				text-align: center;
+				img {
+					height: 1em;
+				}
+			}
+			.divider_fancy__segment:first-child {
+				flex: 1 0;
+				text-align: left;
+			}
+			.divider_fancy__segment:last-child {
+				flex: 1 0;
+				text-align: right;
+			}
+		}
+		.divider_fancy__right {
+			height: 6em;
+			left: calc(100% + 0.5em);
+			position: absolute;
+			top: 0;
+			width: 2.25em;
+		}
+	}
+	.divider__left {
+		flex: 0 0 7em;
+		height: 1.25em;
+		margin-top: -0.25em;
+		width: 7em;
+	}
+	.divider__segment {
+		height: 1em;
+		flex: 2 0;
+		text-align: center;
+		vertical-align: top;
+		img {
+			height: 1em;
+			vertical-align: top;
+		}
+	}
+	.divider__right {
+		flex: 0 0 7em;
+		height: 1em;
+		width: 7em;
+	}
+}
+.divider_byline {
+	height: 1.5em;
+	margin: -0.3em 0 2em 0;
+	.divider_fallback {
+		height: 1.5em;
+		.divider__byline {
+			padding-top: 0.3em;
+		}
+		.divider__left {
+			margin-top: 0.1em;
+		}
+		.divider__segment,
+		.divider__segment img {
+			vertical-align: bottom;
+		}
+		.divider__right {
+			padding-top: 0.3em;
+			vertical-align: bottom;
+		}
+	}
+	.divider_fancy {
+		height: 1.5em;
+		.divider_fancy__middle {
+			.divider_fancy__byline {
+				padding-top: 0.3em;
+			}
+			.divider_fancy__segment {
+				height: 1.5em;
+				vertical-align: bottom;
+				img {
+					vertical-align: bottom;
+				}
+			}
+		}
+		.divider_fancy__right {
+			top: 0.5em;
+		}
+	}
+}
+.navigation {
+	margin-top: 6rem;
+	width: 100%;
+	.navigation__arrows {
+		display: flex;
+		width: 100%;
+		.navigation__previous {
+			text-align: right;
+			flex: 0 1 50%;
+			order: -1;
+		}
+		.navigation__center {
+			text-align: center;
+			flex: 1 0 0;
+			order: 0;
+			padding: 0 0.5rem;
+			white-space: nowrap;
+		}
+		.navigation__next {
+			text-align: left;
+			flex: 0 1 50%;
+			order: 1;
+		}
+	}
+	.navigation__list {
+		line-height: 1;
+		margin-top: 0.5rem;
+		text-align: center;
+		width: 100%;
+	}
+}
+.navigation_pagination {
+	margin-top: 0;
+}
+.title_alone {
+	line-height: 1;
+}
+
 // Dark Mode
 html.dark {
 	background:	#111;
@@ -470,6 +612,19 @@ html.dark {
 	.dark-mode-only {
 		display: block;
 	}
+
+	.divider {
+		.divider_normal,
+		.divider_fallback,
+		.divider_fancy {
+			.divider_dark {
+				display: inline;
+			}
+			.divider_light {
+				display: none;
+			}
+		}
+	}
 }
 .light-mode-only {
 	display: block;
@@ -503,6 +658,14 @@ twitterwidget, twitter-widget {
 	.title-card {
 		margin: 1rem 0;
 		width: 100%;
+	}
+	.divider {
+		.divider_fancy {
+			display: none;
+		}
+		.divider_fallback {
+			display: flex;
+		}
 	}
 }
 @media print, screen and (max-width: $width + 2rem) {

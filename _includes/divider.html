@@ -1,0 +1,15 @@
+<div class="divider">
+    <div class="divider_normal">
+        <img class="divider__left divider_light" src="/assets/img/snake__head-flat.svg" />
+        <img class="divider__left divider_dark" src="/assets/img/snake-white__head-flat.svg" />
+        {% assign chainNumAlt = 5 %}
+        {% for i in (1..5) %}
+            <div class="divider__segment">
+                <img class="divider_light" src="/assets/img/snake__link.svg" />
+                <img class="divider_dark" src="/assets/img/snake-white__link.svg" />
+            </div>
+        {% endfor %}
+        <img class="divider__right divider_light" src="/assets/img/snake__tail-flat.svg" />
+        <img class="divider__right divider_dark" src="/assets/img/snake-white__tail-flat.svg" />
+    </div>
+</div>
