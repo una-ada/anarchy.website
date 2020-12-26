@@ -221,202 +221,202 @@ title: "Goth Angel Sinners Pt. V: <i>Post-Scarcity</i> Notes"
 
 Bauwens, Michel, "Abundance/Scarcity and Equality/Hierarchy: Four Basic
 Scenarios for the Future," _P2P Foundation_, Aug. 12, 2012.
-{: .citation}
+{: .content__p_citation}
 
 Bauwens, Michel, "[The History and Evolution of the Commons][44]," _P2P
 Foundation_, Sep. 28, 2017.
-{: .citation}
+{: .content__p_citation}
 
 Bauwens, Michel, "[Permaculture and the myth of future food scarcity][45]," _P2P
 Foundation_, Sep. 3, 2013.
-{: .citation}
+{: .content__p_citation}
 
 Bittman, Mark, "[How to Feed the World][34]," _The New York Times_, Oct. 14,
 2013.
-{: .citation}
+{: .content__p_citation}
 
 **Bookchin, Murray, [_Post-Scarcity Anarchism_][7], (Montreal: Black Rose Books,
 1986).**
-{: .citation}
+{: .content__p_citation}
 
 Bookchin, Murray, "[Radical Agriculture][9]," _Radical Agriculture_, ed. Richard
 Merrill (1972).
-{: .citation}
+{: .content__p_citation}
 
 "[Bullshit Jobs (w/ David Graeber)][20]," _srsly wrong_ 153 (May 26, 2018).
-{: .citation}
+{: .content__p_citation}
 
 Burnett, Graham, "Permaculture: Ethical Design for Living," _News from Nowhere_,
 2001.
-{: .citation}
+{: .content__p_citation}
 
 "[Can Technology Save Us?][18]" _srsly wrong_ 121 (Aug. 29, 2017).
-{: .citation}
+{: .content__p_citation}
 
 "[Capitalism, Hierarchy, and Energy][25]," _Neighbor Science_ 1, 16 (Jan. 29,
 2018).
-{: .citation}
+{: .content__p_citation}
 
 Carson, Kevin A., "[Detroit, Disaster Capitalism and the Enclose of the Water
 Commons][13],” _Center for a Stateless Society_, Nov. 18, 2014.
-{: .citation}
+{: .content__p_citation}
 
 Carson, Kevin A., "[Energy and Transportation Issues: A Libertarian
 Analysis][11]," _Center for a Stateless Society Paper_ 14 (Winter-Spring 2012).
-{: .citation}
+{: .content__p_citation}
 
 Carson, Kevin A., "[Factory Farming: Who are the Real Statists Here?][12]"
 _Center for a Stateless Society_, Mar. 28, 2014.
-{: .citation}
+{: .content__p_citation}
 
 **Carson, Kevin A., "[The Great Domain of Cost-Plus: The Waste Production
 Economy][46]," _Center for a Stateless Society Paper_ 11 (Q4 2010).** Alt links:
 [History][47] and Topology parts [1][48], [2][49], [3][50], and [4][51].
-{: .citation}
+{: .content__p_citation}
 
 Carson, Kevin A., "[The Healthcare Crisis][10]," _Center for a Stateless Society
 Paper_ 8 (Q1 2010).
-{: .citation}
+{: .content__p_citation}
 
 Celine, Hagbard, "[Anti-authoritarian property relations][37]," _Post-Scarcity
 Anarchism_ 1 (Mar. 2015).
-{: .citation}
+{: .content__p_citation}
 
 Chandler, Adam "[Why Americans Lead the World in Food Waste][30]," _The
 Atlantic_, Jul. 15, 2016.
-{: .citation}
+{: .content__p_citation}
 
 Coffin, Peter, "[Overpopulation, Eugenics + Adjacent BS][57]," _Important Docs_
 13 (Jul. 8, 2018).
-{: .citation}
+{: .content__p_citation}
 
 "[Contemporary agriculture: climate, capital, and cyborg ecology][53]," _Out of
 the Woods_, Jul, 17, 2015.
-{: .citation}
+{: .content__p_citation}
 
 ContraPoints, "[The Apocalypse][58]," YouTube, Dec. 1, 2018.
-{: .citation}
+{: .content__p_citation}
 
 "[Disaster communism part 1 - disaster communities][54]," _Out of the Woods_,
 May 8, 2014.
-{: .citation}
+{: .content__p_citation}
 
 "[Disaster communism part 2 - communisation and concrete utopia][55]," _Out of
 the Woods_, May 14, 2014.
-{: .citation}
+{: .content__p_citation}
 
 "[Disaster communism part 3 - logistics, repurposing, bricolage][56]," _Out of
 the Woods_, May 22, 2014.
-{: .citation}
+{: .content__p_citation}
 
 "[Economic Inequality][19]," _srsly wrong_ 123 (Feb. 14, 2018).
-{: .citation}
+{: .content__p_citation}
 
 "[ECOTOPIA][23]," _srsly wrong_ 171 (Nov. 25, 2018).
-{: .citation}
+{: .content__p_citation}
 
 "[Energy Sculpting the Future (Energy Series Pt. 2)][28]," _Neighbor Science_ 1,
 5 (Sep. 8, 2017).
-{: .citation}
+{: .content__p_citation}
 
 **"[Ep 20: Ep. 19: 208.mp3|Biotech in agriculture (X.7)][24]," _Neighbor
 Science_ 1, 19 (Feb. 19, 2018).**
-{: .citation}
+{: .content__p_citation}
 
 "[Escape from the Ecopocalypse][22]," _srsly wrong_ 170 (Nov. 15, 2018).
-{: .citation}
+{: .content__p_citation}
 
 FAO, IFAD, UNICEF, WFP, and WHO, _[The State of Food Security and Nutrition in
 the World 2018. Building climate resilience for food security and
 nutrition][59]_ (Rome: FAO, 2018).
-{: .citation}
+{: .content__p_citation}
 
 Foley, Jonathan, "[A Five-Step Plan to Feed the World][32]," _National
 Geographic Magazine_.
-{: .citation}
+{: .content__p_citation}
 
 "[Food Loss and Food Waste][60]," _Food and Agriculture Organization of the
 United Nations (FAO)_, Retrieved Dec. 13, 2018.
-{: .citation}
+{: .content__p_citation}
 
 Gaines, Chet, "[A specter is haunting the planet][36]," _Post-Scarcity
 Anarchism_ 1 (Mar. 2015).
-{: .citation}
+{: .content__p_citation}
 
 Gelderloos, Peter, "[Commoning and Scarcity: a manifesto against
 capitalism][15]," _Tides of Flame_ 20 (June 2012).
-{: .citation}
+{: .content__p_citation}
 
 Gillis, William, "[15 Post-Primitivist Theses][16]," _Human Iterations_, Jun.
 13, 2006.
-{: .citation}
+{: .content__p_citation}
 
 Heiwajima Shizuo (平和島 静雄), "[The future of aquaponics][38]," _Post-Scarcity
 Anarchism_ 1 (Mar. 2015).
-{: .citation}
+{: .content__p_citation}
 
 "[Homelessness is a moral nightmare][21]," _srsly wrong_ 160 (Jul. 18, 2018).
-{: .citation}
+{: .content__p_citation}
 
 "[How Renewable Blew Us Away (Energy Series Pt. 1)][27]," _Neighbor Science_ 1,
 4 (Sep. 1, 2017).
-{: .citation}
+{: .content__p_citation}
 
 **"[Industrial Ecology][26]," _Neighbor Science_ 1, 13 (Jan. 8, 2018).**
-{: .citation}
+{: .content__p_citation}
 
 "[Murray Bookchin's libertarian technics][8]," Out of the Woods, Mar. 11, 2014.
-{: .citation}
+{: .content__p_citation}
 
 "[Political economy of hunger, the][52]," _Out of the Woods_, Nov. 17, 2014.
-{: .citation}
+{: .content__p_citation}
 
 Richlin, Philip, "[The Socioeconomic Guardians of Scarcity][14],” Tumblr, Apr.
 6, 2015?.
-{: .citation}
+{: .content__p_citation}
 
 Salisbury, Ryan, "[Ambitions of the Post-Scarcity Left][41]," _Post-Scarcity
 Anarchism_ 5 (Sep. 2017).
-{: .citation}
+{: .content__p_citation}
 
 Salisbury, Ryan, "[Better Off][39]," _Post-Scarcity Anarchism_ 2 (Jul. 2015).
-{: .citation}
+{: .content__p_citation}
 
 Salisbury, Ryan, "[Decision-making in realtime][61]," _Transferics_, Aug. 25,
 2013.
-{: .citation}
+{: .content__p_citation}
 
 Salisbury, Ryan, "[Review: Restoration Agriculture][40]," _Post-Scarcity
 Anarchism_ 4 (Jan. 2017).
-{: .citation}
+{: .content__p_citation}
 
 Shiva, Vandana, "[Seed Freedom and the Future of Farming][35]," _ROAR Magazine_
 7 (Autumn 2017).
-{: .citation}
+{: .content__p_citation}
 
 "[Slaves, but not exactly the bad kind (Energy Series Pt. 3)][29]," _Neighbor
 Science_ 1, 6 (Oct. 8, 2017).
-{: .citation}
+{: .content__p_citation}
 
 Smithers, Rebecca, "[Almost half of the world’s food thrown away, report
 finds][33]," _The Guardian_, Jan. 10, 2013.
-{: .citation}
+{: .content__p_citation}
 
 Sundaram, Jomo K. and Hilal Elver, "[The world produces enough food to feed
 everyone. So why do people go hungry?][31]" _World Economic Forum_, Jul. 11,
 2016.
-{: .citation}
+{: .content__p_citation}
 
 Troncoso, Stacco, "[Fully Automated Green Communism][43]," _P2P Foundation_,
 Jan. 2, 2018.
-{: .citation}
+{: .content__p_citation}
 
 "[Universal Basic Outcome][17]," _srsly wrong_ 114 (Jun. 6, 2017).
-{: .citation}
+{: .content__p_citation}
 
 Utratel, Ann Marie, "[Reimagine, don’t seize, the means of production][42],"
 _P2P Foundation_, Jan. 16, 2018.
-{: .citation}
+{: .content__p_citation}
 
 ## Footnotes
 

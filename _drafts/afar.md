@@ -381,7 +381,7 @@ beforehand.*
 
 「知りたくもない　女じゃないし」<br/>
 I don't want to hear it. I'm not a girl.
-{: .centered}
+{: .content__p_centered}
 
 Starting off with a series that doesn't entirely fit the category, but does
 include a trope or two worth mentioning here as well as some other relevant
@@ -483,7 +483,7 @@ wasting time w table formats that dont work bc theres too many kanji
 **Figure 2.1.1**<br/>
 《進路希望調査》<br/>
 Career Survey
-{: .pullquote .image}
+{: .pullquote .pullquote_image}
 
 this is also when karma is all like we should go to thailand but i dont rly feel
 up to transcribing the bit rn lmao
@@ -561,7 +561,7 @@ any cute transfer student would be, they pushes others away since as they say:
 right?](/assets/img/manga/skirts.jpg)
 **Figure 2.4.1**<br/>
 "No matter what anyone says, I don't plan on giving up dressing like this."
-{: .pullquote .left .image}
+{: .pullquote .pullquote_image .pullquote_left}
 
 While the class rep to whom Kaguya said this, <ruby><rtc>いちごう</rtc>
 <rbc>一郷</rbc></ruby>いちご (Ichigou Ichigo), believed that they were simply
@@ -654,7 +654,7 @@ hime uses ore ひめ→「俺」
 ![And then comes... the homo development!](/assets/img/manga/homo.jpg)
 **Figure 2.4.2**<br/>
 "And then comes... the homoe development!"
-{: .pullquote .image}
+{: .pullquote .pullquote_image}
 
 In the second chapter of the Comic REX serialization, one panel makes reference
 to a particular meme that's worth discussing here:
@@ -1032,7 +1032,7 @@ as a cute girl; when Kogure falls down and the whole class get an upskirt view
 ![...Boy. Boy. So it's because of that?](/assets/img/manga/boy.jpg)
 **Figure 3a**<br/>
 "So it's because of that?"[^9]
-{: .pullquote .image}
+{: .pullquote .pullquote_image}
 
 [^9]:   ゑむ, "ひみつの悪魔ちゃん," わぁい! 3 (Oct. 25, 2010), trans. Soba-Scans.
 
@@ -1254,7 +1254,7 @@ saw Sailor Moon on TV like many weebs of this generation, lol.
 
 「マコト　あのさ…」<br/>
 "Makoto, say..."
-{: .centered}
+{: .content__p_centered}
 
 『<ruby>
     <rtc><rt>&nbsp;</rt></rtc>
@@ -1366,7 +1366,7 @@ Japanese
 
 「せめて夢の中でくらい⋯　いい思いしたいよ⋯」<br/>
 "At least in my dreams... I can have happy thoughts..."
-{: .centered}
+{: .content__p_centered}
 
 『<ruby>
     <rtc><rt>とつぜん</rt><rt>おんなのこ</rt><rt></rt><rt></rt><rt></rt>
@@ -1399,7 +1399,7 @@ _Sometimes_ there is actual trans representation.
 
 「一年ぶりだね　湧くんっ♪」<br/>
 "It's been a year, Yuu-kun."
-{: .centered}
+{: .content__p_centered}
 
 『<ruby>
     <rtc><rt>きょうかい</rt></rtc>
@@ -1468,7 +1468,7 @@ Author:
 
 「ぼくはっ　男でも女でもないっ!!!」<br/>
 "I'm... not a boy or a girl!!!"
-{: .centered}
+{: .content__p_centered}
 
 We're finally going to talk about『<ruby>
     <rtc><rt>ふかかい</rt></rtc>

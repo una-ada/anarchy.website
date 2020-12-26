@@ -16,11 +16,17 @@ title: 「無題」ゲーム企画書
 
 ## Preface
 
-This game isn't intended so much as a game in and of itself as an experiment in design and practice for the tools involved. The primary focus is on the aesthetics and feel, something of an interactive art piece with activities through which to experience a fictional environment.
+This game isn't intended so much as a game in and of itself, rather as an experiment in design and practice for the tools involved. The primary focus is on the aesthetics and feel, something of an interactive art piece with activities through which to experience a fictional environment.
 
 ## I. Concept
 
+The core idea of this game is essentially a "walking simulator" with heavy character customization to fulfil a desire to simply exist in a fantastical space as a person of one's own choosing. The primary technical focus is on said customization, providing a system which balances depth of choice with interface overhead, as well as on feel, how the player experiences the environment and their character.
+
+Key inspirations for the 'aesthetic' element here are along the lines of "cottage core," read here as coziness in area with low population density, as well as catgirls as a model of achievable characters.
+
 ## II. Story
+
+
 
 ## III. Design
 

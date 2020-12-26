@@ -36,7 +36,7 @@ title: "Goth Angel Sinners Pt. IV: <i>The Paris Commune</i> Notes"
  - Why did it happen? (Events leading up to the Paris Commune)
 
    ![](/assets/img/gas/4-graphics.gif)
-   {: .pullquote .image}
+   {: .pullquote .pullquote_image}
    - French Revolution of 1848 (February Revolution), ended in the establishment
      of the Second Republic, whose first president was Napoleon III who in 1851
      conducted a self coup which resulted in the establishing of the Second
@@ -117,7 +117,7 @@ title: "Goth Angel Sinners Pt. IV: <i>The Paris Commune</i> Notes"
      context provided for a couple things or whatever:
 
      ![](/assets/img/gas/4-sailor.gif)
-     {: .pullquote .image}
+     {: .pullquote .pullquote_image}
      -  _Citizens, You are called to elect your Communal Assembly (the municipal
         council of Paris). For the first time, since September 4th [1870, the
         proclamation of the Third Republic], the Republic is freed from the

@@ -47,6 +47,7 @@ comfortable with catch-all categories, they give me this feeling of being
 thing; on the other hand, if there is no "normal" then why is there an "other"?
 Why not simply opt out? What this means in terms of gender as a whole is a topic
 for another discussion, the relevance is what it means for pronouns.
+{: .content__p_dropcap}
 
 My pronouns are "none," but what does that actually mean? Certainly, it's
 immediately obvious that I'm fine using first person pronouns... for now. Give
@@ -83,6 +84,7 @@ own from a linguistics perspective. With that said, a bit of a discussion is in
 order. Well, more like a lesson in grammar. I'll try to keep this pretty brief
 and entertaining, reading about grammar for any period of time is generally
 pretty boring, after all.
+{: .content__p_noindent}
 
 For the sake of consistency, all example sentences will use the same
 characters. While the temptation exists to use the generic cast of characters
@@ -153,6 +155,7 @@ $$\begin{align}
 \end{align}$$
 
 In many cases, this is indistinguishable from SVO, since SV implies the verb is second; however, SVO only describes the relative position of subject, verb, and object, without describing positions for any other elements in the sentence, such as adverbials. V2, on the other hand, describes the position of only the verb (such that all other phrases and words within the sentence must move to ensure that it is always second) and so can be seen more as a constraint than a full word order. Continuing in German, specifically, consider:
+{: .content__p_noindent}
 
 $$\begin{align}
 \underset{\text{subj.}}{\text{Alex}}&\;
@@ -173,6 +176,7 @@ $$\begin{align}
 \end{align}$$
 
 While each of these examples meet the V2 requirement and are valid sentences in German,[^9] example $\eqref{4a}$ in particular has the familiar SVO word order whereas the others do not. Directly translating this first example will clearly show, however, that the word order is not entirely natural in English:
+{: .content__p_noindent}
 
 [^9]:   Bold claim coming from someone who got bored of showing up to German
         class in college and eventually just dropped it altogether. Shoutout to
@@ -227,6 +231,7 @@ $$\begin{align}
 \end{align}$$
 
 None of these use subject-object-verb word order, yet each of them is easily intelligible English, order can be ignored for style or as vestiges of historic grammar. In the latter case, the aforementioned V2 order is fairly typical, again due to English's Germanic origins. Note example $\eqref{7}$ as such a case.
+{: .content__p_noindent}
 
 However, in the former case, that of stylistic deviation from the typical word order, the term **anastrophe** is used. Anastrophe (from the Greek "ἀναστροφή," a turning around) is then considered a **figure of speech**, a deviation from typical language for effect. More specifically it is a **scheme**,[^4] a variation on sequence, which here brings emphasis to the words whose position in the statement is abnormal. **Subject-verb inversion** is a common form, one which may be most obvious in its usage as a style, which as the name implies involves "inverting" the positions of the subject and verb phrases. This can then be divided into the categories of locative, directive, copular, and quotative inversions.
 
@@ -273,6 +278,7 @@ $$\begin{align}
 \end{align}$$
 
 While _came_ does not require an argument, it is somewhat typical for a specification of the origin or the destination of the subject to be included with its usage, especially given the euphemistic usage of the term. As such, here is another example to further highlight the role of the prepositional phrase as an adjunct rather than an argument of the verb:
+{: .content__p_noindent}
 
 $$\begin{align}
 \underset{\text{noun}}{\text{Yuki}} \;

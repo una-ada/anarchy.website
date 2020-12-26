@@ -49,7 +49,7 @@ good time to put in a reminder that this post will contain a lot of spoilers for
 the Madoka Magica series and movies; if you haven't seen them then *I guess* I
 will basically be explaining the whole thing to you.
 
-<div class="pullquote image">
+<div class="pullquote pullquote_image">
 <img src="https://myanimelist.cdn-dena.com/images/anime/11/55225l.jpg">
 Madoka Magica cover art. <i>Source:
 <a href="https://myanimelist.net/anime/9756/-/pics">MyAnimeList</a>.</i>
@@ -120,7 +120,7 @@ released by this conversion, but as Madoka is empathetic towards the pain
 experienced by the magical girls, her wish is to break this system such that the
 magical girls do not become Witches.
 
-<div class="pullquote left">
+<div class="pullquote pullquote_left">
     "[Madoka] transcends not only the current system of magical girls but the
     current universe itself..."
 </div>

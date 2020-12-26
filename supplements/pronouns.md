@@ -787,7 +787,7 @@ Test[^22][^23][^24]
         proposed for the needed pronoun&mdash;to wit,
 
     THON;
-    {: .centered}
+    {: .content__p_centered}
 
     >   to the _th_ of which I would give the same sound as in _they_. This
         pronoun's three cases will naturally suggest themselves to its user as

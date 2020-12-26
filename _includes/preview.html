@@ -1,23 +1,30 @@
 {% assign all = "X" | split: "" %}
+{% capture description %}
+    {% if post.description %}
+        {{ post.description }}
+    {% else %}
+        {{ post.content | strip_html | truncatewords:75}}
+    {% endif %}
+{% endcapture %}
+{% include localization.html post=post %}
 <div
-    class="preview"
+    class="preview {% if post.image %}preview_span{% endif %}"
     data-tags="{{ post.tags | concat: all | join: ', ' }}"
 >
-    <a class="preview-title" href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
-    <p class="preview-description">
-        {% if post.description %}
-            {{ post.description }}
-        {% else %}
-            {{ post.content | strip_html | truncatewords:75}}
-        {% endif %}
-    </p>
-    <p class="preview-tags">
-        <a href="{{ post.url }}">{{post.date|date:'%B %d, %Y'}}</a>,
-        tags:
-        {% assign sorttags = post.tags | sort %}
-        {% for tag in sorttags %}
-            {% capture tag_name %}{{ tag }}{% endcapture %}
-            <a href="/tag/#{{ tag_name }}">#{{ tag_name }}</a>
-        {% endfor %}
-    </p>
+    {%- if post.image -%}
+        <div class="preview__image {% if post.replace_title %}preview__image_replace{% endif %}">
+            <img class="preview__img" src="{{ post.image }}" />
+            <div class="preview__overlay">
+                <div class="preview__text">
+                    <h3 class="preview__title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
+                    <p class="preview__byline">{{ l10n_authors_plain }}{{ l10n_date }}</p>
+                    <p class="preview__description">{{ description }}</p>
+                </div>
+            </div>
+        </div>
+    {%- else -%}
+        <h3 class="preview__title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
+        <p class="preview__byline">{{ l10n_authors_plain }}{{ l10n_date }}</p>
+        <p class="preview__description">{{ description }}</p>
+    {%- endif -%}
 </div>

@@ -91,7 +91,7 @@ Paul_][66].[^83]
 Anaheim, California.][102]
 Shane Dawson at [VidCon][105] 2014<br>_Source: [Wikimedia Commons][103], photo
 by [Gage Skidmore][104]._
-{: .pullquote .image}
+{: .pullquote .pullquote_image}
 
 For the sake of argument and the establishment of context we'll quickly go over
 some of the issues present in this documentary series; before doing so I,
@@ -156,7 +156,7 @@ first episode they bring up the relationship between Jake Paul and his brother,
 
 ![Portrait of Kati Morton][110]
 Kati Morton<br>_Source: [Twitter][111]._
-{: .pullquote .image .left}
+{: .pullquote .pullquote_image .pullquote_left}
 
 Just a couple minutes into episode two a clip from the introduction to Kati
 Morton's [video on antisocial personality disorder][106] is used, stating "hey
@@ -294,35 +294,35 @@ conception.
 ---
 
 Dawson, Shane, [_The Mind of Jake Paul_][66], YouTube, 2018.
-{: .citation}
+{: .content__p_citation}
 
 Dawson, Shane, Snapchat, [Sep. 28, 2018][116] (archived on YouTube).
-{: .citation}
+{: .content__p_citation}
 
 Dawson, Shane ([@shanedawson][112]), "Kati is my friend and i wanted our
 conversation to be relaxed and real. we both got comfortable and didn’t
 think everything through. but i think the music and b roll just enhanced
 everything which was 100% my fault. she didn’t know i was gonna do that.
 🙏🏻❤️," Twitter, [Oct. 4, 2018][113].
-{: .citation}
+{: .content__p_citation}
 
 Dawson, Shane ([@shanedawson][112]), "i’ve suffered from bulimia, body
 dysmorphia and depression for the last 15 years. i would 100% consider
 the feeling i have when talking about those things to be “creepy”
 “gross” and “icky”. it’s not me that’s icky. it’s the feeling i get when
 describing them. i totally (1/2)," Twitter, [Oct. 4, 2018][114].
-{: .citation}
+{: .content__p_citation}
 
 Dawson, Shane ([@shanedawson][112]), "(2/2) understand why people are
 upset but i think it’s important to see it from all sides. are
 sociopaths gross? no. does it feel gross when u think about a sociopath
 acting out one of the symptoms? depends on who you are. but once again,
 i shouldn’t have made it scary 1000% 🙏🏻," Twitter, [Oct. 4, 2018][115].
-{: .citation}
+{: .content__p_citation}
 
 Morton, Kati, "[What does Psychopath mean? Antisocial Personality
 Disorder][106]," _Mental Health Help with Kati Morton_, YouTube, 2014.
-{: .citation}
+{: .content__p_citation}
 
 ---
 

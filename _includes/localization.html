@@ -1,12 +1,12 @@
-{%- if page.series -%}
-    {%- assign series = site.data.series[page.series] -%}
+{%- if post.series -%}
+    {%- assign series = site.data.series[post.series] -%}
 {%- endif -%}
 
-{% case page.lang %}
+{% case post.lang %}
 {% when 'ja' %}
     {%- capture l10n_authors -%}
-        {%- if page.author -%}
-            {%- for author in page.author -%}
+        {%- if post.author -%}
+            {%- for author in post.author -%}
                 {%- assign auth = site.data.people[author] -%}
                 {%- if auth.url -%}
                     <a href="{{auth.url}}">
@@ -23,9 +23,22 @@
             {%- endfor -%}
         {%- endif -%}
     {%- endcapture -%}
+    {%- capture l10n_authors_plain -%}
+        {%- if post.author -%}
+            {%- for author in post.author -%}
+                {%- assign auth = site.data.people[author] -%}
+                {%- if auth.name_ja -%}
+                    {{ auth.name_ja }}
+                {%- else -%}
+                    {{ auth.name }}
+                {%- endif -%}
+                、
+            {%- endfor -%}
+        {%- endif -%}
+    {%- endcapture -%}
     {%- assign l10n_dark = 'ダークモード' -%}
     {%- capture l10n_date -%}
-        {{ page.date | date: '%Y年%m月%d日' }}
+        {{ post.date | date: '%Y年%m月%d日' }}
     {%- endcapture -%}
     {%- assign l10n_next = '次' -%}
     {%- assign l10n_prev = '前' -%}
@@ -46,19 +59,19 @@
     {%- endcapture -%}
     {%- capture l10n_license -%}
         Creative Commons&nbsp;
-        {%- if page.license == "ZERO" -%}
+        {%- if post.license == "ZERO" -%}
             CC0 1.0 全世界
         {%- else -%}
-        {%- if page.license contains "BY" -%}
+        {%- if post.license contains "BY" -%}
             表示
         {%- endif -%}
-        {%- if page.license contains "NC" -%}
+        {%- if post.license contains "NC" -%}
             &nbsp;- 非営利
         {%- endif -%}
-        {%- if page.license contains "ND" -%}
+        {%- if post.license contains "ND" -%}
             &nbsp;- 改変禁止
         {%- endif -%}
-        {%- if page.license contains "SA" -%}
+        {%- if post.license contains "SA" -%}
             &nbsp;- 継承
         {%- endif -%}
             &nbsp;4.0 国際
@@ -67,9 +80,9 @@
 
 {% else %}
     {%- capture l10n_authors -%}
-        {%- if page.author -%}
+        {%- if post.author -%}
             By&nbsp;
-            {%- for author in page.author -%}
+            {%- for author in post.author -%}
                 {%- assign auth = site.data.people[author] -%}
                 {%- if forloop.last == true and forloop.length > 1 -%}
                     and&#32;
@@ -91,9 +104,25 @@
             {%- endfor -%}
         {%- endif -%}
     {%- endcapture -%}
+    {%- capture l10n_authors_plain -%}
+        {%- if post.author -%}
+            By&nbsp;
+            {%- for author in post.author -%}
+                {%- assign auth = site.data.people[author] -%}
+                {%- if forloop.last == true and forloop.length > 1 -%}
+                    and&#32;
+                {%- endif -%}
+                {{ auth.name }}
+                {%- unless forloop.length == 2 and forloop.index == 1 -%}
+                    ,
+                {%- endunless -%}
+                &#32;
+            {%- endfor -%}
+        {%- endif -%}
+    {%- endcapture -%}
     {%- assign l10n_dark = 'Toggle Dark Mode' -%}
     {%- capture l10n_date -%}
-        {{ page.date | date: '%B %d, %Y' }}
+        {{ post.date | date: '%B %d, %Y' }}
     {%- endcapture -%}
     {%- assign l10n_next = 'Next' -%}
     {%- assign l10n_prev = 'Prev' -%}
@@ -103,19 +132,19 @@
     {%- assign l10n_disclaim = '*This is not legal advice.' -%}
     {%- capture l10n_license -%}
         Creative Commons&nbsp;
-        {%- if page.license == "ZERO" -%}
+        {%- if post.license == "ZERO" -%}
             CC0 1.0 Universal
         {%- else -%}
-        {%- if page.license contains "BY" -%}
+        {%- if post.license contains "BY" -%}
             Attribution
         {%- endif -%}
-        {%- if page.license contains "NC" -%}
+        {%- if post.license contains "NC" -%}
             -NonCommercial
         {%- endif -%}
-        {%- if page.license contains "ND" -%}
+        {%- if post.license contains "ND" -%}
             -NoDerivatives
         {%- endif -%}
-        {%- if page.license contains "SA" -%}
+        {%- if post.license contains "SA" -%}
             -ShareAlike
         {%- endif -%}
             &nbsp;4.0 International

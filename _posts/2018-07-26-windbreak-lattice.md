@@ -71,7 +71,7 @@ System (PLSS)][21], which is a uniquely American policy and not the only reason
 one might find a grid formation on land. Once I'd recalled this, it made sense
 to look further into what I'd seen.
 
-<div class="pullquote left">
+<div class="pullquote pullquote_left">
     "There is something to be said about the choice of a grid system for
     agriculture..."
 </div>
@@ -110,7 +110,7 @@ about what I was looking for. The translation was basically unintelligible but
 still had significant phrases well enough that I could tell it was what I had
 been looking for: [grid-like windbreak (格子状防風林)][35].
 
-<div class="pullquote image">
+<div class="pullquote pullquote_image">
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Flag_of_Hokkaido_
 Prefecture.svg">
 <strong>FIGURE 2.</strong> Flag of Hokkaido Prefecture (北海道旗).
@@ -137,7 +137,7 @@ something. If you notice an obvious tonal break here it's because I took a few
 days off from writing this to move into my new apartment and I can't entirely
 remember where I was going with that last sentence. In fact, let's just move on.
 
-<div class="pullquote left">
+<div class="pullquote pullquote_left">
     "That was a dead end, so I'm going to try to find another trail to follow."
 </div>
 
@@ -174,7 +174,7 @@ majority of this report is concerned with land use as it is from an agriculture
 planning lab, the only section that I'm really interested in is [2.1 Development
 Plan from the Meiji Era (明治期の開拓計画)][44].
 
-<div class="pullquote image left">
+<div class="pullquote pullquote_image pullquote_left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Black_and_white_
 photo_of_emperor_Meiji_of_Japan.jpg">
 <strong>FIGURE 3.</strong> Emperor Meiji (明治天皇).

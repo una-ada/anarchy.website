@@ -43,10 +43,7 @@ a ruby rb, a ruby rbc {
 blockquote {
 	border-left: 2px solid $primary;
 	margin: 0;
-	padding-left: 1rem;
-}
-blockquote p {
-	margin: 0.5rem 0;
+	padding-left: 2rem;
 }
 body {
 	font-family: $copy-font;
@@ -56,11 +53,6 @@ body {
 .byline {
 	margin-bottom: 2rem;
 }
-.citation {
-	margin: 0;
-	padding-left: 2em;
-	text-indent: -2em;
-}
 code {
 	background: #eee;
 	border-radius: 0.2rem;
@@ -68,7 +60,6 @@ code {
 code, pre {
 	font-family: $mono-font;
 }
-.centered,
 center * {
 	text-align: center !important;
 }
@@ -86,21 +77,6 @@ center * {
 }
 div:target {
 	background: #eee;
-}
-.dropcap::first-letter {
-	float: left;
-	font-family: $title-font;
-	font-weight: bold;
-	font-size: $line-height * 2rem;
-	line-height: 1em;
-	margin-bottom: -1rem;
-	padding-right: 0.5rem;
-	text-transform: uppercase;
-}
-.dropcap span:first-child {
-	font-family: $title-font;
-	font-weight: bold;
-	text-transform: uppercase;
 }
 .emoji { // Twemoji style
 	height:1em;
@@ -183,6 +159,7 @@ h1 {
 h2 {
 	font-size: 2em;
 	margin-top: 3em;
+	text-align: center;
 }
 h3 {
 	font-size: 1.5em;
@@ -195,9 +172,6 @@ hr {
 }
 hr + h2 {
 	margin-top: 0;
-}
-header {
-	margin-bottom: 2rem;
 }
 .hovercard {
 	background: #fff;
@@ -231,6 +205,9 @@ li, p {
 .MathJax {
 	vertical-align: text-bottom;
 }
+ol {
+	padding-left: 2em;
+}
 p>span.MathJax_SVG {
 	margin-bottom: -1em !important;
 }
@@ -243,32 +220,6 @@ pre {
 	code {
 		background: none !important;
 	}
-}
-.preview {
-	margin: 3rem 0;
-}
-.preview h3 {
-	margin-bottom: 0;
-}
-.preview p {
-	margin: 0.5rem 0;
-}
-.pullquote {
-	float: right;
-	font-size: 1.5rem;
-	font-weight: bold;
-	margin: 0 -#{$pq-width / 2} 0 0;
-	padding: 1rem;
-	text-align: center;
-	width: $pq-width;
-}
-.pullquote.left {
-	float: left;
-	margin:0 0 0 -#{$pq-width / 2};
-}
-.pullquote.image {
-	font-size: 1rem;
-	font-weight: normal;
 }
 .signature {
 	display: block;
@@ -409,11 +360,94 @@ rtc > rt[rbspan] {
 
 // New BEM stuff
 
+.content {
+	p {
+		margin: 2rem 0 1rem 0;
+		text-indent: 2rem;
+		&.content__p_dropcap {
+			text-indent: initial;
+			&::first-letter {
+				float: left;
+				font-family: $title-font;
+				font-weight: bold;
+				font-size: $line-height * 2rem;
+				line-height: 1em;
+				margin-bottom: -1rem;
+				padding-right: 0.5rem;
+				text-transform: uppercase;
+			}
+			span:first-child {
+				font-family: $title-font;
+				font-weight: bold;
+				text-transform: uppercase;
+			}
+		}
+		&.content__p_citation {
+			margin: 0;
+			padding-left: 2em;
+			text-indent: -2em;
+		}
+		&.content__p_centered {
+			text-align: center !important;
+			text-indent: initial;
+		}
+		&.content__p_noindent {
+			text-indent: initial;
+			margin: 1rem 0;
+		}
+	}
+	blockquote p {
+		text-indent: initial;
+		margin: 1rem 0;
+	}
+	sup {
+		text-indent: initial
+	}
+}
 .divider {
 	height: 1em;
 	// margin: 1em 0;
 	position: relative;
 	width: 100%;
+	&.divider_byline {
+		height: 1.5em;
+		margin: -0.3em 0 2em 0;
+		.divider_fallback {
+			height: 1.5em;
+			.divider__byline {
+				padding-top: 0.3em;
+			}
+			.divider__left {
+				margin-top: 0.1em;
+			}
+			.divider__segment,
+			.divider__segment img {
+				vertical-align: bottom;
+			}
+			.divider__right {
+				padding-top: 0.3em;
+				vertical-align: bottom;
+			}
+		}
+		.divider_fancy {
+			height: 1.5em;
+			.divider_fancy__middle {
+				.divider_fancy__byline {
+					padding-top: 0.3em;
+				}
+				.divider_fancy__segment {
+					height: 1.5em;
+					vertical-align: bottom;
+					img {
+						vertical-align: bottom;
+					}
+				}
+			}
+			.divider_fancy__right {
+				top: 0.5em;
+			}
+		}
+	}
 	.divider_normal {
 		height: 1em;
 		display: flex;
@@ -490,48 +524,23 @@ rtc > rt[rbspan] {
 		width: 7em;
 	}
 }
-.divider_byline {
-	height: 1.5em;
-	margin: -0.3em 0 2em 0;
-	.divider_fallback {
-		height: 1.5em;
-		.divider__byline {
-			padding-top: 0.3em;
-		}
-		.divider__left {
-			margin-top: 0.1em;
-		}
-		.divider__segment,
-		.divider__segment img {
-			vertical-align: bottom;
-		}
-		.divider__right {
-			padding-top: 0.3em;
-			vertical-align: bottom;
-		}
+header {
+	display: flex;
+	margin-bottom: 2rem;
+	div.header__breadcrumb {
+		flex: 3 0;
 	}
-	.divider_fancy {
-		height: 1.5em;
-		.divider_fancy__middle {
-			.divider_fancy__byline {
-				padding-top: 0.3em;
-			}
-			.divider_fancy__segment {
-				height: 1.5em;
-				vertical-align: bottom;
-				img {
-					vertical-align: bottom;
-				}
-			}
-		}
-		.divider_fancy__right {
-			top: 0.5em;
-		}
+	div.header__toggle {
+		flex: 1 0;
+		text-align: right;
 	}
 }
 .navigation {
 	margin-top: 6rem;
 	width: 100%;
+	&.navigation_pagination {
+		margin-top: 0;
+	}
 	.navigation__arrows {
 		display: flex;
 		width: 100%;
@@ -560,8 +569,87 @@ rtc > rt[rbspan] {
 		width: 100%;
 	}
 }
-.navigation_pagination {
-	margin-top: 0;
+.previews {
+	column-count: 2;
+	column-gap: 2rem;
+	margin: 2rem 0;
+}
+.preview {
+	break-inside: avoid-column;
+	margin: 0 0 2rem 0;
+	&.preview_span {
+		column-span: all;
+	}
+	.preview__byline {
+		margin: 0;
+		text-indent: initial;
+	}
+	.preview__description {
+		margin: 0.5rem 0 1rem 0;
+		overflow: hidden;
+		text-indent: initial;
+	}
+	.preview__title {
+		margin: 0;
+		a {
+			text-decoration: underline;
+		}
+	}
+	.preview__image {
+		position: relative;
+		.preview__img {
+			border-radius: 0.5rem;
+			display: block;
+		}
+		.preview__overlay {
+			background: rgba(0, 0, 0, 0.5);
+			border-radius: 0.5rem;
+			height: 100%;
+			left: 0;
+			position: absolute;
+			top: 0;
+			width: 100%;
+		}
+		.preview__text {
+			bottom: 0;
+			color: white;
+			left: 0;
+			position: absolute;
+			.preview__byline,
+			.preview__description,
+			.preview__title {
+				color: white !important;
+				padding: 0 1rem;
+				a {
+					color: white !important;
+				}
+			}
+		}
+	}
+	.preview__image_replace {
+		.preview__img,
+		.preview__overlay {
+			border-radius: 0.5rem 0.5rem 0 0;
+		}
+	}
+}
+.pullquote {
+	float: right;
+	font-size: 1.5rem;
+	font-weight: bold;
+	margin: 0 -#{$pq-width / 2} 0 0 !important;
+	padding: 1rem;
+	text-align: center;
+	text-indent: initial !important;
+	width: $pq-width;
+	&.pullquote_left {
+		float: left;
+		margin:0 0 0 -#{$pq-width / 2} !important;
+	}
+	&.pullquote_image {
+		font-size: 1rem;
+		font-weight: normal;
+	}
 }
 .title_alone {
 	line-height: 1;

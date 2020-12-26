@@ -8,7 +8,7 @@ Links: [Anchor.fm][1], [SoundCloud][23], [Twitter][16].
 
 [![Goth Angel Sinners][22]][1]
 **Figure 1.** The Goth Angel Sinners podcast title card.
-{: .pullquote .image}
+{: .pullquote .pullquote_image}
 
 [Goth Angel Sinners][1] (abbr: 🥀👼🗡) is a podcast about anarchy, anarchists,
 and anarchism; hosted by [Una Ada][2], [Chloe (Χλόη) Ross][3], and

@@ -12,14 +12,15 @@ primarily written through the lens of anarchy.
 
 ## Recent
 
-Here are the seven latest articles published to this site, in reverse
+Here are the ten latest articles published to this site, in reverse
 chronological order (newest first), for a full list of every article check out
 the [archive][1].
 
-{% for post in site.posts limit:7 %}
+{% for post in site.posts limit:10 %}
     {%- include preview.html post=post -%}
 {% endfor %}
 
-**[More posts &rarr;][1]**
+**[More posts &rarr;][2]**
 
-[1]:    /archive
+[1]:    /archive/
+[2]:    /archive/2
