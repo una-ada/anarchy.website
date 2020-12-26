@@ -12,7 +12,7 @@
     data-tags="{{ post.tags | concat: all | join: ', ' }}"
 >
     {%- if post.image -%}
-        <div class="preview__image {% if post.replace_title %}preview__image_replace{% endif %}">
+        <div class="preview__image">
             <img class="preview__img" src="{{ post.image }}" />
             <div class="preview__overlay">
                 <div class="preview__text">
