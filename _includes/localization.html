@@ -1,3 +1,6 @@
+{% unless post %}
+    {% assign post = page %}
+{% endunless %}
 {%- if post.series -%}
     {%- assign series = site.data.series[post.series] -%}
 {%- endif -%}
