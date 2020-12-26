@@ -124,22 +124,6 @@ footer {
 .footnote:hover {
 	text-decoration: underline;
 }
-.footnotes {
-	column-count: 2;
-	font-size: 0.8rem;
-	line-height: normal;
-	margin: 1rem 0;
-}
-.footnotes li {
-	line-height: normal;
-}
-.footnotes li p {
-	line-height: normal;
-	margin: 0 0 0.5rem 0;
-}
-.footnotes ol {
-	margin: 0;
-}
 h1, h2, h3, h4 {
 	font-family: $title-font;
 	font-weight: 700;
@@ -522,6 +506,23 @@ rtc > rt[rbspan] {
 		flex: 0 0 7em;
 		height: 1em;
 		width: 7em;
+	}
+}
+.footnotes {
+	column-count: 2;
+	font-size: 0.8rem;
+	line-height: normal;
+	margin: 1rem 0;
+	ol {
+		margin: 0;
+		li {
+			line-height: normal;
+			p {
+				line-height: normal;
+				margin: 0 0 0.5rem 0;
+				text-indent: initial;
+			}
+		}
 	}
 }
 header {
