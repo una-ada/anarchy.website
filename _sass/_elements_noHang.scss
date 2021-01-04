@@ -1,0 +1,12 @@
+/**
+ *  @file Element styles, without hanging (for narrower screens)
+ *  @author Una Ada <una@anarchy.website>
+ *  January 3, 2021
+ */
+
+body {
+    margin: 1.5rem 1rem !important;
+    position: static;
+    width: auto !important;
+    text-align: left;
+}

@@ -26,26 +26,26 @@
             if(e.keyCode == 68 && e.shiftKey) toggleDarkMode();
         });
     </script>
-        <div class="header__breadcrumb">
-            <a href="{{site.url}}">anarchy.website</a>
-            {%- if series -%}
-                {%- if series.type == "series" -%}
+    <div class="header__breadcrumb">
+        <a href="{{site.url}}">anarchy.website</a>
+        {%- if series -%}
+            {%- if series.type == "series" -%}
+                &nbsp;/&nbsp;
+                {%- if series.url -%}<a href="{{series.url}}">{%- endif -%}
+                    {{ l10n_series }}
+                {%- if series.url -%}</a>{%- endif -%}
+                {%- if page.entry -%}
                     &nbsp;/&nbsp;
-                    {%- if series.url -%}<a href="{{series.url}}">{%- endif -%}
-                        {{ l10n_series }}
-                    {%- if series.url -%}</a>{%- endif -%}
-                    {%- if page.entry -%}
-                        &nbsp;/&nbsp;
-                        {%- if series.entry -%}
-                            {{ series.entry }}&nbsp;
-                        {%- endif -%}
-                        {{ page.entry }}
+                    {%- if series.entry -%}
+                        {{ series.entry }}&nbsp;
                     {%- endif -%}
+                    {{ page.entry }}
                 {%- endif -%}
             {%- endif -%}
-        </div>
-        <div class="header__toggle">
-            <a id="darkModeButton" href="javascript:toggleDarkMode()"
-                title="Shift+D">{{ l10n_dark }}</a>
-        </div>
+        {%- endif -%}
+    </div>
+    <div class="header__toggle">
+        <a id="darkModeButton" href="javascript:toggleDarkMode()"
+            title="Shift+D">{{ l10n_dark }}</a>
+    </div>
 </header>

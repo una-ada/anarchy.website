@@ -1,0 +1,52 @@
+/**
+ *  @file Ruby text styling
+ *  @author Una Ada <una@anarchy.website>
+ *  December 29, 2020
+ */
+
+a ruby rb, a ruby rbc {
+	text-decoration: underline;
+}
+ruby {
+	display: inline-table;
+	vertical-align: 0.95em;
+	margin-bottom: -0.25em;
+	margin-top: -0.25em;
+}
+ruby * {
+	display: inline;
+	line-height: 1;
+	text-indent: 0;
+	text-align: center;
+	white-space: nowrap;
+}
+ruby > * {
+	display: table-row-group;
+}
+ruby > rt, ruby rtc {
+	display: table-header-group;
+	font-family: $mono-font;
+	font-size: 60%;
+	opacity: 0.8;
+}
+h1, h2, h3, h4 {
+	ruby > rt, ruby rtc {
+		font-family: $title-font;
+		font-size: 50%;
+	}
+}
+ruby rtc + rtc {
+	display: table-footer-group;
+}
+ruby rbc > *, ruby rtc > * {
+	display: table-cell;
+}
+ruby rtc > *[rbspan] {
+	display: table-caption;
+}
+ruby rp {
+	display: none;
+}
+rtc > rt[rbspan] {
+	column-span: attr(rbspan);
+}

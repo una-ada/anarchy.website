@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Goth Angel Sinners
 ---
 
 # Goth Angel Sinners
@@ -47,10 +48,10 @@ projects, e.g. the "Monthly Screenplays" with [@punished_picnic][20] (f.k.a.
 @ruined_picnic) available from ["The Picnic Archive"][21].
 
 Posts related to Goth Angel Sinners on this site are tagged as [#podcast][9],
-including the notes on the latest episode: [Part V: Post-Scarcity][7]
+including the notes on the latest episode: [Part VI: A Real Podcast][7]
 
 {% assign relevant = site.posts | where: "series","gthnglsnnrs" %}
-{%- for post in relevant limit:7 -%}
+{%- for post in relevant -%}
     {%- include preview.html post=post -%}
 {%- endfor -%}
 
@@ -59,7 +60,7 @@ including the notes on the latest episode: [Part V: Post-Scarcity][7]
 [3]: https://never-work.com/
 [4]: https://twitter.com/whimworm
 [6]: https://en.wikipedia.org/wiki/2017_Catalan_independence_referendum
-[7]: /podcast/5/notes
+[7]: /podcast/6/notes
 [8]: http://www.neighborsciencepodcast.com/
 [9]: /tag/#podcast
 [12]: https://en.wiktionary.org/wiki/sextidi

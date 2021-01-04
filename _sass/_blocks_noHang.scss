@@ -1,0 +1,27 @@
+/**
+ *  @file Block styles, without hanging (for narrower screens)
+ *  @author Una Ada <una@anarchy.website>
+ *  January 3, 2021
+ */
+
+.preview .preview__image .preview__text .preview__description {
+    max-height: #{$line-height * 3}em;
+}
+.pullquote {
+    float: none !important;
+    margin: 0 auto !important;
+}
+.title {
+    .title__card {
+        margin: 1rem 0;
+        width: 100%;
+    }
+}
+.divider {
+    .divider_fancy {
+        display: none;
+    }
+    .divider_fallback {
+        display: flex;
+    }
+}

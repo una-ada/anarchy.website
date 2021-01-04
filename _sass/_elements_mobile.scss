@@ -1,0 +1,10 @@
+/**
+ *  @file Element styles, for mobile
+ *  @author Una Ada <una@anarchy.website>
+ *  January 3, 2021
+ */
+
+//  Apparently my monospace font renders oddly on mobile
+code, pre, footer {
+    font-family: monospace;
+}

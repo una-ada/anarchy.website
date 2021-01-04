@@ -1,0 +1,33 @@
+/**
+ *  @file Element styles, for dark mode
+ *  @author Una Ada <una@anarchy.website>
+ *  January 3, 2021
+ */
+
+a {
+    color: $tertiary-alt;
+}
+blockquote {
+    border-left: 2px solid $secondary;
+}
+code {
+    background: #222;
+}
+footer {
+    background: none;
+    outline: 1px solid $secondary;
+}
+hr {
+    background: white;
+}
+pre {
+    background: #111;
+}
+table {
+    tr:nth-child(even) {
+        background: #181818;
+    }
+    tr.tsection {
+        border: 1px solid $secondary !important;
+    }
+}

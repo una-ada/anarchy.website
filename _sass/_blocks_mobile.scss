@@ -1,0 +1,47 @@
+/**
+ *  @file Block styles, for mobile
+ *  @author Una Ada <una@anarchy.website>
+ *  January 3, 2021
+ */
+
+.content {
+    overflow: scroll;
+    width: 100%;
+}
+.divider {
+    &.divider_byline {
+        .divider_fallback {
+            .divider__right {
+                display: none;
+            }
+            .divider__segment {
+                display: none;
+            }
+        }
+    }
+    .divider__right,
+    .divider__left {
+        flex: 1 0 7em;
+    }
+    .divider__segment {
+        display: none;
+    }
+}
+.footnotes {
+    column-count: auto;
+}
+.previews {
+    column-count: auto;
+}
+.preview .preview__image .preview__text {
+    .preview__byline {
+        margin-bottom: 1rem;
+    }
+    .preview__description {
+        display: none;
+    }
+}
+.sidebar {
+   float: none !important;
+   margin: 0 auto !important;
+}

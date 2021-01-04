@@ -1,0 +1,11 @@
+/**
+ *  @file Fixes for Twemoji rendering
+ *  @author Una Ada <una@anarchy.website>
+ *  December 29, 2020
+ */
+
+.emoji {
+	height:1em;
+	vertical-align: -0.1em;
+	width:1em;
+}

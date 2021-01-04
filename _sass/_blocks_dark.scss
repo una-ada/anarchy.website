@@ -1,0 +1,35 @@
+/**
+ *  @file Block styles, for dark mode
+ *  @author Una Ada <una@anarchy.website>
+ *  January 3, 2021
+ */
+
+.divider {
+    .divider_normal,
+    .divider_fallback,
+    .divider_fancy {
+        .divider_dark {
+            display: inline;
+        }
+        .divider_light {
+            display: none;
+        }
+    }
+}
+.hovercard {
+    background: #111;
+    outline: 1px solid $secondary;
+}
+.sidebar {
+    border: 1px solid $secondary !important;
+    th {
+        border-bottom: 1px solid $secondary !important;
+    }
+}
+
+.__light {
+    display: none;
+}
+.__dark {
+    display: block;
+}

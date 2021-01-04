@@ -30,7 +30,7 @@ This isn't all too major of a shift in ideas, but it has brought to my attention
 |---|---|---|
 ||<ruby><rtc><rt>じぶん</rt><rt></rt><rt>し</rt></rtc><rbc><rb>自分</rb><rb>が</rb><rb>死</rb></rbc></ruby>んでもどうでもよくて|I couldn't care a bit if I died|
 ||それでも<ruby><rtc><rt>まわ</rt><rt></rt><rt>い</rt><rt></rt><rt>ほ</rt></rtc><rbc><rb>周</rb><rb>りに</rb><rb>生</rb><rb>きて</rb><rb>欲</rb></rbc></ruby>しくて|But I'm wanted alive by the people around me|
-{:.dialogue}
+{:.content__table_dialogue}
 
 [^1]:   Translation from [Vocaloid Lyrics Wiki][3].
 

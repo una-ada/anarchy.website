@@ -106,7 +106,9 @@ will be very good.
 
 For the sake of having a common basis here, such that further discussion on
 particular details goes smoother going forward, let's start with basic English
-grammar. From there we can discuss the function of pronouns within said grammar before diving into the specifics of personal pronouns and their declension.
+grammar. From there we can discuss the function of pronouns within said grammar
+before diving into the specifics of personal pronouns and their declension.
+{: .content__p_dropcap}
 
 ### I-1. English Grammar
 

@@ -47,9 +47,9 @@ title: Юлия 井上
         <strong>Signature</strong>
     </td></tr>
     <tr><td colspan="2">
-        <img class="light-mode-only"
+        <img class="__light"
             src="/assets/img/hkt/inoue-signature.png"/>
-        <img class="dark-mode-only"
+        <img class="__dark"
             src="/assets/img/hkt/inoue-signature-inverted.png"/>
     </td></tr>
 </table>

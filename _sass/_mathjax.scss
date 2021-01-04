@@ -1,0 +1,12 @@
+/**
+ *  @file Fixed for MathJax rendering
+ *  @author Una Ada <una@anarchy.website>
+ *  December 29, 2020
+ */
+
+.MathJax {
+	vertical-align: text-bottom;
+}
+p>span.MathJax_SVG {
+	margin-bottom: -1em !important;
+}

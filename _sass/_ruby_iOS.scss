@@ -1,0 +1,12 @@
+/**
+ *  @file Ruby text fixes for iOS devices
+ *  @author Una Ada <una@anarchy.website>
+ *  January 3, 2021
+ */
+
+html.iOS {
+    ruby {
+        vertical-align: 1em;
+        margin-top: 0;
+    }
+}

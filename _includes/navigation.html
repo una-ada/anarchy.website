@@ -59,7 +59,7 @@
                         <a href="{{ site.paginate_path | relative_url | replace: ':num', page }}">{{ page }}</a>
                     {%- endif -%}
                     {%- unless forloop.last -%}
-                        <div class="tab_half"></div>
+                        <div class="navigation__space"></div>
                     {%- endunless -%}
                 {%- endfor -%}
             </div>

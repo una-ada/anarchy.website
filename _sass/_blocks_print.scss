@@ -1,0 +1,14 @@
+/**
+ *  @file Block styles, for print
+ *  @author Una Ada <una@anarchy.website>
+ *  January 3, 2021
+ */
+
+ .content {
+     overflow: auto;
+ }
+ .pullquote {
+     &:not(.pullquote_image) {
+         display: none;
+     }
+ }

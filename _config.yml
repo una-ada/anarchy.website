@@ -14,6 +14,8 @@ plugins:
   - jekyll-seo-tag
   - jekyll-paginate
 repository: una-ada/anarchy.website
+sass:
+    sass_dir: _sass
 social:
   name: Una Ada
   links:

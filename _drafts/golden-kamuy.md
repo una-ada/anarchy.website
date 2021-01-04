@@ -2,9 +2,18 @@
 author: una
 layout: post
 subtitle: for <a href="//neighborsciencepodcast.com/">Neighbor Science</a>
-tags: anime notes podcast manga japan history
+stylized_title: >
+    Notes on『<ruby>
+        <rtc><rt><i>Golden</i></rt><rt><i>Kamuy</i></rt></rtc>
+        <rbc><rb>ゴールデン</rb><rb>カムイ</rb></rbc>
+    </ruby>』
+tags: >
+    ainu anime golden-kamuy history hokkaido japan manga matagi
+    meiji-restoration notes podcast tokugawa-shogunate
 title: Notes on <i>Golden Kamuy</i>
 ---
+
+<!-- Table of Contents                                                       -->
 
 - toc
 {:toc}
@@ -56,3 +65,7 @@ title: Notes on <i>Golden Kamuy</i>
 ### III-3. Animation
 
 ### III-4. Sound & Voices
+
+## Footnotes
+
+<!-- Generated in Kramdown                                                   -->
