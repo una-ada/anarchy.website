@@ -1,4 +1,4 @@
-<div class="divider {% if include.byline %}divider_byline{% endif %}">
+<div class="divider {%if include.byline%}divider_byline{%if page.author and page.date%} divider_byline_actual{%endif%}{%endif%}">
     <div class="divider_fancy">
         <img class="divider_fancy__left divider_light" src="/assets/img/snake__head-up-left.svg" />
         <img class="divider_fancy__left divider_dark" src="/assets/img/snake-white__head-up.svg" />
@@ -56,6 +56,7 @@
                 <img class="divider_dark" src="/assets/img/snake-white__link.svg" />
             </div>
         {% endfor %}
+        <div class="divider__mobileSpace"></div>
         <img class="divider__right divider_light" src="/assets/img/snake__tail-flat.svg" />
         <img class="divider__right divider_dark" src="/assets/img/snake-white__tail-flat.svg" />
     </div>

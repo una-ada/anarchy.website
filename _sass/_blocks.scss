@@ -174,6 +174,9 @@
 		margin-top: -0.25em;
 		width: 7em;
 	}
+	.divider__mobileSpace {
+		display: none;
+	}
 	.divider__segment {
 		height: 1em;
 		flex: 2 0;
@@ -314,7 +317,7 @@ header {
 }
 .preview {
 	break-inside: avoid-column;
-	margin: 0 0 2rem 0;
+	margin: 2rem 0;
 	&.preview_span {
 		column-span: all;
 	}
@@ -334,7 +337,6 @@ header {
 		}
 	}
 	.preview__image {
-		margin: 2rem 0;
 		position: relative;
 		.preview__img {
 			border-radius: 0.5rem;

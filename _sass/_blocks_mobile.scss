@@ -9,19 +9,15 @@
     width: 100%;
 }
 .divider {
-    &.divider_byline {
-        .divider_fallback {
-            .divider__right {
-                display: none;
-            }
-            .divider__segment {
-                display: none;
-            }
-        }
+    &.divider_byline .divider_fallback .divider__segment {
+        display: none;
     }
-    .divider__right,
-    .divider__left {
-        flex: 1 0 7em;
+    &.divider_byline_actual .divider_fallback .divider__right {
+        display: none;
+    }
+    .divider__mobileSpace {
+        display: initial;
+        flex: 1 1 0;
     }
     .divider__segment {
         display: none;
