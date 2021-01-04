@@ -69,10 +69,26 @@
 			}
 		}
 	}
+	&.content_monospace {
+		code {
+	        font-family: monospace !important;
+	    }
+	    pre {
+	        border: 0 !important;
+	        padding: 0 !important;
+	    }
+	}
+	.content__figure {
+		margin: 3rem 0 1rem 0;
+		text-indent: initial;
+	}
+	.content__figure + .content__figure {
+		margin: 1rem 0 3rem 0;
+	}
 }
 .divider {
 	height: 1em;
-	// margin: 1em 0;
+	margin: 3rem 0;
 	position: relative;
 	width: 100%;
 	&.divider_byline {

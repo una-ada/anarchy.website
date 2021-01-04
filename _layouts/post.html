@@ -58,7 +58,7 @@
     {%- if paginator -%}
         {%- include navigation.html -%}
     {%- endif -%}
-    <div class="content">
+    <div class="content {%if page.monospace%}content_monospace{%endif%}">
         {{content}}
     </div>
     {%- include navigation.html -%}

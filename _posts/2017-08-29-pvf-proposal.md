@@ -28,6 +28,7 @@ perceptions, a lot of these, however, do not lend themselves as easily to
 manipulation due to either the basic structure of the symbol or the lack of
 variation in the past so as to not set enough precedent that people will be
 looking to recognize it in various forms.
+{: .content__p_dropcap}
 
 >“Things which are different in order to be different are seldom better, but
 that which is made to be better is almost always different.” — Dieter Rams
@@ -35,6 +36,7 @@ that which is made to be better is almost always different.” — Dieter Rams
 I believe the pursuit of a wholly original design will not create as decent of
 designs as the pursuit of cohesive, high-quality design itself, and so I did not
 concern myself with the unoriginality of the usage of the hammer and sickle.
+{: .content__p_noindent}
 
 ## Base Design
 
@@ -52,6 +54,7 @@ concepts of line art, meaning that it is difficult to scale down past a certain
 point and that its placement next to text may face certain issues with the
 perceived inconsistencies between the line widths in the logo itself and those
 of the font used.
+{: .content__p_noindent}
 
 Download logo: [.ai](https://una-ada.github.io/assets/img/pvf/logo.ai),
 [.svg](https://una-ada.github.io/assets/img/pvf/logo.svg).
@@ -72,6 +75,7 @@ the text block if given its own line based on the vertical extension from three
 to four lines with a chunk missing from the top right. This was remedied by
 placing the word "the" on a separate line but with a font-size approximately 70%
 of the rest of the text.
+{: .content__p_noindent}
 
 Second, the apostrophe in the Courier New font is much thicker than the rest of
 the font, this goes back to the issue mentioned in the previous section of the
@@ -79,6 +83,7 @@ usage of line art, the thicker apostrophe gives a significant weight to this
 singular character amongst all the text and the logo. This is worsened by the
 spacing provided from the fixed-width of the font. To fix this issue a separate
 font can be used for the apostrophe, in this case Century Schoolbook is used.
+{: .content__p_noindent}
 
 Download header: [.ai](https://una-ada.github.io/assets/img/pvf/header.ai),
 [.jpg](https://una-ada.github.io/assets/img/pvf/header.jpg),
@@ -95,6 +100,7 @@ proportions from the header version are changed slightly, with the font size
 being enlarged by a small amount to fill more space, this is also paired with a
 higher letter spacing to span more of the logo without raising the font size so
 much that it also creates a greater vertical weight.
+{: .content__p_noindent}
 
 Download tile: [.ai](https://una-ada.github.io/assets/img/pvf/tile.ai),
 [.jpg](https://una-ada.github.io/assets/img/pvf/tile.jpg),
@@ -116,6 +122,7 @@ look as good when shrunken down to the size that it would be on the
 aforementioned sites, mainly due once again to the usage of line art. That is
 not to say that it would not be recognizable or be on brand, but it would also
 not be as aesthetically pleasing as it could be.
+{: .content__p_noindent}
 
 Download circle: [.ai](https://una-ada.github.io/assets/img/pvf/circle.ai),
 [.jpg](https://una-ada.github.io/assets/img/pvf/circle.jpg),
@@ -133,6 +140,7 @@ the circle, compromising the containment of the logo for a more clean look. This
 also allows for the placement of the initials "PVF" into the circle, which may
 to some extent make up for the fact that not the entire logo is contained within
 the circle itself when it comes to recognizability.
+{: .content__p_noindent}
 
 Download alternate circle: [.ai](https://una-ada.github.io/assets/img/pvf/circle-alt.ai),
 [.jpg](https://una-ada.github.io/assets/img/pvf/circle-alt.jpg),

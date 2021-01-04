@@ -11,9 +11,9 @@ While the chapter did vote to adopt these bylaws, the official procedure to
 submit them to both the University of Wisconsin-River Falls Student Involvement
 department and the national Association for Computing Machinery for review were
 never undergone.*
+{: .content__p_noindent}
 
-
-* toc
+- toc
 {:toc}
 
 ## ARTICLE I Name and Description
@@ -50,7 +50,7 @@ at no cost.
 
 All members of the UWRF ACM are recognized as members of a Student Chapter of
 ACM. In order for any person to be recognized as a member of ACM proper, they
-must pay the dues outlined by the ACM itself (see http://www.acm.org).
+must pay the dues outlined by the ACM itself (see <http://www.acm.org>).
 
 The ACM requires that all officers of student chapter, such as the UWRF ACM, be
 members of ACM proper and pay the appropriate dues.
@@ -63,7 +63,7 @@ The officers of the UWRF ACM are responsible for the overall cohesiveness and
 operation of the organization. They are the official representatives of the UWRF
 ACM on and off campus. All officers are required to attend regular officer
 meetings, and to be visible at all UWRF ACM sponsored events. The officers work
-with the UWRF ACM’s faculty advisor, a Computer Science Department faculty
+with the UWRF ACM's faculty advisor, a Computer Science Department faculty
 member. All UWRF ACM officers are chosen by an annual election and serve in
 terms of one year.
 
@@ -128,7 +128,7 @@ The responsibilities of the UWRF ACM treasurer include:
 ### §3.6 The Membership Officer Position and Responsibilities
 
 The Membership Officer of the UWRF ACM is responsible for maintaining a database
-of all members’ and officers’ contact information and meeting attendance.
+of all members' and officers' contact information and meeting attendance.
 
 The responsibilities of the UWRF ACM Membership Officer include:
 1.	Maintaining a list of all active members of the UWRF ACM.
@@ -147,7 +147,7 @@ meetings to update the officers about their respective committee.
 
 ### §4.2 The UWRF ACM Lab Management Committee
 
-The UWRF ACM Lab Management Committee is charged with maintaining the UWRF ACM’s
+The UWRF ACM Lab Management Committee is charged with maintaining the UWRF ACM's
 lab in South Hall. This committee is headed by the Lab Manager; if nobody is
 elected to serve as the Lab Manager, the UWRF ACM Chair shall fill this place
 until a candidate is elected.
@@ -160,7 +160,7 @@ The responsibilities of this committee include:
 3.	Keeping all equipment and services within the lab operational at all times,
     so as to not obstruct the usage of the lab.
 4.	Maintaining the cleanliness and organization of the lab.
-5.	Organizing the lab’s hours and tutoring services.
+5.	Organizing the lab's hours and tutoring services.
 
 ### §4.3 The UWRF ACM Events Committee
 
@@ -189,11 +189,11 @@ The responsibilities of this committee include:
 The UWRF ACM Communication Committee is charged with keeping all members of the
 UWRF ACM up to date on the activities of the chapter, as well as mediating
 communication with outside organizations. This committee is headed by the
-Communications Committee Chair; if nobody is elected to serve as the Communications
-Committee Chair, the UWRF ACM Secretary shall fill this position until a
-candidate is elected. Within this committee resides the Webmaster. The Webmaster
-is elected by a two-thirds (2/3) majority vote of the UWRF ACM officers and the
-Communications Committee Chair.
+Communications Committee Chair; if nobody is elected to serve as the
+Communications Committee Chair, the UWRF ACM Secretary shall fill this position
+until a candidate is elected. Within this committee resides the Webmaster. The
+Webmaster is elected by a two-thirds (2/3) majority vote of the UWRF ACM
+officers and the Communications Committee Chair.
 
 The responsibilities of this committee include:
 1.	Publishing a monthly newsletter (in either a physical or digital form),
@@ -211,8 +211,8 @@ The responsibilities of this committee include:
 
 The responsibilities of the Webmaster include:
 1.	Ensuring the consistent and smooth operation of the UWRF ACM website
-    (http://uwrf.acm.org).
-2.	Keeping the materials on both the UWRF ACM website and the UWRF ACM’s
+    (<http://uwrf.acm.org>).
+2.	Keeping the materials on both the UWRF ACM website and the UWRF ACM's
     OrgSync account updated to properly represent the current state of the
     chapter.
 
@@ -327,7 +327,7 @@ officer positions, but may only accept one of said positions if elected. Each
 student may also run for multiple committee chair positions (this may also be
 done concurrently while running for officer position(s)), but may only accept
 one of said positions if elected. If a candidate is elected to an officer
-position and also a committee chair positon, but the officer position is
+position and also a committee chair position, but the officer position is
 required to fill in for a vacant committee chair position, then the candidate
 may only accept the officer position and temporarily fill in the vacant
 committee chair position.
@@ -364,7 +364,7 @@ current UWRF ACM officers. Self-nominations are acceptable.
 
 Once a full list of candidates for each positions is compiled, said list must be
 made publicly available and all members of the UWRF ACM must be notified of said
-list’s existence. This can be done at the regular member meetings or via social
+list's existence. This can be done at the regular member meetings or via social
 media. This must be done at least one week prior to the date the elections are
 intended to be held. Candidates may also be asked to release personal statements
 to accompany this list, so as to allow the members to begin their process of
@@ -385,7 +385,7 @@ a short speech describing why they believe themselves to be the best candidate
 for any position they are running for and how they plan to carry out all the
 responsibilities of said positions. After this speech, the candidate shall be
 asked to leave the room for no more than five (5) minutes while the other
-present members discuss their views on the candidate’s run for the position. In
+present members discuss their views on the candidate's run for the position. In
 the case that hand written ballots are to be used, all candidates for a position
 may be asked to leave the room while other members fill out their ballots and
 the votes are counted, this should be immediately after all candidates have
@@ -410,7 +410,7 @@ During the discussion of their resignation, nominations for their replacement
 shall be made. This shall follow an accelerated process compared to that of the
 typical election procedures. The list of candidates and their personal
 statements must be compiled within three (3) days following the meeting at which
-the officer or committee chair’s resignation is discussed. Any member may be
+the officer or committee chair's resignation is discussed. Any member may be
 nominated for the position other than current officers and committee chairs.
 Self-nominations are acceptable.
 
@@ -445,7 +445,7 @@ electronically, removing the necessity of a present quorum so long as a quorum
 has access to the medium of voting. Each member is allowed one (1) vote as to
 whether or not the officer or committee chair should be removed. The question on
 the ballot must meet the following format: “Do you believe [officer or committee
-chair’s name] is unfit to serve in the position ([position held]), and should
+chair's name] is unfit to serve in the position ([position held]), and should
 therefore be removed?” and the available answers must be “yes” and “no.”
 
 ### §6.5 Special Elections

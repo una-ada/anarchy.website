@@ -9,6 +9,7 @@ tags: proposal research infrared-imaging physics
 Undergraduate Research, Scholarly and Creative Activity (URSCA) department as
 part of applying for an Undergraduate Stipends and Expenses (USE) Grant. The
 grant was rewarded.*
+{: .content__p_noindent}
 
 ## Introduction
 
@@ -16,6 +17,7 @@ In light of recent discussion on the UW System’s coal contract in relation to
 environmentalism and movements on campus to promote more sustainable systems,
 little discussion is being held about the actual energy efficiency of individual
 buildings.
+{: .content__p_dropcap}
 
 ## Significance
 
@@ -29,14 +31,14 @@ and less risky to transport.
 
 ## Objectives
 
-1. Study the heat signatures of six buildings on campus.
-2. Compare each building’s construction year to its heat signatures.
-3. Locate specific areas on buildings that require the greatest improvement in
-heat efficiency.
-4. Write detailed documentation on file manipulation for the thermal imaging
-camera.
-5. Examine the quality difference between the ~20,000USD IR camera already owned
-and the 2200USD camera.
+1.  Study the heat signatures of six buildings on campus.
+2.  Compare each building’s construction year to its heat signatures.
+3.  Locate specific areas on buildings that require the greatest improvement in
+    heat efficiency.
+4.  Write detailed documentation on file manipulation for the thermal imaging
+    camera.
+5.  Examine the quality difference between the ~20,000USD IR camera already
+    owned and the 2200USD camera.
 
 ## Methods
 
@@ -51,11 +53,11 @@ completing the entire project over J-Term along the following schedule. Doing
 this will minimize the variation during data collection by having the greatest
 contrast between the building and the background.
 
-- Before Jan. 2016 Preliminary research and equipment collection.
-- Jan. 11-16, 2016 Data collection from the buildings, one building per day at
-about the same time to eliminate extraneous variations in the data.
-- Jan. 18-22, 2016 Compilation of the data.
-- Jan. 25-29, 2016 Finalization of the report and presentation.
+-: | :-
+Before Jan. 2016 | Preliminary research and equipment collection.
+Jan. 11-16, 2016 | Data collection from the buildings, one building per day at about the same time to eliminate extraneous variations in the data.
+Jan. 18-22, 2016 | Compilation of the data.
+Jan. 25-29, 2016 | Finalization of the report and presentation.
 
 ## Dissemination
 

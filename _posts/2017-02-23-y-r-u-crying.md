@@ -1,13 +1,10 @@
 ---
 author: una
 layout: post
+monospace: true
 tags: txt
 title: y r u crying.txt
 ---
-
-<style>
-    code {font-family: monospace !important;}
-</style>
 
 ```
                                                                    y r u crying?

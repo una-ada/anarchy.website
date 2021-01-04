@@ -20,6 +20,7 @@ or something there, but given my mental state it could really go either way.
 This all aside, where I had my bed then was on the other side of the room from
 where it has been a bunk, above a vent. It wasn't like a good vent that was
 actually connected to the whole system, it was just a hole to the basement.
+{: .content__p_dropcap}
 
 The basement was just a big empty, maroon, concrete void. Any sound would just
 echo and eventually reach anyone near one of those vents. There were definitely

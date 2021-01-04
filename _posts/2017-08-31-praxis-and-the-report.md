@@ -11,6 +11,7 @@ in something like 24 hours now, I don't feel qualified to do this. However,
 perhaps because I have not slept, or perhaps because I do believe it to be
 necessary, I want to write a quick piece about the false idea of praxis that is
 described in this "report."
+{: .content__p_dropcap}
 
 To set the scene here, we are living at the end of August, 2017, in the past
 month there have been significant anti-racist counter-protests organized or
@@ -87,8 +88,3 @@ allowed to exist, the rank-and-file members owe _nothing_ to the NPC but the NPC
 owes _everything_ to the members.
 
 I feel like this is turning into an unorganized rant, maybe that's fitting.
-
-To summarize:
-
-<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">My official statement on <a href="https://twitter.com/hashtag/copgate?src=hash">#copgate</a>:<br><br>Danny Fetonte retire bitch</p>&mdash; REDACTED 🏴 (@trewbot) <a href="https://twitter.com/trewbot/status/896134166105866240">August 11, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

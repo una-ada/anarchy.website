@@ -6,32 +6,42 @@ tags: research school proposal acoustics optics physics
 ---
 
 *This post was written as a project proposal but never submitted for funding.*
+{: .content__p_noindent}
 
 ## Introduction
 
 The acousto-optical effect is the change in refractive index of a material
 caused by an acoustic wave applied to said material. This is a particular case
 of photoelasticity, which can be used to experimentally measure stress
-distributions within a material<sup><a href="#1">1</a></sup>, where the
-difference in refractive indices (represented by the optic
-indicatrix<sup><a href="#2">2</a></sup> B) along each axis is caused by acoustic
-waves rather than mechanical tension. The change in optical indicatrices is
-found then with the equation
+distributions within a material[^1], where the difference in refractive indices
+(represented by the optic indicatrix[^2] $B$) along each axis is caused by
+acoustic waves rather than mechanical tension. The change in optical
+indicatrices is found then with the equation
+{: .content__p_dropcap}
+
+[^1]:   H. Tanping, Y. Xiuying, Y. Dongmei, X. Hongji, 2010 Int’l Conf. Comp.,
+        Mechatronics, Electrical Engineering, 156 (2010).
+
+[^2]:   <http://wwwf.imperial.ac.uk/> (2013).
 
 $$\nabla B_i=p_{ij}a{j},\tag1$$
 
 where $p_{ij}$ is the photoelastic tensor and $a_j$ is the
-strain<sup><a href="#3">3</a></sup>. However, it can be assumed that if a laser
-is being used as a light source normal to a single axis $z$, then only the
-refractive index along said axis needs to be calculated to predict the path of
-the light. It is also assumed that the acoustic wave applied to the refractive
-material is planar in the following calculation of the refractive index:
+strain[^3]. However, it can be assumed that if a laser is being used as a light
+source normal to a single axis $z$, then only the refractive index along said
+axis needs to be calculated to predict the path of the light. It is also
+assumed that the acoustic wave applied to the refractive material is planar in
+the following calculation of the refractive index:
+{: .content__p_noindent}
+
+[^3]:   <http://mt-berlin.com/> (Unpublished).
 
 $$n(z,t)=n_0+\Delta n\cos(2\pi ft-Kz),\tag2$$
 
 where $n_0$ is refractive index of the material without strain, $f$ is the
 frequency and $K$ is the wave number of the acoustic wave, and $\Delta n$ is the
 refractive index change caused by the acoustic wave:
+{: .content__p_noindent}
 
 $$\Delta n=-\frac{1}{2}n_0^3 pa.\tag3$$
 
@@ -50,36 +60,49 @@ The diffraction falls into the Raman-Nath Regime when $Q\ll 1$, and the Bragg
 Regime when $Q\gg 1$. The Raman-Nath Regime gives multiple diffractions at
 several angles, which is not optimal for the creation of a deflector, as such it
 is best to remain within the Bragg Regime.
-
-<br>
+{: .content__p_noindent}
 
 ![An acousto-optical deflector](/assets/img/ao.png)
+{: .content__figure}
 
 **FIGURE 1.** An example of an acousto-optic deflector, showing the material
 with the acoustic waves vertically oriented and a width of $L$. This example
 assumes Bragg Regime, and therefore has an incident angle of $\theta_B$ from the
 horizontal, and a diffraction pattern with two maxima: the 0th order maximum at
 $-\theta_B$ and the 1st order maximum at $\theta_B$ from the horizontal.
-
-<br>
+{: .content__figure}
 
 To ensure that the deflector follows this condition, the Klein-Cook Parameter
 can be substituted into the condition for the Bragg Regime:
 
-$$\frac{2\pi\lambda_0L}{n_0\Lambda^2}\gg1,\tag{5a}$$
-
-$$2\pi\lambda_0L\gg n_0\Lambda^2,\tag{5b}$$
+$$\begin{align}
+\frac{2\pi\lambda_0L}{n_0\Lambda^2}&\gg1,\tag{5a}\\
+2\pi\lambda_0L&\gg n_0\Lambda^2,\tag{5b}
+\end{align}$$
 
 which can be further simplified based on a few assumptions: using a common red
-HeNe laser<sup><a href="#4">4</a></sup> as the light source such that
-$\lambda_0 = 632.8nm$, and paratellurite (TeO2)<sup><a href="#5">5</a></sup> as
-the material through which the acoustic waves are produced such
-that<sup><a href="#6">6</a></sup> $n_0 = 2.259$. Substituting these values, the
-equation becomes:
+HeNe laser[^4] as the light source such that $\lambda_0 = 632.8nm$, and
+paratellurite (TeO2)[^5] as the material through which the acoustic waves are
+produced such that[^6] $n_0 = 2.259$. Substituting these values, the equation
+becomes:
+{: .content__p_noindent}
+
+[^4]:   Using a HeNe laser as the light source since it is the only laser with
+        which I have experience. It is also worth noting that having a source
+        with a predetermined polarization allows for a more complete
+        understanding of the acousto-optic effect via experimentation, and the
+        HeNe lasers kept in the UW-River Falls Phys. Dept. exhibit such
+        properties.
+
+[^5]:   J. Appl. Phys. 43, 4489 (1972)
+
+[^6]:   Calculated using <http://acoustooptics.phys.msu.su/dispersion.asp> for
+        paratellerium with an optic wavelength of 0.6328mkm.
 
 $$L\gg\frac{b}{2\pi}\Lambda^2,\tag6$$
 
 where $b = 3.570\cdot10^6 m^{-1}$.
+{: .content__p_noindent}
 
 Under the previous assumptions, and in the Bragg Regime, the diffracted light
 beams will be found around the Bragg angle $\theta_B$ is given by the function:
@@ -90,6 +113,7 @@ $$\sin(\theta_B)=-\frac{\lambda_0f}{2n_iv}
 where $n_i$ is the refractive index of the incident beam. If $n_i=n_0$, as it
 would in an isotropic material (a crystal whose refractive index is equal in all
 directions), then the above equation simplifies nicely to:
+{: .content__p_noindent}
 
 $$\sin(\theta_B)=-\frac{\lambda_0f}{2n_iv},\tag8$$
 
@@ -116,25 +140,29 @@ The deflector itself requires a tellurium dioxide crystal, as that is material
 around which the calculations were done in the previous section; the size of the
 crystal should be small enough to make the entire device wieldy but not too
 small as to require extremely high frequency (low wavelength) acoustic waves to
-produce the desired acousto-optic effect. As such a
-10x9x5mm<sup><a href="#7">7</a></sup> crystal should sufficiently meet these
-requirements, updating the Klein-Cook parameter in Eq. 6 to:
+produce the desired acousto-optic effect. As such a 10x9x5mm[^7] crystal should
+sufficiently meet these requirements, updating the Klein-Cook parameter in Eq.
+6 to:
 
-$$\frac{0.005\cdot2\pi}{3.570\cdot10^6}m^2\gg\Lambda^2,\tag{10a}$$
+[^7]:   This size is based on the crystals available at
+        <http://www.unitedcrystals.com/TeO2.html>.
 
-$$\Lambda^2\ll8.800\cdot10^{-9}m^2,\tag{10b}$$
-
-$$\Lambda\ll9.380\cdot10^{-5}m,\tag{10c}$$
+$$\begin{align}
+\frac{0.005\cdot2\pi}{3.570\cdot10^6}m^2&\gg\Lambda^2,\tag{10a}\\
+\Lambda^2&\ll8.800\cdot10^{-9}m^2,\tag{10b}\\
+\Lambda&\ll9.380\cdot10^{-5}m,\tag{10c}
+\end{align}$$
 
 which can then be used to find a range of frequencies for the acoustic waves
 needed to properly produce this effect. Given that the velocity of sound in
 paratellurium is $4260m/s$:
+{: .content__p_noindent}
 
-$$f=\frac{v}\Lambda,\tag{11a}$$
-
-$$f\gg\frac{4260m/s}{9.380\cdot10^{-5}m},\tag{11b}$$
-
-$$f\gg 4.542\cdot10^7Hz,\tag{11c}$$
+$$\begin{align}
+f&=\frac{v}\Lambda,\tag{11a}\\
+f&\gg\frac{4260m/s}{9.380\cdot10^{-5}m},\tag{11b}\\
+f&\gg 4.542\cdot10^7Hz,\tag{11c}
+\end{align}$$
 
 as such a piezeo-electric transducer capable of producing acoustic waves with a
 frequency on the order of 10 MHz would be necessary. The dimensions of this
@@ -144,6 +172,7 @@ To prevent the acoustic waves within the crystal from reflecting of causing
 interference that may cause diffraction that deviates from the desired effect,
 some acoustic absorbing material of at least the same size as the transducer
 (5x5mm) needs to be placed on the opposing side of the crystal.
+{: .content__p_noindent}
 
 Housing for the deflector could easily be made a variety of ways, given that the
 casing would be relatively simple yet small. Perhaps one of the more precise
@@ -157,25 +186,3 @@ metal is often very reflective, which could easily cause an incident with a
 laser, though sufficient coating may prevent this, again it is best to avoid.
 
 ---
-
-<sup><a name="1">1</a></sup> H. Tanping, Y. Xiuying, Y. Dongmei, X. Hongji, 2010
-Int’l Conf. Comp., Mechatronics, Electrical Engineering, 156 (2010).
-
-<sup><a name="2">2</a></sup> Wwwf.Imperial.Ac.Uk (2013).
-
-<sup><a name="3">3</a></sup> Mt-Berlin.Com (Unpublished).
-
-<sup><a name="4">4</a></sup> Using a HeNe laser as the light source since it is
-the only laser with which I have experience. It is also worth noting that having
-a source with a predetermined polarization allows for a more complete
-understanding of the acousto-optic effect via experimentation, and the HeNe
-lasers kept in the UW-River Falls Phys. Dept. exhibit such properties.
-
-<sup><a name="5">5</a></sup> J. Appl. Phys. 43, 4489 (1972)
-
-<sup><a name="6">6</a></sup> Calculated using
-http://acoustooptics.phys.msu.su/dispersion.asp for paratellerium with an optic
-wavelength of 0.6328mkm.
-
-<sup><a name="7">7</a></sup> This size is based on the crystals available at
-http://www.unitedcrystals.com/TeO2.html .

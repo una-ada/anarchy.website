@@ -11,6 +11,7 @@ Magica (魔法少女まどか☆マギカ)][1] and Puella Magi Madoka Magica: Th
 (劇場版 魔法少女まどか☆マギカ) [Beginnings (始まりの物語)][2], [Eternal
 (永遠の物語)][3], and [Rebellion (叛逆の物語)][4]. Please watch the show (or
 first two movies) and Rebellion before continuing.**
+{: .content__p_noindent}
 
 Everyone has *some* contrarian opinions, a prevalent example of this being to
 claim that the Star Wars prequels were actually good. While I'm sure that I
@@ -22,6 +23,7 @@ good to the point that I, whose average rating on [MyAnimeList][7] is
 [4.95][8][^2], gave it a 9/10. If you look at [my list][5] you might even draw
 the conclusion that I only gave it a 9 and not a 10 for essentially just not
 being [Neon Genesis Evangelion][6].
+{: .content__p_dropcap}
 
 [^1]:   I begin to wonder whether or not the critiques of this show are even as
         common among the actual audience as they are among some niche group of
@@ -49,11 +51,9 @@ good time to put in a reminder that this post will contain a lot of spoilers for
 the Madoka Magica series and movies; if you haven't seen them then *I guess* I
 will basically be explaining the whole thing to you.
 
-<div class="pullquote pullquote_image">
-<img src="https://myanimelist.cdn-dena.com/images/anime/11/55225l.jpg">
-Madoka Magica cover art. <i>Source:
-<a href="https://myanimelist.net/anime/9756/-/pics">MyAnimeList</a>.</i>
-</div>
+![](/assets/img/madoka.webp)
+Madoka Magica cover art, _source: [MyAnimeList][12]._
+{: .pullquote .pullquote_image}
 
 The show follows [Kaname Madoka (鹿目 まどか)][7] as she decides whether or not
 she should accept the contract offered to her by [Kyuubey (キュゥべぇ)][8] to
@@ -120,10 +120,9 @@ released by this conversion, but as Madoka is empathetic towards the pain
 experienced by the magical girls, her wish is to break this system such that the
 magical girls do not become Witches.
 
-<div class="pullquote pullquote_left">
-    "[Madoka] transcends not only the current system of magical girls but the
-    current universe itself..."
-</div>
+"[Madoka] transcends not only the current system of magical girls but the
+current universe itself..."
+{: .pullquote .pullquote_left}
 
 This wish creates what is then called the Law of Cycles (円環の理), a new system
 embodied by Madoka herself. She transcends not only the current system of
@@ -197,5 +196,6 @@ situations.
 [9]:    https://myanimelist.net/character/38395
 [10]:   https://myanimelist.net/character/38194
 [11]:   https://myanimelist.net/character/38005
+[12]:   https://myanimelist.net/anime/9756/-/pics
 
 ---

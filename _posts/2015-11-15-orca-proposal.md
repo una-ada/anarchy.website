@@ -6,11 +6,13 @@ tags: proposal research rocketry physics
 ---
 
 ![ORCA](https://una-ada.github.io/assets/img/orca/olfp.png)
+{: .content__p_noindent}
 
 *This post was submitted to the University of Wisconsin-River Falls (UWRF)
 Undergraduate Research, Scholarly and Creative Activity (URSCA) department as
 part of applying for an Undergraduate Stipends and Expenses (USE) Grant. The
 grant was rewarded.*
+{: .content__p_noindent}
 
 ## Introduction
 
@@ -23,8 +25,10 @@ be submitted and two presentations are required for the competition. Especially
 with the dawn of private commercial space flight, the research done for this
 competition is highly applicable to real world situations pertaining to
 controlling the aerodynamics of a rocket once it has been launched.
+{: .content__p_dropcap}
 
 ## Significance
+
 Rocketry is a constantly growing field, with many companies, such as SpaceX,
 Boeing, and Virgin Galactic, pioneering the private sector approach to space
 travel. The field of rocket science is generally acknowledged to be complicated,
@@ -58,13 +62,14 @@ launch.
 The objectives of this project are fairly straightforward and meet the
 requirements of the Midwest High Powered Rocket Competition in which we intend
 to compete:
-1. Build and test a high-powered rocket with built-in drag system
-2. Write required reports (Preliminary Design, Flight Readiness, Flight
-Performance)
-3. Present oral Flight Readiness Presentation
-4. Launch Competition Flights
+1.  Build and test a high-powered rocket with built-in drag system
+2.  Write required reports (Preliminary Design, Flight Readiness, Flight
+    Performance)
+3.  Present oral Flight Readiness Presentation
+4.  Launch Competition Flights
 
 ##  Methods
+
 As the rocket motor requires a refill for every launch, it is most economical to
 do the majority of the research in a theoretical sense beforehand. This mostly
 involves simulations using software available either as downloadable open source
@@ -92,17 +97,18 @@ our team’s design and performance research will contribute to the research goa
 of NASA that are to efficiently determine the most effective approach to
 building an active drag system.
 
-- Jan. 21, 2016 International Telecom Repeat 7-8pm CST
-- Jan. 29, 2016 Formal Team Registration
-- Feb. 12, 2016 Declaration of Attendance
-- Mar. 18, 2016 Preliminary Design Report due
-- Apr. 2016 Test Flights
-- May 6, 2016 Flight Readiness Report and Educational Outreach Form due
-- May 15, 2016 Flight Readiness Presentations and Safety Checks
-- May 16, 2016 Competition Launch
-- May 17, 2016 Alternative Launch (Rain Day)
-- May 27, 2016 Post-Flight Performance Evaluation and Data Collection Report due
-- Jun. 10, 2016 Final Competition results
+-: | :-
+Jan. 21, 2016 | International Telecom Repeat 7-8pm CST
+Jan. 29, 2016 | Formal Team Registration
+Feb. 12, 2016 | Declaration of Attendance
+Mar. 18, 2016 | Preliminary Design Report due
+Apr. 2016     | Test Flights
+May 6, 2016   | Flight Readiness Report and Educational Outreach Form due
+May 15, 2016  | Flight Readiness Presentations and Safety Checks
+May 16, 2016  | Competition Launch
+May 17, 2016  | Alternative Launch (Rain Day)
+May 27, 2016  | Post-Flight Performance Evaluation and Data Collection Report due
+Jun. 10, 2016 | Final Competition results
 
 ## Dissemination
 

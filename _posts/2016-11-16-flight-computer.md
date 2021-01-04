@@ -7,6 +7,7 @@ tags: programming school proposal physics electronics
 
 *This post was written as a project proposal for an electronics course, the
 project was not completed.*
+{: .content__p_noindent}
 
 Last year I participated in the Midwest High-Power Rocket Competition on the
 UW-River Falls team, wherein we were tasked with the building and launching of a
@@ -63,11 +64,8 @@ current project as it would require purchasing many new parts and printing a
 PCB, which should only be done after a decent proof of concept. Given that, here
 is the currently planned configuration as a schematic:
 
-<br>
-
 ![Flight Computer Schematic](/assets/img/flight-schematic.png)
-
-<br>
+{: .content__p_noindent}
 
 For initial testing purposes, the center area with the ATmega328 (IC1), crystal
 (X1, C1, C2), and LED (L1) can all be replaced with an Arduino Uno until said
@@ -79,23 +77,23 @@ time depending.
 
 ## References
 
-http://www.atmel.com/Images/Atmel-42735-8-bit-AVR-Microcontroller-ATmega328-328P_datasheet.pdf
+<http://www.atmel.com/Images/Atmel-42735-8-bit-AVR-Microcontroller-ATmega328-328P_datasheet.pdf>
 
-https://www.arduino.cc/en/Hacking/PinMapping168
+<https://www.arduino.cc/en/Hacking/PinMapping168>
 
-https://learn.adafruit.com/adafruit-micro-sd-breakout-board-card-tutorial/wiring
+<https://learn.adafruit.com/adafruit-micro-sd-breakout-board-card-tutorial/wiring>
 
-http://www.waveshare.com/10-DOF-IMU-Sensor-B.htm
+<http://www.waveshare.com/10-DOF-IMU-Sensor-B.htm>
 
-http://tronixstuff.com/2010/10/20/tutorial-arduino-and-the-i2c-bus/
+<http://tronixstuff.com/2010/10/20/tutorial-arduino-and-the-i2c-bus/>
 
-https://www.arduino.cc/en/Reference/Wire
+<https://www.arduino.cc/en/Reference/Wire>
 
-https://learn.sparkfun.com/tutorials/minigen-hookup-guide/arduino-library
+<https://learn.sparkfun.com/tutorials/minigen-hookup-guide/arduino-library>
 (main point from this one is the part about the pin number, which I have on 5 in
 the schematic)
 
-http://www.ecfr.gov/cgi-bin/text-idx?SID=86008bdffd1fb2e79cc5df41a180750a&node=22:1.0.1.13.58&rgn=div5#sg22.1.121.sg
+<http://www.ecfr.gov/cgi-bin/text-idx?SID=86008bdffd1fb2e79cc5df41a180750a&node=22:1.0.1.13.58&rgn=div5#sg22.1.121.sg>
 (better safe than sorry)
 
-https://product.tdk.com/info/en/catalog/datasheets/ef532_ps.pdf
+<https://product.tdk.com/info/en/catalog/datasheets/ef532_ps.pdf>

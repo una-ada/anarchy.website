@@ -20,8 +20,7 @@ usage when, as inspired by [@Send_Lwyds][7]' [thread][8], I began work on a
 they take a wholly reductionist view on the formation of landmasses. This is
 something that I was compelled to iterate on in a tweet:
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">
-    things that aren&#39;t erosion that significantly affect landmasses:<br>
+>   things that aren't erosion that significantly affect landmasses:<br>
     <br>
     1. plate tectonics<br>
     2. volcanic activity (see 1)<br>
@@ -29,11 +28,6 @@ something that I was compelled to iterate on in a tweet:
     4. asteroids<br>
     <br>
     thanks for listening to my ted talk (is this still hip)
-</p>&mdash; una (@trewbot)
-<a href="https://twitter.com/trewbot/status/1012901614993203200">June 30,
-2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8">
-</script>
 
 The first point here was decently covered by [Artifexian][10] in his [video][11]
 on creating fantasy maps, but I wanted something more in-depth. While working on
@@ -44,25 +38,21 @@ of further worldbuilding. These form along [volcanic arcs][15] where volcanic
 activity leads to the creation of [volcanic islands][16] in the form of a, you
 guessed it, arc.
 
-One such arc of islands
-is the [Kuril Islands][17] (RU: Кури́льские острова́, JP: 千島列島 or クリル列島),
-which are mostly in Russia (Росси́я) but parts are [claimed][18] by Japan (日本)
-as part of the [Nemuro Subprefecture (根室振興局)][19] of the
-[Hokkaido (北海道) Prefecture][20]. The exact subprefecture here is important as
-it caught my eye when I was scrolling over the Kuril Islands, and by "it" here I
-mean this odd sight:
-
-<br>
+One such arc of islands is the [Kuril Islands][17] (RU: Кури́льские острова́,
+JP: 千島列島 or クリル列島), which are mostly in Russia (Росси́я) but parts are
+[claimed][18] by Japan (日本) as part of the [Nemuro Subprefecture
+(根室振興局)][19] of the [Hokkaido (北海道) Prefecture][20]. The exact
+subprefecture here is important as it caught my eye when I was scrolling over
+the Kuril Islands, and by "it" here I mean this odd sight:
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m13!1m11!1m3!1d92687.2343744
 7226!2d144.92904631638126!3d43.54524742853476!2m2!1f0!2f0!3m2!1i1024!2i768!4f13.
 1!5e1!3m2!1sen!2sus!4v1530225867653" width="100%" height="400" frameborder="0"
-style="border:0" allowfullscreen></iframe>
+style="border:0" class="content__figure" allowfullscreen></iframe>
 
-**FIGURE 1.** A very large grid of trees in the Nemuro Subprefecture (根室振興局)
-on Hokkaido (北海道).
-
-<br>
+**FIGURE 1.** A very large grid of trees in the Nemuro Subprefecture
+(根室振興局) in Hokkaido (北海道).
+{: .content__figure}
 
 I didn't give it much thought originally; at first glance it looks very similar
 to something you might see in the United States of America (US) via satellite.
@@ -71,10 +61,9 @@ System (PLSS)][21], which is a uniquely American policy and not the only reason
 one might find a grid formation on land. Once I'd recalled this, it made sense
 to look further into what I'd seen.
 
-<div class="pullquote pullquote_left">
-    "There is something to be said about the choice of a grid system for
-    agriculture..."
-</div>
+"There is something to be said about the choice of a grid system for
+agriculture..."
+{: .pullquote .pullquote_left}
 
 Now, it wouldn't make sense to completely brush off the occurrence of the grid
 here just because it isn't exactly the PLSS. There is
@@ -110,14 +99,9 @@ about what I was looking for. The translation was basically unintelligible but
 still had significant phrases well enough that I could tell it was what I had
 been looking for: [grid-like windbreak (格子状防風林)][35].
 
-<div class="pullquote pullquote_image">
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Flag_of_Hokkaido_
-Prefecture.svg">
-<strong>FIGURE 2.</strong> Flag of Hokkaido Prefecture (北海道旗).
-<i>source:<a href="https://commons.wikimedia.org/wiki/File:Flag_of_Hokkaido_
-Prefecture.svg">Wikimedia.</a>
-</i>
-</div>
+![][49]
+**Figure 2.** Flag of Hokkaido Prefecture (北海道旗), _source: [Wikimedia][49]_
+{: .pullquote .pullquote_image}
 
 Of course, now it seems fucking obvious. Had I seen the filename on that aerial
 photo I'd probably have seen the "shelterbelt" part and instantly found a whole
@@ -137,9 +121,8 @@ something. If you notice an obvious tonal break here it's because I took a few
 days off from writing this to move into my new apartment and I can't entirely
 remember where I was going with that last sentence. In fact, let's just move on.
 
-<div class="pullquote pullquote_left">
-    "That was a dead end, so I'm going to try to find another trail to follow."
-</div>
+"That was a dead end, so I'm going to try to find another trail to follow."
+{: .pullquote .pullquote_left}
 
 That was a dead end, so I'm going to try to find another trail to follow. The
 site for Nemuro Subprefecture has a section for historical sites including the
@@ -174,13 +157,9 @@ majority of this report is concerned with land use as it is from an agriculture
 planning lab, the only section that I'm really interested in is [2.1 Development
 Plan from the Meiji Era (明治期の開拓計画)][44].
 
-<div class="pullquote pullquote_image pullquote_left">
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Black_and_white_
-photo_of_emperor_Meiji_of_Japan.jpg">
-<strong>FIGURE 3.</strong> Emperor Meiji (明治天皇).
-<i>source: <a href="https://commons.wikimedia.org/wiki/File:Black_and_white_
-photo_of_emperor_Meiji_of_Japan.jpg">Wikimedia.</a></i>
-</div>
+![][50]
+**FIGURE 3.**  Emperor Meiji (明治天皇), _source: _[Wikimedia][50]_
+{: .pullquote .pullquote_image .pullquote_left}
 
 Through careful searching of random combinations of characters around what I was
 looking for, I eventually found out that what I'd previously referred to as the
@@ -281,3 +260,5 @@ land use histories that aren't in a language I don't speak next time 🙃
 [46]:https://ja.wikipedia.org/wiki/開拓使
 [47]:https://en.wikipedia.org/wiki/Tondenhei
 [48]:https://ja.wikipedia.org/wiki/屯田兵
+[49]:https://upload.wikimedia.org/wikipedia/commons/2/22/Flag_of_Hokkaido_Prefecture.svg
+[50]:https://upload.wikimedia.org/wikipedia/commons/a/a8/Black_and_white_photo_of_emperor_Meiji_of_Japan.jpg

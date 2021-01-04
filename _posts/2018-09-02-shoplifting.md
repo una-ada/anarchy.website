@@ -161,15 +161,22 @@ title: "Goth Angel Sinners Pt. I: <i>Shoplifting</i> Notes"
 
 ---
 
-[^1]: [https://www.theatlantic.com/business/archive/2014/11/...](https://www.theatlantic.com/business/archive/2014/11/how-retail-workers-are-out-stealing-americas-shoplifters/382703/)
-[^2]: <https://en.wikipedia.org/wiki/Retail_loss_prevention>
-[^3]: [https://www.fmi.org/newsroom/news-archive/view/2005/11/09/...](https://www.fmi.org/newsroom/news-archive/view/2005/11/09/shoplifting-organized-retail-theft-and-employee-theft-rank-as-top-security-challenges-for-food-retailers-and-wholesalers)
-[^4]: <http://www.wagetheft.org/faq>
+[^1]: [theatlantic.com][1]
+[^2]: [wikipedia.org][2]
+[^3]: [fmi.org][3]
+[^4]: [wagetheft.org][4]
 [^5]: ![The law is an adroit mixture of customs that are beneficial to society,
       and could be followed even if no law existed, and others that are of
       advantage to a ruling minority, but harmful to the masses of men, and can
       be enforced on them only by terror. --Peter Kropotkin
       1842-1921](https://i.imgur.com/PhhCucl.jpg)
 
-[^6]: <http://www.quoteswave.com/wp-content/uploads/2011/09/Historically-the-most-terrible.jpg>
-[^7]: <http://siteresources.worldbank.org/DEC/Resources/Crime&Inequality.pdf>
+[^6]: [quoteswave.com][6]
+[^7]: [worldbank.org][7]
+
+[1]:    https://www.theatlantic.com/business/archive/2014/11/how-retail-workers-are-out-stealing-americas-shoplifters/382703/
+[2]:    https://en.wikipedia.org/wiki/Retail_loss_prevention
+[3]:    https://www.fmi.org/newsroom/news-archive/view/2005/11/09/shoplifting-organized-retail-theft-and-employee-theft-rank-as-top-security-challenges-for-food-retailers-and-wholesalers
+[4]:    http://www.wagetheft.org/faq
+[6]:    http://www.quoteswave.com/wp-content/uploads/2011/09/Historically-the-most-terrible.jpg
+[7]:    http://siteresources.worldbank.org/DEC/Resources/Crime&Inequality.pdf

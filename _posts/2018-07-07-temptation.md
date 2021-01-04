@@ -16,6 +16,7 @@ description from scratch, and I've always bought into this temptation. However,
 over time I have begun to find a method of describing myself that to some extent
 feels right. This is still, as most things, built on ideas with which I'd assume
 others would already be familiar.
+{: .content__p_dropcap}
 
 There's a lot of literature and discussion about this idea of consciousness as
 some sort of observer of the actions of the self, like there are parts of the
