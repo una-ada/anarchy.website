@@ -1,7 +1,7 @@
 /**
  *  @file Ruby text styling
  *  @author Una Ada <una@anarchy.website>
- *  December 29, 2020
+ *  December 29, 2020 - March 1, 2021
  */
 
 a ruby rb, a ruby rbc {
@@ -27,6 +27,7 @@ ruby > rt, ruby rtc {
 	display: table-header-group;
 	font-family: $mono-font;
 	font-size: 60%;
+	font-weight: normal !important;
 	opacity: 0.7;
 }
 ruby rt {
@@ -35,9 +36,17 @@ ruby rt {
 	-ms-user-select: none;
 	user-select: none;
 }
-h1, h2, h3, h4 {
+h1 ruby {
+	margin-top: -0.45em;
+}
+h1, h2 {
 	ruby > rt, ruby rtc {
+		font-size: 50%;
 		font-family: $title-font;
+	}
+}
+h3 {
+	ruby > rt, ruby rtc {
 		font-size: 50%;
 	}
 }

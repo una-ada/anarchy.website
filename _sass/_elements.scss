@@ -1,7 +1,7 @@
 /**
  *  @file Override default vendor styles for elements
  *  @author Una Ada <una@anarchy.website>
- *  December 29, 2020
+ *  December 29, 2020 - March 1, 2021
  */
 
 a {
@@ -63,6 +63,11 @@ h2 {
 h3 {
 	font-size: 1.5rem;
 	margin-top: 3rem;
+}
+h4 {
+	font-family: $copy-font;
+	font-size: 1rem;
+	margin: 2rem 0;
 }
 hr {
 	background: $primary;
