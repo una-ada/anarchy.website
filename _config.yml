@@ -5,6 +5,7 @@ kramdown:
   syntax_highlighter_opts:
     disable: true
   footnote_backlink: '&#x21A9;&#xFE0E;'
+  remove_line_breaks_for_cjk: true
 lang: en_US
 logo: /assets/img/me.jpg
 markdown: kramdown

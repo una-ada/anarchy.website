@@ -1,110 +1,80 @@
 <footer>
-    {% if page.tags %}
-        <p>{{l10n_tags}}:&nbsp;
-            {%- assign sorttags = page.tags | sort -%}
-            {%- for tag in sorttags -%}
-                <a href="/tag/#{{ tag }}">{{ tag }}</a>
-            {% endfor %}
-        </p>
-    {% endif %}
+    {% if page.tags %}<p>{{l10n_tags}}:&nbsp;
+        {%- assign sorttags = page.tags | sort -%}
+        {%- for tag in sorttags -%}
+            <a href="/tag/#{{ tag }}">{{ tag }}</a>
+        {% endfor %}
+    </p>{% endif %}
     <center>
-        {% if page.license == "ZERO" or page.license contains "BY" %}
-            <img src="/assets/img/cc.svg"
-                style="margin:0 0.25rem;width:2.5rem;"/>
-        {% endif %}
-        {% if page.license == "ZERO" %}
-            <img src="/assets/img/zero.svg"
-                style="margin:0 0.25rem;width:2.5rem;"/>
-        {% endif %}
-        {% if page.license contains "BY" %}
-            <img src="/assets/img/by.svg"
-                style="margin:0 0.25rem;width:2.5rem;"/>
-        {% endif %}
-        {% if page.license contains "NC" %}
-            <img src="/assets/img/nc.svg"
-                style="margin:0 0.25rem;width:2.5rem;"/>
-        {% endif %}
-        {% if page.license contains "ND" %}
-            <img src="/assets/img/nd.svg"
-                style="margin:0 0.25rem;width:2.5rem;"/>
-        {% endif %}
-        {% if page.license contains "SA" %}
-            <img src="/assets/img/sa.svg"
-                style="margin:0 0.25rem;width:2.5rem;"/>
-        {% endif %}
-        {% unless page.license %}
-            <img src="/assets/img/cc.svg"
-                style="margin:0 0.25rem;width:2.5rem;"/>
-            <img src="/assets/img/by.svg"
-                style="margin:0 0.25rem;width:2.5rem;"/>
-            <img src="/assets/img/sa.svg"
-                style="margin:0 0.25rem;width:2.5rem;"/>
-        {% endunless %}
+        {% if page.license == "ZERO" or page.license contains "BY" -%}
+        <img src="/assets/img/cc.svg" style="margin:0 0.25rem;width:2.5rem;"/>
+        {% endif %}{% if page.license == "ZERO" -%}
+        <img src="/assets/img/zero.svg" style="margin:0 0.25rem;width:2.5rem;"/>
+        {% endif %}{% if page.license contains "BY" -%}
+        <img src="/assets/img/by.svg" style="margin:0 0.25rem;width:2.5rem;"/>
+        {% endif %}{% if page.license contains "NC" -%}
+        <img src="/assets/img/nc.svg" style="margin:0 0.25rem;width:2.5rem;"/>
+        {% endif %}{% if page.license contains "ND" -%}
+        <img src="/assets/img/nd.svg" style="margin:0 0.25rem;width:2.5rem;"/>
+        {% endif %}{% if page.license contains "SA" -%}
+        <img src="/assets/img/sa.svg" style="margin:0 0.25rem;width:2.5rem;"/>
+        {% endif %}{%- unless page.license -%}
+        <img src="/assets/img/cc.svg" style="margin:0 0.25rem;width:2.5rem;"/>
+        <img src="/assets/img/by.svg" style="margin:0 0.25rem;width:2.5rem;"/>
+        <img src="/assets/img/sa.svg" style="margin:0 0.25rem;width:2.5rem;"/>
+        {%- endunless %}
     </center>
-    {% unless page.license %}
-        <p>
-            Except where otherwise noted content on this site is licensed under
-            a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative
-            Commons Attribution-ShareAlike 4.0 International License</a>. You
-            may share and/or modify this work so long as your usage meets the
-            following conditions: proper credit must be given to the original
-            author in a way that does not imply endorsement from the licensor,
-            any modified version of the work is distributed under the same
-            license as the original, and a link to the license must be
-            provided*.
-    {% endunless %}
-    {% if page.license %}
-        <p>&ldquo;{{page.title | default: site.github.repository_name}}&rdquo;
-            {% if page.license == "ZERO" or page.license contains "BY" %}
-                is licensed under <a
-                    href="https://creativecommons.org/licenses/{{page.license|downcase}}/{%if page.license=="ZERO"%}1.0{%else%}4.0{%endif%}/"
-                >{{l10n_license}}</a>.
-                You may share
-                {% unless page.license contains "ND" %}
-                    and/or modify
-                {% endunless %}
-                this work
-                {% if page.license == "ZERO" %} unconditionally*.
-                {% else %}
-                    so long as your usage meets the following conditions: proper
-                    credit must be given to the original author in a way that
-                    does not imply endorsement from the licensor,
-                    {% if page.license contains "NC" %}
-                        the work is not used for any commercial purposes,
-                    {% endif %}
-                    {% if page.license contains "ND" %}
-                        no modifications are done to the work,
-                    {% else %}
-                        there must be some indication if changes were made,
-                    {% endif %}
-                    {% if page.license contains "SA" %}
-                        any modified version of the work is distributed under
-                        the same license as the original,
-                    {% endif %}
-                    and a link to the license must be provided*.
-                {% endif %}
-            {% endif %}
+    {% unless page.license %}<p>
+        Except where otherwise noted content on this site is licensed under
+        a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative
+        Commons Attribution-ShareAlike 4.0 International License</a>. You
+        may share and/or modify this work so long as your usage meets the
+        following conditions: proper credit must be given to the original
+        author in a way that does not imply endorsement from the licensor,
+        any modified version of the work is distributed under the same
+        license as the original, and a link to the license must be
+        provided*.{% endunless %}
+    {% if page.license %}<p>
+        &ldquo;{{page.title | default: site.github.repository_name}}&rdquo;
+        {% if page.license == "ZERO" or page.license contains "BY" %}
+        is licensed under <a
+            href="https://creativecommons.org/licenses/{{page.license|downcase}}/{%if page.license=="ZERO"%}1.0{%else%}4.0{%endif%}/"
+        >{{l10n_license}}</a>. You may share
+        {% unless page.license contains "ND" %}
+        and/or modify
+        {% endunless %}
+        this work
+        {% if page.license == "ZERO" %}
+        unconditionally*.
+        {% else %}
+        so long as your usage meets the following conditions: proper credit must
+        be given to the original author in a way that does not imply endorsement
+        from the licensor,
+        {% if page.license contains "NC" %}
+        the work is not used for any commercial purposes,
+        {% endif %}{% if page.license contains "ND" %}
+        no modifications are done to the work,
+        {% else %}
+        there must be some indication if changes were made,
+        {% endif %}{% if page.license contains "SA" %}
+        any modified version of the work is distributed under the same license
+        as the original,
         {% endif %}
+        and a link to the license must be provided*.
+        {% endif %}{% endif %}{% endif %}
         Permissions beyond the scope of this license may be available at
         <a href="/permissions">{{site.url}}/permissions</a>.
     </p>
     <center>
-        {% if site.social.links %}
-            {% for link in site.social.links %}
-                {% if link contains "github.com" %}
-                    <a href="{{link}}"><img src="/assets/img/github.svg"
-                        style="margin:0 0.25rem;width:2.5rem;"></a>
-                {% endif %}
-                {% if link contains "twitter.com" %}
-                    <a href="{{link}}"><img src="/assets/img/twitter.svg"
-                        style="margin:0 0.25rem;width:2.5rem;"></a>
-                {% endif %}
-                {% if link contains "youtube.com" %}
-                    <a href="{{link}}"><img src="/assets/img/youtube.png"
-                        style="margin:0.35rem 0.25rem;height:1.8rem;"></a>
-                {% endif %}
-            {% endfor %}
+        {% if site.social.links %}{% for link in site.social.links %}
+        {% if link contains "github.com" %}
+        <a href="{{link}}"><img src="/assets/img/github.svg" style="margin:0 0.25rem;width:2.5rem;"></a>
+        {% endif %}{% if link contains "twitter.com" %}
+        <a href="{{link}}"><img src="/assets/img/twitter.svg" style="margin:0 0.25rem;width:2.5rem;"></a>
+        {% endif %}{% if link contains "youtube.com" %}
+        <a href="{{link}}"><img src="/assets/img/youtube.png" style="margin:0.35rem 0.25rem;height:1.8rem;"></a>
         {% endif %}
+        {% endfor %}{% endif %}
     </center>
     <p>
         The code for this site is open source, licensed under the
