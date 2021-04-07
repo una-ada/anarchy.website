@@ -7,21 +7,21 @@
     </p>{% endif %}
     <center>
         {% if page.license == "ZERO" or page.license contains "BY" -%}
-        <img src="/assets/img/cc.svg" style="margin:0 0.25rem;width:2.5rem;"/>
+        <img src="/assets/img/cc.svg" class="footer__icon"/>
         {% endif %}{% if page.license == "ZERO" -%}
-        <img src="/assets/img/zero.svg" style="margin:0 0.25rem;width:2.5rem;"/>
+        <img src="/assets/img/zero.svg" class="footer__icon"/>
         {% endif %}{% if page.license contains "BY" -%}
-        <img src="/assets/img/by.svg" style="margin:0 0.25rem;width:2.5rem;"/>
+        <img src="/assets/img/by.svg" class="footer__icon"/>
         {% endif %}{% if page.license contains "NC" -%}
-        <img src="/assets/img/nc.svg" style="margin:0 0.25rem;width:2.5rem;"/>
+        <img src="/assets/img/nc.svg" class="footer__icon"/>
         {% endif %}{% if page.license contains "ND" -%}
-        <img src="/assets/img/nd.svg" style="margin:0 0.25rem;width:2.5rem;"/>
+        <img src="/assets/img/nd.svg" class="footer__icon"/>
         {% endif %}{% if page.license contains "SA" -%}
-        <img src="/assets/img/sa.svg" style="margin:0 0.25rem;width:2.5rem;"/>
+        <img src="/assets/img/sa.svg" class="footer__icon"/>
         {% endif %}{%- unless page.license -%}
-        <img src="/assets/img/cc.svg" style="margin:0 0.25rem;width:2.5rem;"/>
-        <img src="/assets/img/by.svg" style="margin:0 0.25rem;width:2.5rem;"/>
-        <img src="/assets/img/sa.svg" style="margin:0 0.25rem;width:2.5rem;"/>
+        <img src="/assets/img/cc.svg" class="footer__icon"/>
+        <img src="/assets/img/by.svg" class="footer__icon"/>
+        <img src="/assets/img/sa.svg" class="footer__icon"/>
         {%- endunless %}
     </center>
     {% unless page.license %}<p>
@@ -68,11 +68,14 @@
     <center>
         {% if site.social.links %}{% for link in site.social.links %}
         {% if link contains "github.com" %}
-        <a href="{{link}}"><img src="/assets/img/github.svg" style="margin:0 0.25rem;width:2.5rem;"></a>
+        <a href="{{link}}"><img src="/assets/img/github.svg"
+            class="footer__icon"></a>
         {% endif %}{% if link contains "twitter.com" %}
-        <a href="{{link}}"><img src="/assets/img/twitter.svg" style="margin:0 0.25rem;width:2.5rem;"></a>
+        <a href="{{link}}"><img src="/assets/img/twitter.svg"
+            class="footer__icon"></a>
         {% endif %}{% if link contains "youtube.com" %}
-        <a href="{{link}}"><img src="/assets/img/youtube.png" style="margin:0.35rem 0.25rem;height:1.8rem;"></a>
+        <a href="{{link}}"><img src="/assets/img/youtube.png"
+            class="footer__icon footer__icon_yt"></a>
         {% endif %}
         {% endfor %}{% endif %}
     </center>
@@ -88,7 +91,7 @@
         licensed under it*.
     </p>
     <a href="https://github.com"><img src="/assets/img/github.svg"
-        style="float:left;margin:1rem 1rem 1rem 0;width:2.5rem;"/></a>
+        class="footer__icon footer__icon_git"/></a>
     <p>
         This site is hosted by <a href="https://github.io">GitHub Pages</a>, a
         static site hosting service ran by

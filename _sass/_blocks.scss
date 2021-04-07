@@ -227,6 +227,18 @@ footer {
 		line-height: 1.2;
 		text-align: left;
 	}
+	.footer__icon {
+		margin: 0 0.25rem;
+		width: 2.5rem;
+	}
+	.footer__icon_git {
+		float: left;
+		margin: 1rem 1rem 1rem 0;
+	}
+	.footer__icon_yt {
+		height: 1.8rem;
+		margin: 0.35rem 0.25rem;
+	}
 }
 .footnote {
 	text-decoration: none;
