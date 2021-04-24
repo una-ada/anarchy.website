@@ -12,7 +12,7 @@ title: Илия Ильин
     </th></tr></thead>
     <tr><td><b>Pronouns</b></td><td>he/him</td></tr>
     <tr><td><b>Born</b></td><td>
-        June 9, 1917 (age 19)<br/>
+        June 9, 1831 (age 19)<br/>
         Oryvny, Dnieper
     </td></tr>
     <tr><td><b>Height</b></td><td>178cm (5 ft 10 in)</td></tr>
@@ -27,7 +27,7 @@ title: Илия Ильин
     </td></tr>
 </table>
 
-**Iliya Ilin** (Илия Ильин _Iliya Ilin_, born June 9, 1917) is a second year
+**Iliya Ilin** (Илия Ильин _Iliya Ilin_, born June 9, 1831) is a second year
 student at the [Imperial Yunovo University][1] in  Yunovo, Dnieper, majoring in
 Applied Thaumaturgy.
 

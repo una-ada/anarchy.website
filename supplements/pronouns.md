@@ -513,9 +513,7 @@ title: English Personal Pronouns
 </tr>
 </table>
 
-Test[^22][^23][^24]
-
-## Footnotes
+[^22][^23][^24]
 
 [^1]:   Before vowels.
 

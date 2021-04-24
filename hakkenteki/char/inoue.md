@@ -10,9 +10,12 @@ title: Юлия 井上
         <strong>Юлия 井上</strong><br/>
         <em>Yulia Inoue</em><br/>
     </th></tr></thead>
+    <tr><td colspan="2">
+        <img src="/assets/img/hkt/inoue-profile-1.jpg"/>
+    </td></tr>
     <tr><td><b>Pronouns</b></td><td>they/them<br>内 (うち)</td></tr>
     <tr><td><b>Born</b></td><td>
-        June 10, 2131 (age 24)<br/>
+        June 23, 12431 H.E. (age 24)<br/>
         Welles, Xanthe-Margaritifer
     </td></tr>
     <tr><td><b>Height</b></td><td>157cm (5 ft 2 in)</td></tr>
@@ -54,9 +57,9 @@ title: Юлия 井上
     </td></tr>
 </table>
 
-**Yulia Inoue** (Юлия 井上 _Yuliya Inoue_, born June 10, 2131) is a Martian
-mathematician, computer scientist, physicist, and engineer. Inoue was a key
-contributor to the development of the Electromagnetic Defense System on Mars
+**Yulia Inoue** (Юлия 井上 _Yuliya Inoue_, born June 23, 12431 H.E.) is a
+Martian mathematician, computer scientist, physicist, and engineer. Inoue was a
+key contributor to the development of the Electromagnetic Defense System on Mars
 and continues to work as a mid-level technician maintaining the System. Though
 their thesis _Planetary Field Stimulation and its Defense Applications_ was the
 foundation for the System's architecture, Inoue was not selected for the EM
@@ -148,6 +151,15 @@ Yulia is not directly comparable to Lain. Their family lineage is also in part
 inspired by Takeshi Kovacs from Altered Carbon, but with their father being of
 Russian rather than Hungarian descent.
 
-Their family name is taken from a Code Geass side character, [Inoue Naomi][1].
+Their family name is taken from a Code Geass side character, [Inoue Naomi][1][^2]. Their birthday was originally June 10, but I have absolutely no idea why[^3] so I changed it to June 23, Alan Turing's birthday.
+
+[^2]:   _Coincidentally_ this name shared with a [character in Katawa Shoujo][2]
+        but I certainly wouldn't remember that much detail from that game, as well as a [voice actress][3].
+
+[^3]:   If I had to guess, it would be because I pick these things arbitrarily
+        and that's the 161st day in a non-leap year, but it's too close to
+        certain other dates so I'm overriding that decision.
 
 [1]:    https://codegeass.fandom.com/wiki/Naomi_Inoue
+[2]:    https://katawashoujo.fandom.com/wiki/Naomi_Inoue
+[3]:    https://www.animenewsnetwork.com/encyclopedia/people.php?id=29878
