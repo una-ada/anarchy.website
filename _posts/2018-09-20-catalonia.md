@@ -1,7 +1,7 @@
 ---
 author:
 - una
-- shtpostscarcity
+- chloe
 description: >
     Join our hosts @trewbot and Chloe in this second installment of the Goth
     Angel Sinners podcast for an interview with senatorial candidate Jae Em

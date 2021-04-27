@@ -1,7 +1,7 @@
 ---
 author:
 - una
-- shtpostscarcity
+- chloe
 description: >
     In this first installment of the Goth Angel Sinners podcast, our hosts
     @trewbot and Chloe, along with special guest @CheechGuevara, discuss the

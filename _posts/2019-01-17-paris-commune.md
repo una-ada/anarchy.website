@@ -1,7 +1,7 @@
 ---
 author:
 - una
-- shtpostscarcity
+- chloe
 - whimworm
 description: >
     We're not a history podcast and nobody actually knows what happened in Paris

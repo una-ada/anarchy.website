@@ -1,7 +1,7 @@
 ---
 author:
 - una
-- shtpostscarcity
+- chloe
 description: >
     A couple of sleep deprived losers try to explain the philosophical and
     ecological necessity and implications of post-scarcity as a quote unquote

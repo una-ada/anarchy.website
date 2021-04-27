@@ -1,7 +1,7 @@
 ---
 author:
 - una
-- shtpostscarcity
+- chloe
 description: >
     A real episode.
 entry: VI Notes
