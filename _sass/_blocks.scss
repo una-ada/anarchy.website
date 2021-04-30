@@ -96,19 +96,16 @@
 		margin: -0.3em 0 2em 0;
 		.divider_fallback {
 			height: 1.5em;
+			padding-top: 0.5em;
 			.divider__byline {
-				padding-top: 0.3em;
+				margin-top: -0.2em;
 			}
 			.divider__left {
 				margin-top: 0.1em;
 			}
 			.divider__segment,
 			.divider__segment img {
-				vertical-align: bottom;
-			}
-			.divider__right {
-				padding-top: 0.3em;
-				vertical-align: bottom;
+				// vertical-align: bottom;
 			}
 		}
 		.divider_fancy {
@@ -119,6 +116,7 @@
 				}
 				.divider_fancy__segment {
 					height: 1.5em;
+					line-height: 1.5;
 					vertical-align: bottom;
 					img {
 						vertical-align: bottom;
