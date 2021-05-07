@@ -1,7 +1,7 @@
 /**
  *  @file Block styles, following BEM conventions
  *  @author Una Ada <una@anarchy.website>
- *  December 29, 2020
+ *  December 29, 2020 - May 7, 2021
  */
 
 .content {
@@ -363,6 +363,7 @@ header {
 		}
 	}
 	.preview__image {
+		min-height: 24rem;
 		position: relative;
 		.preview__img {
 			border-radius: 0.5rem;
