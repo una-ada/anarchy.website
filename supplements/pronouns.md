@@ -32,42 +32,18 @@ title: English Personal Pronouns
 </colgroup>
 <thead class="r1">
     <th colspan="3">Person/Gender</th>
-   <th markdown="span">
-
-   Nom.[^25]
-
-   </th>
-   <th markdown="span">
-
-   Obj.[^26]
-
-   </th>
-   <th markdown="span">
-
-   Poss.[^27]
-
-   </th>
-   <th markdown="span">
-
-   Ind. Poss.[^28]
-
-   </th>
-   <th markdown="span">
-
-   Refl.[^29]
-
-   </th>
+    <th markdown="span">Nom.[^25]</th>
+    <th markdown="span">Obj.[^26]</th>
+    <th markdown="span">Poss.[^27]</th>
+    <th markdown="span">Ind. Poss.[^28]</th>
+    <th markdown="span">Refl.[^29]</th>
 </thead>
 <tr>
     <td rowspan="4">First</td>
     <td colspan="2">Singular</td>
     <td>I</td>
     <td>me</td>
-   <td markdown="span">
-
-   my, mine[^1], me
-
-   </td>
+    <td markdown="span">my, mine,[^1] me</td>
     <td>mine</td>
     <td>myself</td>
 </tr>
@@ -82,33 +58,17 @@ title: English Personal Pronouns
 </tr>
 <tr>
     <td rowspan="2">Informal</td>
-   <td colspan="3" markdown="span">
-
-   a(ll)-we, a(h)we, a-we, awwe, all-o(f)-we, ah-we-ya[^18]
-
-   </td>
+    <td colspan="3" markdown="span">a(ll)-we, a(h)we, a-we, awwe, all-o(f)-we, ah-we-ya[^18]</td>
     <td>&mdash;</td>
-   <td markdown="span">
-
-   we-all-self,[^21] we-self
-
-   </td>
+    <td markdown="span">we-all-self,[^21][^36] we-self,[^37] we selves</td>
 </tr>
 <tr>
-   <td markdown="span" colspan="3">
-
-   a-we-dis[^18]
-
-   </td>
-   <td>&mdash;</td>
-   <td markdown="span">
-
-   a(ll)-we-self[^21]
-
-   </td>
+    <td markdown="span" colspan="3"> a-we-dis[^18]</td>
+    <td>&mdash;</td>
+    <td markdown="span">a(ll)-we-self[^21]</td>
 </tr>
 <tr>
-    <td rowspan="16">Second</td>
+    <td rowspan="15">Second</td>
     <td rowspan="2">Singular</td>
     <td>Standard</td>
     <td colspan="2">you</td>
@@ -120,16 +80,12 @@ title: English Personal Pronouns
     <td>Archaic</td>
     <td>thou</td>
     <td>thee</td>
-   <td markdown="span">
-
-   thy, thine[^1]
-
-   </td>
+    <td markdown="span">thy, thine[^1]</td>
     <td>thine</td>
     <td>thyself</td>
 </tr>
 <tr>
-    <td rowspan="14">Plural</td>
+    <td rowspan="13">Plural</td>
     <td>Standard</td>
     <td colspan="2">you</td>
     <td>your</td>
@@ -145,33 +101,24 @@ title: English Personal Pronouns
     <td>yourselves</td>
 </tr>
 <tr>
-    <td rowspan="12">Informal</td>
-   <td colspan="3" markdown="span">
-
-   all-you (all yer, all yuh...), a(ll)-yo-dis, among-you, you-all[^19]
-
-   </td>
-   <td>&mdash;</td>
-   <td markdown="span">
-
-   all-you self, all-youselves[^20]
-
-   </td>
+    <td rowspan="11">Informal</td>
+    <td colspan="3" markdown="span">all-you, a(ll)-yo-dis, among-you, you-all[^19]</td>
+    <td>&mdash;</td>
+    <td markdown="span">all-you self, all-youselves[^20]</td>
 </tr>
 <tr>
-    <td>unu, oona</td>
+    <td colspan="3" markdown="span">unu,[^24] unna,[^23] wunna[^38]</td>
+    <td colspan="2">&mdash;</td>
 </tr>
 <tr>
-    <td>wunna</td>
-</tr>
-<tr>
-    <td>y'all, you all</td>
+    <td colspan="2" markdown="span">y'all, you(-)all[^42]</td>
+    <td markdown="span">you-all's,[^40] your-all's[^41]</td>
 </tr>
 <tr>
     <td>ye, yee, yees</td>
 </tr>
 <tr>
-    <td>yinna</td>
+    <td markdown="span">yinna[^39]</td>
 </tr>
 <tr>
     <td>yinz</td>
@@ -192,12 +139,16 @@ title: English Personal Pronouns
     <td>you mob</td>
 </tr>
 <tr>
-    <td rowspan="41">Third</td>
-    <td rowspan="40">Singular</td>
-    <td>Neuter</td>
+    <td rowspan="42">Third</td>
+    <td rowspan="41">Singular</td>
+    <td rowspan="2">Neuter</td>
     <td colspan="2">it</td>
     <td colspan="2">its</td>
     <td>itself</td>
+</tr>
+<tr>
+    <td colspan="2" markdown="span">um, am[^22]</td>
+    <td colspan="3">&mdash;</td>
 </tr>
 <tr>
     <td>Feminine</td>
@@ -222,11 +173,7 @@ title: English Personal Pronouns
     <td>themselves, themself</td>
 </tr>
 <tr>
-   <td markdown="span" rowspan="3">
-
-   Derived Neutral[^3]
-
-   </td>
+    <td markdown="span" rowspan="3">Derived Neutral[^3]</td>
     <td>she/he</td>
     <td>him/her</td>
     <td>his/her</td>
@@ -244,44 +191,28 @@ title: English Personal Pronouns
     <td>h'</td>
     <td>'s</td>
     <td>'rs</td>
-   <td markdown="span">
-
-   h'/h'self[^2]
-
-   </td>
+    <td markdown="span">h'/h'self[^2]</td>
 </tr>
 <tr>
-   <td markdown="span" rowspan="14">
-
-   Proposed Neutral[^4]
-
-   </td>
-   <td markdown="span">
-
-   e[^7]
-
-   </td>
+    <td markdown="span" rowspan="14">Proposed Neutral[^4]</td>
+    <td markdown="span">e[^7]</td>
     <td>em</td>
     <td colspan="2">es</td>
     <td>emself</td>
 </tr>
 <tr>
-   <td markdown="span">
-
-   E[^8][^15]
-
-   </td>
+    <td markdown="span">E[^8][^15]</td>
     <td>Em</td>
     <td>Eir</td>
     <td>Eirs</td>
     <td>Emself</td>
 </tr>
 <tr>
-    <td>ey</td>
+    <td markdown="span">ey[^35]</td>
     <td>em</td>
     <td>eir</td>
     <td>eirs</td>
-    <td>eirself</td>
+    <td>emself, eirself</td>
 </tr>
 <tr>
     <td>hu</td>
@@ -290,11 +221,7 @@ title: English Personal Pronouns
     <td>humself</td>
 </tr>
 <tr>
-   <td markdown="span">
-
-   peh[^12]
-
-   </td>
+    <td markdown="span">peh[^12]</td>
     <td>pehm</td>
     <td colspan="2">peh's</td>
     <td>pehself</td>
@@ -305,11 +232,7 @@ title: English Personal Pronouns
     <td>perself</td>
 </tr>
 <tr>
-   <td colspan="2" markdown="span">
-
-   thon[^32]
-
-   </td>
+    <td colspan="2" markdown="span">thon[^32]</td>
     <td colspan="2">thons</td>
     <td>thonself</td>
 </tr>
@@ -358,30 +281,18 @@ title: English Personal Pronouns
     <td>Regional Neutral</td>
     <td>Yo</td>
     <td>yo</td>
-   <td colspan="2" markdown="span">
-
-   _yos_[^5]
-
-   </td>
+    <td colspan="2" markdown="span">_yos_[^5]</td>
     <td><em>yosself</em></td>
 </tr>
 <tr>
-   <td rowspan="18" markdown="span">
-
-   Observed[^6]
-
-   </td>
+    <td rowspan="18" markdown="span">Observed[^6]</td>
     <td>ae</td>
     <td colspan="2">aer</td>
     <td>aers</td>
     <td>aerself</td>
 </tr>
 <tr>
-   <td markdown="span">
-
-   fae[^30]
-
-   </td>
+    <td markdown="span">fae[^30]</td>
     <td colspan="2">faer</td>
     <td>faers</td>
     <td>faerself</td>
@@ -512,8 +423,6 @@ title: English Personal Pronouns
     <td></td>
 </tr>
 </table>
-
-[^22][^23][^24]
 
 [^1]:   Before vowels.
 
@@ -648,8 +557,21 @@ title: English Personal Pronouns
         reflexive pronouns, which have seemingly been either inferred or
         appended by other proposals since.
 
-[^17]:   Richard Allsopp, [_Dictionary of Caribbean English Usage_][4],
+[^17]:  Richard Allsopp, [_Dictionary of Caribbean English Usage_][4],
         (University of the West Indies Press, 2003).
+
+    Citations from this dictionary include a lot of abbreviations of Caribbean
+    territories as well as the expected grammar terms, the most relevant of the
+    former being listed here for convenience:
+
+    | Abbr. | Meaning        | Abbr. | Meaning        |
+    | ----- | -------------- | ----- | -------------- |
+    | Antg  | Antigua        | Crcu  | Carriacou      |
+    | Baha  | Bahamas        | Gren  | Grenada        |
+    | Bdos  | Barbados       | Guyn  | Guyana         |
+    | Belz  | Belize         | Jmca  | Jamaica        |
+    | CarA  | Caribbean Area | Nevs  | Nevis          |
+    | CayI  | Cayman Islands | StKt  | St Kitts       |
 
 [^18]:  Allsopp, _Dict. Carib. Eng._,[^17] 25.
 
@@ -837,6 +759,104 @@ title: English Personal Pronouns
         wholly new words but not to assert less common interpretations of
         existing ones, and then to fail to even manage that in any sense...
 
+[^35]:  Black, Judie, "[Ey has a word for it][15]," _Chicago Tribune_ (Aug. 23, 1975): 46.
+
+    >   AS WOMEN HAVE grown freer, the English language has grown more tangled:
+        What's a chairperson and who is a Ms.? But help may be on the way in
+        the form of ey, eir, and em.
+
+    >   Those are the winning entries in the Chicago Association of Business
+        Communication's contest to find pronouns to replace she and he [ey],
+        him and her [em], his and hers [eir].
+
+    >   "It," a neuter pronoun, already exists, but contest winner Christine M.
+        Elverson of Skokie says her words are "transgender pronouns." She
+        formed them by dropping "the" from the familiar plural pronouns, they,
+        them, and their.
+
+    >   FOR EXAMPLE, a speaker might use thess new transgender pronouns when ey
+        addresses and audience of both men and women. Eir sentences would sound
+        smoother since ey wouldn't clutter them with the old sexist pronouns.
+        And if ey should trip up in the new usage, ey would only have emself to
+        blame.
+
+    >   "There's a definite need for transgender pronouns," says Mrs.
+        Elversion, editor of the employee newsletter of the G. D. Searle Co.
+
+    >   "It gets cumbersome when you don't know whether you're talking or
+        writing about a man or a woman."
+
+    >   A contestant from California entered the word "uh" because "if it isn't
+        a he or a she, it's uh, something else."
+
+    >   So much of eir humor.
+
+[^36]:  Allsopp, _Dict. Carib. Eng._[^17] 595.
+
+    >   **we-all-self** _refl pron (phr), 1st pers pl_ (Crcu) [_AF&mdash;Cr_]
+        || a[ll]-we-self (Guyn)
+
+[^37]:  Allsopp, _Dict. Carib. Eng._[^17] 596.
+
+    >   **we self**; **we selves** _refl pers pron_ (ECar) [_AF&mdash;Cr_] ||
+        ***a(ll)-we-self*** (Guyn) || ***we-all-self*** (Crcu) Ourselves. ...
+        **[** < CarA Cr we in possessive function + SE emphasizers
+        _self/selves_. Note _EDD we-selves_ (Yks, etc) 'ourselves'. Cp also
+        demself **]**
+
+[^38]:  Allsopp, _Dict. Carib. Eng._[^17] 613.
+
+    >   **wunna(h) (wunno, wunnuh)**; **unno** _pers pron pl_ (Bdos)
+        [_AF&mdash;Cr_] || ***allyou; you-all*** (CarA) || ***unu*** (Bdos,
+        Belz, CayI, Jmca) || ***yinna*** (Baha) **1.** You (pl); all of you;
+        you (sg) in particular. ... **2** _possessive_ Your; belonging to all
+        of you. ... **[** < Igbo _unu_ (pers pron pl) by labialization. Cp _OE_
+        an > ModE _one_. The original form ***unu*** seems, however, to have
+        gone with settlers' slaves to _Jmca_, thence to _Belz, CayI_ **]** The
+        form ***unno***, older and now rare in _Bdos_ is felt by some to be
+        distinctly _Derog_. See UNU.[^24]
+
+[^39]:  Allsopp, _Dict. Carib. Eng._[^17] 619.
+
+    >   **yinna** _pers pron_ (Baha) [_AF&mdash;CR_] || ***unu*** (Bdos, Belz,
+        CayI, Jmca) **1.** You, all of you [i.e. usu pl, but occasionally sg].
+        ... **2.** Your. **[** Most likely < Yoruba _yin_ 1. 'you people';
+        'you'; also 3. used as honorific 2nd pers sg; also Yoruba _eyin_,
+        alternative form with similar functions to _yin_ 1. and 3. The notable
+        remainders of Yoruba infl in _Baha_ would account for the survival of
+        this pronominal form (cp UNU _Bdos_), and _/-na/_ may have been added
+        by paragoge, or may be due to reinforcement by later Kikongo _yenu_
+        'you; you' (pl) **]** The form survives in folk speech and is used by
+        educated persons in _Joc_ conversational contexts. It is a perh closer
+        parallel to _ECar_ ALL-YOU than to YOU-ALL. **3.** _PHRASES_ **3.1 all
+        o[f] yinna** _pron phr pl_ (Baha) [_AF&mdash;Cr/Joc_] All of you. **3.2
+        yinna-all** _pron pl_ (Baha) [_AF&mdash;Cr_] All of you. ... **3.3
+        yinna children/fellers/people,** etc _n phr pl_ (Baha) [_AF&mdash;Cr_]
+        You children/fellous/people, etc.
+
+[^40]:  Allsopp, _Dict. Carib. Eng._[^17] 620.
+
+    >   **you-all's** _possessive pron, 2nd pers pl_ (Bdos) [_X_] ||
+        ***your-all's*** (Bdos) [_X_] Your (pl).
+
+[^41]:  Allsopp, _Dict. Carib. Eng._[^17] 620.
+
+    >   **your-all's** _possessive pron, 2nd pers pl_ [_X_] || ***you-all's***
+        (Bdos) [_X_] Your (pl). ... **[** Development of a poss form of YOU-ALL
+        **]** A false refinement almost confined to _Bdos_.
+
+[^42]:  Allsopp, _Dict. Carib. Eng._[^17] 620.
+
+    >   **you-all (you all)** _pron (phr), 2nd pers pl_ (CarA) [_IF_] ||
+        ***all-you*** (CarA) [_AF_] || ***among-you*** (Crcu, Gren, Guyn)
+        [_IF_] All of you; you (pl). ... **[** Development from CarA Cr need to
+        express a pl _you_; a likely calque from more than one W Afr lang. Cp
+        Twi _mo nyinea mo_ (_You all you go_) 'All of you go!'; also Isoko _wai
+        kpobi_ (_you all_) 'all of you', etc. See also UNU, WUNNA (_Bdos_),
+        YINNA (_Baha_) **]** This pron form is rare in _Blez, Jmca._ Some CE
+        speakers also use an overlapping phr ***all of you all*** without any
+        clear indication of emphasis.
+
 [1]:    https://pronoun.is/
 [2]:    https://en.wikipedia.org/wiki/Third-person_pronoun#List_of_standard_and_non-standard_third-person_singular_pronouns
 [3]:    https://books.google.com/books?id=QQQ-AQAAIAAJ&pg=RA2-PA13#v=onepage&q&f=false
@@ -852,3 +872,4 @@ title: English Personal Pronouns
 [13]:   https://www.google.com/books/edition/What_s_Your_Pronoun_Beyond_He_and_She/SCqfDwAAQBAJ?hl=en&gbpv=1&dq=A%20Chronology%20of%20Gender-Neutral%20and%20Nonbinary%20Pronouns&pg=PT150&printsec=frontcover
 [15]:   https://web.archive.org/web/20041208215716/http://www2.english.uiuc.edu:80/baron/essays/epicene.htm
 [14]:   https://linguistlist.org/issues/3/3-282.html
+[15]:   https://chicagotribune.newspapers.com/clip/58186615/1975-call-for-transgender-pronouns/
