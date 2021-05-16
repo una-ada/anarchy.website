@@ -1,6 +1,6 @@
 /**
  *  Detect iOS devices
- *  January 3, 2021
+ *  January 3, 2021 - May 15, 2021
  *
  *  References
  *  -   https://stackoverflow.com/a/9039885
@@ -13,7 +13,8 @@ window.iOS = (()=>
         'iPod Simulator',
         'iPad',
         'iPhone',
-        'iPod'
+        'iPod',
+        'MacIntel'
     ].includes(navigator.platform)
     // iPad on iOS 13 detection
     || (navigator.userAgent.includes("Mac") && "ontouchend" in document)
