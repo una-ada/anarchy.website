@@ -13,11 +13,10 @@ window.iOS = (()=>
         'iPod Simulator',
         'iPad',
         'iPhone',
-        'iPod',
-        'MacIntel'
+        'iPod'
     ].includes(navigator.platform)
-    // iPad on iOS 13 detection
-    || (navigator.userAgent.includes("Mac") && "ontouchend" in document)
+    // iPad on iOS 13 / Mac detection
+    || navigator.userAgent.includes("Mac")
 )();
 
 if(iOS) document.getElementsByTagName('html')[0].classList['add']('iOS');
