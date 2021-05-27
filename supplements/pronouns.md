@@ -595,7 +595,8 @@ title: English Personal Pronouns
         ***a[ll]-yo-dis*** (Guyn) || ***all o[f] wunna*** (Bdos) || ***among-
         you*** (Crcu, Gren, Guyn) || ***you-all*** (CarA) You (pl); all of you,
         [also as possessive] your; belonging to or typical of you. ... **2.**
-        _attribute of a n_ [_IF_] You (as a type of people, identified by the following noun).
+        _attribute of a n_ [_IF_] You (as a type of people, identified by the
+        following noun).
 
 [^20]:  Allsopp, _Dict. Carib. Eng._,[^17] 26.
 
@@ -759,7 +760,8 @@ title: English Personal Pronouns
         wholly new words but not to assert less common interpretations of
         existing ones, and then to fail to even manage that in any sense...
 
-[^35]:  Black, Judie, "[Ey has a word for it][15]," _Chicago Tribune_ (Aug. 23, 1975): 46.
+[^35]:  Black, Judie, "[Ey has a word for it][15]," _Chicago Tribune_ (Aug. 23,
+        1975): 46.
 
     >   AS WOMEN HAVE grown freer, the English language has grown more tangled:
         What's a chairperson and who is a Ms.? But help may be on the way in
