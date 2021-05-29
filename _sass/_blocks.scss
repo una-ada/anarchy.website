@@ -399,14 +399,16 @@ header {
 	float: right;
 	font-size: 1.5rem;
 	font-weight: bold;
-	margin: 0 -#{$pq-width / 2} 0 0 !important;
 	padding: 1rem;
 	text-align: center;
 	text-indent: initial !important;
 	width: $pq-width;
+	&:not(.pullquote_left) {
+		margin: 0 -#{$pq-width / 2} 0 0;
+	}
 	&.pullquote_left {
 		float: left;
-		margin:0 0 0 -#{$pq-width / 2} !important;
+		margin:0 0 0 -#{$pq-width / 2};
 	}
 	&.pullquote_image {
 		font-size: 1rem;
