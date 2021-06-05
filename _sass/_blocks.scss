@@ -103,10 +103,6 @@
 			.divider__left {
 				margin-top: 0.1em;
 			}
-			.divider__segment,
-			.divider__segment img {
-				// vertical-align: bottom;
-			}
 		}
 		.divider_fancy {
 			height: 1.5em;
@@ -337,8 +333,6 @@ header {
 	}
 }
 .previews {
-	column-count: 2;
-	column-gap: 2rem;
 	margin: 2rem 0;
 }
 .preview {
