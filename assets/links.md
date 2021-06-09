@@ -25,7 +25,7 @@ title: links
 [5]: https://soundcloud.com/jisa_tsu "SoundCloud"
 [6]: https://steamcommunity.com/id/unasareyou "Steam"
 [7]: https://twitter.com/unaxiii "Twitter"
-[8]: https://bandcamp.com/una_ada "Bandcamp"
+[8]: https://jisa2.bandcamp.com/ "Bandcamp"
 [9]: https://myanimelist.net/profile/unasareyou "MyAnimeList"
 [0]: https://www.youtube.com/channel/UCqk_-WJiBionWuh8wmmVrmw "YouTube"
 [a]: https://www.pixiv.net/users/21828040 "Pixiv"
