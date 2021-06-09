@@ -1,36 +1,41 @@
-<!doctype html>
+<!DOCTYPE html>
 <html
-    xmlns="http://www.w3.org/1999/xhtml"
-    xml:lang="{{ page.lang | default: 'en' }}"
-    lang="{{ page.lang | default: 'en' }}"
+  xmlns="http://www.w3.org/1999/xhtml"
+  xml:lang="{{ page.lang | default: 'en' }}"
+  lang="{{ page.lang | default: 'en' }}"
 >
-<title>{{ page.title | default: 'title' }}</title>
-<style>
-    @font-face {
-    	font-family: 'M+1';
-    	src: url('/assets/fonts/mplus-1-regular-sub.eot');
-    	src: url('/assets/fonts/mplus-1-regular-sub.eot?#iefix') format('embedded-opentype'),
-    	url('/assets/fonts/mplus-1-regular-sub.woff') format('woff'),
-    	url('/assets/fonts/mplus-1-regular-sub.ttf') format('truetype');
-    }
-    @font-face {
-    	font-family: 'M+1M';
-    	src: url('/assets/fonts/mplus-1m-regular-sub.eot');
-    	src: url('/assets/fonts/mplus-1m-regular-sub.eot?#iefix') format('embedded-opentype'),
-    	url('/assets/fonts/mplus-1m-regular-sub.woff') format('woff'),
-    	url('/assets/fonts/mplus-1m-regular-sub.ttf') format('truetype');
-    }
-    html {
+  <head>
+    <title>{{ page.title | default: 'title' }}</title>
+    <link rel="shortcut icon" type="image/png" href="/assets/img/favicon.svg" />
+    <style>
+      @font-face {
+        font-family: 'M+1';
+        src: url('/assets/fonts/mplus-1-regular-sub.eot');
+        src: url('/assets/fonts/mplus-1-regular-sub.eot?#iefix')
+            format('embedded-opentype'),
+          url('/assets/fonts/mplus-1-regular-sub.woff') format('woff'),
+          url('/assets/fonts/mplus-1-regular-sub.ttf') format('truetype');
+      }
+      @font-face {
+        font-family: 'M+1M';
+        src: url('/assets/fonts/mplus-1m-regular-sub.eot');
+        src: url('/assets/fonts/mplus-1m-regular-sub.eot?#iefix')
+            format('embedded-opentype'),
+          url('/assets/fonts/mplus-1m-regular-sub.woff') format('woff'),
+          url('/assets/fonts/mplus-1m-regular-sub.ttf') format('truetype');
+      }
+      html {
         font-family: 'M+1M', 'M+1', monospace;
         font-size: 32px;
         text-align: center;
-    }
-    a {
+      }
+      a {
         color: blue !important;
         text-decoration: none;
-    }
-</style>
-<body>
+      }
+    </style>
+  </head>
+  <body>
     {{content}}
-</body>
+  </body>
 </html>
