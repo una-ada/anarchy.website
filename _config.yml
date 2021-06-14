@@ -12,6 +12,7 @@ markdown: kramdown
 paginate: 10
 paginate_path: /archive/:num
 plugins:
+  - jekyll-feed
   - jekyll-seo-tag
   - jekyll-paginate
 repository: una-ada/anarchy.website
