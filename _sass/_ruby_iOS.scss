@@ -5,8 +5,11 @@
  */
 
 html.iOS {
-    ruby {
-        vertical-align: 1em;
-        margin-top: 0;
-    }
+  h1 ruby {
+    margin-top: -0.5em;
+  }
+  ruby {
+    vertical-align: 1em;
+    margin-top: 0;
+  }
 }
