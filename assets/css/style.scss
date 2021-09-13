@@ -3,38 +3,43 @@
 
 // Fonts
 @font-face {
-	font-family: 'M+1';
-	src: url('/assets/fonts/mplus-1-regular-sub.eot');
-	src: url('/assets/fonts/mplus-1-regular-sub.eot?#iefix') format('embedded-opentype'),
-		 url('/assets/fonts/mplus-1-regular-sub.woff') format('woff'),
-		 url('/assets/fonts/mplus-1-regular-sub.ttf') format('truetype');
+  font-family: 'M+1';
+  src: url('/assets/fonts/mplus-1-regular-sub.eot');
+  src: url('/assets/fonts/mplus-1-regular-sub.eot?#iefix')
+      format('embedded-opentype'),
+    url('/assets/fonts/mplus-1-regular-sub.woff') format('woff'),
+    url('/assets/fonts/mplus-1-regular-sub.ttf') format('truetype');
 }
 @font-face {
-	font-family: 'M+1M';
-	src: url('/assets/fonts/mplus-1m-regular-sub.eot');
-	src: url('/assets/fonts/mplus-1m-regular-sub.eot?#iefix') format('embedded-opentype'),
-		 url('/assets/fonts/mplus-1m-regular-sub.woff') format('woff'),
-		 url('/assets/fonts/mplus-1m-regular-sub.ttf') format('truetype');
+  font-family: 'M+1M';
+  src: url('/assets/fonts/mplus-1m-regular-sub.eot');
+  src: url('/assets/fonts/mplus-1m-regular-sub.eot?#iefix')
+      format('embedded-opentype'),
+    url('/assets/fonts/mplus-1m-regular-sub.woff') format('woff'),
+    url('/assets/fonts/mplus-1m-regular-sub.ttf') format('truetype');
 }
-$copy-font: 	'Noto Sans', 'source-han-sans-japanese', sans-serif;
-$mono-font: 	'M+1M', 'M+1', monospace;
-$title-font: 	'mencken-std', 'source-han-serif-japanese', serif;
+$copy-font: 'Noto Sans', 'source-han-sans-japanese', sans-serif;
+$mono-font: 'M+1M', 'M+1', monospace;
+$title-font: 'mencken-std', 'source-han-serif-japanese', serif;
 
 // Colors
-$primary:   	#444;
-$secondary: 	white;
-$tertiary:  	#983030;
-$tertiary-alt:	#ffb3cc;
+$primary: #444;
+$secondary: white;
+$tertiary: #983030;
+$tertiary-alt: #ffb3cc;
+$table-alt: #fff0f8;
+$table-alt-dark: #181818;
 
 // Sizes
-$em-size: 		12pt;
-$line-height: 	1.8;
-$pq-width:  	18rem;
+$em-size: 12pt;
+$line-height: 1.8;
+$pq-width: 18rem;
 $section-space: 6rem;
-$width:     	48rem;
+$width: 48rem;
 
 // Shadows
-$hover-shadow:	0 5px 5px -3px rgba(0,0,0,.2), 0 8px 10px 1px rgba(0,0,0,.14), 0 3px 14px 2px rgba(0,0,0,.12);
+$hover-shadow: 0 5px 5px -3px rgba(0, 0, 0, 0.2),
+  0 8px 10px 1px rgba(0, 0, 0, 0.14), 0 3px 14px 2px rgba(0, 0, 0, 0.12);
 
 // General styles
 @import 'elements', 'ruby', 'ruby_iOS';
@@ -47,21 +52,21 @@ $hover-shadow:	0 5px 5px -3px rgba(0,0,0,.2), 0 8px 10px 1px rgba(0,0,0,.14), 0 
 
 // Dark mode
 html.dark {
-	background:	#111;
-	color: $secondary;
-	@import 'elements_dark', 'blocks_dark';
+  background: #111;
+  color: $secondary;
+  @import 'elements_dark', 'blocks_dark';
 }
 
 // Mobile and print
 @media print, screen and (max-width: $width + $pq-width) {
-	@import 'blocks_noHang';
+  @import 'blocks_noHang';
 }
 @media print, screen and (max-width: $width + 2rem) {
-	@import 'elements_noHang';
+  @import 'elements_noHang';
 }
-@media print, screen and (max-width: 500px){
-	@import 'elements_mobile', 'blocks_mobile';
+@media print, screen and (max-width: 500px) {
+  @import 'elements_mobile', 'blocks_mobile';
 }
 @media print {
-	@import 'elements_print', 'blocks_print';
+  @import 'elements_print', 'blocks_print';
 }

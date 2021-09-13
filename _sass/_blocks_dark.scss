@@ -5,31 +5,41 @@
  */
 
 .divider {
-    .divider_normal,
-    .divider_fallback,
-    .divider_fancy {
-        .divider_dark {
-            display: inline;
-        }
-        .divider_light {
-            display: none;
-        }
+  .divider_normal,
+  .divider_fallback,
+  .divider_fancy {
+    .divider_dark {
+      display: inline;
     }
+    .divider_light {
+      display: none;
+    }
+  }
 }
 .hovercard {
-    background: #111;
-    outline: 1px solid $secondary;
+  background: #111;
+  outline: 1px solid $secondary;
 }
 .sidebar {
-    border: 1px solid $secondary !important;
-    th {
-        border-bottom: 1px solid $secondary !important;
+  border: 1px solid $secondary !important;
+  th {
+    border-bottom: 1px solid $secondary !important;
+  }
+}
+table {
+  &.content__table_grammar {
+    col:first-child {
+      background: $table-alt-dark;
     }
+    thead {
+      background: $table-alt-dark;
+    }
+  }
 }
 
 .__light {
-    display: none;
+  display: none;
 }
 .__dark {
-    display: block;
+  display: block;
 }

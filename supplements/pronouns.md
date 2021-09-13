@@ -5,32 +5,12 @@ series: implicitus
 title: English Personal Pronouns
 ---
 
-<style>
-    thead.r1,
-    col.c1 {
-        background: #fff0f8;
-    }
-    thead.r1 th,
-    table.t1 td {
-        border: 1px solid #888;
-        text-align: center;
-        vertical-align: middle;
-    }
-    thead.r1 th {
-        vertical-align: bottom !important;
-    }
-    html.dark thead.r1,
-    html.dark col.c1 {
-        background: #181818;
-    }
-</style>
-
-<table class="t1">
+<table class="content__table_grammar">
 <colgroup>
     <col span="3" class="c1"/>
     <col span="5" style="width:16%;" />
 </colgroup>
-<thead class="r1">
+<thead>
     <th colspan="3">Person/Gender</th>
     <th markdown="span">Nom.[^25]</th>
     <th markdown="span">Obj.[^26]</th>
