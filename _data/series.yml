@@ -1,48 +1,55 @@
-acmmin:
-    abbr: UWRF ACM
-    entry: Meeting
-    title: UWRF ACM Chapter
-    type: other
 atil:
-    abbr: ATIL
-    entry: Issue
-    title: All That Is Left
-    type: publication
-    url: https://atil.xyz/
+  abbr: ATIL
+  entry: Issue
+  title: All That Is Left
+  type: publication
+  url: https://atil.xyz/
 cute:
-    entry: Volume
-    title: Chloe &amp; Una&rsquo;s Tentacular Experience
-    type: series
+  abbr: CUTE
+  entry: Volume
+  title: Chloe &amp; Una&rsquo;s Tentacular Experience
+  type: series
+japan:
+  entry: Part
+  title: Japan
+  type: series
+kakuneko:
+  entry: Part
+  title: 描.猫 Dev Log
+  type: series
+language:
+  entry: Part
+  title: Studies in Syntax and Semiotics
+  type: series
 gravitydev:
-    entry: Part
-    title: Gravity Dev Log
-    type: series
+  entry: Part
+  title: Gravity Dev Log
+  type: series
 gthnglsnnrs:
-    abbr: 🥀👼🗡
-    entry: Part
-    title: Goth Angel Sinners
-    type: series
-    url: /gthnglsnnrs/
+  abbr: 🥀👼🗡
+  entry: Part
+  title: Goth Angel Sinners
+  type: series
+  url: /gthnglsnnrs/
 hakkenteki:
-    abbr: HKT
-    title: Hakkenteki
-    title_ja: 発見的
-    title_stylized: >
-        <ruby>
-            <rtc>はっけんてき</rtc>
-            <rbc>『発見的』</rbc>
-            <rtc>Hakkenteki</rtc>
-        </ruby>
-    type: series
-    url: /hakkenteki/
-implicitus:
-    entry: Supplement
-    title: Implicitus
-    type: other
-    url: /implicitus
+  abbr: HKT
+  title: Hakkenteki
+  title_ja: 発見的
+  title_stylized: >
+    <ruby>
+      <rtc>はっけんてき</rtc>
+      <rbc>『発見的』</rbc>
+      <rtc>Hakkenteki</rtc>
+    </ruby>
+  type: series
+  url: /hakkenteki/
+psych:
+  entry: Part
+  title: Issues in Language and Psychiatry
+  type: series
 uwrfvoice:
-    entry: Issue
-    set: Volume
-    title: Student Voice
-    type: publication
-    url: https://uwrfvoice.com/
+  entry: Issue
+  set: Volume
+  title: Student Voice
+  type: publication
+  url: https://uwrfvoice.com/

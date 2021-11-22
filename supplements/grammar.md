@@ -1,7 +1,5 @@
 ---
-entry: B
 layout: post
-series: implicitus
 title: Further Concepts in Grammar
 ---
 
