@@ -1,9 +1,21 @@
+aokan:
+  entry: Part
+  title: Aokan Development Log
+  type: series
 atil:
   abbr: ATIL
   entry: Issue
   title: All That Is Left
   type: publication
   url: https://atil.xyz/
+bopomo:
+  entry: Part
+  title: Bopomo Development Log
+  type: series
+color:
+  entry: Part
+  title: Colorimetry and Graphics
+  type: series
 cute:
   abbr: CUTE
   entry: Volume
@@ -11,7 +23,7 @@ cute:
   type: series
 japan:
   entry: Part
-  title: Japan
+  title: Japanese History, Language, and Culture
   type: series
 language:
   entry: Part
@@ -19,7 +31,7 @@ language:
   type: series
 gravitydev:
   entry: Part
-  title: Gravity Dev Log
+  title: Gravity Development Log
   type: series
 gthnglsnnrs:
   abbr: 🥀👼🗡
