@@ -3,6 +3,7 @@ author: una
 description: >
   Finally putting in the work for Aokan, a tool for streamlining searches for characters with the same VAs. In this first development log, I research different third-party APIs to acquire the necessary data and how I can implement them into the project's tech stack.
 entry: I
+hidden: true
 lang: en
 layout: post
 license: BY-ND

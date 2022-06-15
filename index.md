@@ -16,9 +16,17 @@ Here are the ten latest articles published to this site, in reverse
 chronological order (newest first), for a full list of every article check out
 the [archive][1].
 
-{% for post in site.posts limit:10 %}
-    {%- include preview.html post=post -%}
-{% endfor %}
+{%- assign counter = 0 -%}
+{%- for post in site.posts -%}
+  {%- if counter >= 10 -%}
+    {%- break -%}
+  {%- else -%}
+    {%- unless post.hidden -%}
+      {%- include preview.html post=post -%}
+      {%- assign counter = counter | plus: 1 -%}
+    {%- endunless -%}
+  {%- endif -%}
+{%- endfor %}
 
 **[More posts &rarr;][2]**
 
