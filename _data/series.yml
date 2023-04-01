@@ -39,18 +39,10 @@ gthnglsnnrs:
   title: Goth Angel Sinners
   type: series
   url: /gthnglsnnrs/
-hakkenteki:
-  abbr: HKT
-  title: Hakkenteki
-  title_ja: 発見的
-  title_stylized: >
-    <ruby>
-      <rtc>はっけんてき</rtc>
-      <rbc>『発見的』</rbc>
-      <rtc>Hakkenteki</rtc>
-    </ruby>
+ennui:
+  entry: Chapter
+  title: Ennui
   type: series
-  url: /hakkenteki/
 psych:
   entry: Part
   title: Issues in Language and Psychiatry
