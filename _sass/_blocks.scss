@@ -359,7 +359,8 @@ header {
   &.preview_span {
     column-span: all;
   }
-  .preview__byline {
+  .preview__byline,
+  .preview__series {
     margin: 0;
     text-indent: initial;
   }
@@ -397,6 +398,7 @@ header {
       position: absolute;
       .preview__byline,
       .preview__description,
+      .preview__series,
       .preview__title {
         color: white !important;
         padding: 0 1rem;
