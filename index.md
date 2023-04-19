@@ -1,7 +1,7 @@
 ---
 layout: post
 title: >
-    <i>Anarchy.</i>Websiteへようこそ!
+    <i>Anarchy.</i>Website
 ---
 
 Welcome to <em>Anarchy.</em>Website, a blog and archive created by Una Ada.

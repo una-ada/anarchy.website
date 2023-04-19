@@ -16,16 +16,15 @@
       &::first-letter {
         float: left;
         font-family: $title-font;
-        font-weight: bold;
-        font-size: $line-height * 2rem;
-        line-height: 1em;
-        margin-bottom: -1rem;
-        padding-right: 0.5rem;
+        font-size: 4rem;
+        font-variation-settings: "opsz" 48, "wght" 700;
+        line-height: 1.2em;
+        margin-bottom: -1.5rem;
+        padding-right: 0.3rem;
         text-transform: uppercase;
       }
       span:first-child {
         font-family: $title-font;
-        font-weight: bold;
         text-transform: uppercase;
       }
     }
