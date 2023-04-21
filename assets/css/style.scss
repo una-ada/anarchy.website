@@ -18,7 +18,7 @@
     url('/assets/fonts/mplus-1m-regular-sub.woff') format('woff'),
     url('/assets/fonts/mplus-1m-regular-sub.ttf') format('truetype');
 }
-$copy-font: 'Noto Sans', 'source-han-sans-japanese', sans-serif;
+$copy-font: 'Noto Serif', 'source-han-serif-japanese', serif;
 $mono-font: 'M+1M', 'M+1', monospace;
 $title-font: 'bodoni-pt-variable', 'source-han-serif-japanese', serif;
 
@@ -31,10 +31,11 @@ $table-alt: #fff0f8;
 $table-alt-dark: #181818;
 
 // Sizes
+$block-space: 2rem;
 $em-size: 12pt;
 $line-height: 1.8;
 $pq-width: 18rem;
-$section-space: 6rem;
+$section-space: 5rem;
 $width: 48rem;
 
 // Shadows

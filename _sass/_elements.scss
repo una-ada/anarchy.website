@@ -52,20 +52,23 @@ h1, h2, h3, h4 {
 	}
 }
 h1 {
-	font-size: 3.5rem;
+	font-size: 3rem;
 	margin: 0;
-  font-variation-settings: "opsz" 42, "wght" 700;
+  font-variation-settings: "opsz" 36, "wght" 400;
 }
 h2 {
-	font-size: 3rem;
-	margin-top: $section-space;
-	text-align: center;
-  font-variation-settings: "opsz" 36, "wght" 700;
+  font-size: 2.5rem;
+	margin: $section-space 0 $block-space 0;
+	// text-align: center;
+  font-variation-settings: "opsz" 30, "wght" 600;
+  sup {
+    font-variation-settings: "opsz" 24, "wght" 400;
+  }
 }
 h3 {
 	font-size: 2rem;
 	margin-top: 3rem;
-  font-variation-settings: "opsz" 24, "wght" 700;
+  font-variation-settings: "opsz" 24, "wght" 600;
 }
 h4 {
 	font-size: 1.5rem;
