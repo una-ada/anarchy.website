@@ -22,27 +22,24 @@
 	})(document);
 </script>
 <!-- MathJax -->
-<script type="text/x-mathjax-config">
-	MathJax.Ajax.config.path["mhchem"] = "https://cdnjs.cloudflare.com/ajax/libs/mathjax-mhchem/3.1.0";
-	MathJax.Hub.Config({
-		tex2jax: {
-			inlineMath: [['$','$'], ['\\(','\\)']],
-			processEscapes: true
-		},
-		TeX: {extensions: ["[mhchem]/mhchem.js"]},
-		"HTML-CSS": {
-			availableFonts : ["STIX"],
-	        preferredFont : "STIX",
-	        webFont : "STIX-Web",
-	        imageFont : null,
-			matchFontHeight: true,
-			scale: 90,
-			linebreaks: {automatic: true}
-		}
-	});
-	MathJax.Hub.setRenderer("HTML-CSS");
+<script type="text/javascript">
+	MathJax = {
+    tex: {
+      inlineMath: [['$','$'], ['\\(','\\)']],
+      processEscapes: true,
+      autoload: {
+        color: [],
+        colorv2: ['color']
+      },
+      packages: {'[+]': ['noerrors']}
+    },
+    chtml: {
+      matchFontHeight: true
+    }
+	};
 </script>
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML" async></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 <!-- Twemoji -->
 <script type="text/javascript" src="https://twemoji.maxcdn.com/2/twemoji.min.js"></script>
 <!-- Prism -->
