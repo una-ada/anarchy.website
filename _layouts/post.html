@@ -47,6 +47,10 @@
         {%- if page.subtitle -%}
             <h3 class="title__subtitle">{{ page.subtitle }}</h3>
         {%- endif -%}
+        <div class="title__byline">
+            {{ l10n_authors }}{{ l10n_date }}
+        </div>
+        <!--
         {%- if page.image and page.replace_title and page.author and page.date -%}
             <div class="title__byline">
                 {{ l10n_authors }}{{ l10n_date }}
@@ -54,6 +58,7 @@
         {%- else -%}
             {% include divider_fancy.html byline=true %}
         {%- endif -%}
+        -->
     </div>
     {%- if paginator -%}
         {%- include navigation.html -%}
