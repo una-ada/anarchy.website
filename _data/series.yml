@@ -12,9 +12,8 @@ bopomo:
   entry: Part
   title: Bopomo Development Log
   type: series
-color:
-  entry: Part
-  title: Colorimetry and Graphics
+optics:
+  title: Optics and Graphics
   type: series
 cute:
   abbr: CUTE
