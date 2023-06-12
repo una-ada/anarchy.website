@@ -1,54 +1,52 @@
 ---
 author: una
-date: 2021-03-11
+date: 2023-05-09
 lang: en
 layout: post
-subtitle: Samples and references for text and figure formatting
-title: Site Formatting Info
+subtitle: Samples and References
+title: Site Formatting
 ---
 
+<!-- prettier-ignore -->
 - toc
 {:toc}
 
-## Preface
+## I. _Writing Style Guide_
 
+### I-1. Citations
 
-## I. _Kramdown Preprocessor Features_
-{:#i}
+## II. _Preprocessing_
 
-### I.1 Table of Contents
+### II.1 Jekyll Headers
 
-### I.2 Footnotes
+### II.2 Liquid Includes
 
-## II. _Cascading Style Sheets Styles_
-{:#ii}
+### II.3 Markdown Syntax
 
-### II.1 Paragraph Styles
-{:#ii-1}
+### II.4 Kramdown Additions
 
-### II.2 Pullquotes
-{:#ii-2}
+## III. _Processing_
 
-### II.3 Ruby Text
-{:ii-3}
+### III.1 Paragraph Styles
 
-## III. _JavaScript Postprocessors_
-{:#iii}
+### III.2 Pull-Quotes
 
-### III-1. MathJax
-{:#iii-1}
+### III.3 Ruby Text
 
-### III-2. Twemoji
-{:#iii-2}
+### III.4 Tables
 
-### III-3. Prism.js
-{:#iii-3}
+## IV. _Postprocessing_
 
-### III-4. Proprietary Utilities
-{:#iii-4}
+### IV-1. MathJax
 
-## IV. _Writing Style Guide_
-{:#iv}
+### IV-2. Twemoji
 
-### IV-1. Citations
-{:#iv-1}
+### IV-3. Prism.js
+
+### IV-4. Proprietary Utilities
+
+## Appendix A. _Notes_
+
+<!-- prettier-ignore -->
+- footnotes
+{:footnotes}
