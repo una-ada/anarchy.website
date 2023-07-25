@@ -6,6 +6,8 @@ description: >
     English and overall just making myself look like a fool.
 layout: post
 license: BY-SA
+series: japan
+series_index: 0
 tags: maps blog history agroforestry agriculture geography
 title: The Windbreak Forest Lattice in Hokkaido
 ---
@@ -158,7 +160,7 @@ planning lab, the only section that I'm really interested in is [2.1 Development
 Plan from the Meiji Era (明治期の開拓計画)][44].
 
 ![][50]
-**FIGURE 3.**  Emperor Meiji (明治天皇), _source: _[Wikimedia][50]_
+**FIGURE 3.**  Emperor Meiji (明治天皇), _source: [Wikimedia][50]_
 {: .pullquote .pullquote_image .pullquote_left}
 
 Through careful searching of random combinations of characters around what I was
