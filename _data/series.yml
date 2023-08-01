@@ -12,6 +12,9 @@ bopomo:
   entry: Part
   title: Bopomo Development Log
   type: series
+etymology:
+  title: Etymology and Onomastics
+  type: series
 optics:
   title: Optics and Graphics
   type: series
