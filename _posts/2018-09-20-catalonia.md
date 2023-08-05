@@ -14,7 +14,7 @@ permalink: /gthnglsnnrs/2/notes
 replace_title: true
 series: gthnglsnnrs
 tags: podcast notes outline collaboration
-title: "Goth Angel Sinners Pt. II: <i>Catalonia</i> Notes"
+title: "<i>Catalonia</i>"
 ---
 
  - Introduction

@@ -15,7 +15,7 @@ permalink: /gthnglsnnrs/1/notes
 replace_title: true
 series: gthnglsnnrs
 tags: podcast notes outline collaboration
-title: "Goth Angel Sinners Pt. I: <i>Shoplifting</i> Notes"
+title: "<i>Shoplifting</i>"
 ---
 
  - Intro

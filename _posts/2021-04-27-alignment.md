@@ -15,7 +15,7 @@ replace_title: true
 series: cute
 tags: podcast notes outline collaboration
 title: >
-    Chloe &amp; Una&rsquo;s Tentacular Experience Volume 1: <i>Alignment You! You!</i> Notes
+    <i>Alignment You! You!</i>
 ---
 
 - toc

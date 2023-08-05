@@ -18,8 +18,7 @@ replace_title: true
 series: cute
 tags: podcast notes outline collaboration
 title: >
-    Chloe &amp; Una&rsquo;s Tentacular Experience Volume 2: <i>Your 
-    Neighborhood Tentacle Shop</i> Notes
+    <i>Your Neighborhood Tentacle Shop</i>
 ---
 
 - toc

@@ -13,7 +13,7 @@ permalink: /gthnglsnnrs/5/notes
 replace_title: true
 series: gthnglsnnrs
 tags: podcast notes outline collaboration
-title: "Goth Angel Sinners Pt. V: <i>Post-Scarcity</i> Notes"
+title: "<i>Post-Scarcity</i>"
 ---
 
 - toc

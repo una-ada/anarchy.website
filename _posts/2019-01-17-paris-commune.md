@@ -13,7 +13,7 @@ permalink: /gthnglsnnrs/4/notes
 replace_title: true
 series: gthnglsnnrs
 tags: podcast notes outline collaboration
-title: "Goth Angel Sinners Pt. IV: <i>The Paris Commune</i> Notes"
+title: "<i>The Paris Commune</i>"
 ---
 
 
