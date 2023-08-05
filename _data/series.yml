@@ -1,17 +1,9 @@
-aokan:
-  entry: Part
-  title: Aokan Development Log
-  type: series
 atil:
   abbr: ATIL
   entry: Issue
   title: All That Is Left
   type: publication
   url: https://atil.xyz/
-bopomo:
-  entry: Part
-  title: Bopomo Development Log
-  type: series
 etymology:
   title: Etymology and Onomastics
   type: series

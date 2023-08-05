@@ -3,6 +3,7 @@ author: una
 description: >
   Some thoughts about library classification as I try to find one to use for my
    own collection of books, documents, and various webpages.
+hidden: true
 layout: post
 subtitle: >
   &amp; Some Critiques Thereof
