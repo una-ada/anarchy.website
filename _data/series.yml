@@ -5,23 +5,13 @@ atil:
   type: publication
   url: https://atil.xyz/
 etymology:
+  entry: No.
   title: Etymology and Onomastics
-  type: series
-optics:
-  title: Optics and Graphics
   type: series
 cute:
   abbr: CUTE
-  entry: Volume
+  entry: Vol.
   title: Chloe &amp; Una&rsquo;s Tentacular Experience
-  type: series
-japan:
-  entry: Part
-  title: Japanese History and Culture
-  type: series
-language:
-  entry: Part
-  title: Studies in Syntax and Semiotics
   type: series
 gravitydev:
   entry: Part
@@ -36,10 +26,6 @@ gthnglsnnrs:
 ennui:
   entry: Chapter
   title: Ennui
-  type: series
-psych:
-  entry: Part
-  title: Issues in Language and Psychiatry
   type: series
 uwrfvoice:
   entry: Issue

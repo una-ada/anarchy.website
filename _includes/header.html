@@ -32,10 +32,10 @@
             {%- if series.type == "series" -%}
                 &nbsp;/&nbsp;
                 {%- if series.url -%}<a href="{{series.url}}">{%- endif -%}
-                    {{ l10n_series }}
+                  {{ l10n_series }}
                 {%- if series.url -%}</a>{%- endif -%}
                 {%- if page.entry -%}
-                    &nbsp;/&nbsp;
+                    ,&nbsp;
                     {%- if series.entry -%}
                         {{ series.entry }}&nbsp;
                     {%- endif -%}
