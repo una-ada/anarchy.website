@@ -9,12 +9,9 @@ Herein lies articles on a variety of topics, ranging from linguistics to
 history, from gender issues to anime, and from programming to physics. Despite
 the name this site is not exclusively about anarchism, but the content here is
 primarily written through the lens of anarchy.
+{:.content__p_noindent}
 
-## Recent
-
-Here are the ten latest articles published to this site, in reverse
-chronological order (newest first), for a full list of every article check out
-the [archive][1].
+---
 
 {%- assign counter = 0 -%}
 {%- for post in site.posts -%}
@@ -29,6 +26,6 @@ the [archive][1].
 {%- endfor %}
 
 **[More posts &rarr;][2]**
+{:.content__p_centered}
 
-[1]:    /archive/
 [2]:    /archive/2
