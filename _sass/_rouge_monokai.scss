@@ -1,0 +1,205 @@
+/*
+ * - https://github.com/rouge-ruby/rouge/wiki/List-of-tokens
+ * - https://github.com/rouge-ruby/rouge/blob/master/lib/rouge/themes/monokai.rb
+ */
+
+$black: #000000;
+$bright_green: #a6e22e;
+$bright_pink: #f92672;
+$carmine: #960050;
+$dark: #49483e;
+$dark_grey: #888888;
+$dark_red: #aa0000;
+$dimgrey: #75715e;
+$dimgreen: #324932;
+$dimred: #493131;
+$emperor: #555555;
+$grey: #999999;
+$light_grey: #aaaaaa;
+$light_violet: #ae81ff;
+$soft_cyan: #66d9ef;
+$soft_yellow: #e6db74;
+$very_dark: #1e0010;
+$whitish: #f8f8f2;
+$orange: #f6aa11;
+$white: #ffffff;
+
+pre.highlight {
+  padding: 1em;
+  margin: 0.5em 0;
+  overflow: auto;
+}
+:not(pre) > code.highlight {
+  border-radius: 0.3em;
+  white-space: normal;
+}
+.highlight {
+  background: $dark;
+  color: $whitish;
+  text-align: left;
+  white-space: pre;
+  word-spacing: normal;
+  word-break: normal;
+  word-wrap: normal;
+  tab-size: 4;
+  hyphens: none;
+  table {
+    td {
+      padding: 5px;
+    }
+    pre {
+      margin: 0;
+    }
+  }
+  .c,  // Comment
+  .cm, // Comment.Multiline
+  .c1  // Comment.Single
+  {
+    color: $dimgrey;
+    font-style: italic;
+  }
+  .cp  // Comment.Preproc
+  {
+    color: $dimgrey;
+    font-weight: bold;
+  }
+  .cs  // Comment.Special
+  {
+    color: $dimgrey;
+    font-style: italic;
+    font-weight: bold;
+  }
+  .err // Error
+  {
+    background: $very_dark;
+    color: $carmine;
+  }
+  .gi  // Generic.Inserted
+  {
+    color: $white;
+    background: $dimgreen;
+  }
+  .gd  // Generic.Deleted
+  {
+    color: $dark_red;
+  }
+  .ge  // Generic.Emph
+  {
+    color: $black;
+    font-style: italic;
+  }
+  .gr, // Generic.Error
+  .gt  // Generic.Traceback
+  {
+    color: $dark_red;
+  }
+  .gh // Generic.Heading
+  {
+    color: $grey;
+  }
+  .go  // Generic.Output
+  {
+    color: $dark_grey;
+  }
+  .gp  // Generic.Prompt
+  {
+    color: $emperor;
+  }
+  .gs // Generic.Strong
+  {
+    font-weight: bold;
+  }
+  .gu  // Generic.Subheading
+  {
+    color: $light_grey;
+  }
+  .k,  // Keyword
+  .kc, // Keyword.Constant
+  .kd, // Keyword.Declaration
+  .kp, // Keyword.Pseudo
+  .kr, // Keyword.Reserved
+  .kt  // Keyword.Type
+  {
+    color: $soft_cyan;
+    font-weight: bold;
+  }
+  .kn, // Keyword.Namespace
+  .o,  // Operator
+  .ow  // Operator.Word
+  {
+    color: $bright_pink;
+    font-weight: bold;
+  }
+  .l,  // Literal
+  .m,  // Literal.Number
+  .mf, // Literal.Number.Float
+  .mh, // Literal.Number.Hex
+  .mi, // Literal.Number.Integer
+  .il, // Literal.Number.Integer.Long
+  .mo, // Literal.Number.Oct
+  .mx, // Literal.Number.Hex
+  .mb, // Literal.Number.Bin
+  .se  // Literal.String.Escape
+  {
+    color: $soft_cyan;
+  }
+  .ld, // Literal.Date
+  .s,  // Literal.String
+  .sb, // Literal.String.Backtick
+  .sc, // Literal.String.Char
+  .sd, // Literal.String.Doc
+  .s2, // Literal.String.Double
+  .sh, // Literal.String.Heredoc
+  .si, // Literal.String.Interpol
+  .sx, // Literal.String.Other
+  .sr, // Literal.String.Regex
+  .s1, // Literal.String.Single
+  .ss  // Literal.String.Symbol
+  {
+    color: $soft_yellow;
+  }
+  .na  // Name.Attribute
+  {
+    color: $bright_green;
+  }
+  .nc, // Name.Class
+  .nd, // Name.Decorator
+  .ne, // Name.Exception
+  .nf  // Name.Function
+  {
+    color: $bright_green;
+    font-weight: bold;
+  }
+  .no  // Name.Constant
+  {
+    color: $soft_cyan;
+  }
+  .g,  // Generic
+  .gl, // Generic.Lineno
+  .n,  // Name
+  .nb, // Name.Builtin
+  .bp, // Name.Builtin.Pseudo
+  .ni, // Name.Entity
+  .py, // Name.Property
+  .nn, // Name.Namespace
+  .nx, // Name.Other
+  .nv, // Name.Variable
+  .vc, // Name.Variable.Class
+  .vg, // Name.Variable.Global
+  .vi, // Name.Variable.Instance
+  .p,  // Punctuation
+  .w,  // Text.Whitespace
+  .x   // Other
+  {
+    color: $whitish;
+  }
+  .nl  // Name.Label
+  {
+    color: $whitish;
+    font-weight: bold;
+  }
+  .nt  // Name.Tag
+  {
+    color: $bright_pink;
+  }
+}

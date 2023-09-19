@@ -49,7 +49,7 @@ $hover-shadow: 0 5px 5px -3px rgba(0, 0, 0, 0.2),
 @import 'blocks';
 
 // Handle libraries
-@import 'rouge', 'mathjax', 'twemoji';
+@import 'rouge_monokai', 'mathjax', 'twemoji';
 
 // Dark mode
 html.dark {
