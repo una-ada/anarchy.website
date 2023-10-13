@@ -2,11 +2,13 @@
 author: una
 description: >
   Finally putting in the work for Aokan, a tool for streamlining searches for characters with the same VAs. In this first development log, I research different third-party APIs to acquire the necessary data and how I can implement them into the project's tech stack.
-hidden: true
+entry: 1
 lang: en
 layout: post
 license: BY-ND
-subtitle: Third-Party API Integration
+series: aokan
+series_index: 1
+subtitle: Third-Party API Exploration
 tags: anime api blog graphql javascript nodejs programming typescript
 title: Anime Character Search
 ---
