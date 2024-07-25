@@ -1,5 +1,6 @@
 ---
 author: una
+hidden: true
 layout: post
 license: BY-SA
 tags: blog self

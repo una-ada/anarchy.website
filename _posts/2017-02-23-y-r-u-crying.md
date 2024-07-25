@@ -1,5 +1,6 @@
 ---
 author: una
+hidden: true
 layout: post
 monospace: true
 tags: txt

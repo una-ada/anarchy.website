@@ -1,5 +1,6 @@
 ---
 author: redacted
+hidden: true
 layout: post
 title: Building a Flight Computer
 tags: programming school proposal physics electronics

@@ -2,6 +2,7 @@
 author:
 - redacted
 - michaubr2
+hidden: true
 layout: post
 title: Calculating Heat Efficiency on Campus Using Infrared Imaging Project Proposal
 tags: proposal research infrared-imaging physics

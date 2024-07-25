@@ -3,6 +3,7 @@ author: redacted
 description: >
   This post was written for a creative writing course, originally titled I'm
   Just a Lawyer.
+hidden: true
 lang: en
 layout: post
 license: BY-NC-SA
