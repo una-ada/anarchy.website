@@ -9,6 +9,7 @@ description: >
     for this exciting discussion about loss prevention, optimization, morality,
     and absentee ownership.
 entry: I Notes
+hidden: true
 image: /assets/img/gas/shoplifting.jpg
 layout: post
 permalink: /gthnglsnnrs/1/notes

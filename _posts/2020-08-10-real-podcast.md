@@ -5,6 +5,7 @@ author:
 description: >
     A real episode.
 entry: VI Notes
+hidden: true
 image: /assets/img/gas/realpodcast.jpg
 layout: post
 permalink: /gthnglsnnrs/6/notes

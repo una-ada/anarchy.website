@@ -8,6 +8,7 @@ description: >
     Carico and discussions about the CNT, Revolutionary Catalonia, the Spanish
     Civil War, and the 2017 Catalan Independence Referendum.
 entry: II Notes
+hidden: true
 image: /assets/img/gas/catalonia.jpg
 layout: post
 permalink: /gthnglsnnrs/2/notes

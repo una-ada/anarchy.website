@@ -7,6 +7,7 @@ description: >
     ecological necessity and implications of post-scarcity as a quote unquote
     economic mode.
 entry: V Notes
+hidden: true
 image: /assets/img/gas/postscarcity.jpg
 layout: post
 permalink: /gthnglsnnrs/5/notes

@@ -7,6 +7,7 @@ description: >
     We're not a history podcast and nobody actually knows what happened in Paris
     in 1871.
 entry: IV Notes
+hidden: true
 image: /assets/img/gas/paris.jpg
 layout: post
 permalink: /gthnglsnnrs/4/notes
