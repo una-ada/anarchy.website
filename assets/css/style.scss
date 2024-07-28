@@ -4,19 +4,28 @@
 // Fonts
 @font-face {
   font-family: 'M+1';
-  src: url('/assets/fonts/mplus-1-regular-sub.eot');
-  src: url('/assets/fonts/mplus-1-regular-sub.eot?#iefix')
+  src: url('/assets/fonts/m+1.eot');
+  src: url('/assets/fonts/m+1.eot?#iefix')
       format('embedded-opentype'),
-    url('/assets/fonts/mplus-1-regular-sub.woff') format('woff'),
-    url('/assets/fonts/mplus-1-regular-sub.ttf') format('truetype');
+    url('/assets/fonts/m+1.woff') format('woff'),
+    url('/assets/fonts/m+1.ttf') format('truetype');
 }
 @font-face {
   font-family: 'M+1M';
-  src: url('/assets/fonts/mplus-1m-regular-sub.eot');
-  src: url('/assets/fonts/mplus-1m-regular-sub.eot?#iefix')
+  src: url('/assets/fonts/m+1m.eot');
+  src: url('/assets/fonts/m+1m.eot?#iefix')
       format('embedded-opentype'),
-    url('/assets/fonts/mplus-1m-regular-sub.woff') format('woff'),
-    url('/assets/fonts/mplus-1m-regular-sub.ttf') format('truetype');
+    url('/assets/fonts/m+1m.woff') format('woff'),
+    url('/assets/fonts/m+1m.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Noto Serif';
+  src: url('/assets/fonts/notoserif.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Noto Serif';
+  font-style: italic;
+  src: url('/assets/fonts/notoserif-italic.ttf') format('truetype');
 }
 $copy-font: 'Noto Serif', 'source-han-serif-japanese', serif;
 $mono-font: 'M+1M', 'M+1', monospace;

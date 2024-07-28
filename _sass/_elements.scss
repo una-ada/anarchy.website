@@ -1,7 +1,7 @@
 /**
  *  @file Override default vendor styles for elements
  *  @author Una Ada <una@anarchy.website>
- *  December 29, 2020 - March 1, 2021
+ *  December 29, 2020 - July 27, 2024
  */
 
 a {
@@ -15,6 +15,7 @@ blockquote {
 }
 body {
 	font-family: $copy-font;
+  font-style: normal;
 	margin: 1.5rem auto 0 auto;
 	width: $width;
 }
