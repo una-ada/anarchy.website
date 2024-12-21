@@ -67,24 +67,6 @@
         {{content}}
     </div>
     {%- include navigation.html -%}
-    <script>twemoji.parse(document.body, {
-        //  Use SVG emojis
-        folder: 'svg',
-        ext: '.svg',
-        callback: function(icon, op, variant){
-            //  Emoji rendering exclusions
-            //  (mostly text-like symbols that are better handled by the font)
-            switch(icon){
-                case '203c':    // Double exclamation
-                case '2640':    // Female sign
-                case '2642':    // Male sign
-                case '26a7':    // Transgender sign
-                case '3030':    // Wavy dash
-                    return false;
-            }
-            return ''.concat(op.base, op.size, '/', icon, op.ext);
-        }
-    })</script>
     {%include footer.html%}
 </body>
 </html>
