@@ -30,7 +30,7 @@
         {%- else -%}
             <h1 class="title__heading{% unless page.author and page.date %}
                 title__heading_alone
-            {% endunless %}"><!-- Sometimes strip_html simply isn't enough (like ruby text) -->
+            {% endunless %}">
                 {%- if page.stylized_title -%}
                     {{page.stylized_title}}
                 {%- else -%}
@@ -40,9 +40,6 @@
                     , {{ paginator.page }} of {{ paginator.total_pages }}
                 {%- endif -%}
             </h1>
-            {%- unless page.author and page.date -%}
-                <!-- <hr /> -->
-            {%- endunless -%}
         {%- endif -%}
         {%- if page.subtitle -%}
             <h3 class="title__subtitle">{{ page.subtitle }}</h3>
@@ -50,15 +47,6 @@
         <div class="title__byline">
             {{ l10n_authors }}{{ l10n_date }}
         </div>
-        <!--
-        {%- if page.image and page.replace_title and page.author and page.date -%}
-            <div class="title__byline">
-                {{ l10n_authors }}{{ l10n_date }}
-            </div>
-        {%- else -%}
-            {% include divider_fancy.html byline=true %}
-        {%- endif -%}
-        -->
     </div>
     {%- if paginator -%}
         {%- include navigation.html -%}
