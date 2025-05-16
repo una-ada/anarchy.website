@@ -66,6 +66,9 @@ h2 {
     font-variation-settings: "opsz" 24, "wght" 400;
   }
 }
+h2 + h4 { // copy subtitles
+  margin: -2rem 0 2rem 0;
+}
 h3 {
 	font-size: 2rem;
 	margin-top: 3rem;
