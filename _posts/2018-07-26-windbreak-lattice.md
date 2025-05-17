@@ -6,9 +6,7 @@ description: >
     English and overall just making myself look like a fool.
 layout: post
 license: BY-SA
-series: japan
-series_index: 0
-tags: maps blog history agroforestry agriculture geography
+tags: maps history agroforestry agriculture geography japan hokkaido
 title: The Windbreak Forest Lattice in Hokkaido
 ---
 
