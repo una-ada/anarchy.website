@@ -95,7 +95,11 @@ _fnh = FootNoteHover = {
     var a = _fnh.cardSrc.getBoundingClientRect(),
       b = document.getElementsByTagName('body')[0].getBoundingClientRect(),
       c = card.getBoundingClientRect();
-    card.style.top = a.bottom + 'px';
+    card.style.top =
+      Math.max(
+        a.bottom + c.height > window.innerHeight ? a.top - c.height : a.bottom,
+        0
+      ) + 'px';
     card.style.left =
       (a.left + a.width / 2 + c.width / 2 > window.innerWidth
         ? window.innerWidth - c.width
