@@ -265,13 +265,15 @@ footer {
 .footnotes {
   column-count: 2;
   font-size: 0.8rem;
+  font-variant-numeric: lining-nums;
   line-height: normal;
   margin: 1rem 0;
   ol {
     margin: 0;
     li {
       break-inside: avoid-column;
-      line-height: normal;
+      // Using "line-height: normal" sets height per font, do not do that.
+      line-height: 1.5;
       p {
         line-height: normal;
         margin: 0.5rem 0;

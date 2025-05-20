@@ -8,6 +8,9 @@ a {
 	text-decoration: underline;
 	color: $tertiary;
 }
+abbr {
+  font-variant: all-small-caps;
+}
 blockquote {
 	border-left: 2px solid $primary;
 	margin: 0;
@@ -15,7 +18,9 @@ blockquote {
 }
 body {
 	font-family: $copy-font;
+  font-feature-settings: "liga";
   font-style: normal;
+  font-variant-numeric: oldstyle-nums;
 	margin: 1.5rem auto 0 auto;
 	width: $width;
 }
