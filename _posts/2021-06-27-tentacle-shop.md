@@ -16,7 +16,7 @@ layout: post
 permalink: /cute/2/notes
 replace_title: true
 series: cute
-tags: podcast notes outline collaboration
+tags: podcast manga
 title: >
     <i>Your Neighborhood Tentacle Shop</i>
 ---

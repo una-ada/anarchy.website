@@ -5,7 +5,7 @@ description: >
     the store against which it is done.
 layout: post
 license: ZERO
-tags: capitalism theft
+tags: economics
 title: "Does Shoplifting 'Hurt' Workers?"
 ---
 

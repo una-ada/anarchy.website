@@ -2,7 +2,6 @@
 author: redacted
 layout: post
 title: Playing an FPS on a Drawing Tablet
-tags: column
 ---
 
 *This post was submitted to [Student Voice](https://uwrfvoice.com) but not

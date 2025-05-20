@@ -14,7 +14,7 @@ layout: post
 permalink: /gthnglsnnrs/2/notes
 replace_title: true
 series: gthnglsnnrs
-tags: podcast notes outline collaboration
+tags: podcast politics
 title: "<i>Catalonia</i>"
 ---
 

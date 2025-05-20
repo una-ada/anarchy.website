@@ -13,7 +13,7 @@ layout: post
 permalink: /cute/1/notes
 replace_title: true
 series: cute
-tags: podcast notes outline collaboration
+tags: podcast anime manga
 title: >
     <i>Alignment You! You!</i>
 ---

@@ -15,7 +15,7 @@ layout: post
 permalink: /gthnglsnnrs/1/notes
 replace_title: true
 series: gthnglsnnrs
-tags: podcast notes outline collaboration
+tags: podcast economics
 title: "<i>Shoplifting</i>"
 ---
 

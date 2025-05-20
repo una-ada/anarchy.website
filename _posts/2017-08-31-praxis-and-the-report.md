@@ -1,7 +1,7 @@
 ---
 author: una
 layout: post
-tags: leftism dsa
+tags: politics
 title: Praxis and the "Report from the Real Minority"
 ---
 

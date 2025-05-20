@@ -3,7 +3,7 @@ author: una
 hidden: true
 layout: post
 monospace: true
-tags: txt
+tags: poetry
 title: y r u crying.txt
 ---
 

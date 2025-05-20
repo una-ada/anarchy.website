@@ -13,7 +13,7 @@ layout: post
 permalink: /gthnglsnnrs/5/notes
 replace_title: true
 series: gthnglsnnrs
-tags: podcast notes outline collaboration
+tags: podcast politics economics
 title: "<i>Post-Scarcity</i>"
 ---
 

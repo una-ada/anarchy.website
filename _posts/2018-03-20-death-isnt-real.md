@@ -7,7 +7,7 @@ description: >
 layout: post
 license: BY-SA
 title: Death isn't real and neither are you
-tags: metaphysics death philosophy manyworlds
+tags: death philosophy
 ---
 
 For any of this to make sense, we're going to have to describe some basic

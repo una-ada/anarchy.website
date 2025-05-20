@@ -4,7 +4,7 @@ entry: "001"
 layout: post
 series: atil
 title: Introduction to Syndicalism
-tags: atil leftism syndicalism anarchism article
+tags: politics
 license: BY-SA
 ---
 

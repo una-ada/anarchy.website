@@ -5,7 +5,7 @@ layout: post
 series: uwrfvoice
 set: 102
 title: The feasibility of spontaneously morphing into an octopus
-tags: column student-voice
+tags: student-voice
 ---
 
 *This post was published in [Student Voice](http://uwrfvoice.com) [Volume 102,

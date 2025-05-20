@@ -2,7 +2,7 @@
 author: redacted
 layout: post
 title: Awkward Smile Day
-tags: short-story fiction
+tags: short-story
 ---
 
 I open the door and the bell rings. That familiar electronic bell that is really

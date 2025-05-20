@@ -2,7 +2,7 @@
 author: una
 layout: post
 license: BY-NC-SA
-tags: review absurdism philosophy anime
+tags: review philosophy anime
 title: The Absurdity of <i>Madoka Magica</i>
 ---
 

@@ -11,7 +11,7 @@ layout: post
 permalink: /gthnglsnnrs/6/notes
 replace_title: true
 series: gthnglsnnrs
-tags: podcast notes outline collaboration
+tags: podcast
 title: "Goth Angel Sinners Pt. VI: <i>A Real Podcast</i> Notes"
 ---
 

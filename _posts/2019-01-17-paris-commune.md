@@ -13,7 +13,7 @@ layout: post
 permalink: /gthnglsnnrs/4/notes
 replace_title: true
 series: gthnglsnnrs
-tags: podcast notes outline collaboration
+tags: podcast history politics
 title: "<i>The Paris Commune</i>"
 ---
 

@@ -5,7 +5,7 @@ layout: post
 series: uwrfvoice
 set: 102
 title: SPS and Chem Demons Host Annual Haunted Lab
-tags: article journalism student-voice
+tags: student-voice
 ---
 
 *This post was published in [Student Voice](https://uwrfvoice.com) [Volume 102
