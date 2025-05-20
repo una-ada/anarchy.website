@@ -249,6 +249,7 @@ footer {
   }
 }
 .footnote {
+  font-variant-numeric: lining-nums;
   text-decoration: none;
   &::after {
     content: ']';
