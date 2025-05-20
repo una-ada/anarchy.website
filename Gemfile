@@ -7,3 +7,5 @@ gem 'jekyll-paginate', group: :jekyll_plugins
 gem 'jekyll-feed', group: :jekyll_plugins
 
 gem "webrick", "~> 1.7"
+
+gem "jekyll-titles-from-headings", "~> 0.5.3"

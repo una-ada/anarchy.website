@@ -11,17 +11,13 @@
         {%- if post.author -%}
             {%- for author in post.author -%}
                 {%- assign auth = site.data.people[author] -%}
-                {%- if auth.url -%}
-                    <a href="{{auth.url}}">
-                {%- endif -%}
+                <a href="/author/{{author}}">
                 {%- if auth.name_ja -%}
                     {{ auth.name_ja }}
                 {%- else -%}
                     {{ auth.name }}
                 {%- endif -%}
-                {%- if auth.url -%}
-                    </a>
-                {%- endif -%}
+                </a>
                 、
             {%- endfor -%}
         {%- endif -%}
@@ -90,13 +86,7 @@
                 {%- if forloop.last == true and forloop.length > 1 -%}
                     and&#32;
                 {%- endif -%}
-                {%- if auth.url -%}
-                    <a href="{{auth.url}}">
-                {%- endif -%}
-                {{ auth.name }}
-                {%- if auth.url -%}
-                    </a>
-                {%- endif -%}
+                <a href="/author/{{author}}">{{ auth.name }}</a>
                 {%- unless forloop.length == 2 and forloop.index == 1 -%}
                     ,
                 {%- endunless -%}

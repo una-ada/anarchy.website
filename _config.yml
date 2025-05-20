@@ -15,6 +15,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-paginate
+  - jekyll-titles-from-headings
 repository: una-ada/anarchy.website
 sass:
     sass_dir: _sass
