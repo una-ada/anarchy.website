@@ -94,7 +94,11 @@ _fnh = (FootNoteHover = {
             b = document.getElementsByTagName('body')[0].getBoundingClientRect(),
             c = card.getBoundingClientRect();
         card.style.top = a.bottom + 'px';
-        card.style.left = (a.left + (a.width/2)) - (c.width/2) + 'px';
+        card.style.left = (
+          (a.left + (a.width/2) + (c.width/2)) > window.innerWidth
+            ? window.innerWidth - c.width
+            : Math.max(0, (a.left + (a.width/2)) - (c.width/2))
+          ) + 'px';
         card.style.opacity = 1;
 		_fnh.onOpen();
 		return false;
