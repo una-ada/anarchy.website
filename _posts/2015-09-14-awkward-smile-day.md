@@ -9,7 +9,7 @@ I open the door and the bell rings. That familiar electronic bell that is really
 more of a beep but tradition says it's a bell and there's no arguing with
 tradition. I am thirsty and really need to raise my blood sugar level before I
 faint. To this end I walk past the cashier without so much as looking up.
-{: .content__p_dropcap}
+{: .dropcap}
 
 "Hello," she greets me. I don't bother to reply with words for fear of
 dehydration, so I merely wave then hurry on past.
@@ -27,12 +27,12 @@ pulling out my credit card. I zealously swipe my card, perhaps too quickly,
 through the card slot.
 
 It didn't read the card; I definitely swiped too fast.
-{: .content__p_noindent}
+{: .no-indent}
 
 I swipe it again, this time a bit slower. "Authorizing..." said the machine as
 if to taunt me. It eventually claims to have authorized the card and completed
 the transaction.
-{: .content__p_noindent}
+{: .no-indent}
 
 "Would you like your receipt?" she asks.
 
@@ -62,7 +62,7 @@ to each one. It is mandatory after all. Fridays are awkward smile days.
 The anxiety is flowing through my veins now, at least it is accompanied by sugar
 now. I didn't die from the dehydration, but now I'm doomed to die of social
 anxiety.
-{: .content__p_noindent}
+{: .no-indent}
 
 I start towards home. I live only a few block away from this convenience store,
 but I don't know if I'll survive the walk. It only takes about three steps
@@ -129,6 +129,6 @@ this is the end of my life as a free man.
 The sentences for such things can easily be several lives long, and the bails
 are unreasonable. I suppose I could make an appeal, but nobody would take my
 side. It's all for the sake of community, even if she was only a damn cat.
-{: .content__p_noindent}
+{: .no-indent}
 
 Friday is awkward smile day.

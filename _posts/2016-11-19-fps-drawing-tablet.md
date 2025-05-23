@@ -6,20 +6,20 @@ title: Playing an FPS on a Drawing Tablet
 
 *This post was submitted to [Student Voice](https://uwrfvoice.com) but not
 published, for some reason.*
-{: .content__p_noindent}
+{: .no-indent}
 
 **Update Jun. 4, 2020:** Since apparently people have actually been trying to
 read this article, let me just point out that tablets frequently have a "mouse
 mode" where they will act like track pads, use that. Also cleaned up some of
 the text a bit.
-{: .content__p_noindent}
+{: .no-indent}
 
 Let's say you have a drawing tablet for your computer, like, one with no screen
 and a pen. I don't really care why or how you do, but let's say you do. You can
 use it as a mouse, move the cursor around, click on things, takes a bit to get
 used to but it can be done. So you get the bright idea to use your computer for
 the one thing computers are designed for: play video games.
-{: .content__p_dropcap}
+{: .dropcap}
 
 Now, don't get me wrong, playing games with a drawing tablet isn't inherently
 silly. In fact, some games are pretty popular to play like this. You may notice
@@ -99,4 +99,4 @@ _████ is a Physics Option I and Mathematics major with a minor in Comput
 Science, secretary of the UWRF Chapters of the Society of Physics Students and
 the Association for Computing Machinery, and treasurer of the Society for
 Undergraduate Research, Scholarly, and Creative Activity. They sleep sometimes._
-{: .content__p_noindent}
+{: .no-indent}

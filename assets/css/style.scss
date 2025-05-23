@@ -20,18 +20,35 @@
 }
 @font-face {
   font-family: 'Noto Serif';
-  src: url('/assets/fonts/notoserif.ttf') format('truetype');
+  src: url('/assets/fonts/NotoSerif.ttf') format('truetype');
 }
 @font-face {
   font-family: 'Noto Serif';
   font-style: italic;
-  src: url('/assets/fonts/notoserif-italic.ttf') format('truetype');
+  src: url('/assets/fonts/NotoSerif-Italic.ttf') format('truetype');
 }
 @font-face {
   font-family: 'Noto Naskh Arabic';
-  src: url('/assets/fonts/notonaskharabic.ttf') format('truetype');
+  src: url('/assets/fonts/NotoNaskhArabic.ttf') format('truetype');
 }
-$copy-font: 'Noto Serif', 'Noto Naskh Arabic', 'source-han-serif-japanese', serif;
+// Hinted (Not Full) Noto Sans Fonts
+@font-face {
+  font-family: 'Noto Sans Chorasmian';
+  src: url('/assets/fonts/NotoSansChorasmian-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Noto Sans Old Persian';
+  src: url('/assets/fonts/NotoSansOldPersian-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Noto Sans Old Sogdian';
+  src: url('/assets/fonts/NotoSansOldSogdian-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Noto Sans Sogdian';
+  src: url('/assets/fonts/NotoSansSogdian-Regular.ttf') format('truetype');
+}
+$copy-font: 'Noto Serif', 'Noto Naskh Arabic', 'Noto Sans Chorasmian', 'Noto Sans Old Persian', 'Noto Sans Old Sogdian', 'Noto Sans Sogdian', 'source-han-serif-japanese', serif;
 $mono-font: 'M+1M', 'M+1', monospace;
 $title-font: 'bodoni-pt-variable', 'source-han-serif-japanese', serif;
 

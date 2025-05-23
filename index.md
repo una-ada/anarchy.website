@@ -9,7 +9,7 @@ Herein lies articles on a variety of topics, ranging from linguistics to
 history, from gender issues to anime, and from programming to physics. Despite
 the name this site is not exclusively about anarchism, but the content here is
 primarily written through the lens of anarchy.
-{:.content__p_noindent}
+{:.no-indent}
 
 ---
 
@@ -26,6 +26,6 @@ primarily written through the lens of anarchy.
 {%- endfor %}
 
 **[More posts &rarr;][2]**
-{:.content__p_centered}
+{:.centered}
 
 [2]:    /archive/2

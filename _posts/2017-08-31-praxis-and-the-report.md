@@ -11,7 +11,7 @@ in something like 24 hours now, I don't feel qualified to do this. However,
 perhaps because I have not slept, or perhaps because I do believe it to be
 necessary, I want to write a quick piece about the false idea of praxis that is
 described in this "report."
-{: .content__p_dropcap}
+{: .dropcap}
 
 To set the scene here, we are living at the end of August, 2017, in the past
 month there have been significant anti-racist counter-protests organized or

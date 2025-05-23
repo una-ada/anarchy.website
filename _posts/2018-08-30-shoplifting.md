@@ -11,7 +11,7 @@ title: "Does Shoplifting 'Hurt' Workers?"
 
 *This post is also available on
 [Steemit](https://steemit.com/money/@trewbot/does-shoplifting-hurt-workers)*
-{: .content__p_noindent}
+{: .no-indent}
 
 There is a certain idea that pops up in the discourse every few months (at
 least for me it is only so often, perhaps for some it is more common) and it
@@ -25,7 +25,7 @@ the oddly common phrasing of "minimum wage workers" that is used where we've
 simply said "employees" as this is merely meant to conjure up the notion that
 the workers affected are those at the lowest rank within the corporate
 structure.
-{: .content__p_dropcap}
+{: .dropcap}
 
 Given that this is a response to arguments that state that theft does have a
 negative impact on workers, it is likely best to approach this as with a proof

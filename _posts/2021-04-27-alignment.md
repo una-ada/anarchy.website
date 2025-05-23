@@ -126,7 +126,7 @@ information on adaptations if any, and important cultural information relevant
 to the hentai so you too can be an expert on all things hentai. Also any time
 one of us learns about a new fetish we didn't realize we had, we will be
 playing this sound [sound].
-{:.content__p_noindent}
+{:.no-indent}
 
 [^1]:   "[Betentacled](https://en.wiktionary.org/wiki/betentacled),"
         _Wiktionary_, Retrieved Apr. 25, 2021.
@@ -147,12 +147,12 @@ terms of media it will refer to things which are not pornographic but rather
 hinting at it. Softcore as opposed to hardcore; tongue-in-cheek as opposed to
 tongue-in-asshole. Its origins are in the Japanese pronunciation of the English
 letter H, the first letter in hentai.
-{:.content__p_noindent}
+{:.no-indent}
 
 _Doujinshi_ are self-published works, comics, zines, fanfiction, etc. They are
 not necessarily sexual, but much like Western "fanfiction" they very well can
 be and often the term will carry that connotation.
-{:.content__p_noindent}
+{:.no-indent}
 
 _Toire no Hanako-san_ is a Japanese urban legend/modern urban folklore wherein
 a girl haunts a bathroom stall (for whatever reason).[^2] Typically the third
@@ -273,7 +273,7 @@ Takahashi immediately stealing Oohara's dick.
 
 Sakurako is a much bigger cumslut in the manga: "How many times have I told you
 to let me drink it?"[^3]
-{:.content__p_noindent}
+{:.no-indent}
 
 [^3]:   Page 60
 
@@ -286,7 +286,7 @@ The person to whom Ooshiro intended to confess is not revealed in the anime--as
 they are described as "never being seen again" after getting fucked by
 Sakurako--, but in the manga is revealed to be a man.[^6] "So you were a homo
 all along, huh...?"
-{:.content__p_noindent}
+{:.no-indent}
 
 [^6]:   Page 80
 
@@ -318,7 +318,7 @@ wherein she is a living human again follows, which was entirely cut from the
 adaptation. This includes a public humiliation scene, paralleling her initial
 interactions with Sakurako.[^13] That scene is revealed to be a setup by
 Sakurako[^14] immediately after Takahashi declares her love for the ghost.[^15]
-{:.content__p_noindent}
+{:.no-indent}
 
 [^11]:   Page 158
 [^12]:   Page 159
@@ -343,20 +343,20 @@ spirit, wishing only to be seen and to be loved. Truly a human story if one has
 ever been told.
 
 Theme song is '90s as fuck.
-{:.content__p_noindent}
+{:.no-indent}
 
 There's some spooky halloween-y themes when Sakurako is introduced because
 she's mean and scary and also a ghost. The spooky themes continue during the
 "sex ed" lesson, but take on a more romantic tone when Oohara and Takahashi
 fuck.
-{:.content__p_noindent}
+{:.no-indent}
 
 The music is upbeat and jovial while they toy with the _sensei_ but gets a lot
 more sinister when Sakurako appears.
-{:.content__p_noindent}
+{:.no-indent}
 
 The ending theme is just an instrumental version of the opening theme
-{:.content__p_noindent}
+{:.no-indent}
 
 Generally the music is appropriate, but kept minimal in terms of arrangement
 and placement in the mix likely due to budgetary reasons as well as keeping
@@ -375,10 +375,10 @@ _or me [@unaxiii](https://twitter.com/unaxiii) on Twitter,
 check out our other podcast that someday we'll make more episodes for: Goth
 Angel Sinners, [@gthnglsnnrs](https://twitter.com/gthnglsnnrs) on Twitter and
 stuff.
-{:.content__p_noindent}
+{:.no-indent}
 
 Join us next week when we talk about "Your Neighborhood Tentacle Shop."
-{:.content__p_noindent}
+{:.no-indent}
 
 ## Appendix A. _Notes_
 

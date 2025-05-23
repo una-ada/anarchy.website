@@ -35,7 +35,7 @@ than last time because it's something that's currently publishing and, as of
 now, has no anime adaptation (which is a violation of the Geneva Convention). 
 But as usual, anytime one of us discovers a new fetish we will be playing this 
 sound [sound].
-{:.content__p_dropcap}
+{:.dropcap}
 
 Thanks to all, uh, four of the people (none of which were Chloe) who listened to the last episode and we hope you enjoy this one too!
 {:content__p_noindent}
@@ -48,7 +48,7 @@ is not necessarily incorrect given the often unconsensual nature of the works
 in this category&mdash;Your Neighborhood Tentacle Shop is perhaps notable here 
 in contrast. However, to fulfill the educational goals of this podcast, we're 
 going to break down a few different terms relating to the genre in Japanese.
-{:.content__p_dropcap}
+{:.dropcap}
 
 _Shokushu_ is the Japanese word for "tentacle." People like to point out that 
 the term "arms" is more fitting, as a "tentacle" is a specific feature of 
@@ -61,7 +61,7 @@ Japanese. The word _kan_ is, similar to the word "rape," a general term for
 illicit sexual acts. While this does explicitly include rape (_goukan_), it may 
 also include adultery (_kantsuu_), bestiality (_juukan_, historically also used 
 for sodomy), etc.
-{:.content__p_noindent}
+{:.no-indent}
 
 _Shokushu zeme_ is, on the other hand, a fairly common term in the genre which 
 does not indicate that the contents are non-consensual. Rather, _zeme_ here 
@@ -69,7 +69,7 @@ does not indicate that the contents are non-consensual. Rather, _zeme_ here
 tormenting someone in a sexual context. This is more frequently translated as 
 "abuse" or "torture," but the word "torment" is being used here as I feel it is 
 more fitting for sexual acts.
-{:.content__p_noindent}
+{:.no-indent}
 
 Moving on to some vocabulary used in the manga itself!
 
@@ -80,14 +80,14 @@ it. To understand this term, let's discuss each word in turn:
 
 _Gachi_ is a common term in colloquial Japanese used for emphasis. You can read 
 it as "hella."
-{:.content__p_noindent}
+{:.no-indent}
 
 _Rezu_ is technically a term for lesbian, being an abbreviation of the loan 
 word _rezubian_. However, like the term "lesbo" in English, it has taken on a 
 connotation of being applied to others in a fetishistic sense rather than to 
 oneself as a sexual identification. The term _bian_ has thus replaced it in the 
 latter case.
-{:.content__p_noindent}
+{:.no-indent}
 
 In combination, the term _gachi rezu_ may be read as "mega lesbo" or something 
 along those lines. It has, in some places, been translated as "open," 
@@ -95,7 +95,7 @@ along those lines. It has, in some places, been translated as "open,"
 considered derogatory, there have been Japanese lesbians who have used the term 
 for themselves, but it's best to understand the linguistic context of such a 
 choice.
-{:.content__p_noindent}
+{:.no-indent}
 
 Sidenote: A sort of antidote to the term exists with _heta rezu_, approximately 
 meaning "awkward lesbian." Generally, _heta_ can mean "lazy," but I don't think 
@@ -246,7 +246,7 @@ explains that Karen is still full of eggs! So even more tentacles are brought
 into the situation to pull each and every egg out of her insides (such an 
 amazing spectacle that Uniko records the whole thing and Matsuri masturbates to 
 it).
-{:.content__p_noindent}
+{:.no-indent}
 
 The tentacles Karen was full of in this chapter are the 腸内環境改善共生生物タイプ 
 (_chounaikankyou kaizen kyousei seibutsu taipu_, "intestinal environment 
@@ -305,10 +305,10 @@ fucked out by tentacles) would be a fun and interesting inclusion to the
 corpus. There are, however, a couple of chapters of a previous series (chapters 
 5 and 6 of "復興!? 異種交配―魔族と人間の共生時代―") which include a girl with a
 dick... not really what I'm talking about here, tho.
-{:.content__p_noindent}
+{:.no-indent}
 
 I, Chloe, find this unlikely but am still hopeful.
-{:.content__p_noindent}
+{:.no-indent}
 
 _Since initially writing these notes, the author has posted fan art of a VTuber 
 on Twitter, which depicts a femboy getting fucked by tentacles. Similarly, the 

@@ -11,7 +11,7 @@ Magica (魔法少女まどか☆マギカ)][1] and Puella Magi Madoka Magica: Th
 (劇場版 魔法少女まどか☆マギカ) [Beginnings (始まりの物語)][2], [Eternal
 (永遠の物語)][3], and [Rebellion (叛逆の物語)][4]. Please watch the show (or
 first two movies) and Rebellion before continuing.**
-{: .content__p_noindent}
+{: .no-indent}
 
 Everyone has *some* contrarian opinions, a prevalent example of this being to
 claim that the Star Wars prequels were actually good. While I'm sure that I
@@ -23,7 +23,7 @@ good to the point that I, whose average rating on [MyAnimeList][7] is
 [4.95][8][^2], gave it a 9/10. If you look at [my list][5] you might even draw
 the conclusion that I only gave it a 9 and not a 10 for essentially just not
 being [Neon Genesis Evangelion][6].
-{: .content__p_dropcap}
+{: .dropcap}
 
 [^1]:   I begin to wonder whether or not the critiques of this show are even as
         common among the actual audience as they are among some niche group of

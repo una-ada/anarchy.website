@@ -11,7 +11,7 @@ tags: student-voice
 *This post was published in [Student Voice](https://uwrfvoice.com) [Volume 102
 Issue 8](http://uwrfvoice.com/pdf/151106studentvoice.pdf) as "Physics lab gets
 spooky on Halloween."*
-{: .content__p_noindent}
+{: .no-indent}
 
 On Halloween, which was Saturday, more specifically: Saturday, October 31, 2015.
 Well, really specifically: Saturday, October 31, 2015 from 5pm to about 9pm.
@@ -21,7 +21,7 @@ their annual Haunted Lab.
 
 Side note: "haunted" does not look like a word, it reminds me of the word
 "haunch." That's just weird.
-{: .content__p_noindent}
+{: .no-indent}
 
 Back on point, the Haunted Lab is a very not spooky event held on the second
 floor of Centennial Science Hall. There are a few demonstrations related to

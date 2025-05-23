@@ -52,7 +52,7 @@ style="border:0" class="content__figure" allowfullscreen></iframe>
 
 **FIGURE 1.** A very large grid of trees in the Nemuro Subprefecture
 (根室振興局) in Hokkaido (北海道).
-{: .content__figure}
+{: .copy__figure}
 
 I didn't give it much thought originally; at first glance it looks very similar
 to something you might see in the United States of America (US) via satellite.

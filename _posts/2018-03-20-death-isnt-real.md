@@ -23,7 +23,7 @@ inherent in your existence and to span across these branching worlds as an
 observer of each world. Observation will be the way in which we will define the
 branching of worlds, such that worlds only exist if they can be observed by a
 consciousness.
-{: .content__p_dropcap}
+{: .dropcap}
 
 One idea that I will leave unclear so as to leave room for further discussion is
 the extent to which biology can dictate conscious observation. Observation can

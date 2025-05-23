@@ -11,7 +11,7 @@ tags: student-voice
 *This post was published in [Student Voice](http://uwrfvoice.com) [Volume 102,
 Issue 13](http://uwrfvoice.com/pdf/160205studentvoice.pdf) as ["The process of
 spontaneously morphing into an octopus."](http://uwrfvoice.com/etcetera/15704)*
-{: .content__p_noindent}
+{: .no-indent}
 
 This argument has been deemed quite controversial: is it possible for one to
 simply become an octopus without outside forces acting upon them? To start off,
@@ -24,7 +24,7 @@ new big bang that results in the creation of an identical universe to our own...
 which according to the Wikipedia article "Timeline of the Far Future" will only
 take about ten to the ten to the ten to the fifty-eight years. I honestly can't
 think of a good way to read that number... moving on.
-{: .content__p_dropcap}
+{: .dropcap}
 
 Now, the easiest way to become an octopus is to shorten the gap between your
 current state and octopus-dom as much as possible. When you Google "What is an

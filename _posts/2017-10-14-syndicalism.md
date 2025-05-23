@@ -11,7 +11,7 @@ license: BY-SA
 *This post was published in [All That Is Left](https://atil.xyz)
 [Issue 001](https://atil.xyz/issue/001) as
 ["Syndicalism."](https://atil.xyz/issue/001/syndicalism)*
-{: .content__p_noindent}
+{: .no-indent}
 
 While a sentiment of anti-authoritarianism born of a distaste for corporatism
 and other modern manifestations of centralized capitalist governments lends
@@ -21,7 +21,7 @@ people will be both produced and distributed, or how a society following this
 ideal could avoid ever being plagued by the rebirth of capital. Syndicalism is
 one of the economic systems theorized to handle those issues that may arise
 without a hierarchical structure of economy.
-{: .content__p_dropcap}
+{: .dropcap}
 
 The major distinguishing factor of syndicalism as contrasted with traditional
 approaches to the cessation of labor exploitation is this lack of hierarchy.
