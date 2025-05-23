@@ -12,14 +12,14 @@
   data-tags="{{ post.tags | concat: all | join: ', ' }}"
 >
   {% if post.image %}
-  <div class="preview__image">
-    <img class="preview__img" src="{{ post.image }}" />
-    <div class="preview__overlay">
-      <div class="preview__text">
+  <div class="image">
+    <img class="img" src="{{ post.image }}" />
+    <div class="overlay">
+      <div class="text">
   {% endif %}
         {% if post.series %}
           {%- assign ser = site.data.series[post.series] -%}
-          <div class="preview__series">
+          <div class="series">
             {{ l10n_series }}
             {%- if post.entry -%}
               {%- if series.type == "series" -%}
@@ -37,11 +37,11 @@
             {%- endif -%}
           </div>
         {% endif %}
-        <h3 class="preview__title">
+        <h3 class="title">
           <a href="{{ post.url }}">{{ post.title }}</a>
         </h3>
-        <p class="preview__byline">{{ l10n_authors }}{{ l10n_date }}</p>
-        <p class="preview__description">{{ description }}</p>
+        <p class="byline">{{ l10n_authors }}{{ l10n_date }}</p>
+        <p class="description">{{ description }}</p>
   {% if post.image %}
       </div>
     </div>

@@ -29,13 +29,13 @@
 .previews {
     column-count: auto;
 }
-.preview .preview__image {
+.preview .image {
     min-height: calc(50vw - 2rem);
-    .preview__text {
-        .preview__byline {
+    .text {
+        .byline {
             margin-bottom: 1rem;
         }
-        .preview__description {
+        .description {
             display: none;
         }
     }

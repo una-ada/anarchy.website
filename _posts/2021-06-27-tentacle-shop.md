@@ -38,7 +38,7 @@ sound [sound].
 {:.dropcap}
 
 Thanks to all, uh, four of the people (none of which were Chloe) who listened to the last episode and we hope you enjoy this one too!
-{:content__p_noindent}
+{:p_noindent}
 
 ## I. _Background_
 {:#i}

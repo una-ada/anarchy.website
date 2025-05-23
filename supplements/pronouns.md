@@ -5,7 +5,7 @@ subtitle: English Personal Pronouns
 title: Implicitus - Supplement A
 ---
 
-<table class="content__table_grammar">
+<table class="table_grammar">
 <colgroup>
     <col span="3" class="c1"/>
     <col span="5" style="width:16%;" />

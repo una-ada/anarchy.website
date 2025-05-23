@@ -48,11 +48,11 @@ the Kuril Islands, and by "it" here I mean this odd sight:
 <iframe src="https://www.google.com/maps/embed?pb=!1m13!1m11!1m3!1d92687.2343744
 7226!2d144.92904631638126!3d43.54524742853476!2m2!1f0!2f0!3m2!1i1024!2i768!4f13.
 1!5e1!3m2!1sen!2sus!4v1530225867653" width="100%" height="400" frameborder="0"
-style="border:0" class="content__figure" allowfullscreen></iframe>
+style="border:0" class="figure" allowfullscreen></iframe>
 
 **FIGURE 1.** A very large grid of trees in the Nemuro Subprefecture
 (根室振興局) in Hokkaido (北海道).
-{: .copy__figure}
+{: .figure}
 
 I didn't give it much thought originally; at first glance it looks very similar
 to something you might see in the United States of America (US) via satellite.

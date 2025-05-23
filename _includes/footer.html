@@ -7,21 +7,21 @@
     </p>{% endif %}
     <center>
         {% if page.license == "ZERO" or page.license contains "BY" -%}
-        <img src="/assets/img/cc.svg" class="footer__icon"/>
+        <img src="/assets/img/cc.svg" class="icon"/>
         {% endif %}{% if page.license == "ZERO" -%}
-        <img src="/assets/img/zero.svg" class="footer__icon"/>
+        <img src="/assets/img/zero.svg" class="icon"/>
         {% endif %}{% if page.license contains "BY" -%}
-        <img src="/assets/img/by.svg" class="footer__icon"/>
+        <img src="/assets/img/by.svg" class="icon"/>
         {% endif %}{% if page.license contains "NC" -%}
-        <img src="/assets/img/nc.svg" class="footer__icon"/>
+        <img src="/assets/img/nc.svg" class="icon"/>
         {% endif %}{% if page.license contains "ND" -%}
-        <img src="/assets/img/nd.svg" class="footer__icon"/>
+        <img src="/assets/img/nd.svg" class="icon"/>
         {% endif %}{% if page.license contains "SA" -%}
-        <img src="/assets/img/sa.svg" class="footer__icon"/>
+        <img src="/assets/img/sa.svg" class="icon"/>
         {% endif %}{%- unless page.license -%}
-        <img src="/assets/img/cc.svg" class="footer__icon"/>
-        <img src="/assets/img/by.svg" class="footer__icon"/>
-        <img src="/assets/img/sa.svg" class="footer__icon"/>
+        <img src="/assets/img/cc.svg" class="icon"/>
+        <img src="/assets/img/by.svg" class="icon"/>
+        <img src="/assets/img/sa.svg" class="icon"/>
         {%- endunless %}
     </center>
     {% unless page.license %}<p>
@@ -69,13 +69,13 @@
         {% if site.social.links %}{% for link in site.social.links %}
         {% if link contains "github.com" %}
         <a href="{{link}}"><img src="/assets/img/github.svg"
-            class="footer__icon"></a>
+            class="icon"></a>
         {% endif %}{% if link contains "twitter.com" %}
         <a href="{{link}}"><img src="/assets/img/twitter.svg"
-            class="footer__icon"></a>
+            class="icon"></a>
         {% endif %}{% if link contains "youtube.com" %}
         <a href="{{link}}"><img src="/assets/img/youtube.png"
-            class="footer__icon footer__icon_yt"></a>
+            class="icon icon_yt"></a>
         {% endif %}
         {% endfor %}{% endif %}
     </center>
@@ -91,7 +91,7 @@
         licensed under it*.
     </p>
     <a href="https://github.com"><img src="/assets/img/github.svg"
-        class="footer__icon footer__icon_git"/></a>
+        class="icon icon_git"/></a>
     <p>
         This site is hosted by <a href="https://github.io">GitHub Pages</a>, a
         static site hosting service ran by

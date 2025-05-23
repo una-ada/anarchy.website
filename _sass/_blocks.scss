@@ -53,7 +53,7 @@
     text-indent: initial;
   }
   table {
-    &.copy__table_grammar {
+    &.table_grammar {
       col:first-child {
         background: $table-alt;
       }
@@ -71,7 +71,7 @@
         }
       }
     }
-    &.copy__table_dialogue {
+    &.table_dialogue {
       td {
         padding: 0 0.3rem !important;
         width: 40%;
@@ -80,7 +80,7 @@
         width: 20%;
       }
     }
-    &.copy__table_dialogue_extra {
+    &.table_dialogue_extra {
       td:first-child {
         width: 15%;
       }
@@ -89,7 +89,7 @@
       }
     }
   }
-  &.copy_monospace {
+  &.monospace {
     code {
       font-family: monospace !important;
     }
@@ -98,11 +98,11 @@
       padding: 0 !important;
     }
   }
-  .copy__figure {
+  .figure {
     margin: 3rem 0 1rem 0;
     text-indent: initial;
   }
-  .copy__figure + .copy__figure {
+  .figure + .figure {
     margin: 1rem 0 3rem 0;
   }
 }
@@ -238,15 +238,15 @@ footer {
     line-height: 1.2;
     text-align: left;
   }
-  .footer__icon {
+  .icon {
     margin: 0 0.25rem;
     width: 2.5rem;
   }
-  .footer__icon_git {
+  .icon_git {
     float: left;
     margin: 1rem 1rem 1rem 0;
   }
-  .footer__icon_yt {
+  .icon_yt {
     height: 1.8rem;
     margin: 0.35rem 0.25rem;
   }
@@ -292,10 +292,10 @@ footer {
 header {
   display: flex;
   margin-bottom: 2rem;
-  div.header__breadcrumb {
+  div.breadcrumb {
     flex: 3 0;
   }
-  div.header__toggle {
+  div.toggle {
     flex: 1 0;
     text-align: right;
   }
@@ -365,32 +365,33 @@ header {
   &.preview_span {
     column-span: all;
   }
-  .preview__byline,
-  .preview__series {
+  .byline,
+  .series {
     margin: 0 0 0.2rem 0;
     text-indent: initial;
   }
-  .preview__description {
+  .description {
     font-size: 0.9rem;
     line-height: 1.2;
     margin: 0 0 1rem 0;
     overflow: hidden;
     text-indent: initial;
   }
-  .preview__title {
+  .title {
     margin: 0;
+    text-align: left;
     a {
       text-decoration: underline;
     }
   }
-  .preview__image {
+  .image {
     min-height: 24rem;
     position: relative;
-    .preview__img {
+    .img {
       border-radius: 0.5rem;
       display: block;
     }
-    .preview__overlay {
+    .overlay {
       background: rgba(0, 0, 0, 0.5);
       border-radius: 0.5rem;
       height: 100%;
@@ -399,15 +400,15 @@ header {
       top: 0;
       width: 100%;
     }
-    .preview__text {
+    .text {
       bottom: 0;
       color: white;
       left: 0;
       position: absolute;
-      .preview__byline,
-      .preview__description,
-      .preview__series,
-      .preview__title {
+      .byline,
+      .description,
+      .series,
+      .title {
         color: white !important;
         padding: 0 1rem;
         a {
