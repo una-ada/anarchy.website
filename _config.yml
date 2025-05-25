@@ -16,6 +16,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-titles-from-headings
+  - jekyll-redirect-from
 repository: una-ada/anarchy.website
 sass:
     sass_dir: _sass

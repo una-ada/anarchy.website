@@ -8,10 +8,12 @@ entry: 6
 lang: en
 layout: post
 license: BY-SA
-permalink: /algorithm
+permalink: /eno/algorithm
+redirect_from:
+  - /algorithm
 series: etymology
 series_index: 6
-tags: etymology history
+tags: etymology history iran turkmenistan uzbekistan 
 title: Algorithm
 ---
 
