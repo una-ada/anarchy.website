@@ -14,7 +14,7 @@ cover not just the basic chronology of a given word or name's form through
 history, but its usage and meaning along the way. This, of course, frequently 
 extends to broader contextualization, discussing the various peoples and 
 cultures that had a hand in that process. Hopefully, the broad nature of the 
-discussions allows the reader insight not just in a word, but in history in 
+discussions allows the reader insight not just into a word, but into history in 
 general, especially as each article builds upon previous entries to provide a 
 greater and greater narrative of humanity's existence thus far.
 
