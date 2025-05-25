@@ -137,11 +137,14 @@ table {
 	border-collapse: collapse;
 	margin: 1em 0;
 	width: 100%;
-	td,
-    th {
+	td, th {
 		line-height: $line-height;
 		padding: 0.3rem;
 		vertical-align: initial;
+    h3 {
+      line-height: 1.2;
+      margin: 0;
+    }
 	}
 	thead {
 		font-family: $copy-font;
@@ -151,12 +154,12 @@ table {
 			text-align: left;
 		}
 	}
-    tr:nth-child(even) {
-    	background: #fff0f8;
-    }
-    tr.tsection {
-    	background: none !important;
-    	border: 1px solid $primary;
-    	text-align: center;
-    }
+  tr:nth-child(even) {
+    background: #fff0f8;
+  }
+  tr.tsection {
+    background: none !important;
+    border: 1px solid $primary;
+    text-align: center;
+  }
 }
