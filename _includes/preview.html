@@ -41,7 +41,13 @@
           <a href="{{ post.url }}">{{ post.title }}</a>
         </h3>
         <p class="byline">{{ l10n_authors }}{{ l10n_date }}</p>
-        <p class="description">{{ description }}</p>
+        <p class="description">
+          {{ description }}
+          {%- assign sorttags = post.tags | sort -%}
+          {%- for tag in sorttags -%}
+              <code><a href="/tag/#{{ tag }}">#{{ tag }}</a></code>
+          {% endfor %}
+        </p>
   {% if post.image %}
       </div>
     </div>
