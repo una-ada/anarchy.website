@@ -9,8 +9,10 @@ atil:
   type: publication
   url: https://atil.xyz/
 etymology:
+  abbr: E&O
   entry: No.
   title: Etymology and Onomastics
+  title_stylized: E. & O.
   type: series
   url: /eno/
 cute:

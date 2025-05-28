@@ -20,7 +20,7 @@
                     {%- else -%}
                         <a href="{{prev.url}}">{{prev.title}}</a>
                     {%- endif -%}
-                    &#32;&larr;&#32;
+                    &#32;&#x2906;&#32;
                     {%- if paginator -%}
                       {{l10n_prev}}
                     {%- endif -%}
@@ -43,7 +43,7 @@
                     {%- if paginator -%}
                       {{l10n_next}}
                     {%- endif -%}
-                    &#32;&rarr;&#32;
+                    &#32;&#x2907;&#32;
                     {%- if paginator -%}
                         <a href="{{paginator.next_page_path}}">
                             Page {{paginator.next_page}}

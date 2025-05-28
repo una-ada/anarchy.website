@@ -319,6 +319,7 @@ header {
   }
 }
 .navigation {
+  line-height: $line-height;
   margin-top: 6rem;
   width: 100%;
   &.navigation_pagination {
