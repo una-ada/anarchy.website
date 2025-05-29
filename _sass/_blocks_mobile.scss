@@ -30,15 +30,23 @@
     column-count: auto;
 }
 .preview .image {
-    min-height: calc(50vw - 2rem);
-    .text {
-        .byline {
-            margin-bottom: 1rem;
-        }
-        .description {
-            display: none;
-        }
+  min-height: calc(50vw - 2rem);
+  .text {
+    .byline {
+        margin-bottom: 1rem;
     }
+    .description {
+        display: none;
+    }
+    .series {
+      .series_abbr {
+        display: inline;
+      }
+      .series_name {
+        display: none;
+      }
+    }
+  }
 }
 .sidebar {
    float: none !important;

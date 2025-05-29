@@ -20,7 +20,13 @@
         {% if post.series %}
           {%- assign ser = site.data.series[post.series] -%}
           <div class="series">
-            {{ l10n_series }}
+            {%- if ser.abbr -%}
+              <span 
+                class="series_name">{{ l10n_series }}</span><span
+                class="series_abbr">{{ ser.abbr }}</span>
+            {%- else -%}
+              {{ l10n_series }}
+            {%- endif -%}
             {%- if post.entry -%}
               {%- if series.type == "series" -%}
                 ,&nbsp;

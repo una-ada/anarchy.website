@@ -378,6 +378,9 @@ header {
     overflow: hidden;
     text-indent: initial;
   }
+  .series_abbr {
+    display: none;
+  }
   .title {
     margin: 0;
     text-align: left;
@@ -405,6 +408,7 @@ header {
       bottom: 0;
       color: white;
       left: 0;
+      line-height: 1.2;
       position: absolute;
       .byline,
       .description,
@@ -414,6 +418,12 @@ header {
         padding: 0 1rem;
         a {
           color: white !important;
+        }
+        .series_abbr {
+          display: none;
+        }
+        .series_name {
+          display: inline;
         }
       }
       code {
