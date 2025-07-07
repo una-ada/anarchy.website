@@ -9,7 +9,7 @@ license: BY-ND
 series: aokan
 series_index: 1
 subtitle: Third-Party API Exploration
-tags: anime api blog graphql javascript nodejs programming typescript
+tags: blog programming
 title: Anime Character Search
 ---
 
@@ -1262,6 +1262,7 @@ abbreviation definitions.
 *[APIs]: Application Programming Interfaces
 *[CJS]: CommonJS
 *[CLI]: Command Line Interface
+*[DDoS]: Distributed Denial of Service
 *[ESM]: ECMAScript Modules
 *[HDD]: Hard Drive Disk
 *[HTTP]: HyperText Transfer Protocol
