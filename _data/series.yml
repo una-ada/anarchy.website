@@ -8,6 +8,11 @@ atil:
   title: All That Is Left
   type: publication
   url: https://atil.xyz/
+cute:
+  abbr: C.U.T.E.
+  entry: Vol.
+  title: Chloe &amp; Una&rsquo;s Tentacular Experience
+  type: series
 etymology:
   abbr: E. & O.
   entry: No.
@@ -15,11 +20,6 @@ etymology:
   title_stylized: E. & O.
   type: series
   url: /eno/
-cute:
-  abbr: C.U.T.E.
-  entry: Vol.
-  title: Chloe &amp; Una&rsquo;s Tentacular Experience
-  type: series
 gravitydev:
   entry: Part
   title: Gravity Development Log
@@ -30,9 +30,12 @@ gthnglsnnrs:
   title: Goth Angel Sinners
   type: series
   url: /gthnglsnnrs/
-ennui:
-  entry: Chapter
-  title: Ennui
+heterodox:
+  entry: No.
+  title: Heterodox Economics Reading Responses
+  type: series
+pr:
+  title: Procrastination Report
   type: series
 uwrfvoice:
   entry: Issue
@@ -40,7 +43,3 @@ uwrfvoice:
   title: Student Voice
   type: publication
   url: https://uwrfvoice.com/
-heterodox:
-  entry: No.
-  title: Heterodox Economics Reading Responses
-  type: series
