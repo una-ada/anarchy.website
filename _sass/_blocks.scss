@@ -327,6 +327,7 @@ header {
   }
   .navigation__arrows {
     display: flex;
+    overflow: hidden;
     width: 100%;
     .navigation__previous {
       text-align: right;

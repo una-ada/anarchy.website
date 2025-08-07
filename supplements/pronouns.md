@@ -1,8 +1,7 @@
 ---
 layout: post
 license: BY
-subtitle: English Personal Pronouns
-title: Implicitus - Supplement A
+title: English Personal Pronouns
 ---
 
 <table class="table_grammar">

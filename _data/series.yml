@@ -1,5 +1,5 @@
 aokan:
-  entry: Part
+  entry: Part&nbsp;
   title: Aokan Development Log
   type: series
 atil:
@@ -10,33 +10,34 @@ atil:
   url: https://atil.xyz/
 cute:
   abbr: C.U.T.E.
-  entry: Vol.
+  entry: Vol.&nbsp;
   title: Chloe &amp; Una&rsquo;s Tentacular Experience
   type: series
 etymology:
   abbr: E. & O.
-  entry: No.
+  entry: №
   title: Etymology and Onomastics
   title_stylized: E. & O.
   type: series
   url: /eno/
 gravitydev:
-  entry: Part
+  entry: Part&nbsp;
   title: Gravity Development Log
   type: series
 gthnglsnnrs:
   abbr: 🥀👼🗡
-  entry: Part
+  entry: Part&nbsp;
   title: Goth Angel Sinners
   type: series
   url: /gthnglsnnrs/
 heterodox:
-  entry: No.
+  entry: №
   title: Heterodox Economics Reading Responses
   type: series
 pr:
-  entry: No.
+  entry: №
   title: Procrastination Report
+  title_stylized: Procrastination
   type: series
 uwrfvoice:
   entry: Issue
