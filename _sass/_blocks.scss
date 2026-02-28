@@ -53,8 +53,6 @@
     text-indent: initial;
   }
   table {
-    display: inline-block;
-    overflow-x: scroll;
     &.table_grammar {
       col:first-child {
         background: $table-alt;

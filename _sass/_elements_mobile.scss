@@ -6,5 +6,9 @@
 
 //  Apparently my monospace font renders oddly on mobile
 code, pre, footer {
-    font-family: monospace;
+  font-family: monospace;
+}
+table {
+  display: inline-block;
+  overflow-x: scroll;
 }
