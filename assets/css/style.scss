@@ -31,10 +31,22 @@
   font-family: 'Noto Naskh Arabic';
   src: url('/assets/fonts/NotoNaskhArabic-wght.ttf') format('truetype');
 }
+@font-face {
+  font-family: 'Noto Serif Armenian';
+  src: url('/assets/fonts/NotoSerifArmenian-wght.ttf') format('truetype');
+}
 // Hinted (Not Full) Noto Sans Fonts
 @font-face {
   font-family: 'Noto Sans Chorasmian';
   src: url('/assets/fonts/NotoSansChorasmian-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Noto Serif Georgian';
+  src: url('/assets/fonts/NotoSerifGeorgian-wght.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Noto Sans Nushu';
+  src: url('/assets/fonts/NotoSansNushu-Regular.ttf') format('truetype');
 }
 @font-face {
   font-family: 'Noto Sans Old Persian';
@@ -48,7 +60,7 @@
   font-family: 'Noto Sans Sogdian';
   src: url('/assets/fonts/NotoSansSogdian-Regular.ttf') format('truetype');
 }
-$copy-font: 'Noto Serif', 'Noto Naskh Arabic', 'Noto Sans Chorasmian', 'Noto Sans Old Persian', 'Noto Sans Old Sogdian', 'Noto Sans Sogdian', 'source-han-serif-japanese', serif;
+$copy-font: 'Noto Serif', 'Noto Naskh Arabic', 'Noto Serif Armenian', 'Noto Sans Chorasmian', 'Noto Serif Georgian', 'Noto Sans Old Persian', 'Noto Sans Nushu', 'Noto Sans Old Sogdian', 'Noto Sans Sogdian', 'source-han-serif-japanese', serif;
 $mono-font: 'M+1M', 'M+1', monospace;
 $title-font: 'bodoni-pt-variable', 'source-han-serif-japanese', serif;
 
