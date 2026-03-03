@@ -3,20 +3,12 @@
 
 // Fonts
 @font-face {
-  font-family: 'M+1';
-  src: url('/assets/fonts/m+1.eot');
-  src: url('/assets/fonts/m+1.eot?#iefix')
+  font-family: 'D2Coding';
+  src: url('/assets/fonts/D2Coding-ligature.eot');
+  src: url('/assets/fonts/D2Coding-ligature.eot?#iefix')
       format('embedded-opentype'),
-    url('/assets/fonts/m+1.woff') format('woff'),
-    url('/assets/fonts/m+1.ttf') format('truetype');
-}
-@font-face {
-  font-family: 'M+1M';
-  src: url('/assets/fonts/m+1m.eot');
-  src: url('/assets/fonts/m+1m.eot?#iefix')
-      format('embedded-opentype'),
-    url('/assets/fonts/m+1m.woff') format('woff'),
-    url('/assets/fonts/m+1m.ttf') format('truetype');
+    url('/assets/fonts/D2Coding-ligature.woff') format('woff'),
+    url('/assets/fonts/D2Coding-ligature.ttf') format('truetype');
 }
 @font-face {
   font-family: 'Noto Serif';
@@ -61,7 +53,7 @@
   src: url('/assets/fonts/NotoSansSogdian-Regular.ttf') format('truetype');
 }
 $copy-font: 'Noto Serif', 'Noto Naskh Arabic', 'Noto Serif Armenian', 'Noto Sans Chorasmian', 'Noto Serif Georgian', 'Noto Sans Old Persian', 'Noto Sans Nushu', 'Noto Sans Old Sogdian', 'Noto Sans Sogdian', 'source-han-serif-japanese', serif;
-$mono-font: 'M+1M', 'M+1', monospace;
+$mono-font: 'D2Coding', monospace;
 $title-font: 'bodoni-pt-variable', 'source-han-serif-japanese', serif;
 
 // Colors 
