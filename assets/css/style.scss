@@ -52,7 +52,11 @@
   font-family: 'Noto Sans Sogdian';
   src: url('/assets/fonts/NotoSansSogdian-Regular.ttf') format('truetype');
 }
-$copy-font: 'Noto Serif', 'Noto Naskh Arabic', 'Noto Serif Armenian', 'Noto Sans Chorasmian', 'Noto Serif Georgian', 'Noto Sans Old Persian', 'Noto Sans Nushu', 'Noto Sans Old Sogdian', 'Noto Sans Sogdian', 'source-han-serif-japanese', serif;
+@font-face {
+  font-family: 'Una Magic';
+  src: url('/assets/fonts/UnaMagic.ttf') format('truetype');
+}
+$copy-font: 'Noto Serif', 'Una Magic', 'Noto Naskh Arabic', 'Noto Serif Armenian', 'Noto Sans Chorasmian', 'Noto Serif Georgian', 'Noto Sans Old Persian', 'Noto Sans Nushu', 'Noto Sans Old Sogdian', 'Noto Sans Sogdian', 'source-han-serif-japanese', serif;
 $mono-font: 'D2Coding', monospace;
 $title-font: 'bodoni-pt-variable', 'source-han-serif-japanese', serif;
 
