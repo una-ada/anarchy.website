@@ -7,7 +7,8 @@ pre.highlight {
   margin: 0.5em 0;
   overflow: auto;
 }
-:not(pre) > code.highlight {
+:not(pre) > code.highlight,
+:not(pre) > code.highlighter-rouge {
   border-radius: 0.3em;
   white-space: normal;
 }
@@ -28,28 +29,37 @@ pre.highlight {
       margin: 0;
     }
   }
+}
+.highlight,
+.highlighter-rouge {
   .c,  // Comment
   .cm, // Comment.Multiline
   .cp, // Comment.Preproc
   .c1, // Comment.Single
   .cs  // Comment.Special
   {
-    color: #5c6370;
+    color: $chive;
   }
-  .p   // Punctuation
+  .p,  // Punctuation
+  .dl
   {
-    color: #abb2bf;
+    color: $chive;
   }
   .nl, // Name.Label
   .nt  // Name.Tag
   {
-    color: #e06c75;
+    color: $baked;
   }
   .gd, // Generic.Deleted
   .na, // Name.Attribute
-  .no, // Name.Constant
   .nx, // Name.Other
   .py, // Name.Property
+  .nb, // Name.Builtin
+  .bp, // Name.Builtin.Pseudo
+  .no  // Name.Constant
+  {
+    color: $baked;
+  }
   .m,  // Literal.Number
   .mf, // Literal.Number.Float
   .mh, // Literal.Number.Hex
@@ -59,7 +69,7 @@ pre.highlight {
   .mx, // Literal.Number.Hex
   .mb  // Literal.Number.Bin
   {
-    color: #d19a66;
+    color: $wines;
   }
   .gi, // Generic.Inserted
   .l,  // Literal
@@ -73,18 +83,16 @@ pre.highlight {
   .sh, // Literal.String.Heredoc
   .si, // Literal.String.Interpol
   .s1, // Literal.String.Single
-  .ss, // Literal.String.Symbol
-  .nb, // Name.Builtin
-  .bp  // Name.Builtin.Pseudo
+  .ss  // Literal.String.Symbol
   {
-    color: #98c379;
+    color: $foamy;
   }
   .ni, // Name.Entity
   .o,  // Operator
   .ow, // Operator.Word
   .sx  // Literal.String.Other
   {
-    color: #56b6c2;
+    color: $coral;
   }
   .k,  // Keyword
   .kc, // Keyword.Constant
@@ -94,7 +102,7 @@ pre.highlight {
   .kr, // Keyword.Reserved
   .kt  // Keyword.Type
   {
-    color: #c678dd;
+    color: $coral;
   }
   .n,  // Name
   .nc, // Name.Class
@@ -102,7 +110,7 @@ pre.highlight {
   .nf, // Name.Function
   .nn  // Name.Namespace
   {
-    color: #61afef;
+    color: $baked;
   }
   .nv, // Name.Variable
   .vc, // Name.Variable.Class
@@ -110,7 +118,7 @@ pre.highlight {
   .vi, // Name.Variable.Instance
   .sr  // Literal.String.Regex
   {
-    color: #c678dd;
+    color: $baked;
   }
   .ge  // Generic.Emph
   {
@@ -135,4 +143,15 @@ pre.highlight {
   .gt, // Generic.Traceback
   .gl  // Generic.Lineno
   */
+}
+
+.dark {
+  .gd, // Generic.Deleted
+  .na, // Name.Attribute
+  .nx, // Name.Other
+  .py, // Name.Property
+  .no  // Name.Constant
+  {
+    color: $reeds;
+  }
 }
